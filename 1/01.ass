@@ -11,9 +11,9 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: 01.mkv
-Video File: 01.mkv
-Keyframes File: 01-kf.txt
+Audio File: raw/01.mkv
+Video File: raw/01.mkv
+Keyframes File: kf/01.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 
