@@ -65,7 +65,7 @@ Dialogue: 0,0:01:38.83,0:01:39.75,Default,Tulip,0,0,0,,Oh, no, no, no, no, no, n
 Dialogue: 0,0:01:39.75,0:01:41.08,Default,Tulip,0,0,0,,Did... Did I do something wrong?
 Dialogue: 0,0:01:41.08,0:01:41.96,Default,Tulip,0,0,0,,Did I lose a point?
 Dialogue: 0,0:01:41.96,0:01:43.00,Default,Tulip,0,0,0,,Am I being timed?
-Dialogue: 0,0:01:43.00,0:01:44.54,Default,Sad-One,0,0,0,,I've seen\Nthat happen before.
+Dialogue: 0,0:01:43.00,0:01:44.54,Default,Sad-One,0,0,0,,I've seen that happen before.
 Dialogue: 0,0:01:44.54,0:01:46.09,Default,Sad-One,0,0,0,,When it reaches zero, you're a gon—
 Dialogue: 0,0:01:46.09,0:01:47.46,Default,Glad-One,0,0,0,,You're gone forever!
 Dialogue: 0,0:01:47.46,0:01:48.67,Default,Sad-One,0,0,0,,I was talking.
@@ -242,8 +242,7 @@ Dialogue: 0,0:07:46.57,0:07:47.82,Default,Tulip,0,0,0,,I can't take you with me,
 Dialogue: 0,0:07:47.82,0:07:51.91,Default,Tulip,0,0,0,,but you'll be with the Cat now,\Nand... she seems nice.
 Dialogue: 0,0:07:51.91,0:07:52.74,Default,Glad-One,0,0,0,,Oh.
 Dialogue: 0,0:07:52.74,0:07:55.83,Default,Sad-One,0,0,0,,If it helps you on your journey, I understand.
-Dialogue: 0,0:07:57.08,0:07:59.17,Default,The Cat,0,0,0,,Sit tight, and I'll have the Conductor
-Dialogue: 0,0:07:59.17,0:08:01.42,Default,The Cat,0,0,0,,sort out this whole mess.
+Dialogue: 0,0:07:57.08,0:08:01.42,Default,The Cat,0,0,0,,Sit tight, and I'll have the Conductor \Nsort out this whole mess.
 Dialogue: 0,0:08:12.22,0:08:14.35,Default,Sad-One,0,0,0,,Goodbye forever, Miss Tulip!
 Dialogue: 0,0:08:29.36,0:08:31.37,Default,Tulip,0,0,0,,Uggghhh!
 Dialogue: 0,0:08:32.20,0:08:33.78,Default,Randall,0,0,0,,How would you like to try an exciting—
@@ -258,7 +257,7 @@ Dialogue: 0,0:08:45.25,0:08:46.80,Default,Randall,0,0,0,,Well, I've never been a
 Dialogue: 0,0:08:46.80,0:08:48.55,Default,Randall,0,0,0,,Oh, it sounds easy and profitable.
 Dialogue: 0,0:08:48.55,0:08:51.18,Default,Randall,0,0,0,,When I started Team Randall 38 minutes ago,
 Dialogue: 0,0:08:51.18,0:08:53.72,Default,Randall,0,0,0,,the mission statement was "always be there for each other."
-Dialogue: 0,0:08:53.72,0:08:56.22,Default,Tulip,0,0,0,,It's more complicated than that.
+Dialogue: 0,0:08:53.72,0:08:56.22,Default,Tulip,0,0,0,,It's... more complicated than that.
 Dialogue: 0,0:08:56.22,0:08:56.89,Default,Randall,0,0,0,,Is it?
 Dialogue: 0,0:08:56.89,0:08:59.52,Default,Randall,0,0,0,,Oh! Great job asking\Nthe hard questions, Randall.
 Dialogue: 0,0:08:59.52,0:09:00.48,Default,Randall,0,0,0,,Oh, thanks, Randall.
