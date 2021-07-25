@@ -23,7 +23,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.02,0:00:16.68,Default,,0,0,0,,46 down.\N7 letters...
+Dialogue: 0,0:00:13.02,0:00:16.68,Default,,0,0,0,,46 down. 7 letters...
 Dialogue: 0,0:00:16.72,0:00:19.55,Default,,0,0,0,,One-One, how long\Nhave you been doing this?
 Dialogue: 0,0:00:19.58,0:00:21.55,Default,,0,0,0,,I've been helping\Nsince the start!
 Dialogue: 0,0:00:21.59,0:00:24.17,Default,,0,0,0,,I think it's\Na pretty powerful message.
@@ -40,7 +40,8 @@ Dialogue: 0,0:00:48.09,0:00:49.68,Default,,0,0,0,,-Spells!\N-Spells!
 Dialogue: 0,0:00:49.72,0:00:50.72,Default,,0,0,0,,No angry wizards!
 Dialogue: 0,0:00:53.34,0:00:55.20,Default,,0,0,0,,The door\Nshould be inside of...
 Dialogue: 0,0:00:55.24,0:00:56.31,Default,,0,0,0,,There's the gutter.
-Dialogue: 0,0:00:56.34,0:00:58.76,Default,,0,0,0,,Aah! Ooh!This is where I belong.
+Dialogue: 0,0:00:56.34,0:00:57.04,Default,,0,0,0,,Aah! Ooh!
+Dialogue: 0,0:00:57.04,0:00:58.76,Default,,0,0,0,,This is where I belong.
 Dialogue: 0,0:00:58.79,0:01:01.04,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:02.42,0:01:04.39,Default,,0,0,0,,Aah! Aah! Whoa!
 Dialogue: 0,0:01:04.42,0:01:06.22,Default,,0,0,0,,I almost found\Nmy mum that time.
@@ -63,7 +64,8 @@ Dialogue: 0,0:01:41.25,0:01:43.15,Default,,0,0,0,,Did I lose a point?\NAm I bein
 Dialogue: 0,0:01:43.18,0:01:44.39,Default,,0,0,0,,I've seen\Nthat happen before.
 Dialogue: 0,0:01:44.43,0:01:46.05,Default,,0,0,0,,When it reaches zero,\Nyou're a gon--
 Dialogue: 0,0:01:46.08,0:01:47.71,Default,,0,0,0,,You're gone forever!
-Dialogue: 0,0:01:47.74,0:01:49.71,Default,,0,0,0,split,I was talking.\NThat's it?
+Dialogue: 0,0:01:47.74,0:01:48.67,Default,,0,0,0,,I was talking.
+Dialogue: 0,0:01:48.67,0:01:49.71,Default,,0,0,0,,That's it?
 Dialogue: 0,0:01:49.74,0:01:51.74,Default,,0,0,0,,Nobody told me this number\Nwas gonna change.
 Dialogue: 0,0:01:51.78,0:01:53.37,Default,,0,0,0,,Nobody said anything!
 Dialogue: 0,0:01:53.40,0:01:55.26,Default,,0,0,0,,Now I'm gonna die\Non this stupid train
@@ -73,7 +75,8 @@ Dialogue: 0,0:01:59.23,0:02:01.41,Default,,0,0,0,,Ugh!\NI don't have time for th
 Dialogue: 0,0:02:06.14,0:02:07.97,Default,,0,0,0,,That's right.\NStep right up.
 Dialogue: 0,0:02:08.00,0:02:09.21,Default,,0,0,0,,There we go.
 Dialogue: 0,0:02:09.24,0:02:11.18,Default,,0,0,0,,Say --\NI didn't catch your name.
-Dialogue: 0,0:02:11.21,0:02:13.87,Default,,0,0,0,split,Randall.\NThat's a strong name.
+Dialogue: 0,0:02:11.21,0:02:12.15,Default,,0,0,0,,Randall.
+Dialogue: 0,0:02:12.15,0:02:13.87,Default,,0,0,0,,That's a strong name.
 Dialogue: 0,0:02:13.90,0:02:16.77,Default,,0,0,0,,A strong name\Nfor a strong man.
 Dialogue: 0,0:02:18.39,0:02:20.43,Default,,0,0,0,,An effluent man\Nsuch as yourself
 Dialogue: 0,0:02:20.46,0:02:23.15,Default,,0,0,0,,can turn his pile of junk\Ninto donuts
@@ -145,7 +148,8 @@ Dialogue: 0,0:04:31.42,0:04:32.32,Default,,0,0,0,,I have thumbs.
 Dialogue: 0,0:04:32.35,0:04:34.35,Default,,0,0,0,,I don't know anything\Nabout shuttlecrafts,
 Dialogue: 0,0:04:34.39,0:04:36.87,Default,,0,0,0,,but I fixed some stuff\Nwith my dad.
 Dialogue: 0,0:04:36.91,0:04:38.19,Default,,0,0,0,,There's still\Nthe issue of...
-Dialogue: 0,0:04:38.22,0:04:40.46,Default,,0,0,0,split,my payment.\NPayment?
+Dialogue: 0,0:04:38.22,0:04:39.80,Default,,0,0,0,,my payment.
+Dialogue: 0,0:04:39.80,0:04:40.46,Default,,0,0,0,,Payment?
 Dialogue: 0,0:04:40.50,0:04:42.43,Default,,0,0,0,,Even with my craft,\Nit will take a week,
 Dialogue: 0,0:04:42.47,0:04:44.40,Default,,0,0,0,,maybe two,\Nto get to the Conductor.
 Dialogue: 0,0:04:44.43,0:04:47.06,Default,,0,0,0,,That's a lot of sales\NI'm missing out on.
@@ -161,7 +165,8 @@ Dialogue: 0,0:05:05.01,0:05:05.97,Default,,0,0,0,,Where was it again?
 Dialogue: 0,0:05:06.01,0:05:08.42,Default,,0,0,0,,"Wis-con-sohn"?
 Dialogue: 0,0:05:08.46,0:05:11.60,Default,,0,0,0,,One-One? You want to take\NOne-One with you?
 Dialogue: 0,0:05:11.63,0:05:15.09,Default,,0,0,0,,Ms. Tulip,\Nwe made so many donuts!
-Dialogue: 0,0:05:15.12,0:05:17.16,Default,,0,0,0,split,D'oh!Do you really need him,
+Dialogue: 0,0:05:15.12,0:05:15.84,Default,,0,0,0,,D'oh!
+Dialogue: 0,0:05:15.84,0:05:17.16,Default,,0,0,0,,Do you really need him,
 Dialogue: 0,0:05:17.19,0:05:19.30,Default,,0,0,0,,or do you want\Nto get off this train?
 Dialogue: 0,0:05:21.64,0:05:23.61,Default,,0,0,0,,Deal.
 Dialogue: 0,0:05:25.37,0:05:28.13,Default,,0,0,0,,What kind of your own boss\Ndo you want to be?
@@ -169,7 +174,8 @@ Dialogue: 0,0:05:28.17,0:05:30.45,Default,,0,0,0,,I don't think\NI like that wor
 Dialogue: 0,0:05:30.48,0:05:32.65,Default,,0,0,0,,I want to feel like we're\Nall on the same team.
 Dialogue: 0,0:05:32.69,0:05:34.14,Default,,0,0,0,,Team Randall!
 Dialogue: 0,0:05:34.17,0:05:36.97,Default,,0,0,0,,Ms. Tulip,\Nhow tall are you?
-Dialogue: 0,0:05:37.00,0:05:38.66,Default,,0,0,0,split,Oh, I'm about...What is your hair?
+Dialogue: 0,0:05:37.00,0:05:37.86,Default,,0,0,0,,Oh, I'm about...
+Dialogue: 0,0:05:37.86,0:05:38.66,Default,,0,0,0,,What is your hair?
 Dialogue: 0,0:05:38.69,0:05:40.46,Default,,0,0,0,,How am\NI supposed to answer that?
 Dialogue: 0,0:05:40.49,0:05:42.42,Default,,0,0,0,,Is your name Tulip\Nbecause you have a bulbous head?
 Dialogue: 0,0:05:42.46,0:05:45.56,Default,,0,0,0,,What? No.\NIt was when I was born.
@@ -219,7 +225,8 @@ Dialogue: 0,0:07:40.61,0:07:44.06,Default,,0,0,0,,We...shall'nt meet again.
 Dialogue: 0,0:07:44.10,0:07:46.17,Default,,0,0,0,,I'm leaving the train.
 Dialogue: 0,0:07:46.20,0:07:47.65,Default,,0,0,0,,I can't take you with me,
 Dialogue: 0,0:07:47.69,0:07:51.45,Default,,0,0,0,,but you'll be with the Cat now,\Nand she seems nice.
-Dialogue: 0,0:07:51.48,0:07:53.35,Default,,0,0,0,split,Oh.If it helps you
+Dialogue: 0,0:07:51.48,0:07:52.70,Default,,0,0,0,,Oh.
+Dialogue: 0,0:07:52.70,0:07:53.35,Default,,0,0,0,,If it helps you
 Dialogue: 0,0:07:53.38,0:07:55.42,Default,,0,0,0,,on your journey,\NI understand.
 Dialogue: 0,0:07:56.63,0:07:59.11,Default,,0,0,0,,Sit tight,\Nand I'll have the Conductor
 Dialogue: 0,0:07:59.15,0:08:01.25,Default,,0,0,0,,sort out\Nthis whole mess.
@@ -282,7 +289,8 @@ Dialogue: 0,0:10:30.75,0:10:33.30,Default,,0,0,0,,Good going.
 Dialogue: 0,0:10:33.33,0:10:34.47,Default,,0,0,0,,Ms. Tulip!
 Dialogue: 0,0:10:35.92,0:10:37.79,Default,,0,0,0,,You just made\Na big mistake!
 Dialogue: 0,0:10:37.82,0:10:39.82,Default,,0,0,0,,Good luck\Ngetting off this train now.
-Dialogue: 0,0:10:39.86,0:10:41.31,Default,,0,0,0,split,-Have I got a deal for you!\N-Aah!
+Dialogue: 0,0:10:39.86,0:10:41.31,Default,,0,0,0,,Have I got a deal for you!
+Dialogue: 0,0:10:39.86,0:10:41.31,Default,,0,0,0,,Aah!
 Dialogue: 0,0:10:41.34,0:10:42.69,Default,,0,0,0,,Say, there,\Nyou look like a smart gal.
 Dialogue: 0,0:10:42.72,0:10:43.86,Default,,0,0,0,,This Donut-Holer is...
 Dialogue: 0,0:10:43.90,0:10:45.66,Default,,0,0,0,,I'm so sorry\NI gave you to the cat.
