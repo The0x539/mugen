@@ -23,284 +23,283 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.02,0:00:16.68,Default,,0,0,0,,46 down. 7 letters...
-Dialogue: 0,0:00:16.72,0:00:19.55,Default,,0,0,0,,One-One, how long\Nhave you been doing this?
-Dialogue: 0,0:00:19.58,0:00:21.55,Default,,0,0,0,,I've been helping\Nsince the start!
-Dialogue: 0,0:00:21.59,0:00:24.17,Default,,0,0,0,,I think it's\Na pretty powerful message.
-Dialogue: 0,0:00:24.21,0:00:25.55,Default,,0,0,0,,Aw.
-Dialogue: 0,0:00:29.04,0:00:31.56,Default,,0,0,0,,One-One, right now\NI gotta take care of this.
-Dialogue: 0,0:00:31.60,0:00:34.56,Default,,0,0,0,,So you stay here,\Nand no more writing, okay?
-Dialogue: 0,0:00:34.60,0:00:36.57,Default,,0,0,0,,Aye-aye, Captain!\NOoofff!
-Dialogue: 0,0:00:38.08,0:00:40.05,Default,,0,0,0,,O-kay.
-Dialogue: 0,0:00:40.09,0:00:41.71,Default,,0,0,0,,That's not weird.
-Dialogue: 0,0:00:41.74,0:00:42.99,Default,,0,0,0,,They look so peaceful.
-Dialogue: 0,0:00:43.02,0:00:45.26,Default,,0,0,0,,Shh.\N6-inch voice.
-Dialogue: 0,0:00:45.30,0:00:48.06,Default,,0,0,0,,Did you say 60-inch voice?!
-Dialogue: 0,0:00:48.09,0:00:49.68,Default,,0,0,0,,-Spells!\N-Spells!
-Dialogue: 0,0:00:49.72,0:00:50.72,Default,,0,0,0,,No angry wizards!
-Dialogue: 0,0:00:53.34,0:00:55.20,Default,,0,0,0,,The door\Nshould be inside of...
-Dialogue: 0,0:00:55.24,0:00:56.31,Default,,0,0,0,,There's the gutter.
-Dialogue: 0,0:00:56.34,0:00:57.04,Default,,0,0,0,,Aah! Ooh!
-Dialogue: 0,0:00:57.04,0:00:58.76,Default,,0,0,0,,This is where I belong.
-Dialogue: 0,0:00:58.79,0:01:01.04,Default,,0,0,0,,Huh?
-Dialogue: 0,0:01:02.42,0:01:04.39,Default,,0,0,0,,Aah! Aah! Whoa!
-Dialogue: 0,0:01:04.42,0:01:06.22,Default,,0,0,0,,I almost found\Nmy mum that time.
-Dialogue: 0,0:01:06.25,0:01:09.22,Default,,0,0,0,,And you got the 11th-highest\Nscore in pinball!
-Dialogue: 0,0:01:09.25,0:01:10.88,Default,,0,0,0,,Don't wanna be\Nin the top-10, though.
-Dialogue: 0,0:01:10.91,0:01:12.19,Default,,0,0,0,,Too much pressure.
-Dialogue: 0,0:01:12.22,0:01:14.88,Default,,0,0,0,,Uh! This isn't\Na game to me, One-One.
-Dialogue: 0,0:01:14.91,0:01:16.12,Default,,0,0,0,,We can still have fun.
-Dialogue: 0,0:01:16.16,0:01:17.71,Default,,0,0,0,,Not when you have things\Nto do.
-Dialogue: 0,0:01:17.74,0:01:20.92,Default,,0,0,0,,You work first so you get\Nto enjoy the fun later.
-Dialogue: 0,0:01:20.95,0:01:23.03,Default,,0,0,0,,I help my dad\Nfix the go-karts,
-Dialogue: 0,0:01:23.06,0:01:25.61,Default,,0,0,0,,I get to drive them\Nbefore he resells them.
-Dialogue: 0,0:01:25.65,0:01:27.03,Default,,0,0,0,,Work first.
-Dialogue: 0,0:01:28.89,0:01:32.21,Default,,0,0,0,,Okay, sometimes there was\Npizza during the work.
-Dialogue: 0,0:01:32.24,0:01:34.21,Default,,0,0,0,,And hose fights.\NBut all of that
-Dialogue: 0,0:01:34.24,0:01:36.76,Default,,0,0,0,,was still under\Nthe work umbrella.
-Dialogue: 0,0:01:36.80,0:01:38.80,Default,,0,0,0,,Aah!\NIt was 115 before!
-Dialogue: 0,0:01:38.83,0:01:41.22,Default,,0,0,0,,Oh, no, no, no, no.\NDid I do something wrong?
-Dialogue: 0,0:01:41.25,0:01:43.15,Default,,0,0,0,,Did I lose a point?\NAm I being timed?
-Dialogue: 0,0:01:43.18,0:01:44.39,Default,,0,0,0,,I've seen\Nthat happen before.
-Dialogue: 0,0:01:44.43,0:01:46.05,Default,,0,0,0,,When it reaches zero,\Nyou're a gon--
-Dialogue: 0,0:01:46.08,0:01:47.71,Default,,0,0,0,,You're gone forever!
-Dialogue: 0,0:01:47.74,0:01:48.67,Default,,0,0,0,,I was talking.
-Dialogue: 0,0:01:48.67,0:01:49.71,Default,,0,0,0,,That's it?
-Dialogue: 0,0:01:49.74,0:01:51.74,Default,,0,0,0,,Nobody told me this number\Nwas gonna change.
-Dialogue: 0,0:01:51.78,0:01:53.37,Default,,0,0,0,,Nobody said anything!
-Dialogue: 0,0:01:53.40,0:01:55.26,Default,,0,0,0,,Now I'm gonna die\Non this stupid train
-Dialogue: 0,0:01:55.30,0:01:57.06,Default,,0,0,0,,'cause there isn't\Na stupid rule book!
-Dialogue: 0,0:01:57.09,0:01:59.20,Default,,0,0,0,,You rule in my book,\NMs. Tulip.
-Dialogue: 0,0:01:59.23,0:02:01.41,Default,,0,0,0,,Ugh!\NI don't have time for this!
-Dialogue: 0,0:02:06.14,0:02:07.97,Default,,0,0,0,,That's right.\NStep right up.
-Dialogue: 0,0:02:08.00,0:02:09.21,Default,,0,0,0,,There we go.
-Dialogue: 0,0:02:09.24,0:02:11.18,Default,,0,0,0,,Say --\NI didn't catch your name.
-Dialogue: 0,0:02:11.21,0:02:12.15,Default,,0,0,0,,Randall.
-Dialogue: 0,0:02:12.15,0:02:13.87,Default,,0,0,0,,That's a strong name.
-Dialogue: 0,0:02:13.90,0:02:16.77,Default,,0,0,0,,A strong name\Nfor a strong man.
-Dialogue: 0,0:02:18.39,0:02:20.43,Default,,0,0,0,,An effluent man\Nsuch as yourself
-Dialogue: 0,0:02:20.46,0:02:23.15,Default,,0,0,0,,can turn his pile of junk\Ninto donuts
-Dialogue: 0,0:02:23.19,0:02:25.71,Default,,0,0,0,,with this\Ntruly miraculous product --
-Dialogue: 0,0:02:25.74,0:02:27.43,Default,,0,0,0,,the Donut-Holer!
-Dialogue: 0,0:02:27.47,0:02:29.40,Default,,0,0,0,,That kinda\Njust looks like a pipe.
-Dialogue: 0,0:02:29.44,0:02:30.85,Default,,0,0,0,,I'll demonstrate.
-Dialogue: 0,0:02:31.96,0:02:33.16,Default,,0,0,0,,Presto! Donut!
-Dialogue: 0,0:02:33.20,0:02:34.96,Default,,0,0,0,,This hat?\NBon appetít!
-Dialogue: 0,0:02:34.99,0:02:37.20,Default,,0,0,0,,Donut.\NAm I going too fast for you?
-Dialogue: 0,0:02:37.24,0:02:40.03,Default,,0,0,0,,I get to be in charge\Nof selling these Donut-Holers?
-Dialogue: 0,0:02:40.07,0:02:42.24,Default,,0,0,0,,I can start my own business?!
-Dialogue: 0,0:02:42.28,0:02:44.80,Default,,0,0,0,,Yes! Why, you could have\Na whole sales team
-Dialogue: 0,0:02:44.83,0:02:46.28,Default,,0,0,0,,selling\Nthese Donut-Holers --
-Dialogue: 0,0:02:46.32,0:02:48.94,Default,,0,0,0,,with pioneers like us\Nright at the top!
-Dialogue: 0,0:02:48.97,0:02:50.42,Default,,0,0,0,,Yeah, like a pyramid scheme!
-Dialogue: 0,0:02:50.46,0:02:52.87,Default,,0,0,0,,Don't think of it so much\Nas a pyramid scheme
-Dialogue: 0,0:02:52.91,0:02:54.29,Default,,0,0,0,,as a pyramid team.
-Dialogue: 0,0:02:54.32,0:02:55.88,Default,,0,0,0,,You don't even know\Nthe best part.
-Dialogue: 0,0:02:55.91,0:02:57.36,Default,,0,0,0,,This is\Nthe only Donut-Holer
-Dialogue: 0,0:02:57.40,0:03:00.30,Default,,0,0,0,,certified\Nby my close, personal...
-Dialogue: 0,0:03:00.33,0:03:02.75,Default,,0,0,0,,acquaintance,\Nthe Conductor.
-Dialogue: 0,0:03:02.78,0:03:04.37,Default,,0,0,0,,Conductor?!
-Dialogue: 0,0:03:04.40,0:03:05.92,Default,,0,0,0,,H-Hey!
-Dialogue: 0,0:03:07.92,0:03:09.30,Default,,0,0,0,,I'm supposed to be going\Nto Oshkosh.
-Dialogue: 0,0:03:09.34,0:03:11.00,Default,,0,0,0,,It's this place\Nin Wisconsin.
-Dialogue: 0,0:03:11.03,0:03:13.20,Default,,0,0,0,,And, also, my name is Tulip.\NI should've said that earlier.
-Dialogue: 0,0:03:13.24,0:03:14.41,Default,,0,0,0,,But there's\Na game-design camp,
-Dialogue: 0,0:03:14.45,0:03:15.28,Default,,0,0,0,,and my parents\Nsigned a contract,
-Dialogue: 0,0:03:15.31,0:03:17.11,Default,,0,0,0,,and I ended up\Non this stupid train,
-Dialogue: 0,0:03:17.14,0:03:18.35,Default,,0,0,0,,and I don't want\Nany of this!
-Dialogue: 0,0:03:18.38,0:03:21.80,Default,,0,0,0,,My goodness, kitten!\NOne step at a time.
-Dialogue: 0,0:03:21.83,0:03:23.21,Default,,0,0,0,,This number\Nkeeps going down,
-Dialogue: 0,0:03:23.25,0:03:25.73,Default,,0,0,0,,and if it reaches zero,\NI'm done for.
-Dialogue: 0,0:03:25.77,0:03:27.87,Default,,0,0,0,,I just want to find\Na way off this train,
-Dialogue: 0,0:03:27.91,0:03:30.05,Default,,0,0,0,,and you said\Nyou know the Conductor.
-Dialogue: 0,0:03:30.08,0:03:32.09,Default,,0,0,0,,You have to help me\Nbefore I die.
-Dialogue: 0,0:03:32.12,0:03:34.19,Default,,0,0,0,,Tell me, kitten,\Nwhat makes you think
-Dialogue: 0,0:03:34.23,0:03:36.06,Default,,0,0,0,,the digits\Nbelow your digits
-Dialogue: 0,0:03:36.09,0:03:38.06,Default,,0,0,0,,are counting down\Nto your death?
-Dialogue: 0,0:03:38.09,0:03:40.23,Default,,0,0,0,,Uh...One-One told me?
-Dialogue: 0,0:03:40.27,0:03:43.37,Default,,0,0,0,,Mum check!\NHmm. Much too furry.
-Dialogue: 0,0:03:43.41,0:03:45.20,Default,,0,0,0,,Or not furry enough.
-Dialogue: 0,0:03:45.24,0:03:46.48,Default,,0,0,0,,Mother check?
-Dialogue: 0,0:03:46.51,0:03:48.17,Default,,0,0,0,,C'est intéressant.
-Dialogue: 0,0:03:48.21,0:03:49.97,Default,,0,0,0,,Yeah,\Nhe's looking for his mom.
-Dialogue: 0,0:03:50.00,0:03:51.31,Default,,0,0,0,,But...my number...
-Dialogue: 0,0:03:51.35,0:03:53.31,Default,,0,0,0,,We'll get there.\NPatience.
-Dialogue: 0,0:03:53.35,0:03:56.42,Default,,0,0,0,,Excuse me, white ball.\NIs this donut hat your mother?
-Dialogue: 0,0:03:56.45,0:03:58.80,Default,,0,0,0,,Mmmmmm...yes?
-Dialogue: 0,0:03:58.84,0:04:00.29,Default,,0,0,0,,Mm. And, tell me,
-Dialogue: 0,0:04:00.32,0:04:03.19,Default,,0,0,0,,if I put this donut hat\Non my head, will I die?
-Dialogue: 0,0:04:03.22,0:04:04.77,Default,,0,0,0,,Sure. Why not?
-Dialogue: 0,0:04:04.81,0:04:07.57,Default,,0,0,0,,Charming fellow, but not\Nthe most reliable, is he?
-Dialogue: 0,0:04:07.60,0:04:09.30,Default,,0,0,0,,Wha-- One-One!
-Dialogue: 0,0:04:09.33,0:04:11.30,Default,,0,0,0,,You made me think\NI was gonna die!
-Dialogue: 0,0:04:11.33,0:04:13.82,Default,,0,0,0,,It would be surprising\Nif you never died.
-Dialogue: 0,0:04:13.85,0:04:14.96,Default,,0,0,0,,Ugh.
-Dialogue: 0,0:04:16.20,0:04:17.51,Default,,0,0,0,,I'm sure the Conductor
-Dialogue: 0,0:04:17.54,0:04:19.89,Default,,0,0,0,,would be just\Nas sympathetic to your plight.
-Dialogue: 0,0:04:19.93,0:04:21.58,Default,,0,0,0,,I'd rush off to see him\Nright now,
-Dialogue: 0,0:04:21.62,0:04:23.97,Default,,0,0,0,,but, unfortunately,\Nmy personal shuttlecraft
-Dialogue: 0,0:04:24.00,0:04:25.10,Default,,0,0,0,,has been grounded.
-Dialogue: 0,0:04:25.14,0:04:26.90,Default,,0,0,0,,You have a shuttlecraft?
-Dialogue: 0,0:04:26.93,0:04:28.38,Default,,0,0,0,,I'd fix her myself,
-Dialogue: 0,0:04:28.42,0:04:29.56,Default,,0,0,0,,but...you know...
-Dialogue: 0,0:04:29.59,0:04:31.39,Default,,0,0,0,,no thumbs.
-Dialogue: 0,0:04:31.42,0:04:32.32,Default,,0,0,0,,I have thumbs.
-Dialogue: 0,0:04:32.35,0:04:34.35,Default,,0,0,0,,I don't know anything\Nabout shuttlecrafts,
-Dialogue: 0,0:04:34.39,0:04:36.87,Default,,0,0,0,,but I fixed some stuff\Nwith my dad.
-Dialogue: 0,0:04:36.91,0:04:38.19,Default,,0,0,0,,There's still\Nthe issue of...
-Dialogue: 0,0:04:38.22,0:04:39.80,Default,,0,0,0,,my payment.
-Dialogue: 0,0:04:39.80,0:04:40.46,Default,,0,0,0,,Payment?
-Dialogue: 0,0:04:40.50,0:04:42.43,Default,,0,0,0,,Even with my craft,\Nit will take a week,
-Dialogue: 0,0:04:42.47,0:04:44.40,Default,,0,0,0,,maybe two,\Nto get to the Conductor.
-Dialogue: 0,0:04:44.43,0:04:47.06,Default,,0,0,0,,That's a lot of sales\NI'm missing out on.
-Dialogue: 0,0:04:47.09,0:04:50.34,Default,,0,0,0,,I have...$12.42.
-Dialogue: 0,0:04:50.37,0:04:52.27,Default,,0,0,0,,But one of the pennies\Nis Canadian.
-Dialogue: 0,0:04:52.30,0:04:54.31,Default,,0,0,0,,Money doesn't have\Nmuch value to me.
-Dialogue: 0,0:04:54.34,0:04:57.83,Default,,0,0,0,,I've always been more interested\Nin the peculiar and unique.
-Dialogue: 0,0:04:57.86,0:04:59.07,Default,,0,0,0,,You know, I could take
-Dialogue: 0,0:04:59.10,0:05:01.28,Default,,0,0,0,,the little white ball\Noff your hands.
-Dialogue: 0,0:05:01.31,0:05:03.07,Default,,0,0,0,,In exchange, I will speak\Nto the Conductor
-Dialogue: 0,0:05:03.11,0:05:04.97,Default,,0,0,0,,about getting you to...
-Dialogue: 0,0:05:05.01,0:05:05.97,Default,,0,0,0,,Where was it again?
-Dialogue: 0,0:05:06.01,0:05:08.42,Default,,0,0,0,,"Wis-con-sohn"?
-Dialogue: 0,0:05:08.46,0:05:11.60,Default,,0,0,0,,One-One? You want to take\NOne-One with you?
-Dialogue: 0,0:05:11.63,0:05:15.09,Default,,0,0,0,,Ms. Tulip,\Nwe made so many donuts!
-Dialogue: 0,0:05:15.12,0:05:15.84,Default,,0,0,0,,D'oh!
-Dialogue: 0,0:05:15.84,0:05:17.16,Default,,0,0,0,,Do you really need him,
-Dialogue: 0,0:05:17.19,0:05:19.30,Default,,0,0,0,,or do you want\Nto get off this train?
-Dialogue: 0,0:05:21.64,0:05:23.61,Default,,0,0,0,,Deal.
-Dialogue: 0,0:05:25.37,0:05:28.13,Default,,0,0,0,,What kind of your own boss\Ndo you want to be?
-Dialogue: 0,0:05:28.17,0:05:30.45,Default,,0,0,0,,I don't think\NI like that word "boss."
-Dialogue: 0,0:05:30.48,0:05:32.65,Default,,0,0,0,,I want to feel like we're\Nall on the same team.
-Dialogue: 0,0:05:32.69,0:05:34.14,Default,,0,0,0,,Team Randall!
-Dialogue: 0,0:05:34.17,0:05:36.97,Default,,0,0,0,,Ms. Tulip,\Nhow tall are you?
-Dialogue: 0,0:05:37.00,0:05:37.86,Default,,0,0,0,,Oh, I'm about...
-Dialogue: 0,0:05:37.86,0:05:38.66,Default,,0,0,0,,What is your hair?
-Dialogue: 0,0:05:38.69,0:05:40.46,Default,,0,0,0,,How am\NI supposed to answer that?
-Dialogue: 0,0:05:40.49,0:05:42.42,Default,,0,0,0,,Is your name Tulip\Nbecause you have a bulbous head?
-Dialogue: 0,0:05:42.46,0:05:45.56,Default,,0,0,0,,What? No.\NIt was when I was born.
-Dialogue: 0,0:05:45.60,0:05:47.08,Default,,0,0,0,,There were complications.
-Dialogue: 0,0:05:47.12,0:05:48.15,Default,,0,0,0,,Oh, no!
-Dialogue: 0,0:05:48.19,0:05:49.67,Default,,0,0,0,,Did you make it out alive?
-Dialogue: 0,0:05:49.71,0:05:51.12,Default,,0,0,0,,Uh, yeah.
-Dialogue: 0,0:05:51.16,0:05:53.88,Default,,0,0,0,,It was some kind\Nof breathing issue.
-Dialogue: 0,0:05:53.92,0:05:57.92,Default,,0,0,0,,But I bounced back like a\N"perennial flower" or something.
-Dialogue: 0,0:05:57.96,0:05:59.58,Default,,0,0,0,,At least that's\Nwhat my mom told me.
-Dialogue: 0,0:05:59.61,0:06:02.89,Default,,0,0,0,,So you could have been named\Nafter any perennial plant?
-Dialogue: 0,0:06:02.93,0:06:04.38,Default,,0,0,0,,Like horseradish?
-Dialogue: 0,0:06:04.41,0:06:07.34,Default,,0,0,0,,No! I don't know.\NI didn't name me.
-Dialogue: 0,0:06:07.38,0:06:09.45,Default,,0,0,0,,Look, Ms. Tulip.\NIt's you.
-Dialogue: 0,0:06:09.48,0:06:10.38,Default,,0,0,0,,That's a daisy.
-Dialogue: 0,0:06:12.45,0:06:14.70,Default,,0,0,0,,I may not know\Nwhat anything does,
-Dialogue: 0,0:06:14.73,0:06:18.42,Default,,0,0,0,,but there is a gear thing here\Nthat isn't in there.
-Dialogue: 0,0:06:18.46,0:06:20.15,Default,,0,0,0,,Do you know where we can get\Na replacement?
-Dialogue: 0,0:06:20.18,0:06:21.91,Default,,0,0,0,,Oh! I know,\NI know!
-Dialogue: 0,0:06:32.40,0:06:35.27,Default,,0,0,0,,Welcome to the Market!\NSoak up your troubles!
-Dialogue: 0,0:06:35.30,0:06:38.34,Default,,0,0,0,,Metal squid attack got you down?\NShop your cares away!
-Dialogue: 0,0:06:38.38,0:06:40.96,Default,,0,0,0,,Put a little wiggle\Nin your step!
-Dialogue: 0,0:06:41.00,0:06:42.28,Default,,0,0,0,,-Ooh!\N-Ah!
-Dialogue: 0,0:06:42.31,0:06:43.45,Default,,0,0,0,,Oh, yeah.
-Dialogue: 0,0:06:47.66,0:06:48.94,Default,,0,0,0,,Oh, very cute.
-Dialogue: 0,0:06:48.97,0:06:50.46,Default,,0,0,0,,I think she's cute, too.
-Dialogue: 0,0:06:50.49,0:06:51.42,Default,,0,0,0,,Ugh.
-Dialogue: 0,0:06:51.46,0:06:54.49,Default,,0,0,0,,How -- How much\Nfor that gear over there?
-Dialogue: 0,0:06:54.53,0:06:55.98,Default,,0,0,0,,Ah, expensive taste.
-Dialogue: 0,0:06:56.01,0:06:57.95,Default,,0,0,0,,Hold the sponge!
-Dialogue: 0,0:06:57.98,0:06:59.40,Default,,0,0,0,,Now, that's\Na handsome-looking flower.
-Dialogue: 0,0:06:59.43,0:07:01.29,Default,,0,0,0,,You mean my personal,\Nheartfelt gift
-Dialogue: 0,0:07:01.33,0:07:03.57,Default,,0,0,0,,that I picked out for\Nmy personal, heartfelt friend?
-Dialogue: 0,0:07:03.61,0:07:05.37,Default,,0,0,0,,Ah, sounds valuable!
-Dialogue: 0,0:07:05.40,0:07:07.96,Default,,0,0,0,,Oh. I mean,\Nit's not really for sale.
-Dialogue: 0,0:07:07.99,0:07:11.37,Default,,0,0,0,,Too late. Now that I've seen it,\Nit's the only thing I want.
-Dialogue: 0,0:07:11.41,0:07:15.17,Default,,0,0,0,,Oh, the price we pay\Nfor the things we desire most...
-Dialogue: 0,0:07:19.31,0:07:21.42,Default,,0,0,0,,Ugh! Fine!\NJust take it!
-Dialogue: 0,0:07:24.42,0:07:26.73,Default,,0,0,0,,My mechanical heart\Nbreaks again.
-Dialogue: 0,0:07:26.77,0:07:29.39,Default,,0,0,0,,I hope the warranty's\Nstill good.
-Dialogue: 0,0:07:32.43,0:07:33.43,Default,,0,0,0,,Shall we?
-Dialogue: 0,0:07:34.53,0:07:35.74,Default,,0,0,0,,Well, One-One...
-Dialogue: 0,0:07:35.78,0:07:37.74,Default,,0,0,0,,this is goodbye.
-Dialogue: 0,0:07:37.78,0:07:39.26,Default,,0,0,0,,A new adventure!
-Dialogue: 0,0:07:39.30,0:07:40.58,Default,,0,0,0,,Where shall\Nwe meet again?
-Dialogue: 0,0:07:40.61,0:07:44.06,Default,,0,0,0,,We...shall'nt meet again.
-Dialogue: 0,0:07:44.10,0:07:46.17,Default,,0,0,0,,I'm leaving the train.
-Dialogue: 0,0:07:46.20,0:07:47.65,Default,,0,0,0,,I can't take you with me,
-Dialogue: 0,0:07:47.69,0:07:51.45,Default,,0,0,0,,but you'll be with the Cat now,\Nand she seems nice.
-Dialogue: 0,0:07:51.48,0:07:52.70,Default,,0,0,0,,Oh.
-Dialogue: 0,0:07:52.70,0:07:53.35,Default,,0,0,0,,If it helps you
-Dialogue: 0,0:07:53.38,0:07:55.42,Default,,0,0,0,,on your journey,\NI understand.
-Dialogue: 0,0:07:56.63,0:07:59.11,Default,,0,0,0,,Sit tight,\Nand I'll have the Conductor
-Dialogue: 0,0:07:59.15,0:08:01.25,Default,,0,0,0,,sort out\Nthis whole mess.
-Dialogue: 0,0:08:12.12,0:08:14.16,Default,,0,0,0,,Goodbye forever,\NMs. Tulip!
-Dialogue: 0,0:08:29.28,0:08:30.80,Default,,0,0,0,,Uggghhh!
-Dialogue: 0,0:08:31.52,0:08:33.52,Default,,0,0,0,,How would you like to try\Nan exciting --
-Dialogue: 0,0:08:33.56,0:08:34.66,Default,,0,0,0,,Not now!
-Dialogue: 0,0:08:34.70,0:08:35.80,Default,,0,0,0,,Okey-dokey.
-Dialogue: 0,0:08:35.84,0:08:37.36,Default,,0,0,0,,No need\Nto lose enthusiasm.
-Dialogue: 0,0:08:37.39,0:08:38.81,Default,,0,0,0,,Just need\Na different marketing audience.
-Dialogue: 0,0:08:38.84,0:08:40.19,Default,,0,0,0,,Oh, wait a second!
-Dialogue: 0,0:08:41.33,0:08:43.26,Default,,0,0,0,,I've got vision,\Nmy good man,
-Dialogue: 0,0:08:43.29,0:08:44.60,Default,,0,0,0,,and that vision\Nneeds a team.
-Dialogue: 0,0:08:44.64,0:08:46.64,Default,,0,0,0,,Well, I've never been\Na part of a team.
-Dialogue: 0,0:08:46.68,0:08:48.30,Default,,0,0,0,,Oh, it sounds\Neasy and profitable.
-Dialogue: 0,0:08:48.33,0:08:50.58,Default,,0,0,0,,When I started Team Randall\N38 minutes ago,
-Dialogue: 0,0:08:50.61,0:08:51.78,Default,,0,0,0,,the mission statement
-Dialogue: 0,0:08:51.82,0:08:53.48,Default,,0,0,0,,was "always be there\Nfor each other."
-Dialogue: 0,0:08:53.51,0:08:56.55,Default,,0,0,0,,It's more complicated\Nthan that.\NIs it?
-Dialogue: 0,0:08:56.58,0:08:58.79,Default,,0,0,0,,Oh! Great job asking\Nthe hard questions, Randall.
-Dialogue: 0,0:08:58.83,0:09:00.45,Default,,0,0,0,,Oh, thanks, Randall.
-Dialogue: 0,0:09:00.48,0:09:02.52,Default,,0,0,0,,You may not always bring in\Nthe sales numbers I want,
-Dialogue: 0,0:09:02.55,0:09:05.18,Default,,0,0,0,,but you've got heart, and\NI feel like you care about me.
-Dialogue: 0,0:09:05.21,0:09:06.49,Default,,0,0,0,,I didn't not care!
-Dialogue: 0,0:09:06.52,0:09:09.46,Default,,0,0,0,,The cat was gonna help\NOne-One, too!
-Dialogue: 0,0:09:09.49,0:09:10.77,Default,,0,0,0,,Probably.
-Dialogue: 0,0:09:10.80,0:09:12.46,Default,,0,0,0,,I don't know.
-Dialogue: 0,0:09:12.49,0:09:14.81,Default,,0,0,0,,I guess I don't really know\Nanything about the Cat.
-Dialogue: 0,0:09:14.84,0:09:16.12,Default,,0,0,0,,I just...
-Dialogue: 0,0:09:16.15,0:09:19.85,Default,,0,0,0,,wanted\Nto get off the train.
-Dialogue: 0,0:09:19.88,0:09:21.23,Default,,0,0,0,,Listen up, Randalls.
-Dialogue: 0,0:09:21.26,0:09:22.47,Default,,0,0,0,,If you can get me\Nto the Cat,
-Dialogue: 0,0:09:22.50,0:09:23.64,Default,,0,0,0,,I'll take\Nyour Donut-Holer thing.
-Dialogue: 0,0:09:23.68,0:09:25.40,Default,,0,0,0,,Hot dog!
-Dialogue: 0,0:09:26.51,0:09:29.20,Default,,0,0,0,,Hop in my body. It's not\Nas weird as it sounds!
-Dialogue: 0,0:09:34.62,0:09:35.59,Default,,0,0,0,,Turn here\Nreal quick!
-Dialogue: 0,0:09:38.80,0:09:39.76,Default,,0,0,0,,Cool! Gum!
-Dialogue: 0,0:09:42.66,0:09:44.35,Default,,0,0,0,,Aah! Oof!
-Dialogue: 0,0:09:45.15,0:09:46.70,Default,,0,0,0,,I changed my mind!
-Dialogue: 0,0:09:46.74,0:09:48.15,Default,,0,0,0,,I want One-One back!
-Dialogue: 0,0:09:48.19,0:09:49.64,Default,,0,0,0,,Sorry, kitten.\NWe had a deal!
-Dialogue: 0,0:09:49.67,0:09:50.77,Default,,0,0,0,,Ms. Tulip!
-Dialogue: 0,0:09:50.81,0:09:52.29,Default,,0,0,0,,One-One,\NI shouldn't have --
-Dialogue: 0,0:09:52.81,0:09:53.74,Default,,0,0,0,,One-One!
-Comment: 0,0:09:53.78,0:09:55.26,Default,,0,0,0,,Uh!
-Dialogue: 0,0:10:02.96,0:10:04.62,Default,,0,0,0,,Aah!
-Dialogue: 0,0:10:04.65,0:10:06.62,Default,,0,0,0,,Uhh! Up and over!
-Dialogue: 0,0:10:07.93,0:10:09.38,Default,,0,0,0,,Aaahhh! Ooh!
-Dialogue: 0,0:10:09.41,0:10:10.38,Default,,0,0,0,,Oh, yeah!
-Dialogue: 0,0:10:11.59,0:10:12.73,Default,,0,0,0,,One-One!
-Dialogue: 0,0:10:14.87,0:10:16.49,Default,,0,0,0,,Can you slip\Nin the cracks?
-Dialogue: 0,0:10:16.52,0:10:18.32,Default,,0,0,0,,"Slip In The Cracks"\Nis my middle name --
-Dialogue: 0,0:10:18.35,0:10:20.67,Default,,0,0,0,,Randall Slip In The Cracks\NRandall.
-Dialogue: 0,0:10:21.70,0:10:23.39,Default,,0,0,0,,Wow!
-Dialogue: 0,0:10:23.43,0:10:25.29,Default,,0,0,0,,You know, you really are\Na smart cookie.
-Dialogue: 0,0:10:25.33,0:10:26.47,Default,,0,0,0,,[ Randalls all speaking\Nat once ]
-Dialogue: 0,0:10:26.50,0:10:27.67,Default,,0,0,0,,Aah!
-Dialogue: 0,0:10:28.81,0:10:30.71,Default,,0,0,0,,Aaaahhh!
-Dialogue: 0,0:10:30.75,0:10:33.30,Default,,0,0,0,,Good going.
-Dialogue: 0,0:10:33.33,0:10:34.47,Default,,0,0,0,,Ms. Tulip!
-Dialogue: 0,0:10:35.92,0:10:37.79,Default,,0,0,0,,You just made\Na big mistake!
-Dialogue: 0,0:10:37.82,0:10:39.82,Default,,0,0,0,,Good luck\Ngetting off this train now.
-Dialogue: 0,0:10:39.86,0:10:41.31,Default,,0,0,0,,Have I got a deal for you!
-Dialogue: 0,0:10:39.86,0:10:41.31,Default,,0,0,0,,Aah!
-Dialogue: 0,0:10:41.34,0:10:42.69,Default,,0,0,0,,Say, there,\Nyou look like a smart gal.
-Dialogue: 0,0:10:42.72,0:10:43.86,Default,,0,0,0,,This Donut-Holer is...
-Dialogue: 0,0:10:43.90,0:10:45.66,Default,,0,0,0,,I'm so sorry\NI gave you to the cat.
-Dialogue: 0,0:10:45.69,0:10:47.62,Default,,0,0,0,,I was just scared I would\Nnever get off the train,
-Dialogue: 0,0:10:47.66,0:10:49.73,Default,,0,0,0,,and you made me think\NI was gonna die,
-Dialogue: 0,0:10:49.76,0:10:52.18,Default,,0,0,0,,and that doesn't\Nmake it okay.
-Dialogue: 0,0:10:52.22,0:10:53.80,Default,,0,0,0,,But you care,\Nand you're a good friend,
-Dialogue: 0,0:10:53.84,0:10:55.94,Default,,0,0,0,,and I appreciate that,\Nand that makes me care,
-Dialogue: 0,0:10:55.98,0:10:57.88,Default,,0,0,0,,and I just --\NAnd I-I just...
-Dialogue: 0,0:10:57.91,0:11:00.22,Default,,0,0,0,,I'm sorry.
-Dialogue: 0,0:11:00.26,0:11:01.19,Default,,0,0,0,,It's okay, Ms. Tulip.
-Dialogue: 0,0:11:01.22,0:11:02.47,Default,,0,0,0,,I knew you'd bounce back.
-Dialogue: 0,0:11:02.50,0:11:04.61,Default,,0,0,0,,Just like when\Nyour parents hatched you.
+Dialogue: 0,0:00:13.02,0:00:16.68,Default,Tulip,0,0,0,,46 down. 7 letters...
+Dialogue: 0,0:00:16.72,0:00:19.55,Default,Tulip,0,0,0,,One-One, how long\Nhave you been doing this?
+Dialogue: 0,0:00:19.58,0:00:21.55,Default,Glad-One,0,0,0,,I've been helping\Nsince the start!
+Dialogue: 0,0:00:21.59,0:00:24.17,Default,Sad-One,0,0,0,,I think it's\Na pretty powerful message.
+Dialogue: 0,0:00:24.21,0:00:25.55,Default,Tulip,0,0,0,,Aw.
+Dialogue: 0,0:00:29.04,0:00:31.56,Default,Tulip,0,0,0,,One-One, right now\NI gotta take care of this.
+Dialogue: 0,0:00:31.60,0:00:34.56,Default,Tulip,0,0,0,,So you stay here,\Nand no more writing, okay?
+Dialogue: 0,0:00:34.60,0:00:36.57,Default,Glad-One,0,0,0,,Aye-aye, Captain!\NOoofff!
+Dialogue: 0,0:00:38.08,0:00:40.05,Default,Tulip,0,0,0,,O-kay.
+Dialogue: 0,0:00:40.09,0:00:41.71,Default,Tulip,0,0,0,,That's not weird.
+Dialogue: 0,0:00:41.74,0:00:42.99,Default,Sad-One,0,0,0,,They look so peaceful.
+Dialogue: 0,0:00:43.02,0:00:45.26,Default,Tulip,0,0,0,,Shh.\N6-inch voice.
+Dialogue: 0,0:00:45.30,0:00:48.06,Default,Glad-One,0,0,0,,Did you say 60-inch voice?!
+Dialogue: 0,0:00:48.09,0:00:49.68,Default,Tiny Wizards,0,0,0,,-Spells!\N-Spells!
+Dialogue: 0,0:00:49.72,0:00:50.72,Default,Tulip,0,0,0,,No angry wizards!
+Dialogue: 0,0:00:53.34,0:00:55.20,Default,Tulip,0,0,0,,The door\Nshould be inside of...
+Dialogue: 0,0:00:55.24,0:00:56.31,Default,Sad-One,0,0,0,,There's the gutter.
+Dialogue: 0,0:00:56.34,0:00:57.04,Default,Tulip,0,0,0,,Aah! Ooh!
+Dialogue: 0,0:00:57.04,0:00:58.76,Default,Sad-One,0,0,0,,This is where I belong.
+Dialogue: 0,0:00:58.79,0:01:01.04,Default,Tulip,0,0,0,,Huh?
+Dialogue: 0,0:01:02.42,0:01:04.39,Default,Tulip,0,0,0,,Aah! Aah! Whoa!
+Dialogue: 0,0:01:04.42,0:01:06.22,Default,Glad-One,0,0,0,,I almost found\Nmy mum that time.
+Dialogue: 0,0:01:06.25,0:01:09.22,Default,Glad-One,0,0,0,,And you got the 11th-highest\Nscore in pinball!
+Dialogue: 0,0:01:09.25,0:01:10.88,Default,Sad-One,0,0,0,,Don't wanna be\Nin the top-10, though.
+Dialogue: 0,0:01:10.91,0:01:12.19,Default,Sad-One,0,0,0,,Too much pressure.
+Dialogue: 0,0:01:12.22,0:01:14.88,Default,Tulip,0,0,0,,Uh! This isn't\Na game to me, One-One.
+Dialogue: 0,0:01:14.91,0:01:16.12,Default,Glad-One,0,0,0,,We can still have fun.
+Dialogue: 0,0:01:16.16,0:01:17.71,Default,Tulip,0,0,0,,Not when you have things\Nto do.
+Dialogue: 0,0:01:17.74,0:01:20.92,Default,Tulip,0,0,0,,You work first so you get\Nto enjoy the fun later.
+Dialogue: 0,0:01:20.95,0:01:23.03,Default,Tulip,0,0,0,,I help my dad\Nfix the go-karts,
+Dialogue: 0,0:01:23.06,0:01:25.61,Default,Tulip,0,0,0,,I get to drive them\Nbefore he resells them.
+Dialogue: 0,0:01:25.65,0:01:27.03,Default,Tulip,0,0,0,,Work first.
+Dialogue: 0,0:01:28.89,0:01:32.21,Default,Tulip,0,0,0,,Okay, sometimes there was\Npizza during the work.
+Dialogue: 0,0:01:32.24,0:01:34.21,Default,Tulip,0,0,0,,And hose fights.\NBut all of that
+Dialogue: 0,0:01:34.24,0:01:36.76,Default,Tulip,0,0,0,,was still under\Nthe work umbrella.
+Dialogue: 0,0:01:36.80,0:01:38.80,Default,Tulip,0,0,0,,Aah!\NIt was 115 before!
+Dialogue: 0,0:01:38.83,0:01:41.22,Default,Tulip,0,0,0,,Oh, no, no, no, no.\NDid I do something wrong?
+Dialogue: 0,0:01:41.25,0:01:43.15,Default,Tulip,0,0,0,,Did I lose a point?\NAm I being timed?
+Dialogue: 0,0:01:43.18,0:01:44.39,Default,Sad-One,0,0,0,,I've seen\Nthat happen before.
+Dialogue: 0,0:01:44.43,0:01:46.05,Default,Sad-One,0,0,0,,When it reaches zero,\Nyou're a gon--
+Dialogue: 0,0:01:46.08,0:01:47.71,Default,Glad-One,0,0,0,,You're gone forever!
+Dialogue: 0,0:01:47.74,0:01:48.67,Default,Sad-One,0,0,0,,I was talking.
+Dialogue: 0,0:01:48.67,0:01:49.71,Default,Tulip,0,0,0,,That's it?
+Dialogue: 0,0:01:49.74,0:01:51.74,Default,Tulip,0,0,0,,Nobody told me this number\Nwas gonna change.
+Dialogue: 0,0:01:51.78,0:01:53.37,Default,Tulip,0,0,0,,Nobody said anything!
+Dialogue: 0,0:01:53.40,0:01:55.26,Default,Tulip,0,0,0,,Now I'm gonna die\Non this stupid train
+Dialogue: 0,0:01:55.30,0:01:57.06,Default,Tulip,0,0,0,,'cause there isn't\Na stupid rule book!
+Dialogue: 0,0:01:57.09,0:01:59.20,Default,Glad-One,0,0,0,,You rule in my book,\NMs. Tulip.
+Dialogue: 0,0:01:59.23,0:02:01.41,Default,Tulip,0,0,0,,Ugh!\NI don't have time for this!
+Dialogue: 0,0:02:06.14,0:02:07.97,Default,The Cat,0,0,0,,That's right.\NStep right up.
+Dialogue: 0,0:02:08.00,0:02:09.21,Default,The Cat,0,0,0,,There we go.
+Dialogue: 0,0:02:09.24,0:02:11.18,Default,The Cat,0,0,0,,Say --\NI didn't catch your name.
+Dialogue: 0,0:02:11.21,0:02:12.15,Default,Randall,0,0,0,,Randall.
+Dialogue: 0,0:02:12.15,0:02:13.87,Default,The Cat,0,0,0,,That's a strong name.
+Dialogue: 0,0:02:13.90,0:02:16.77,Default,The Cat,0,0,0,,A strong name\Nfor a strong man.
+Dialogue: 0,0:02:18.39,0:02:20.43,Default,The Cat,0,0,0,,An effluent man\Nsuch as yourself
+Dialogue: 0,0:02:20.46,0:02:23.15,Default,The Cat,0,0,0,,can turn his pile of junk\Ninto donuts
+Dialogue: 0,0:02:23.19,0:02:25.71,Default,The Cat,0,0,0,,with this\Ntruly miraculous product --
+Dialogue: 0,0:02:25.74,0:02:27.43,Default,The Cat,0,0,0,,the Donut-Holer!
+Dialogue: 0,0:02:27.47,0:02:29.40,Default,Tulip,0,0,0,,That kinda\Njust looks like a pipe.
+Dialogue: 0,0:02:29.44,0:02:30.85,Default,The Cat,0,0,0,,I'll demonstrate.
+Dialogue: 0,0:02:31.96,0:02:33.16,Default,The Cat,0,0,0,,Presto! Donut!
+Dialogue: 0,0:02:33.20,0:02:34.96,Default,The Cat,0,0,0,,This hat?\NBon appetít!
+Dialogue: 0,0:02:34.99,0:02:37.20,Default,The Cat,0,0,0,,Donut.\NAm I going too fast for you?
+Dialogue: 0,0:02:37.24,0:02:40.03,Default,Randall,0,0,0,,I get to be in charge\Nof selling these Donut-Holers?
+Dialogue: 0,0:02:40.07,0:02:42.24,Default,Randall,0,0,0,,I can start my own business?!
+Dialogue: 0,0:02:42.28,0:02:44.80,Default,The Cat,0,0,0,,Yes! Why, you could have\Na whole sales team
+Dialogue: 0,0:02:44.83,0:02:46.28,Default,The Cat,0,0,0,,selling\Nthese Donut-Holers --
+Dialogue: 0,0:02:46.32,0:02:48.94,Default,The Cat,0,0,0,,with pioneers like us\Nright at the top!
+Dialogue: 0,0:02:48.97,0:02:50.42,Default,Randall,0,0,0,,Yeah, like a pyramid scheme!
+Dialogue: 0,0:02:50.46,0:02:52.87,Default,The Cat,0,0,0,,Don't think of it so much\Nas a pyramid scheme
+Dialogue: 0,0:02:52.91,0:02:54.29,Default,The Cat,0,0,0,,as a pyramid team.
+Dialogue: 0,0:02:54.32,0:02:55.88,Default,The Cat,0,0,0,,You don't even know\Nthe best part.
+Dialogue: 0,0:02:55.91,0:02:57.36,Default,The Cat,0,0,0,,This is\Nthe only Donut-Holer
+Dialogue: 0,0:02:57.40,0:03:00.30,Default,The Cat,0,0,0,,certified\Nby my close, personal...
+Dialogue: 0,0:03:00.33,0:03:02.75,Default,The Cat,0,0,0,,acquaintance,\Nthe Conductor.
+Dialogue: 0,0:03:02.78,0:03:04.37,Default,Tulip,0,0,0,,Conductor?!
+Dialogue: 0,0:03:04.40,0:03:05.92,Default,Tulip,0,0,0,,H-Hey!
+Dialogue: 0,0:03:07.92,0:03:09.30,Default,Tulip,0,0,0,,I'm supposed to be going\Nto Oshkosh.
+Dialogue: 0,0:03:09.34,0:03:11.00,Default,Tulip,0,0,0,,It's this place\Nin Wisconsin.
+Dialogue: 0,0:03:11.03,0:03:13.20,Default,Tulip,0,0,0,,And, also, my name is Tulip.\NI should've said that earlier.
+Dialogue: 0,0:03:13.24,0:03:14.41,Default,Tulip,0,0,0,,But there's\Na game-design camp,
+Dialogue: 0,0:03:14.45,0:03:15.28,Default,Tulip,0,0,0,,and my parents\Nsigned a contract,
+Dialogue: 0,0:03:15.31,0:03:17.11,Default,Tulip,0,0,0,,and I ended up\Non this stupid train,
+Dialogue: 0,0:03:17.14,0:03:18.35,Default,Tulip,0,0,0,,and I don't want\Nany of this!
+Dialogue: 0,0:03:18.38,0:03:21.80,Default,The Cat,0,0,0,,My goodness, kitten!\NOne step at a time.
+Dialogue: 0,0:03:21.83,0:03:23.21,Default,Tulip,0,0,0,,This number\Nkeeps going down,
+Dialogue: 0,0:03:23.25,0:03:25.73,Default,Tulip,0,0,0,,and if it reaches zero,\NI'm done for.
+Dialogue: 0,0:03:25.77,0:03:27.87,Default,Tulip,0,0,0,,I just want to find\Na way off this train,
+Dialogue: 0,0:03:27.91,0:03:30.05,Default,Tulip,0,0,0,,and you said\Nyou know the Conductor.
+Dialogue: 0,0:03:30.08,0:03:32.09,Default,Tulip,0,0,0,,You have to help me\Nbefore I die.
+Dialogue: 0,0:03:32.12,0:03:34.19,Default,The Cat,0,0,0,,Tell me, kitten,\Nwhat makes you think
+Dialogue: 0,0:03:34.23,0:03:36.06,Default,The Cat,0,0,0,,the digits\Nbelow your digits
+Dialogue: 0,0:03:36.09,0:03:38.06,Default,The Cat,0,0,0,,are counting down\Nto your death?
+Dialogue: 0,0:03:38.09,0:03:40.23,Default,Tulip,0,0,0,,Uh...One-One told me?
+Dialogue: 0,0:03:40.27,0:03:43.37,Default,Glad-One,0,0,0,,Mum check!\NHmm. Much too furry.
+Dialogue: 0,0:03:43.41,0:03:45.20,Default,Glad-One,0,0,0,,Or not furry enough.
+Dialogue: 0,0:03:45.24,0:03:46.48,Default,The Cat,0,0,0,,Mother check?
+Dialogue: 0,0:03:46.51,0:03:48.17,Default,The Cat,0,0,0,,C'est intéressant.
+Dialogue: 0,0:03:48.21,0:03:49.97,Default,Tulip,0,0,0,,Yeah,\Nhe's looking for his mom.
+Dialogue: 0,0:03:50.00,0:03:51.31,Default,Tulip,0,0,0,,But...my number...
+Dialogue: 0,0:03:51.35,0:03:53.31,Default,The Cat,0,0,0,,We'll get there.\NPatience.
+Dialogue: 0,0:03:53.35,0:03:56.42,Default,The Cat,0,0,0,,Excuse me, white ball.\NIs this donut hat your mother?
+Dialogue: 0,0:03:56.45,0:03:58.80,Default,Glad-One,0,0,0,,Mmmmmm...yes?
+Dialogue: 0,0:03:58.84,0:04:00.29,Default,The Cat,0,0,0,,Mm. And, tell me,
+Dialogue: 0,0:04:00.32,0:04:03.19,Default,The Cat,0,0,0,,if I put this donut hat\Non my head, will I die?
+Dialogue: 0,0:04:03.22,0:04:04.77,Default,Sad-One,0,0,0,,Sure. Why not?
+Dialogue: 0,0:04:04.81,0:04:07.57,Default,The Cat,0,0,0,,Charming fellow, but not\Nthe most reliable, is he?
+Dialogue: 0,0:04:07.60,0:04:09.30,Default,Tulip,0,0,0,,Wha-- One-One!
+Dialogue: 0,0:04:09.33,0:04:11.30,Default,Tulip,0,0,0,,You made me think\NI was gonna die!
+Dialogue: 0,0:04:11.33,0:04:13.82,Default,Sad-One,0,0,0,,It would be surprising\Nif you never died.
+Dialogue: 0,0:04:13.85,0:04:14.96,Default,Tulip,0,0,0,,Ugh.
+Dialogue: 0,0:04:16.20,0:04:17.51,Default,The Cat,0,0,0,,I'm sure the Conductor
+Dialogue: 0,0:04:17.54,0:04:19.89,Default,The Cat,0,0,0,,would be just\Nas sympathetic to your plight.
+Dialogue: 0,0:04:19.93,0:04:21.58,Default,The Cat,0,0,0,,I'd rush off to see him\Nright now,
+Dialogue: 0,0:04:21.62,0:04:23.97,Default,The Cat,0,0,0,,but, unfortunately,\Nmy personal shuttlecraft
+Dialogue: 0,0:04:24.00,0:04:25.10,Default,The Cat,0,0,0,,has been grounded.
+Dialogue: 0,0:04:25.14,0:04:26.90,Default,Tulip,0,0,0,,You have a shuttlecraft?
+Dialogue: 0,0:04:26.93,0:04:28.38,Default,The Cat,0,0,0,,I'd fix her myself,
+Dialogue: 0,0:04:28.42,0:04:29.56,Default,The Cat,0,0,0,,but...you know...
+Dialogue: 0,0:04:29.59,0:04:31.39,Default,The Cat,0,0,0,,no thumbs.
+Dialogue: 0,0:04:31.42,0:04:32.32,Default,Tulip,0,0,0,,I have thumbs.
+Dialogue: 0,0:04:32.35,0:04:34.35,Default,Tulip,0,0,0,,I don't know anything\Nabout shuttlecrafts,
+Dialogue: 0,0:04:34.39,0:04:36.87,Default,Tulip,0,0,0,,but I fixed some stuff\Nwith my dad.
+Dialogue: 0,0:04:36.91,0:04:38.19,Default,The Cat,0,0,0,,There's still\Nthe issue of...
+Dialogue: 0,0:04:38.22,0:04:39.80,Default,The Cat,0,0,0,,my payment.
+Dialogue: 0,0:04:39.80,0:04:40.46,Default,Tulip,0,0,0,,Payment?
+Dialogue: 0,0:04:40.50,0:04:42.43,Default,The Cat,0,0,0,,Even with my craft,\Nit will take a week,
+Dialogue: 0,0:04:42.47,0:04:44.40,Default,The Cat,0,0,0,,maybe two,\Nto get to the Conductor.
+Dialogue: 0,0:04:44.43,0:04:47.06,Default,The Cat,0,0,0,,That's a lot of sales\NI'm missing out on.
+Dialogue: 0,0:04:47.09,0:04:50.34,Default,Tulip,0,0,0,,I have...$12.42.
+Dialogue: 0,0:04:50.37,0:04:52.27,Default,Tulip,0,0,0,,But one of the pennies\Nis Canadian.
+Dialogue: 0,0:04:52.30,0:04:54.31,Default,The Cat,0,0,0,,Money doesn't have\Nmuch value to me.
+Dialogue: 0,0:04:54.34,0:04:57.83,Default,The Cat,0,0,0,,I've always been more interested\Nin the peculiar and unique.
+Dialogue: 0,0:04:57.86,0:04:59.07,Default,The Cat,0,0,0,,You know, I could take
+Dialogue: 0,0:04:59.10,0:05:01.28,Default,The Cat,0,0,0,,the little white ball\Noff your hands.
+Dialogue: 0,0:05:01.31,0:05:03.07,Default,The Cat,0,0,0,,In exchange, I will speak\Nto the Conductor
+Dialogue: 0,0:05:03.11,0:05:04.97,Default,The Cat,0,0,0,,about getting you to...
+Dialogue: 0,0:05:05.01,0:05:05.97,Default,The Cat,0,0,0,,Where was it again?
+Dialogue: 0,0:05:06.01,0:05:08.42,Default,The Cat,0,0,0,,"Wis-con-sohn"?
+Dialogue: 0,0:05:08.46,0:05:11.60,Default,Tulip,0,0,0,,One-One? You want to take\NOne-One with you?
+Dialogue: 0,0:05:11.63,0:05:15.09,Default,Glad-One,0,0,0,,Ms. Tulip,\Nwe made so many donuts!
+Dialogue: 0,0:05:15.12,0:05:15.84,Default,Tulip,0,0,0,,D'oh!
+Dialogue: 0,0:05:15.84,0:05:17.16,Default,The Cat,0,0,0,,Do you really need him,
+Dialogue: 0,0:05:17.19,0:05:19.30,Default,The Cat,0,0,0,,or do you want\Nto get off this train?
+Dialogue: 0,0:05:21.64,0:05:23.61,Default,Tulip,0,0,0,,Deal.
+Dialogue: 0,0:05:25.37,0:05:28.13,Default,The Cat,0,0,0,,What kind of your own boss\Ndo you want to be?
+Dialogue: 0,0:05:28.17,0:05:30.45,Default,Randall,0,0,0,,I don't think\NI like that word "boss."
+Dialogue: 0,0:05:30.48,0:05:32.65,Default,Randall,0,0,0,,I want to feel like we're\Nall on the same team.
+Dialogue: 0,0:05:32.69,0:05:34.14,Default,Randall,0,0,0,,Team Randall!
+Dialogue: 0,0:05:34.17,0:05:36.97,Default,Glad-One,0,0,0,,Ms. Tulip,\Nhow tall are you?
+Dialogue: 0,0:05:37.00,0:05:37.86,Default,Tulip,0,0,0,,Oh, I'm about...
+Dialogue: 0,0:05:37.86,0:05:38.66,Default,Glad-One,0,0,0,,What is your hair?
+Dialogue: 0,0:05:38.69,0:05:40.46,Default,Tulip,0,0,0,,How am\NI supposed to answer that?
+Dialogue: 0,0:05:40.49,0:05:42.42,Default,Sad-One,0,0,0,,Is your name Tulip\Nbecause you have a bulbous head?
+Dialogue: 0,0:05:42.46,0:05:45.56,Default,Tulip,0,0,0,,What? No.\NIt was when I was born.
+Dialogue: 0,0:05:45.60,0:05:47.08,Default,Tulip,0,0,0,,There were complications.
+Dialogue: 0,0:05:47.12,0:05:48.15,Default,Glad-One,0,0,0,,Oh, no!
+Dialogue: 0,0:05:48.19,0:05:49.67,Default,Glad-One,0,0,0,,Did you make it out alive?
+Dialogue: 0,0:05:49.71,0:05:51.12,Default,Tulip,0,0,0,,Uh, yeah.
+Dialogue: 0,0:05:51.16,0:05:53.88,Default,Tulip,0,0,0,,It was some kind\Nof breathing issue.
+Dialogue: 0,0:05:53.92,0:05:57.92,Default,Tulip,0,0,0,,But I bounced back like a\N"perennial flower" or something.
+Dialogue: 0,0:05:57.96,0:05:59.58,Default,Tulip,0,0,0,,At least that's\Nwhat my mom told me.
+Dialogue: 0,0:05:59.61,0:06:02.89,Default,The Cat,0,0,0,,So you could have been named\Nafter any perennial plant?
+Dialogue: 0,0:06:02.93,0:06:04.38,Default,The Cat,0,0,0,,Like horseradish?
+Dialogue: 0,0:06:04.41,0:06:07.34,Default,Tulip,0,0,0,,No! I don't know.\NI didn't name me.
+Dialogue: 0,0:06:07.38,0:06:09.45,Default,Glad-One,0,0,0,,Look, Ms. Tulip.\NIt's you.
+Dialogue: 0,0:06:09.48,0:06:10.38,Default,Tulip,0,0,0,,That's a daisy.
+Dialogue: 0,0:06:12.45,0:06:14.70,Default,Tulip,0,0,0,,I may not know\Nwhat anything does,
+Dialogue: 0,0:06:14.73,0:06:18.42,Default,Tulip,0,0,0,,but there is a gear thing here\Nthat isn't in there.
+Dialogue: 0,0:06:18.46,0:06:20.15,Default,Tulip,0,0,0,,Do you know where we can get\Na replacement?
+Dialogue: 0,0:06:20.18,0:06:21.91,Default,Randall,0,0,0,,Oh! I know,\NI know!
+Dialogue: 0,0:06:32.40,0:06:35.27,Default,Randall,0,0,0,,Welcome to the Market!\NSoak up your troubles!
+Dialogue: 0,0:06:35.30,0:06:38.34,Default,Randall,0,0,0,,Metal squid attack got you down?\NShop your cares away!
+Dialogue: 0,0:06:38.38,0:06:40.96,Default,Randall,0,0,0,,Put a little wiggle\Nin your step!
+Dialogue: 0,0:06:41.00,0:06:42.28,Default,Randall,0,0,0,,-Ooh!\N-Ah!
+Dialogue: 0,0:06:42.31,0:06:43.45,Default,Randall,0,0,0,,Oh, yeah.
+Dialogue: 0,0:06:47.66,0:06:48.94,Default,Randall,0,0,0,,Oh, very cute.
+Dialogue: 0,0:06:48.97,0:06:50.46,Default,Glad-One,0,0,0,,I think she's cute, too.
+Dialogue: 0,0:06:50.49,0:06:51.42,Default,Tulip,0,0,0,,Ugh.
+Dialogue: 0,0:06:51.46,0:06:54.49,Default,Tulip,0,0,0,,How -- How much\Nfor that gear over there?
+Dialogue: 0,0:06:54.53,0:06:55.98,Default,Randall,0,0,0,,Ah, expensive taste.
+Dialogue: 0,0:06:56.01,0:06:57.95,Default,Randall,0,0,0,,Hold the sponge!
+Dialogue: 0,0:06:57.98,0:06:59.40,Default,Randall,0,0,0,,Now, that's\Na handsome-looking flower.
+Dialogue: 0,0:06:59.43,0:07:01.29,Default,Glad-One,0,0,0,,You mean my personal,\Nheartfelt gift
+Dialogue: 0,0:07:01.33,0:07:03.57,Default,Glad-One,0,0,0,,that I picked out for\Nmy personal, heartfelt friend?
+Dialogue: 0,0:07:03.61,0:07:05.37,Default,Randall,0,0,0,,Ah, sounds valuable!
+Dialogue: 0,0:07:05.40,0:07:07.96,Default,Tulip,0,0,0,,Oh. I mean,\Nit's not really for sale.
+Dialogue: 0,0:07:07.99,0:07:11.37,Default,Randall,0,0,0,,Too late. Now that I've seen it,\Nit's the only thing I want.
+Dialogue: 0,0:07:11.41,0:07:15.17,Default,The Cat,0,0,0,,Oh, the price we pay\Nfor the things we desire most...
+Dialogue: 0,0:07:19.31,0:07:21.42,Default,Tulip,0,0,0,,Ugh! Fine!\NJust take it!
+Dialogue: 0,0:07:24.42,0:07:26.73,Default,Sad-One,0,0,0,,My mechanical heart\Nbreaks again.
+Dialogue: 0,0:07:26.77,0:07:29.39,Default,Sad-One,0,0,0,,I hope the warranty's\Nstill good.
+Dialogue: 0,0:07:32.43,0:07:33.43,Default,The Cat,0,0,0,,Shall we?
+Dialogue: 0,0:07:34.53,0:07:35.74,Default,Tulip,0,0,0,,Well, One-One...
+Dialogue: 0,0:07:35.78,0:07:37.74,Default,Tulip,0,0,0,,this is goodbye.
+Dialogue: 0,0:07:37.78,0:07:39.26,Default,Glad-One,0,0,0,,A new adventure!
+Dialogue: 0,0:07:39.30,0:07:40.58,Default,Glad-One,0,0,0,,Where shall\Nwe meet again?
+Dialogue: 0,0:07:40.61,0:07:44.06,Default,Tulip,0,0,0,,We...shall'nt meet again.
+Dialogue: 0,0:07:44.10,0:07:46.17,Default,Tulip,0,0,0,,I'm leaving the train.
+Dialogue: 0,0:07:46.20,0:07:47.65,Default,Tulip,0,0,0,,I can't take you with me,
+Dialogue: 0,0:07:47.69,0:07:51.45,Default,Tulip,0,0,0,,but you'll be with the Cat now,\Nand she seems nice.
+Dialogue: 0,0:07:51.48,0:07:52.70,Default,Glad-One,0,0,0,,Oh.
+Dialogue: 0,0:07:52.70,0:07:53.35,Default,Sad-One,0,0,0,,If it helps you
+Dialogue: 0,0:07:53.38,0:07:55.42,Default,Sad-One,0,0,0,,on your journey,\NI understand.
+Dialogue: 0,0:07:56.63,0:07:59.11,Default,The Cat,0,0,0,,Sit tight,\Nand I'll have the Conductor
+Dialogue: 0,0:07:59.15,0:08:01.25,Default,The Cat,0,0,0,,sort out\Nthis whole mess.
+Dialogue: 0,0:08:12.12,0:08:14.16,Default,Sad-One,0,0,0,,Goodbye forever,\NMs. Tulip!
+Dialogue: 0,0:08:29.28,0:08:30.80,Default,Tulip,0,0,0,,Uggghhh!
+Dialogue: 0,0:08:31.52,0:08:33.52,Default,Randall,0,0,0,,How would you like to try\Nan exciting --
+Dialogue: 0,0:08:33.56,0:08:34.66,Default,Tulip,0,0,0,,Not now!
+Dialogue: 0,0:08:34.70,0:08:35.80,Default,Randall,0,0,0,,Okey-dokey.
+Dialogue: 0,0:08:35.84,0:08:37.36,Default,Randall,0,0,0,,No need\Nto lose enthusiasm.
+Dialogue: 0,0:08:37.39,0:08:38.81,Default,Randall,0,0,0,,Just need\Na different marketing audience.
+Dialogue: 0,0:08:38.84,0:08:40.19,Default,Randall,0,0,0,,Oh, wait a second!
+Dialogue: 0,0:08:41.33,0:08:43.26,Default,Randall,0,0,0,,I've got vision,\Nmy good man,
+Dialogue: 0,0:08:43.29,0:08:44.60,Default,Randall,0,0,0,,and that vision\Nneeds a team.
+Dialogue: 0,0:08:44.64,0:08:46.64,Default,Randall,0,0,0,,Well, I've never been\Na part of a team.
+Dialogue: 0,0:08:46.68,0:08:48.30,Default,Randall,0,0,0,,Oh, it sounds\Neasy and profitable.
+Dialogue: 0,0:08:48.33,0:08:50.58,Default,Randall,0,0,0,,When I started Team Randall\N38 minutes ago,
+Dialogue: 0,0:08:50.61,0:08:51.78,Default,Randall,0,0,0,,the mission statement
+Dialogue: 0,0:08:51.82,0:08:53.48,Default,Randall,0,0,0,,was "always be there\Nfor each other."
+Dialogue: 0,0:08:53.51,0:08:56.55,Default,Randall,0,0,0,,It's more complicated\Nthan that.\NIs it?
+Dialogue: 0,0:08:56.58,0:08:58.79,Default,Randall,0,0,0,,Oh! Great job asking\Nthe hard questions, Randall.
+Dialogue: 0,0:08:58.83,0:09:00.45,Default,Randall,0,0,0,,Oh, thanks, Randall.
+Dialogue: 0,0:09:00.48,0:09:02.52,Default,Randall,0,0,0,,You may not always bring in\Nthe sales numbers I want,
+Dialogue: 0,0:09:02.55,0:09:05.18,Default,Randall,0,0,0,,but you've got heart, and\NI feel like you care about me.
+Dialogue: 0,0:09:05.21,0:09:06.49,Default,Tulip,0,0,0,,I didn't not care!
+Dialogue: 0,0:09:06.52,0:09:09.46,Default,Tulip,0,0,0,,The cat was gonna help\NOne-One, too!
+Dialogue: 0,0:09:09.49,0:09:10.77,Default,Tulip,0,0,0,,Probably.
+Dialogue: 0,0:09:10.80,0:09:12.46,Default,Tulip,0,0,0,,I don't know.
+Dialogue: 0,0:09:12.49,0:09:14.81,Default,Tulip,0,0,0,,I guess I don't really know\Nanything about the Cat.
+Dialogue: 0,0:09:14.84,0:09:16.12,Default,Tulip,0,0,0,,I just...
+Dialogue: 0,0:09:16.15,0:09:19.85,Default,Tulip,0,0,0,,wanted\Nto get off the train.
+Dialogue: 0,0:09:19.88,0:09:21.23,Default,Tulip,0,0,0,,Listen up, Randalls.
+Dialogue: 0,0:09:21.26,0:09:22.47,Default,Tulip,0,0,0,,If you can get me\Nto the Cat,
+Dialogue: 0,0:09:22.50,0:09:23.64,Default,Tulip,0,0,0,,I'll take\Nyour Donut-Holer thing.
+Dialogue: 0,0:09:23.68,0:09:25.40,Default,Randall,0,0,0,,Hot dog!
+Dialogue: 0,0:09:26.51,0:09:29.20,Default,Randall,0,0,0,,Hop in my body. It's not\Nas weird as it sounds!
+Dialogue: 0,0:09:34.62,0:09:35.59,Default,Tulip,0,0,0,,Turn here\Nreal quick!
+Dialogue: 0,0:09:38.80,0:09:39.76,Default,Randall,0,0,0,,Cool! Gum!
+Dialogue: 0,0:09:42.66,0:09:44.35,Default,Tulip,0,0,0,,Aah! Oof!
+Dialogue: 0,0:09:45.15,0:09:46.70,Default,Tulip,0,0,0,,I changed my mind!
+Dialogue: 0,0:09:46.74,0:09:48.15,Default,Tulip,0,0,0,,I want One-One back!
+Dialogue: 0,0:09:48.19,0:09:49.64,Default,The Cat,0,0,0,,Sorry, kitten.\NWe had a deal!
+Dialogue: 0,0:09:49.67,0:09:50.77,Default,Glad-One,0,0,0,,Ms. Tulip!
+Dialogue: 0,0:09:50.81,0:09:52.29,Default,Tulip,0,0,0,,One-One,\NI shouldn't have --
+Dialogue: 0,0:09:52.81,0:09:53.74,Default,Tulip,0,0,0,,One-One!
+Comment: 0,0:09:53.78,0:09:55.26,Default,Tulip,0,0,0,,Uh!
+Dialogue: 0,0:10:02.96,0:10:04.62,Default,Tulip,0,0,0,,Aah!
+Dialogue: 0,0:10:04.65,0:10:06.62,Default,Tulip,0,0,0,,Uhh! Up and over!
+Dialogue: 0,0:10:07.93,0:10:09.38,Default,Tulip,0,0,0,,Aaahhh! Ooh!
+Dialogue: 0,0:10:09.41,0:10:10.38,Default,Randall,0,0,0,,Oh, yeah!
+Dialogue: 0,0:10:11.59,0:10:12.73,Default,Tulip,0,0,0,,One-One!
+Dialogue: 0,0:10:14.87,0:10:16.49,Default,Tulip,0,0,0,,Can you slip\Nin the cracks?
+Dialogue: 0,0:10:16.52,0:10:18.32,Default,Randall,0,0,0,,"Slip In The Cracks"\Nis my middle name --
+Dialogue: 0,0:10:18.35,0:10:20.67,Default,Randall,0,0,0,,Randall Slip In The Cracks\NRandall.
+Dialogue: 0,0:10:21.70,0:10:23.39,Default,The Cat,0,0,0,,Wow!
+Dialogue: 0,0:10:23.43,0:10:25.29,Default,Randall,0,0,0,,You know, you really are\Na smart cookie.
+Dialogue: 0,0:10:25.33,0:10:26.47,Default,Randall,0,0,0,,[ Randalls all speaking\Nat once ]
+Dialogue: 0,0:10:26.50,0:10:27.67,Default,The Cat,0,0,0,,Aah!
+Dialogue: 0,0:10:28.81,0:10:30.71,Default,Tulip,0,0,0,,Aaaahhh!
+Dialogue: 0,0:10:33.33,0:10:34.47,Default,Glad-One,0,0,0,,Ms. Tulip!
+Dialogue: 0,0:10:35.92,0:10:37.79,Default,The Cat,0,0,0,,You just made\Na big mistake!
+Dialogue: 0,0:10:37.82,0:10:39.82,Default,The Cat,0,0,0,,Good luck\Ngetting off this train now.
+Dialogue: 0,0:10:39.86,0:10:41.31,Default,Randall,0,0,0,,Have I got a deal for you!
+Dialogue: 0,0:10:39.86,0:10:41.31,Default,The Cat,0,0,0,,Aah!
+Dialogue: 0,0:10:41.34,0:10:42.69,Default,Randall,0,0,0,,Say, there,\Nyou look like a smart gal.
+Dialogue: 0,0:10:42.72,0:10:43.86,Default,Randall,0,0,0,,This Donut-Holer is...
+Dialogue: 0,0:10:43.90,0:10:45.66,Default,Tulip,0,0,0,,I'm so sorry\NI gave you to the cat.
+Dialogue: 0,0:10:45.69,0:10:47.62,Default,Tulip,0,0,0,,I was just scared I would\Nnever get off the train,
+Dialogue: 0,0:10:47.66,0:10:49.73,Default,Tulip,0,0,0,,and you made me think\NI was gonna die,
+Dialogue: 0,0:10:49.76,0:10:52.18,Default,Tulip,0,0,0,,and that doesn't\Nmake it okay.
+Dialogue: 0,0:10:52.22,0:10:53.80,Default,Tulip,0,0,0,,But you care,\Nand you're a good friend,
+Dialogue: 0,0:10:53.84,0:10:55.94,Default,Tulip,0,0,0,,and I appreciate that,\Nand that makes me care,
+Dialogue: 0,0:10:55.98,0:10:57.88,Default,Tulip,0,0,0,,and I just --\NAnd I-I just...
+Dialogue: 0,0:10:57.91,0:11:00.22,Default,Tulip,0,0,0,,I'm sorry.
+Dialogue: 0,0:11:00.26,0:11:01.19,Default,Glad-One,0,0,0,,It's okay, Ms. Tulip.
+Dialogue: 0,0:11:01.22,0:11:02.47,Default,Glad-One,0,0,0,,I knew you'd bounce back.
+Dialogue: 0,0:11:02.50,0:11:04.61,Default,Glad-One,0,0,0,,Just like when\Nyour parents hatched you.
