@@ -32,7 +32,8 @@ Dialogue: 0,0:00:21.74,0:00:26.12,Default,,0,0,0,,Uh! That cat wasted time I cou
 Dialogue: 0,0:00:26.16,0:00:28.68,Default,,0,0,0,,We've gotta keep moving if we're\Never gonna find the conductor.
 Dialogue: 0,0:00:28.71,0:00:31.75,Default,,0,0,0,,From now on, we're not stopping\Nfor anything!
 Dialogue: 0,0:00:31.78,0:00:33.75,Default,,0,0,0,,All right, One-One, time me!
-Dialogue: 0,0:00:33.79,0:00:35.75,Default,,0,0,0,split,Ready!\N-Set!
+Dialogue: 0,0:00:33.79,0:00:33.97,Default,,0,0,0,,Ready!
+Dialogue: 0,0:00:33.97,0:00:35.75,Default,,0,0,0,,Set!
 Dialogue: 0,0:00:35.79,0:00:38.34,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:00:40.21,0:00:41.66,Default,,0,0,0,,Ahem!
 Dialogue: 0,0:00:41.69,0:00:43.24,Default,,0,0,0,,Oh, yeah.\NUh, go.
@@ -44,7 +45,8 @@ Dialogue: 0,0:01:15.69,0:01:19.18,Default,,0,0,0,,{\an8\i1}So we mash...
 Dialogue: 0,0:01:19.21,0:01:20.38,Default,,0,0,0,,Mash with us!
 Dialogue: 0,0:01:20.42,0:01:22.21,Default,,0,0,0,,Nope, no time!
 Dialogue: 0,0:01:33.74,0:01:35.74,Default,,0,0,0,,Huh?
-Dialogue: 0,0:01:35.78,0:01:37.61,Default,,0,0,0,split,-Got the time?\N-No time!
+Dialogue: 0,0:01:35.78,0:01:36.28,Default,,0,0,0,,Got the time?
+Dialogue: 0,0:01:36.28,0:01:37.61,Default,,0,0,0,,No time!
 Dialogue: 0,0:01:37.64,0:01:40.20,Default,,0,0,0,,You're telling me?\NI'm dead!
 Dialogue: 0,0:01:56.25,0:01:57.70,Default,,0,0,0,,Huh?
 Dialogue: 0,0:02:00.84,0:02:02.63,Default,,0,0,0,,Look!\NMore weird, furry ducks.
@@ -93,16 +95,17 @@ Dialogue: 0,0:03:44.91,0:03:46.74,Default,,0,0,0,,Water, woods, door.\NGot it!
 Dialogue: 0,0:03:46.77,0:03:48.74,Default,,0,0,0,,Thanks, King-dog.\NBye!
 Dialogue: 0,0:03:48.77,0:03:50.78,Default,,0,0,0,,It's Atticus, and I must\Nurge you to wait.
 Dialogue: 0,0:03:50.81,0:03:52.30,Default,,0,0,0,,One-One, time me.
-Dialogue: 0,0:03:52.33,0:03:53.78,Default,,0,0,0,split,Ready!\N-Set!
-Dialogue: 0,0:03:58.75,0:04:00.79,Default,,0,0,0,split,Yay!\NShadow puppets.
+Dialogue: 0,0:03:52.33,0:03:52.59,Default,,0,0,0,,Ready!
+Dialogue: 0,0:03:52.59,0:03:53.78,Default,,0,0,0,,Set!
+Dialogue: 0,0:03:58.75,0:04:00.79,Default,,0,0,0,,Yay!\NShadow puppets.
 Dialogue: 0,0:04:00.82,0:04:02.68,Default,,0,0,0,,Look -- I can make an eagle!
 Dialogue: 0,0:04:02.72,0:04:03.96,Default,,0,0,0,,What is that thing?
 Dialogue: 0,0:04:04.00,0:04:06.79,Default,,0,0,0,,It is the monster.
 Dialogue: 0,0:04:06.83,0:04:09.42,Default,,0,0,0,,Quickly, Tulip -- to the temple!
-Dialogue: 0,0:04:09.45,0:04:11.66,Default,,0,0,0,,♪♪
 Dialogue: 0,0:04:11.69,0:04:12.94,Default,,0,0,0,,I will admit,\Nthere are some things
 Dialogue: 0,0:04:12.97,0:04:14.73,Default,,0,0,0,,I haven't told you\Nabout Corginia.
-Dialogue: 0,0:04:14.77,0:04:17.08,Default,,0,0,0,shenanigan,Like why there's\Na giant shadow monster?!
+Dialogue: 0,0:04:14.77,0:04:17.08,Default,,0,0,0,,{\pos(560,1020)}Like why there's\Na giant shadow monster?!
+Dialogue: 0,0:04:14.77,0:04:16.24,Default,,0,0,0,,{\pos(1400,1020)}Like why there's\Na giant shadow mo—
 Dialogue: 0,0:04:17.11,0:04:18.77,Default,,0,0,0,,Yes.\NPatience, young lady.
 Dialogue: 0,0:04:18.80,0:04:20.81,Default,,0,0,0,,Patience? I'll never get to\Nthe conductor
 Dialogue: 0,0:04:20.84,0:04:22.39,Default,,0,0,0,,by just waiting around.
@@ -118,15 +121,28 @@ Dialogue: 0,0:04:37.41,0:04:39.45,Default,,0,0,0,,Let me see if it's gone yet.
 Dialogue: 0,0:04:39.48,0:04:41.45,Default,,0,0,0,,One-One, be careful!\NAgh!
 Dialogue: 0,0:04:41.48,0:04:44.04,Default,,0,0,0,,Looks like I'll have to start\Nwriting his obituary.
 Dialogue: 0,0:04:44.07,0:04:46.04,Default,,0,0,0,,Awfully morbid little thing,\Naren't you?
-Dialogue: 0,0:04:46.07,0:04:48.56,Default,,0,0,0,split,-Yes.\N-Agh!
-Dialogue: 0,0:04:48.59,0:04:50.39,Default,,0,0,0,split,Aah! What is it, One-One?It's gone!
+Dialogue: 0,0:04:46.07,0:04:46.60,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:46.60,0:04:47.60,Default,,0,0,0,,Agh!
+Dialogue: 0,0:04:47.60,0:04:49.14,Default,,0,0,0,,Aah! What is it, One-One?
+Dialogue: 0,0:04:49.14,0:04:50.31,Default,,0,0,0,,It's gone!
 Dialogue: 0,0:04:50.42,0:04:52.39,Default,,0,0,0,,I'm excited -- ahh!
-Dialogue: 0,0:04:52.42,0:04:56.57,Default,,0,0,0,,Let us be on our way.
-Dialogue: 0,0:04:56.60,0:04:57.64,Default,,0,0,0,,Didn't you want to go outside?
-Dialogue: 0,0:04:57.67,0:04:58.95,Default,,0,0,0,split/shenanigan,Yes. No.Outside? Outside?
-Dialogue: 0,0:04:58.98,0:05:00.78,Default,,0,0,0,split/shenanigan,Well... Maybe.Outside? Come on!
-Dialogue: 0,0:05:00.81,0:05:02.61,Default,,0,0,0,split/shenanigan,Wanna go outside right now?!Well, well, no!
-Dialogue: 0,0:05:02.64,0:05:04.75,Default,,0,0,0,split/shenanigan,Do you wanna go outside?Yes, I wanna go outside.
+Dialogue: 0,0:04:52.42,0:04:54.61,Default,,0,0,0,,Let us be on our way.
+Dialogue: 0,0:04:56.11,0:04:57.28,Default,,0,0,0,,Didn't you want to \Ngo outside?
+Dialogue: 0,0:04:57.86,0:04:58.32,Default,,0,0,0,,{\pos(1200,1020)}Outside?
+Dialogue: 0,0:04:58.65,0:04:58.99,Default,,0,0,0,,{\pos(1200,1020)}Outside?
+Dialogue: 0,0:04:59.40,0:04:59.95,Default,,0,0,0,,{\pos(1200,1020)}Outside?
+Dialogue: 0,0:05:00.40,0:05:00.91,Default,,0,0,0,,{\pos(1200,1020)}C'mon!
+Dialogue: 0,0:05:00.91,0:05:01.74,Default,,0,0,0,,{\pos(1200,1020)}Wanna go outside \Nright now?
+Dialogue: 0,0:05:01.74,0:05:02.32,Default,,0,0,0,,{\pos(1200,1020)}You wanna do it?
+Dialogue: 0,0:05:02.32,0:05:03.12,Default,,0,0,0,,{\pos(1200,1020)}You wanna \Ngo outside?
+Dialogue: 0,0:04:57.28,0:04:57.86,Default,,0,0,0,,{\pos(700,1020)}Yes.
+Dialogue: 0,0:04:58.32,0:04:58.65,Default,,0,0,0,,{\pos(700,1020)}No.
+Dialogue: 0,0:04:58.99,0:04:59.40,Default,,0,0,0,,{\pos(700,1020)}Well...
+Dialogue: 0,0:04:59.95,0:05:00.40,Default,,0,0,0,,{\pos(700,1020)}Maybe.
+Dialogue: 0,0:05:00.70,0:05:01.07,Default,,0,0,0,,{\pos(700,1020)}Well...
+Dialogue: 0,0:05:01.07,0:05:02.32,Default,,0,0,0,,{\pos(700,1020)}Well, no!
+Dialogue: 0,0:05:02.66,0:05:03.12,Default,,0,0,0,,{\pos(700,1020)}Yes!
+Dialogue: 0,0:05:03.12,0:05:03.99,Default,,0,0,0,,I want to go outside!
 Dialogue: 0,0:05:04.78,0:05:07.85,Default,,0,0,0,,One week ago, that was the\NDog-partment of Water and Power.
 Dialogue: 0,0:05:07.89,0:05:10.96,Default,,0,0,0,,Now it's just the Dog-partment\Nof Water and Water.
 Dialogue: 0,0:05:10.99,0:05:12.96,Default,,0,0,0,,Wait, a week ago?
@@ -136,8 +152,10 @@ Dialogue: 0,0:05:17.52,0:05:20.42,Default,,0,0,0,,and maybe if we stop it\Nand r
 Dialogue: 0,0:05:20.45,0:05:21.76,Default,,0,0,0,,he'll help me get off the train.
 Dialogue: 0,0:05:21.80,0:05:23.14,Default,,0,0,0,,That's a lot of maybes.
 Dialogue: 0,0:05:23.18,0:05:25.80,Default,,0,0,0,,Maybes are maybe\Nmy favorite maybe.
-Dialogue: 0,0:05:25.84,0:05:28.15,Default,,0,0,0,split,Maybe.\N-One-One, time us.
-Dialogue: 0,0:05:28.18,0:05:29.91,Default,,0,0,0,split,We're going in.Wait!
+Dialogue: 0,0:05:25.84,0:05:26.26,Default,,0,0,0,,Maybe.
+Dialogue: 0,0:05:26.26,0:05:28.15,Default,,0,0,0,,One-One, time us.
+Dialogue: 0,0:05:28.18,0:05:28.89,Default,,0,0,0,,We're going in.
+Dialogue: 0,0:05:28.89,0:05:29.91,Default,,0,0,0,,Wait!
 Dialogue: 0,0:05:29.94,0:05:31.74,Default,,0,0,0,,You'll need my help\Nif you intend to leave.
 Dialogue: 0,0:05:31.77,0:05:34.64,Default,,0,0,0,,The exit is blocked\Nby the un-solvable puzzle door,
 Dialogue: 0,0:05:34.67,0:05:36.47,Default,,0,0,0,,and it's too dangerous\Nto rush in alone.
@@ -166,7 +184,6 @@ Dialogue: 0,0:06:44.26,0:06:46.57,Default,,0,0,0,,Look out!\NAah!
 Dialogue: 0,0:06:50.82,0:06:54.17,Default,,0,0,0,,Wait...
 Dialogue: 0,0:06:54.20,0:06:57.00,Default,,0,0,0,,Aw!\NIt's just a little spider,
 Dialogue: 0,0:06:57.03,0:06:58.93,Default,,0,0,0,,building her little spider web.
-Dialogue: 0,0:06:58.96,0:07:01.17,Default,,0,0,0,idk,Ugh![ One-One laughing ]
 Dialogue: 0,0:07:01.21,0:07:04.07,Default,,0,0,0,,We're grossed out, right,\NMiss Tulip?
 Dialogue: 0,0:07:04.11,0:07:05.94,Default,,0,0,0,,We've destroyed the monster.
 Dialogue: 0,0:07:05.97,0:07:07.49,Default,,0,0,0,,I thought victory would\Ntaste less musty.
@@ -185,7 +202,7 @@ Dialogue: 0,0:07:28.65,0:07:30.17,Default,,0,0,0,,Miss Tulip?
 Dialogue: 0,0:07:30.20,0:07:31.89,Default,,0,0,0,,I could travel for years on this\Nridiculous train
 Dialogue: 0,0:07:31.93,0:07:32.96,Default,,0,0,0,,and never escape.
 Dialogue: 0,0:07:33.00,0:07:34.97,Default,,0,0,0,,Why is this thing on my hand?
-Comment: 0,0:07:35.00,0:07:37.07,Default,,0,0,0,,[ Growls ]
+Dialogue: 0,0:07:35.00,0:07:37.07,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:07:40.11,0:07:41.77,Default,,0,0,0,,It's not fair.
 Dialogue: 0,0:07:41.80,0:07:44.25,Default,,0,0,0,,I'm going as fast as I can,\Nbut I'm getting nowhere.
 Dialogue: 0,0:07:44.29,0:07:47.67,Default,,0,0,0,,Just because you can't figure\Nout things immediately
@@ -214,12 +231,15 @@ Dialogue: 0,0:08:48.63,0:08:50.14,Default,,0,0,0,,We'll never make it.
 Dialogue: 0,0:08:50.18,0:08:52.56,Default,,0,0,0,,Maybe we can escape out\Nthe unsolvable puzzle door.
 Dialogue: 0,0:08:52.60,0:08:53.77,Default,,0,0,0,,How do I unlock it?
 Dialogue: 0,0:08:53.80,0:08:55.60,Default,,0,0,0,,First, you put your paw\Non the handle.
-Dialogue: 0,0:08:55.63,0:08:57.57,Default,,0,0,0,split,Okay.Then you turn it.
+Dialogue: 0,0:08:55.63,0:08:56.31,Default,,0,0,0,,Okay.
+Dialogue: 0,0:08:56.31,0:08:57.57,Default,,0,0,0,,Then you turn it.
 Dialogue: 0,0:08:57.60,0:09:00.74,Default,,0,0,0,,All right.
 Dialogue: 0,0:09:00.78,0:09:02.26,Default,,0,0,0,,That's how all doors open!
 Dialogue: 0,0:09:02.29,0:09:04.30,Default,,0,0,0,,My people have been working on\Nthis technology for decades!
 Dialogue: 0,0:09:04.33,0:09:05.78,Default,,0,0,0,,Let's just talk to it.
-Dialogue: 0,0:09:05.82,0:09:09.85,Default,,0,0,0,split,-No!\N-Hello! Oh!
+Dialogue: 0,0:09:05.82,0:09:06.69,Default,,0,0,0,,No!
+Dialogue: 0,0:09:06.69,0:09:07.36,Default,,0,0,0,,Hello!
+Dialogue: 0,0:09:07.36,0:09:09.85,Default,,0,0,0,,Oh!
 Dialogue: 0,0:09:13.62,0:09:15.27,Default,,0,0,0,,Agh!
 Dialogue: 0,0:09:15.31,0:09:16.69,Default,,0,0,0,,Atticus!
 Dialogue: 0,0:09:16.72,0:09:19.62,Default,,0,0,0,,Corginia!
@@ -246,11 +266,26 @@ Dialogue: 0,0:10:29.83,0:10:32.18,Default,,0,0,0,,Also, you give\Nstellar belly-
 Dialogue: 0,0:10:32.21,0:10:34.39,Default,,0,0,0,,Ha, ha!\NIt would be an honor
 Dialogue: 0,0:10:34.42,0:10:38.15,Default,,0,0,0,,to be joined by such royalty.
 Dialogue: 0,0:10:38.18,0:10:41.15,Default,,0,0,0,,Hooray! King Weird Furry Duck\Nis joining our team!
-Dialogue: 0,0:10:41.19,0:10:45.09,Default,,0,0,0,split,Wait, Miss Tulip?!\NDon't you want me to time you?
-Dialogue: 0,0:10:45.12,0:10:47.95,Default,,0,0,0,,Nah.
-Dialogue: 0,0:10:47.99,0:10:49.92,Default,,0,0,0,shenanigan,Uh? Aren't you coming?Yes!
-Dialogue: 0,0:10:49.95,0:10:52.82,Default,,0,0,0,shenanigan,Then, come on!No, ho-ho, no, no, no, no!
-Dialogue: 0,0:10:52.85,0:10:54.99,Default,,0,0,0,shenanigan,Ugh! We're not doing this\Nfor every door!
-Dialogue: 0,0:10:55.03,0:10:57.41,Default,,0,0,0,shenanigan,You wanna go outside?Yes! No! Well...
-Dialogue: 0,0:10:57.44,0:10:59.69,Default,,0,0,0,shenanigan,Good king!No -- maybe!
-Dialogue: 0,0:10:59.72,0:11:01.34,Default,,0,0,0,shenanigan,You can do it!Yes, I want to go outside.
+Dialogue: 0,0:10:41.19,0:10:42.20,Default,,0,0,0,,Wait, Miss Tulip?!
+Dialogue: 0,0:10:42.20,0:10:45.09,Default,,0,0,0,,Don't you want me to time you?
+Dialogue: 0,0:10:45.12,0:10:47.84,Default,,0,0,0,,Nah.
+Dialogue: 0,0:10:47.84,0:10:49.59,Default,,0,0,0,,Uh, aren't you coming?
+Dialogue: 0,0:10:49.59,0:10:50.17,Default,,0,0,0,,Yes!
+Dialogue: 0,0:10:50.17,0:10:50.75,Default,,0,0,0,,Then come on!
+Dialogue: 0,0:10:50.75,0:10:52.88,Default,,0,0,0,,No-ho-ho, no, nonononono!
+Dialogue: 0,0:10:52.88,0:10:55.22,Default,,0,0,0,,Ugh! We're not doing this\Nfor every door!
+Dialogue: 0,0:10:55.22,0:10:55.97,Default,,0,0,0,,{\pos(1080,1020)}You wanna \Ngo outside?
+Dialogue: 0,0:10:55.97,0:10:56.26,Default,,0,0,0,,{\pos(1080,1020)}Come on!
+Dialogue: 0,0:10:56.26,0:10:57.01,Default,,0,0,0,,{\pos(1080,1020)}C'mon, you \Ncan do it!
+Dialogue: 0,0:10:57.01,0:10:57.51,Default,,0,0,0,,{\pos(1080,1020)}Come on!
+Dialogue: 0,0:10:57.51,0:10:58.35,Default,,0,0,0,,{\pos(1080,1020)}Good king.
+Dialogue: 0,0:10:58.35,0:10:59.26,Default,,0,0,0,,{\pos(1080,1020)}Good king!
+Dialogue: 0,0:10:59.26,0:11:00.22,Default,,0,0,0,,{\pos(1080,1020)}Yes, go on then!
+Dialogue: 0,0:11:00.22,0:11:00.85,Default,,0,0,0,,{\pos(1080,1020)}Outside.
+Dialogue: 0,0:11:00.85,0:11:01.72,Default,,0,0,0,,{\pos(1080,1020)}Walkies!
+Dialogue: 0,0:10:55.84,0:10:56.43,Default,,0,0,0,,{\pos(640,1020)}Yes!
+Dialogue: 0,0:10:56.43,0:10:57.01,Default,,0,0,0,,{\pos(640,1020)}No!
+Dialogue: 0,0:10:57.01,0:10:58.01,Default,,0,0,0,,{\pos(640,1020)}Well...
+Dialogue: 0,0:10:58.01,0:10:59.47,Default,,0,0,0,,{\pos(640,1020)}Well, no.
+Dialogue: 0,0:10:59.47,0:11:00.22,Default,,0,0,0,,{\pos(640,1020)}Maybe!
+Dialogue: 0,0:11:00.22,0:11:01.72,Default,,0,0,0,,{\pos(640,1020)}Yes, I want\Nto go outside.
