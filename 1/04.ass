@@ -22,18 +22,11 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.38,0:00:08.42,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:08.45,0:00:11.66,Default,,0,0,0,,[ Dog barks in distance ]
-Dialogue: 0,0:00:11.70,0:00:18.19,Default,,0,0,0,,♪♪
 Dialogue: 0,0:00:18.22,0:00:20.12,Default,,0,0,0,,The door unlocked\Na few minutes ago.
-Dialogue: 0,0:00:20.15,0:00:21.43,Default,,0,0,0,,[ Gasps ]
 Dialogue: 0,0:00:21.46,0:00:23.50,Default,,0,0,0,,Mwah!\NWe'll miss you, Nancy!
 Dialogue: 0,0:00:23.54,0:00:26.19,Default,,0,0,0,,We know your restaurant\Nwill be a big success.
 Dialogue: 0,0:00:26.23,0:00:29.23,Default,,0,0,0,,You've come a long way\Nin your pasta-making.
-Dialogue: 0,0:00:29.27,0:00:33.20,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:33.24,0:00:35.06,Default,,0,0,0,,[ Whirring ]
 Dialogue: 0,0:00:35.10,0:00:37.07,Default,,0,0,0,,Oh.
-Dialogue: 0,0:00:37.10,0:00:39.55,Default,,0,0,0,,♪♪
 Dialogue: 0,0:00:39.59,0:00:41.59,Default,,0,0,0,,Okay, so let's break down\Nthe Straight-Up Italy car.
 Dialogue: 0,0:00:41.62,0:00:44.63,Default,,0,0,0,,I thought we agreed to call it\Nthe Mediterranean Republic Car.
 Dialogue: 0,0:00:44.66,0:00:46.73,Default,,0,0,0,,There were at least two things\Nthat happened in there
@@ -45,9 +38,7 @@ Dialogue: 0,0:00:54.84,0:00:56.88,Default,,0,0,0,,But there was no change\Nto my
 Dialogue: 0,0:00:56.91,0:00:59.23,Default,,0,0,0,,See, if you look at the logic\Ntree that I've drawn...
 Dialogue: 0,0:00:59.26,0:01:02.20,Default,,0,0,0,,Ooh, I like that you use circles\Non your "I's" instead of dots.
 Dialogue: 0,0:01:02.23,0:01:04.54,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:01:04.58,0:01:06.65,Default,,0,0,0,,[ Lock clicks ]
 Dialogue: 0,0:01:06.68,0:01:07.89,Default,,0,0,0,,Whoa.
-Dialogue: 0,0:01:07.92,0:01:11.65,Default,,0,0,0,,♪♪
 Dialogue: 0,0:01:11.69,0:01:14.41,Default,,0,0,0,,Wow!
 Dialogue: 0,0:01:14.45,0:01:15.86,Default,,0,0,0,,Anyway, my number...
 Dialogue: 0,0:01:15.90,0:01:18.83,Default,,0,0,0,,May I suggest you give yourself\Nmore moments of repose
@@ -68,9 +59,6 @@ Dialogue: 0,0:01:47.21,0:01:48.66,Default,,0,0,0,,I deserved that.
 Dialogue: 0,0:01:48.69,0:01:50.14,Default,,0,0,0,,All right.
 Dialogue: 0,0:01:50.17,0:01:52.21,Default,,0,0,0,,I'll put the notebook away --\Nfor now!
 Dialogue: 0,0:01:52.25,0:01:55.18,Default,,0,0,0,,Until later, my love.
-Dialogue: 0,0:01:55.21,0:01:56.70,Default,,0,0,0,,♪♪
-Dialogue: 0,0:01:56.73,0:02:00.18,Default,,0,0,0,,[ Chittering, barking ]
-Dialogue: 0,0:02:00.22,0:02:01.36,Default,,0,0,0,,[ Birds calling ]
 Dialogue: 0,0:02:01.39,0:02:05.29,Default,,0,0,0,,Ew! Oh, cool!
 Dialogue: 0,0:02:05.33,0:02:07.26,Default,,0,0,0,,Anyone see a door?
 Dialogue: 0,0:02:07.29,0:02:09.61,Default,,0,0,0,,Maybe it's like one of those\Nwhere we have to push a knot,
@@ -84,30 +72,22 @@ Dialogue: 0,0:02:24.48,0:02:25.90,Default,,0,0,0,,If anyone's keeping track,
 Dialogue: 0,0:02:25.93,0:02:27.76,Default,,0,0,0,,I think I'm winning\Nat being right about things.
 Dialogue: 0,0:02:27.80,0:02:29.52,Default,,0,0,0,,I've been keeping track\Nand you are!
 Dialogue: 0,0:02:29.56,0:02:32.18,Default,,0,0,0,,Maybe we should try\Nbuilding a ladder.
-Dialogue: 0,0:02:32.22,0:02:34.36,Default,,0,0,0,,[ Growls, barks ]
-Dialogue: 0,0:02:34.39,0:02:37.32,Default,,0,0,0,,♪♪
 Dialogue: 0,0:02:37.36,0:02:39.26,Default,,0,0,0,,Oh! Hi!
 Dialogue: 0,0:02:39.29,0:02:41.33,Default,,0,0,0,,Do you know how we can\Nget to the door up there?
-Dialogue: 0,0:02:41.36,0:02:43.19,Default,,0,0,0,,[ Grunts ]
 Dialogue: 0,0:02:43.23,0:02:44.75,Default,,0,0,0,,Ah, great!
-Dialogue: 0,0:02:44.78,0:02:48.37,Default,,0,0,0,,♪♪
 Dialogue: 0,0:02:48.40,0:02:50.37,Default,,0,0,0,,Would you mind telling us how?
-Dialogue: 0,0:02:50.41,0:02:52.96,Default,,0,0,0,,[ Clinking ]
-Dialogue: 0,0:02:53.00,0:02:56.21,Default,,0,0,0,,[ Gasps ] It can't speak,\Njust like Atticus.
-Dialogue: 0,0:02:56.24,0:02:57.72,Default,,0,0,0,,-Huh?\N-Ugh, man.
+Dialogue: 0,0:02:53.00,0:02:56.21,Default,,0,0,0,,It can't speak,\Njust like Atticus.
+Dialogue: 0,0:02:56.24,0:02:57.72,Default,,0,0,0,split,-Huh?\N-Ugh, man.
 Dialogue: 0,0:02:57.76,0:02:59.90,Default,,0,0,0,,This is gonna take awhile.
-Dialogue: 0,0:02:59.93,0:03:01.07,Default,,0,0,0,,♪♪
 Dialogue: 0,0:03:01.11,0:03:04.46,Default,,0,0,0,,And then the steps that lead\Nto the door were stolen
 Dialogue: 0,0:03:04.49,0:03:07.22,Default,,0,0,0,,by a...giant spider...
 Dialogue: 0,0:03:07.25,0:03:09.49,Default,,0,0,0,,made of metal?
-Dialogue: 0,0:03:09.53,0:03:10.84,Default,,0,0,0,,-Huh?\N-Oh!
+Dialogue: 0,0:03:09.53,0:03:10.84,Default,,0,0,0,split,-Huh?\N-Oh!
 Dialogue: 0,0:03:10.88,0:03:12.70,Default,,0,0,0,,Like my spindly friend\Nin Corginia.
 Dialogue: 0,0:03:12.74,0:03:14.74,Default,,0,0,0,,One-One, that thing\Nwasn't your friend.
 Dialogue: 0,0:03:14.78,0:03:16.54,Default,,0,0,0,,Goodness!\NWas it my mum?
 Dialogue: 0,0:03:16.57,0:03:18.37,Default,,0,0,0,,It was trying to hurt us.
 Dialogue: 0,0:03:18.40,0:03:20.26,Default,,0,0,0,,The question stands.
-Dialogue: 0,0:03:20.30,0:03:22.40,Default,,0,0,0,,[ Stomping ]
-Dialogue: 0,0:03:22.44,0:03:26.55,Default,,0,0,0,,[ Clinking ]
 Dialogue: 0,0:03:26.58,0:03:29.93,Default,,0,0,0,,A new stairway can emerge
 Dialogue: 0,0:03:29.96,0:03:35.62,Default,,0,0,0,,but only if we put our paws\Non this crystal.
 Dialogue: 0,0:03:35.66,0:03:37.04,Default,,0,0,0,,And...
@@ -120,30 +100,27 @@ Dialogue: 0,0:03:51.99,0:03:55.06,Default,,0,0,0,,Very emotional perhaps\Nor imp
 Dialogue: 0,0:03:55.09,0:03:57.82,Default,,0,0,0,,My people have a song\Nabout a folk-hero of ours --
 Dialogue: 0,0:03:57.85,0:03:59.75,Default,,0,0,0,,"The Ballad of Mustard\Nand Stink Tail!"
 Dialogue: 0,0:03:59.79,0:04:03.76,Default,,0,0,0,,It's got drama, pathos,\Nand a bit of bawdy humor.
-Dialogue: 0,0:04:03.79,0:04:07.35,Default,,0,0,0,,[ Howling ]
-Dialogue: 0,0:04:07.38,0:04:08.97,Default,,0,0,0,,Mnh-mnh.
+Comment: 0,0:04:07.38,0:04:08.97,Default,,0,0,0,,Mnh-mnh.
 Dialogue: 0,0:04:09.00,0:04:10.97,Default,,0,0,0,,The crystal doesn't recognize\Nhowling?
 Dialogue: 0,0:04:11.00,0:04:13.46,Default,,0,0,0,,But it's the ancient language\Nof my people!
 Dialogue: 0,0:04:13.49,0:04:15.66,Default,,0,0,0,,Ooh, ooh, me, now!\NMe, now!
 Dialogue: 0,0:04:15.70,0:04:18.29,Default,,0,0,0,,Ahem.\NDo-do-do-doot.
-Dialogue: 0,0:04:18.32,0:04:22.46,Default,,0,0,0,,[ Dial-up modem sound ]
 Dialogue: 0,0:04:22.50,0:04:24.40,Default,,0,0,0,,Connection failed.
 Dialogue: 0,0:04:24.43,0:04:25.64,Default,,0,0,0,,Don't worry, guys!
 Dialogue: 0,0:04:25.67,0:04:27.88,Default,,0,0,0,,I know a super emotional\Nsong to try.
 Dialogue: 0,0:04:27.92,0:04:31.40,Default,,0,0,0,,♪ High, low
 Dialogue: 0,0:04:31.44,0:04:34.03,Default,,0,0,0,,♪ Wherever we go
 Dialogue: 0,0:04:34.06,0:04:38.93,Default,,0,0,0,,♪ I just know that our souls\Ntwine as one ♪
-Dialogue: 0,0:04:38.96,0:04:42.04,Default,,0,0,0,,[ Humming ]
-Dialogue: 0,0:04:42.07,0:04:43.66,Default,,0,0,0,,Mmm.
+Comment: 0,0:04:42.07,0:04:43.66,Default,,0,0,0,,Mmm.
 Dialogue: 0,0:04:43.69,0:04:45.73,Default,,0,0,0,,But that song\Nis super emotional!
 Dialogue: 0,0:04:45.76,0:04:47.39,Default,,0,0,0,,It's from this movie\Nabout a couple
 Dialogue: 0,0:04:47.42,0:04:48.90,Default,,0,0,0,,who fall in love on a zeppelin,
 Dialogue: 0,0:04:48.94,0:04:50.98,Default,,0,0,0,,and the guy dies\Nwhen the zeppelin blows up!
-Dialogue: 0,0:04:51.01,0:04:52.63,Default,,0,0,0,,Mmm.
+Comment: 0,0:04:51.01,0:04:52.63,Default,,0,0,0,,Mmm.
 Dialogue: 0,0:04:52.67,0:04:54.46,Default,,0,0,0,,Okay.\NMy world has a billion songs.
 Dialogue: 0,0:04:54.50,0:04:56.57,Default,,0,0,0,,I'll find one that works.
 Dialogue: 0,0:04:56.60,0:05:00.05,Default,,0,0,0,,Get ready, car, because I'm\Nabout to blow your heart's mind!
-Dialogue: 0,0:05:00.09,0:05:05.65,Default,,0,0,0,,[ High-pitched voice ]\N♪ I cleave thee
+Dialogue: 0,0:05:00.09,0:05:05.65,Default,,0,0,0,,♪ I cleave thee
 Dialogue: 0,0:05:05.68,0:05:08.75,Default,,0,0,0,,♪ To mine heart
 Dialogue: 0,0:05:08.79,0:05:10.82,Default,,0,0,0,,♪ Girl,\Nyou know it's so true ♪
 Dialogue: 0,0:05:10.86,0:05:13.96,Default,,0,0,0,,♪ That I'm in love with you
@@ -151,7 +128,6 @@ Dialogue: 0,0:05:14.00,0:05:19.87,Default,,0,0,0,,♪ And even my pickup misses\
 Dialogue: 0,0:05:19.90,0:05:21.39,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:05:21.42,0:05:23.01,Default,,0,0,0,,♪ I hope you choke
 Dialogue: 0,0:05:23.04,0:05:26.42,Default,,0,0,0,,♪ On her perfect\Ncookie-cutter world ♪
-Dialogue: 0,0:05:26.46,0:05:28.60,Default,,0,0,0,,♪♪
 Dialogue: 0,0:05:28.63,0:05:31.46,Default,,0,0,0,,♪ I can see\Nour future children ♪
 Dialogue: 0,0:05:31.50,0:05:33.88,Default,,0,0,0,,♪ When I look into your eyes
 Dialogue: 0,0:05:33.91,0:05:34.98,Default,,0,0,0,,Ugh!
@@ -159,18 +135,18 @@ Dialogue: 0,0:05:35.02,0:05:37.75,Default,,0,0,0,,I like the ones about\Nunrequi
 Dialogue: 0,0:05:37.78,0:05:39.92,Default,,0,0,0,,It's like, real, you know?
 Dialogue: 0,0:05:39.96,0:05:43.13,Default,,0,0,0,,Perhaps if we sleep on it,\Nthe right song will come to you.
 Dialogue: 0,0:05:43.17,0:05:45.65,Default,,0,0,0,,You know, you suggest\Nwe "sleep on things" a lot.
-Dialogue: 0,0:05:45.69,0:05:48.76,Default,,0,0,0,,-I am a dog.\N-Oh, right.
+Dialogue: 0,0:05:45.69,0:05:48.76,Default,,0,0,0,split,-I am a dog.\N-Oh, right.
 Dialogue: 0,0:05:48.79,0:05:51.17,Default,,0,0,0,,Well, maybe if we\Njust build a ladder.
 Dialogue: 0,0:05:51.21,0:05:56.14,Default,,0,0,0,,I'm sorry, but your weird\Nsong thing isn't working.
 Dialogue: 0,0:05:56.18,0:05:58.77,Default,,0,0,0,,Now, are you guys gonna help me\Nbuild a ladder, or what?
 Dialogue: 0,0:05:58.80,0:06:00.04,Default,,0,0,0,,Ugh! No thumbs!
-Dialogue: 0,0:06:00.08,0:06:02.60,Default,,0,0,0,,[ Sighs ] Lot of help everyone\Nis in this car.
+Dialogue: 0,0:06:00.08,0:06:02.60,Default,,0,0,0,,Lot of help everyone\Nis in this car.
 Dialogue: 0,0:06:02.63,0:06:04.05,Default,,0,0,0,,Since I couldn't sing it,
 Dialogue: 0,0:06:04.08,0:06:06.67,Default,,0,0,0,,this provides the perfect\Nopportunity to tell you
 Dialogue: 0,0:06:06.71,0:06:08.71,Default,,0,0,0,,the "Ballad of Mustard\Nand Stink Tail."
 Dialogue: 0,0:06:08.74,0:06:10.78,Default,,0,0,0,,Ahem.
 Dialogue: 0,0:06:10.81,0:06:14.16,Default,,0,0,0,,Once, a mighty Corgi emerged\Nfrom the Blue River.
-Dialogue: 0,0:06:14.20,0:06:18.17,Default,,0,0,0,,He towered at a gargantuan\N2 1/2 feet tall.[ Grunting ]
+Dialogue: 0,0:06:14.20,0:06:18.17,Default,,0,0,0,,He towered at a gargantuan\N2 1/2 feet tall.
 Dialogue: 0,0:06:18.20,0:06:21.48,Default,,0,0,0,,The shrewd Stink Tail\Nstole all the bully sticks,
 Dialogue: 0,0:06:21.51,0:06:24.76,Default,,0,0,0,,and when the pups awoke for\Nthe Spring Festival of Plenty,
 Dialogue: 0,0:06:24.79,0:06:28.11,Default,,0,0,0,,not even a kibble\Nlay by the hearth.
@@ -180,16 +156,14 @@ Dialogue: 0,0:06:35.08,0:06:38.01,Default,,0,0,0,,And from that day on,\Nwhen on
 Dialogue: 0,0:06:38.05,0:06:41.67,Default,,0,0,0,,they also saw Stink Tail --\Nbest friends to the end.
 Dialogue: 0,0:06:41.71,0:06:43.12,Default,,0,0,0,,To the end of what?
 Dialogue: 0,0:06:43.16,0:06:45.43,Default,,0,0,0,,Well, their lives.
-Dialogue: 0,0:06:45.47,0:06:47.82,Default,,0,0,0,,-Nice.\N-Guys, I'm done.
+Dialogue: 0,0:06:45.47,0:06:47.82,Default,,0,0,0,split,-Nice.\N-Guys, I'm done.
 Dialogue: 0,0:06:47.85,0:06:49.82,Default,,0,0,0,,Man, that story is really,\Nreally long.
 Dialogue: 0,0:06:49.85,0:06:53.17,Default,,0,0,0,,Mustard's story cannot\Nbe abridged.
 Dialogue: 0,0:06:53.20,0:06:55.13,Default,,0,0,0,,Grump all you want,\Nbut this is gonna work.
-Dialogue: 0,0:06:55.17,0:06:57.10,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:57.14,0:07:01.49,Default,,0,0,0,,[ Grunts ] Yes!\NNo more emotional songs.[ Grunts ]
+Dialogue: 0,0:06:57.14,0:07:01.49,Default,,0,0,0,,Yes!\NNo more emotional songs.
 Dialogue: 0,0:07:01.52,0:07:04.94,Default,,0,0,0,,Sorry, buddy, sometimes you've\Njust got to go logical.
 Dialogue: 0,0:07:04.97,0:07:06.73,Default,,0,0,0,,Oh, no.
 Dialogue: 0,0:07:06.77,0:07:11.46,Default,,0,0,0,,No, no, no, no!\NIt's locked!
-Dialogue: 0,0:07:11.50,0:07:14.53,Default,,0,0,0,,[ Grunts ]
 Dialogue: 0,0:07:14.57,0:07:16.60,Default,,0,0,0,,No! That makes no sense!
 Dialogue: 0,0:07:16.64,0:07:18.09,Default,,0,0,0,,I tried out every possible\Nemotional theme
 Dialogue: 0,0:07:18.12,0:07:20.16,Default,,0,0,0,,to find one that would work.
@@ -199,8 +173,7 @@ Dialogue: 0,0:07:23.96,0:07:25.92,Default,,0,0,0,,even songs about\Ngoing after 
 Dialogue: 0,0:07:25.96,0:07:28.10,Default,,0,0,0,,Like my dream of getting\Nto Game Design Camp,
 Dialogue: 0,0:07:28.13,0:07:30.13,Default,,0,0,0,,which is probably over,\Nlike, forever ago.
 Dialogue: 0,0:07:30.17,0:07:33.03,Default,,0,0,0,,I don't even know how time\Nworks on this dumb train!
-Dialogue: 0,0:07:33.07,0:07:34.83,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:07:34.86,0:07:41.63,Default,,0,0,0,,♪♪
+Comment: 0,0:07:33.07,0:07:34.83,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:07:41.66,0:07:44.60,Default,,0,0,0,,My heart, me singing.
 Dialogue: 0,0:07:44.63,0:07:49.77,Default,,0,0,0,,Not your heart,\Nnot you singing.
 Dialogue: 0,0:07:49.81,0:07:51.78,Default,,0,0,0,,I thought I was supposed\Nto find a song
@@ -214,7 +187,6 @@ Dialogue: 0,0:08:06.24,0:08:07.97,Default,,0,0,0,,immediately.
 Dialogue: 0,0:08:08.00,0:08:10.59,Default,,0,0,0,,So it could just be\Nthe first song I think of?
 Dialogue: 0,0:08:10.62,0:08:11.97,Default,,0,0,0,,That's too arbitrary!
 Dialogue: 0,0:08:12.00,0:08:13.25,Default,,0,0,0,,Seems worth a try.
-Dialogue: 0,0:08:13.28,0:08:18.25,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:18.29,0:08:20.60,Default,,0,0,0,,Okay.
 Dialogue: 0,0:08:20.63,0:08:22.64,Default,,0,0,0,,But if this were\Nthe Scientific Odyssey Trials,
 Dialogue: 0,0:08:22.67,0:08:24.60,Default,,0,0,0,,this would not win an award --
@@ -223,7 +195,6 @@ Dialogue: 0,0:08:26.64,0:08:27.95,Default,,0,0,0,,And, yes,\Nthat is a real thin
 Dialogue: 0,0:08:27.99,0:08:29.30,Default,,0,0,0,,And, yes, I petitioned\Nto remove the category.
 Dialogue: 0,0:08:29.33,0:08:31.92,Default,,0,0,0,,And, no, they didn't.
 Dialogue: 0,0:08:31.95,0:08:33.16,Default,,0,0,0,,Fine! I'm singing!
-Dialogue: 0,0:08:33.20,0:08:34.61,Default,,0,0,0,,[ Sighs ]
 Dialogue: 0,0:08:34.65,0:08:36.10,Default,,0,0,0,,♪ La-la-la-la
 Dialogue: 0,0:08:36.13,0:08:38.27,Default,,0,0,0,,What do I care about? Uh?
 Dialogue: 0,0:08:38.31,0:08:41.62,Default,,0,0,0,,Programming is cool and...
@@ -236,7 +207,6 @@ Dialogue: 0,0:08:56.39,0:08:59.84,Default,,0,0,0,,Huh. Road trips.
 Dialogue: 0,0:08:59.88,0:09:04.26,Default,,0,0,0,,Heh. Huh?
 Dialogue: 0,0:09:04.30,0:09:05.99,Default,,0,0,0,,What?! Oh!
 Dialogue: 0,0:09:06.02,0:09:08.09,Default,,0,0,0,,That's embarrassing,\Nlet me pick a different one.
-Dialogue: 0,0:09:08.13,0:09:13.65,Default,,0,0,0,,[ "Word Up" by Cameo playing ]
 Dialogue: 0,0:09:13.69,0:09:15.00,Default,,0,0,0,,That doesn't make sense!
 Dialogue: 0,0:09:15.03,0:09:16.97,Default,,0,0,0,,Doesn't seem to matter\Nif it makes sense.
 Dialogue: 0,0:09:17.00,0:09:18.79,Default,,0,0,0,,I can't believe\Nthis is happening.
@@ -244,15 +214,14 @@ Dialogue: 0,0:09:18.83,0:09:20.66,Default,,0,0,0,,It's the music of your heart.
 Dialogue: 0,0:09:20.69,0:09:22.28,Default,,0,0,0,,But it isn't emotional at all.
 Dialogue: 0,0:09:22.32,0:09:25.28,Default,,0,0,0,,It's just some song my family\Nused to sing on road trips.
 Dialogue: 0,0:09:25.32,0:09:27.22,Default,,0,0,0,,It's about dancing\Nor something.
-Dialogue: 0,0:09:27.25,0:09:29.12,Default,,0,0,0,,-Gross.\N-Don't listen to him.
+Dialogue: 0,0:09:27.25,0:09:29.12,Default,,0,0,0,split,-Gross.\N-Don't listen to him.
 Dialogue: 0,0:09:29.15,0:09:31.08,Default,,0,0,0,,Just sing.
-Dialogue: 0,0:09:31.12,0:09:32.77,Default,,0,0,0,,[ Groans ]
 Dialogue: 0,0:09:32.81,0:09:35.92,Default,,0,0,0,,♪ Yo, pretty ladies,\Naround the world ♪
 Dialogue: 0,0:09:35.95,0:09:38.09,Default,,0,0,0,,♪ Got a weird thing\Nto show you ♪
 Dialogue: 0,0:09:38.12,0:09:40.30,Default,,0,0,0,,♪ So tell all the boys\Nand girls ♪
 Dialogue: 0,0:09:40.33,0:09:42.30,Default,,0,0,0,,♪ Tell your brother,\Nyour sister ♪
 Dialogue: 0,0:09:42.34,0:09:44.41,Default,,0,0,0,,♪ And your mama, too
-Dialogue: 0,0:09:44.44,0:09:47.00,Default,,0,0,0,,Your heart is fun, Miss Tulip!♪ 'Cause they're about\Nto throw down ♪
+Dialogue: 0,0:09:44.44,0:09:47.00,Default,,0,0,0,split,Your heart is fun, Miss Tulip!♪ 'Cause they're about\Nto throw down ♪
 Dialogue: 0,0:09:47.03,0:09:48.72,Default,,0,0,0,,♪ And you'll know\Njust what to do ♪
 Dialogue: 0,0:09:48.76,0:09:52.97,Default,,0,0,0,,♪ Wave your hands in the air\Nlike you don't care ♪
 Dialogue: 0,0:09:53.00,0:09:56.97,Default,,0,0,0,,♪ Glide by the people as\Nthey stop to look and stare ♪
@@ -260,12 +229,8 @@ Dialogue: 0,0:09:57.01,0:09:59.63,Default,,0,0,0,,♪ Do your dance,\Ndo your da
 Dialogue: 0,0:09:59.66,0:10:01.98,Default,,0,0,0,,♪ Do your dance, quick, Mama
 Dialogue: 0,0:10:02.01,0:10:04.67,Default,,0,0,0,,♪ Come on, baby, tell me\Nwhat's the word ♪
 Dialogue: 0,0:10:04.70,0:10:06.64,Default,,0,0,0,,♪ A-word up!
-Dialogue: 0,0:10:06.67,0:10:08.84,Default,,0,0,0,,[ Thud ]\N-Huh?
-Dialogue: 0,0:10:08.88,0:10:18.34,Default,,0,0,0,,[ Stomping ]
+Dialogue: 0,0:10:06.67,0:10:08.84,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:22.31,0:10:24.31,Default,,0,0,0,,Uh...
-Dialogue: 0,0:10:24.34,0:10:26.00,Default,,0,0,0,,[ Clinks ]
 Dialogue: 0,0:10:32.32,0:10:34.70,Default,,0,0,0,,Ah, oh.
-Dialogue: 0,0:10:42.81,0:10:45.29,Default,,0,0,0,,[ Door unlocks ]\N-Whoa!
+Dialogue: 0,0:10:42.81,0:10:45.29,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:10:58.96,0:11:00.90,Default,,0,0,0,,Huh.
-Dialogue: 0,0:11:02.48,0:11:12.43,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:12.46,0:11:16.12,Default,,0,0,0,,♪♪
