@@ -110,9 +110,9 @@ Dialogue: 0,0:04:15.70,0:04:18.29,Default,,0,0,0,,Ahem.\NDo-do-do-doot.
 Dialogue: 0,0:04:22.50,0:04:24.40,Default,,0,0,0,,Connection failed.
 Dialogue: 0,0:04:24.43,0:04:25.64,Default,,0,0,0,,Don't worry, guys!
 Dialogue: 0,0:04:25.67,0:04:27.88,Default,,0,0,0,,I know a super emotional\Nsong to try.
-Dialogue: 0,0:04:27.92,0:04:31.40,Default,,0,0,0,,♪ High, low
-Dialogue: 0,0:04:31.44,0:04:34.03,Default,,0,0,0,,♪ Wherever we go
-Dialogue: 0,0:04:34.06,0:04:38.93,Default,,0,0,0,,♪ I just know that our souls\Ntwine as one ♪
+Dialogue: 0,0:04:27.92,0:04:31.40,Default,,0,0,0,,High, low
+Dialogue: 0,0:04:31.44,0:04:34.03,Default,,0,0,0,,Wherever we go
+Dialogue: 0,0:04:34.06,0:04:38.93,Default,,0,0,0,,I just know that our souls\Ntwine as one
 Comment: 0,0:04:42.07,0:04:43.66,Default,,0,0,0,,Mmm.
 Dialogue: 0,0:04:43.69,0:04:45.73,Default,,0,0,0,,But that song\Nis super emotional!
 Dialogue: 0,0:04:45.76,0:04:47.39,Default,,0,0,0,,It's from this movie\Nabout a couple
@@ -122,16 +122,16 @@ Comment: 0,0:04:51.01,0:04:52.63,Default,,0,0,0,,Mmm.
 Dialogue: 0,0:04:52.67,0:04:54.46,Default,,0,0,0,,Okay.\NMy world has a billion songs.
 Dialogue: 0,0:04:54.50,0:04:56.57,Default,,0,0,0,,I'll find one that works.
 Dialogue: 0,0:04:56.60,0:05:00.05,Default,,0,0,0,,Get ready, car, because I'm\Nabout to blow your heart's mind!
-Dialogue: 0,0:05:00.09,0:05:05.65,Default,,0,0,0,,♪ I cleave thee
-Dialogue: 0,0:05:05.68,0:05:08.75,Default,,0,0,0,,♪ To mine heart
-Dialogue: 0,0:05:08.79,0:05:10.82,Default,,0,0,0,,♪ Girl,\Nyou know it's so true ♪
-Dialogue: 0,0:05:10.86,0:05:13.96,Default,,0,0,0,,♪ That I'm in love with you
-Dialogue: 0,0:05:14.00,0:05:19.87,Default,,0,0,0,,♪ And even my pickup misses\Nyour face ♪
+Dialogue: 0,0:05:00.09,0:05:05.65,Default,,0,0,0,,I cleave thee
+Dialogue: 0,0:05:05.68,0:05:08.75,Default,,0,0,0,,To mine heart
+Dialogue: 0,0:05:08.79,0:05:10.82,Default,,0,0,0,,Girl,\Nyou know it's so true
+Dialogue: 0,0:05:10.86,0:05:13.96,Default,,0,0,0,,That I'm in love with you
+Dialogue: 0,0:05:14.00,0:05:19.87,Default,,0,0,0,,And even my pickup misses\Nyour face
 Dialogue: 0,0:05:19.90,0:05:21.39,Default,,0,0,0,,Ugh!
-Dialogue: 0,0:05:21.42,0:05:23.01,Default,,0,0,0,,♪ I hope you choke
-Dialogue: 0,0:05:23.04,0:05:26.42,Default,,0,0,0,,♪ On her perfect\Ncookie-cutter world ♪
-Dialogue: 0,0:05:28.63,0:05:31.46,Default,,0,0,0,,♪ I can see\Nour future children ♪
-Dialogue: 0,0:05:31.50,0:05:33.88,Default,,0,0,0,,♪ When I look into your eyes
+Dialogue: 0,0:05:21.42,0:05:23.01,Default,,0,0,0,,I hope you choke
+Dialogue: 0,0:05:23.04,0:05:26.42,Default,,0,0,0,,On her perfect\Ncookie-cutter world
+Dialogue: 0,0:05:28.63,0:05:31.46,Default,,0,0,0,,I can see\Nour future children
+Dialogue: 0,0:05:31.50,0:05:33.88,Default,,0,0,0,,When I look into your eyes
 Dialogue: 0,0:05:33.91,0:05:34.98,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:05:35.02,0:05:37.75,Default,,0,0,0,,I like the ones about\Nunrequited love the most.
 Dialogue: 0,0:05:37.78,0:05:39.92,Default,,0,0,0,,It's like, real, you know?
@@ -199,7 +199,7 @@ Dialogue: 0,0:08:26.64,0:08:27.95,Default,,0,0,0,,And, yes,\Nthat is a real thin
 Dialogue: 0,0:08:27.99,0:08:29.30,Default,,0,0,0,,And, yes, I petitioned\Nto remove the category.
 Dialogue: 0,0:08:29.33,0:08:31.92,Default,,0,0,0,,And, no, they didn't.
 Dialogue: 0,0:08:31.95,0:08:33.16,Default,,0,0,0,,Fine! I'm singing!
-Dialogue: 0,0:08:34.65,0:08:36.10,Default,,0,0,0,,♪ La-la-la-la
+Dialogue: 0,0:08:34.65,0:08:36.10,Default,,0,0,0,,La-la-la-la
 Dialogue: 0,0:08:36.13,0:08:38.27,Default,,0,0,0,,What do I care about? Uh?
 Dialogue: 0,0:08:38.31,0:08:41.62,Default,,0,0,0,,Programming is cool and...
 Dialogue: 0,0:08:41.65,0:08:44.21,Default,,0,0,0,,I like my friends, and, um...
@@ -221,20 +221,20 @@ Dialogue: 0,0:09:25.32,0:09:27.22,Default,,0,0,0,,It's about dancing\Nor somethi
 Dialogue: 0,0:09:27.80,0:09:28.59,Default,,0,0,0,,Gross.
 Dialogue: 0,0:09:28.59,0:09:29.12,Default,,0,0,0,,Don't listen to him.
 Dialogue: 0,0:09:29.15,0:09:31.08,Default,,0,0,0,,Just sing.
-Dialogue: 0,0:09:32.81,0:09:35.92,Default,,0,0,0,,♪ Yo, pretty ladies,\Naround the world ♪
-Dialogue: 0,0:09:35.95,0:09:38.09,Default,,0,0,0,,♪ Got a weird thing\Nto show you ♪
-Dialogue: 0,0:09:38.12,0:09:40.30,Default,,0,0,0,,♪ So tell all the boys\Nand girls ♪
-Dialogue: 0,0:09:40.33,0:09:42.30,Default,,0,0,0,,♪ Tell your brother,\Nyour sister ♪
-Dialogue: 0,0:09:42.34,0:09:44.41,Default,,0,0,0,,♪ And your mama, too
-Dialogue: 0,0:09:44.44,0:09:47.00,Default,,0,0,0,,♪ 'Cause they're about\Nto throw down ♪
+Dialogue: 0,0:09:32.81,0:09:35.92,Default,,0,0,0,,Yo, pretty ladies,\Naround the world
+Dialogue: 0,0:09:35.95,0:09:38.09,Default,,0,0,0,,Got a weird thing\Nto show you
+Dialogue: 0,0:09:38.12,0:09:40.30,Default,,0,0,0,,So tell all the boys\Nand girls
+Dialogue: 0,0:09:40.33,0:09:42.30,Default,,0,0,0,,Tell your brother,\Nyour sister
+Dialogue: 0,0:09:42.34,0:09:44.41,Default,,0,0,0,,And your mama, too
+Dialogue: 0,0:09:44.44,0:09:47.00,Default,,0,0,0,,'Cause they're about\Nto throw down
 Dialogue: 0,0:09:45.23,0:09:47.00,Default,,0,0,0,,{\an8}Your heart is fun, Miss Tulip!
-Dialogue: 0,0:09:47.03,0:09:48.72,Default,,0,0,0,,♪ And you'll know\Njust what to do ♪
-Dialogue: 0,0:09:48.76,0:09:52.97,Default,,0,0,0,,♪ Wave your hands in the air\Nlike you don't care ♪
-Dialogue: 0,0:09:53.00,0:09:56.97,Default,,0,0,0,,♪ Glide by the people as\Nthey stop to look and stare ♪
-Dialogue: 0,0:09:57.01,0:09:59.63,Default,,0,0,0,,♪ Do your dance,\Ndo your dance ♪
-Dialogue: 0,0:09:59.66,0:10:01.98,Default,,0,0,0,,♪ Do your dance, quick, Mama
-Dialogue: 0,0:10:02.01,0:10:04.67,Default,,0,0,0,,♪ Come on, baby, tell me\Nwhat's the word ♪
-Dialogue: 0,0:10:04.70,0:10:06.64,Default,,0,0,0,,♪ A-word up!
+Dialogue: 0,0:09:47.03,0:09:48.72,Default,,0,0,0,,And you'll know\Njust what to do
+Dialogue: 0,0:09:48.76,0:09:52.97,Default,,0,0,0,,Wave your hands in the air\Nlike you don't care
+Dialogue: 0,0:09:53.00,0:09:56.97,Default,,0,0,0,,Glide by the people as\Nthey stop to look and stare
+Dialogue: 0,0:09:57.01,0:09:59.63,Default,,0,0,0,,Do your dance,\Ndo your dance
+Dialogue: 0,0:09:59.66,0:10:01.98,Default,,0,0,0,,Do your dance, quick, Mama
+Dialogue: 0,0:10:02.01,0:10:04.67,Default,,0,0,0,,Come on, baby, tell me\Nwhat's the word
+Dialogue: 0,0:10:04.70,0:10:06.64,Default,,0,0,0,,A-word up!
 Dialogue: 0,0:10:06.67,0:10:08.84,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:22.31,0:10:24.31,Default,,0,0,0,,Uh...
 Dialogue: 0,0:10:32.32,0:10:34.70,Default,,0,0,0,,Ah, oh.
