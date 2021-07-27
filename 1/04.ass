@@ -77,12 +77,14 @@ Dialogue: 0,0:02:39.29,0:02:41.33,Default,,0,0,0,,Do you know how we can\Nget to
 Dialogue: 0,0:02:43.23,0:02:44.75,Default,,0,0,0,,Ah, great!
 Dialogue: 0,0:02:48.40,0:02:50.37,Default,,0,0,0,,Would you mind telling us how?
 Dialogue: 0,0:02:53.00,0:02:56.21,Default,,0,0,0,,It can't speak,\Njust like Atticus.
-Dialogue: 0,0:02:56.24,0:02:57.72,Default,,0,0,0,split,-Huh?\N-Ugh, man.
+Dialogue: 0,0:02:56.66,0:02:57.24,Default,,0,0,0,,Huh?
+Dialogue: 0,0:02:57.24,0:02:57.72,Default,,0,0,0,,Ugh, man.
 Dialogue: 0,0:02:57.76,0:02:59.90,Default,,0,0,0,,This is gonna take awhile.
 Dialogue: 0,0:03:01.11,0:03:04.46,Default,,0,0,0,,And then the steps that lead\Nto the door were stolen
 Dialogue: 0,0:03:04.49,0:03:07.22,Default,,0,0,0,,by a...giant spider...
 Dialogue: 0,0:03:07.25,0:03:09.49,Default,,0,0,0,,made of metal?
-Dialogue: 0,0:03:09.53,0:03:10.84,Default,,0,0,0,split,-Huh?\N-Oh!
+Dialogue: 0,0:03:09.67,0:03:10.50,Default,,0,0,0,,Huh?
+Dialogue: 0,0:03:10.50,0:03:10.84,Default,,0,0,0,,Oh!
 Dialogue: 0,0:03:10.88,0:03:12.70,Default,,0,0,0,,Like my spindly friend\Nin Corginia.
 Dialogue: 0,0:03:12.74,0:03:14.74,Default,,0,0,0,,One-One, that thing\Nwasn't your friend.
 Dialogue: 0,0:03:14.78,0:03:16.54,Default,,0,0,0,,Goodness!\NWas it my mum?
@@ -135,7 +137,8 @@ Dialogue: 0,0:05:35.02,0:05:37.75,Default,,0,0,0,,I like the ones about\Nunrequi
 Dialogue: 0,0:05:37.78,0:05:39.92,Default,,0,0,0,,It's like, real, you know?
 Dialogue: 0,0:05:39.96,0:05:43.13,Default,,0,0,0,,Perhaps if we sleep on it,\Nthe right song will come to you.
 Dialogue: 0,0:05:43.17,0:05:45.65,Default,,0,0,0,,You know, you suggest\Nwe "sleep on things" a lot.
-Dialogue: 0,0:05:45.69,0:05:48.76,Default,,0,0,0,split,-I am a dog.\N-Oh, right.
+Dialogue: 0,0:05:46.41,0:05:47.74,Default,,0,0,0,,I am a dog.
+Dialogue: 0,0:05:47.74,0:05:48.76,Default,,0,0,0,,Oh, right.
 Dialogue: 0,0:05:48.79,0:05:51.17,Default,,0,0,0,,Well, maybe if we\Njust build a ladder.
 Dialogue: 0,0:05:51.21,0:05:56.14,Default,,0,0,0,,I'm sorry, but your weird\Nsong thing isn't working.
 Dialogue: 0,0:05:56.18,0:05:58.77,Default,,0,0,0,,Now, are you guys gonna help me\Nbuild a ladder, or what?
@@ -156,7 +159,8 @@ Dialogue: 0,0:06:35.08,0:06:38.01,Default,,0,0,0,,And from that day on,\Nwhen on
 Dialogue: 0,0:06:38.05,0:06:41.67,Default,,0,0,0,,they also saw Stink Tail --\Nbest friends to the end.
 Dialogue: 0,0:06:41.71,0:06:43.12,Default,,0,0,0,,To the end of what?
 Dialogue: 0,0:06:43.16,0:06:45.43,Default,,0,0,0,,Well, their lives.
-Dialogue: 0,0:06:45.47,0:06:47.82,Default,,0,0,0,split,-Nice.\N-Guys, I'm done.
+Dialogue: 0,0:06:45.64,0:06:46.89,Default,,0,0,0,,Nice.
+Dialogue: 0,0:06:46.89,0:06:47.82,Default,,0,0,0,,Guys, I'm done.
 Dialogue: 0,0:06:47.85,0:06:49.82,Default,,0,0,0,,Man, that story is really,\Nreally long.
 Dialogue: 0,0:06:49.85,0:06:53.17,Default,,0,0,0,,Mustard's story cannot\Nbe abridged.
 Dialogue: 0,0:06:53.20,0:06:55.13,Default,,0,0,0,,Grump all you want,\Nbut this is gonna work.
@@ -214,14 +218,16 @@ Dialogue: 0,0:09:18.83,0:09:20.66,Default,,0,0,0,,It's the music of your heart.
 Dialogue: 0,0:09:20.69,0:09:22.28,Default,,0,0,0,,But it isn't emotional at all.
 Dialogue: 0,0:09:22.32,0:09:25.28,Default,,0,0,0,,It's just some song my family\Nused to sing on road trips.
 Dialogue: 0,0:09:25.32,0:09:27.22,Default,,0,0,0,,It's about dancing\Nor something.
-Dialogue: 0,0:09:27.25,0:09:29.12,Default,,0,0,0,split,-Gross.\N-Don't listen to him.
+Dialogue: 0,0:09:27.80,0:09:28.59,Default,,0,0,0,,Gross.
+Dialogue: 0,0:09:28.59,0:09:29.12,Default,,0,0,0,,Don't listen to him.
 Dialogue: 0,0:09:29.15,0:09:31.08,Default,,0,0,0,,Just sing.
 Dialogue: 0,0:09:32.81,0:09:35.92,Default,,0,0,0,,♪ Yo, pretty ladies,\Naround the world ♪
 Dialogue: 0,0:09:35.95,0:09:38.09,Default,,0,0,0,,♪ Got a weird thing\Nto show you ♪
 Dialogue: 0,0:09:38.12,0:09:40.30,Default,,0,0,0,,♪ So tell all the boys\Nand girls ♪
 Dialogue: 0,0:09:40.33,0:09:42.30,Default,,0,0,0,,♪ Tell your brother,\Nyour sister ♪
 Dialogue: 0,0:09:42.34,0:09:44.41,Default,,0,0,0,,♪ And your mama, too
-Dialogue: 0,0:09:44.44,0:09:47.00,Default,,0,0,0,split,Your heart is fun, Miss Tulip!♪ 'Cause they're about\Nto throw down ♪
+Dialogue: 0,0:09:44.44,0:09:47.00,Default,,0,0,0,,♪ 'Cause they're about\Nto throw down ♪
+Dialogue: 0,0:09:45.23,0:09:47.00,Default,,0,0,0,,{\an8}Your heart is fun, Miss Tulip!
 Dialogue: 0,0:09:47.03,0:09:48.72,Default,,0,0,0,,♪ And you'll know\Njust what to do ♪
 Dialogue: 0,0:09:48.76,0:09:52.97,Default,,0,0,0,,♪ Wave your hands in the air\Nlike you don't care ♪
 Dialogue: 0,0:09:53.00,0:09:56.97,Default,,0,0,0,,♪ Glide by the people as\Nthey stop to look and stare ♪
