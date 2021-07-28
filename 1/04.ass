@@ -10,6 +10,7 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
+Last Style Storage: Default
 Audio File: raw/04.mkv
 Video File: raw/04.mkv
 Keyframes File: kf/04.txt
@@ -27,7 +28,7 @@ Dialogue: 0,0:00:21.46,0:00:22.63,Default,Tulip,0,0,0,,Mwah!
 Dialogue: 0,0:00:22.63,0:00:23.92,Default,Tulip,0,0,0,,We'll miss you, Nancy!
 Dialogue: 0,0:00:23.92,0:00:26.51,Default,Tulip,0,0,0,,We know your restaurant\Nwill be a big success.
 Dialogue: 0,0:00:26.51,0:00:29.55,Default,Tulip,0,0,0,,You've come a long way\Nin your pasta-making.
-Dialogue: 0,0:00:35.06,0:00:36.18,Default,Tulip,0,0,0,,Oh.
+Comment: 0,0:00:35.06,0:00:36.18,Default,Tulip,0,0,0,,Mnh.
 Dialogue: 0,0:00:39.94,0:00:42.23,Default,Tulip,0,0,0,,Okay, so let's break down\Nthe Straight-Up Italy Car.
 Dialogue: 0,0:00:42.23,0:00:44.90,Default,Atticus,0,0,0,,I thought we agreed to call it\Nthe Mediterranean Republic Car.
 Dialogue: 0,0:00:44.90,0:00:47.11,Default,Tulip,0,0,0,,There were at least two things\Nthat happened in there
@@ -68,13 +69,13 @@ Dialogue: 0,0:02:20.75,0:02:21.95,Default,Atticus,0,0,0,,one may come from above
 Dialogue: 0,0:02:23.50,0:02:24.46,Default,Atticus,0,0,0,,Right again!
 Dialogue: 0,0:02:24.46,0:02:25.79,Default,Atticus,0,0,0,,If anyone's keeping track,
 Dialogue: 0,0:02:25.79,0:02:27.84,Default,Atticus,0,0,0,,I think I'm winning\Nat being right about things.
-Dialogue: 0,0:02:27.84,0:02:29.75,Default,Glad-One,0,0,0,,I've been keeping track, and you are!
+Dialogue: 0,0:02:27.84,0:02:29.75,Default,Glad-One,0,0,0,,I've been keeping track, \Nand you are!
 Dialogue: 0,0:02:29.75,0:02:31.76,Default,Tulip,0,0,0,,Maybe we should try\Nbuilding a ladder.
 Dialogue: 0,0:02:37.68,0:02:39.43,Default,Tulip,0,0,0,,Oh! Hi!
 Dialogue: 0,0:02:39.43,0:02:41.72,Default,Tulip,0,0,0,,Do you know how we can\Nget to the door up there?
 Dialogue: 0,0:02:43.31,0:02:44.98,Default,Tulip,0,0,0,,Ah, great!
-Dialogue: 0,0:02:48.44,0:02:50.48,Default,Tulip,0,0,0,,Would you mind telling us how?
-Dialogue: 0,0:02:53.95,0:02:56.66,Default,Glad-One,0,0,0,,It can't speak! \NJust like Atticus.
+Dialogue: 0,0:02:48.44,0:02:50.48,Default,Atticus,0,0,0,,Would you mind telling us how?
+Dialogue: 0,0:02:53.95,0:02:56.66,Default,Glad-One,0,0,0,,He can't speak! \NJust like Atticus.
 Dialogue: 0,0:02:56.66,0:02:57.24,Default,Atticus,0,0,0,,Huh?
 Dialogue: 0,0:02:57.24,0:02:58.32,Default,Tulip,0,0,0,,Ugh, man.
 Dialogue: 0,0:02:58.32,0:03:00.16,Default,Tulip,0,0,0,,This is gonna take a while.
@@ -98,7 +99,7 @@ Dialogue: 0,0:03:41.99,0:03:45.25,Default,Sad-One,0,0,0,,You never take my psych
 Dialogue: 0,0:03:46.79,0:03:48.58,Default,Tulip,0,0,0,,Oh! Do we have to sing?
 Dialogue: 0,0:03:50.88,0:03:52.59,Default,Atticus,0,0,0,,Hmm. Big heart?
 Dialogue: 0,0:03:52.59,0:03:55.30,Default,Atticus,0,0,0,,Very emotional, perhaps. Or important?
-Dialogue: 0,0:03:55.30,0:03:57.97,Default,Atticus,0,0,0,,My people have a song\Nabout a folk-hero of ours:
+Dialogue: 0,0:03:55.30,0:03:57.97,Default,Atticus,0,0,0,,My people have a song\Nabout a folk hero of ours:
 Dialogue: 0,0:03:57.97,0:03:59.97,Default,Atticus,0,0,0,,{\i1}The Ballad of Mustard and Stink Tail{\i0}!
 Dialogue: 0,0:03:59.97,0:04:03.97,Default,Atticus,0,0,0,,It's got drama, pathos,\Nand a bit of bawdy humor.
 Comment: 0,0:04:07.94,0:04:09.40,Default,Greige,0,0,0,,Mnh-mnh.
@@ -114,7 +115,7 @@ Dialogue: 0,0:04:28.04,0:04:31.38,Default,Tulip,0,0,0,,{\i1}High, low
 Dialogue: 0,0:04:31.38,0:04:34.13,Default,Tulip,0,0,0,,{\i1}Wherever we go
 Dialogue: 0,0:04:34.13,0:04:39.18,Default,Tulip,0,0,0,,{\i1}I just know that our souls twine as one
 Comment: 0,0:04:41.97,0:04:43.35,Default,Greige,0,0,0,,Mmm.
-Dialogue: 0,0:04:43.35,0:04:45.52,Default,Tulip,0,0,0,,But that song is {\i1}super{\i0} emotional!
+Dialogue: 0,0:04:43.35,0:04:45.52,Default,Tulip,0,0,0,,But that song is super emotional!
 Dialogue: 0,0:04:45.52,0:04:48.56,Default,Tulip,0,0,0,,It's from this movie about a couple \Nwho fall in love on a zeppelin,
 Dialogue: 0,0:04:48.56,0:04:50.85,Default,Tulip,0,0,0,,and the guy dies\Nwhen the zeppelin blows up!
 Comment: 0,0:04:50.85,0:04:52.52,Default,Greige,0,0,0,,Mmm.
