@@ -228,6 +228,10 @@ Dialogue: 0,0:09:00.60,0:09:01.73,Default,Tulip,0,0,0,,Heh.
 Dialogue: 0,0:09:01.73,0:09:02.19,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:09:05.36,0:09:06.07,Default,Tulip,0,0,0,,What?
 Dialogue: 0,0:09:06.07,0:09:08.69,Default,Tulip,0,0,0,,Ugh, that's embarrassing! \NLemme pick a different one.
+Dialogue: 0,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\move(32,-128,32,0,0,400)\fad(0,400)\p1\an7\bord0\shad0\1a&H3F&\c&H020202&}m 0 0 l 320 0 320 128 0 128
+Dialogue: 1,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\bord0\shad0\an5\fs128\move(72,-72,72,56,0,400)\fad(0,400)\blur0.8}𝅘𝅥
+Dialogue: 1,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\bord0\shad0\an4\fs36\move(120,-92,120,36,0,400)\fad(0,400)\blur0.8\b1\fnArial}Cameo
+Dialogue: 1,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\bord0\shad0\an4\fs48\move(120,-44,120,84,0,400)\fad(0,400)\blur0.8\b0\fnArial}Word Up
 Dialogue: 0,0:09:14.78,0:09:16.12,Default,Tulip,0,0,0,,That doesn't make sense!
 Dialogue: 0,0:09:16.12,0:09:17.62,Default,Atticus,0,0,0,,Doesn't seem to matter\Nif it makes sense.
 Dialogue: 0,0:09:17.62,0:09:19.54,Default,Tulip,0,0,0,,I can't believe\Nthis is happening.
