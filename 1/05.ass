@@ -30,7 +30,8 @@ Dialogue: 0,0:00:19.58,0:00:20.38,Default,Tulip,0,0,0,,Aah!
 Dialogue: 0,0:00:34.56,0:00:36.98,Default,Tulip,0,0,0,,So cars on the train\Ncan just move around?
 Dialogue: 0,0:00:36.98,0:00:38.35,Default,Glad-One,0,0,0,,I like it!
 Dialogue: 0,0:00:38.35,0:00:40.98,Default,Glad-One,0,0,0,,Feels wild and unpredictable.
-Dialogue: 0,0:00:42.61,0:00:45.86,Default,Tulip,0,0,0,,Whoa! What is this place?
+Dialogue: 0,0:00:42.61,0:00:43.69,Default,Tulip,0,0,0,,Whoa!
+Dialogue: 0,0:00:44.23,0:00:45.86,Default,Tulip,0,0,0,,What is this place?
 Dialogue: 0,0:00:45.86,0:00:47.57,Default,Atticus,0,0,0,,It looks to be a study.
 Dialogue: 0,0:00:47.57,0:00:49.99,Default,Sad-One,0,0,0,,What do they study, hoarding?
 Dialogue: 0,0:00:57.87,0:00:58.54,Default,Tulip,0,0,0,,Hey, get out of there.
@@ -59,7 +60,7 @@ Dialogue: 0,0:01:52.97,0:01:54.01,Default,The Cat,0,0,0,,I apologize.
 Dialogue: 0,0:01:54.01,0:01:57.18,Default,The Cat,0,0,0,,Everything here is \Nextremely important to me.
 Dialogue: 0,0:01:57.18,0:01:59.10,Default,Tulip,0,0,0,,Yeah, well, it's really dusty\Nand boring to me,
 Dialogue: 0,0:01:59.10,0:01:59.93,Default,Tulip,0,0,0,,so we're leaving.
-Dialogue: 0,0:01:59.93,0:02:01.98,Default,Glad-One,0,0,0,,Goodbye,\Nformer kidnapper!
+Dialogue: 0,0:01:59.93,0:02:01.98,Default,Glad-One,0,0,0,,Goodbye, former kidnapper!
 Dialogue: 0,0:02:01.98,0:02:04.94,Default,Glad-One,0,0,0,,I miss you already \Nand it's emotionally confusing.
 Dialogue: 0,0:02:04.94,0:02:07.52,Default,The Cat,0,0,0,,Wait! Don't you want to \Nexplore the kismet
 Dialogue: 0,0:02:07.52,0:02:08.73,Default,The Cat,0,0,0,,that brought us together?
@@ -91,7 +92,7 @@ Dialogue: 0,0:03:01.74,0:03:03.29,Default,Tulip,0,0,0,,How's this connected\Nto 
 Dialogue: 0,0:03:03.29,0:03:04.96,Default,Tulip,0,0,0,,Who made it?\NHow does it help me?
 Dialogue: 0,0:03:04.96,0:03:08.33,Default,The Cat,0,0,0,,My dear, it will be much simpler\Nif we just watch.
 Dialogue: 0,0:03:09.96,0:03:10.84,Default,Tulip,0,0,0,,Uh...
-Dialogue: 0,0:03:10.84,0:03:12.05,Default,The Cat,0,0,0,,In you go.
+Dialogue: 0,0:03:10.84,0:03:11.80,Default,The Cat,0,0,0,,In you go.
 Dialogue: 0,0:03:12.71,0:03:13.88,Default,Atticus,0,0,0,,I'm not sure about this.
 Dialogue: 0,0:03:15.76,0:03:16.38,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:03:17.39,0:03:18.22,Default,Atticus,0,0,0,,Maybe you shouldn't—
@@ -108,13 +109,14 @@ Dialogue: 0,0:03:47.50,0:03:50.29,Default,Tulip,0,0,90,Tape,Mom, look!\NI can se
 Dialogue: 0,0:03:50.29,0:03:52.04,Default,Tulip,0,0,0,Tape,and part of his pants.
 Dialogue: 0,0:03:52.04,0:03:52.88,Default,Tulip,0,0,0,,Aww!
 Comment: 0,0:03:54.17,0:03:55.01,Default,Tulip,0,0,0,,Ahh!
-Dialogue: 0,0:03:55.76,0:03:58.59,Default,Tulip,0,0,0,,Hey. You're me.
+Dialogue: 0,0:03:55.76,0:03:57.05,Default,Tulip,0,0,0,,Hey.
+Dialogue: 0,0:03:57.05,0:03:58.59,Default,Tulip,0,0,0,,You're me.
 Dialogue: 0,0:03:58.59,0:04:00.39,Default,Tulip,0,0,0,Tape,{\i1}Wave your hands in the air
 Dialogue: 0,0:04:00.39,0:04:03.06,Default,Megan/Andy,0,0,0,Tape,{\i1}Like you don't care
 Dialogue: 0,0:04:03.06,0:04:04.77,Default,Tulip,0,0,0,,What's going on?
 Dialogue: 0,0:04:04.77,0:04:06.48,Default,Tulip,0,0,0,,Whoa! DolphWorld?
 Dialogue: 0,0:04:06.48,0:04:08.77,Default,Tulip,0,0,0,,Oh, I used to love this place!
-Dialogue: 0,0:04:08.77,0:04:11.15,Default,Tulip,0,0,0,,I wonder why it closed.
+Dialogue: 0,0:04:08.77,0:04:10.61,Default,Tulip,0,0,0,,I wonder why it closed.
 Dialogue: 0,0:04:12.15,0:04:15.57,Default,Megan,0,0,0,Tape,Oh, Tulip, how about\Nthose dolphins?
 Dialogue: 0,0:04:15.57,0:04:17.49,Default,Tulip,0,0,0,Tape,They look so beautiful\Nin their natural state.
 Dialogue: 0,0:04:19.24,0:04:20.82,Default,Megan/Tulip/Andy,0,0,0,Tape,A pyramid!
@@ -137,7 +139,7 @@ Dialogue: 0,0:05:06.04,0:05:06.99,Default,Tulip,0,0,0,,What was that?
 Dialogue: 0,0:05:06.99,0:05:08.25,Default,Andy,0,0,0,Tape,Great news, Bud!
 Dialogue: 0,0:05:08.25,0:05:10.54,Default,Megan,0,0,0,Tape,You got a full scholarship to Vassar,
 Dialogue: 0,0:05:10.54,0:05:14.34,Default,Megan,0,0,0,Tape,the school for smart people\Ntoo creative for their own good!
-Dialogue: 0,0:05:14.34,0:05:16.00,Default,Tulip,0,0,0,,Ah, that's better!
+Dialogue: 0,0:05:14.34,0:05:16.00,Default,Tulip,0,0,0,,Ah, that's better.
 Dialogue: 0,0:05:16.00,0:05:17.88,Default,Andy,0,0,0,Tape,But who cares about school?
 Dialogue: 0,0:05:17.88,0:05:19.55,Default,Andy,0,0,0,Tape,Step aside, Shigeru.
 Dialogue: 0,0:05:19.55,0:05:23.72,Default,Andy,0,0,0,Tape,You just became Ultra-Galactic \NWorld President of Game Design!
@@ -155,7 +157,7 @@ Dialogue: 0,0:05:56.42,0:05:58.05,Default,Tulip,0,0,0,,This isn't how it happene
 Dialogue: 0,0:05:59.42,0:06:03.18,Default,Dolphin Handler,0,0,0,Tape,Uh, let's hear it for Dolphmu!
 Dialogue: 0,0:06:03.18,0:06:04.80,Default,Dolphin Handler,0,0,0,Tape,What do you mean\Nshe won't wake up?
 Dialogue: 0,0:06:04.80,0:06:07.64,Default,Tulip,0,0,0,,Oh. So {\i1}that's{\i0} why\Nthey closed DolphWorld.
-Dialogue: 0,0:06:07.64,0:06:10.47,Default,Tulip,0,0,0,Tape,Mom, Dad,\Ncan we move closer?
+Dialogue: 0,0:06:07.64,0:06:10.47,Default,Tulip,0,0,0,Tape,Mom, Dad,\Ncan—can we move closer?
 Dialogue: 0,0:06:10.47,0:06:13.31,Default,Megan,0,0,0,Tape,See? I told you she needed glasses, Andy.
 Dialogue: 0,0:06:13.31,0:06:15.65,Default,Andy,0,0,0,Tape,Well, maybe you should've taken\Nher to the optometrist, Megan.
 Dialogue: 0,0:06:15.65,0:06:17.06,Default,Megan,0,0,0,Tape,When? When am I supposed to do that?
@@ -198,7 +200,7 @@ Dialogue: 0,0:07:53.83,0:07:54.54,Default,Tulip,0,0,0,Tape,What?
 Dialogue: 0,0:07:54.54,0:07:57.50,Default,Megan,0,0,0,Tape,You might have noticed\NDad and I have...
 Dialogue: 0,0:07:57.50,0:07:59.04,Default,Megan,0,0,0,Tape,problems, sometimes...
 Dialogue: 0,0:07:59.04,0:08:01.71,Default,Megan,0,0,0,Tape,like... arguments, things like that.
-Dialogue: 0,0:08:02.92,0:08:05.59,Default,Andy,0,0,0,Tape,We've tried to fix things, but... 
+Dialogue: 0,0:08:02.92,0:08:05.59,Default,Andy,0,0,0,Tape,We've tried to fix things, but...
 Dialogue: 0,0:08:06.17,0:08:09.34,Default,Andy,0,0,0,Tape,your mom and I decided \Nto take some time off from each other.
 Dialogue: 0,0:08:09.64,0:08:11.43,Default,Andy,0,0,0,Tape,Are you... okay?
 Dialogue: 0,0:08:11.43,0:08:13.31,Default,Tulip,0,0,0,Tape,Yeah. Why wouldn't I be?
@@ -210,7 +212,7 @@ Dialogue: 0,0:08:19.31,0:08:21.90,Default,Megan,0,0,0,Tape,Right now, we're just
 Dialogue: 0,0:08:21.90,0:08:24.07,Default,Tulip,0,0,0,Tape,But then you're gonna\Nget divorced after that.
 Dialogue: 0,0:08:24.07,0:08:25.65,Default,Tulip,0,0,0,,"It's not that simple."
 Dialogue: 0,0:08:26.11,0:08:27.99,Default,Andy,0,0,0,Tape,It's not that simple, Bud.
-Dialogue: 0,0:08:27.99,0:08:30.57,Default,Tulip,0,0,0,Tape,Yeah, it is. \NYou're either married or your not.
+Dialogue: 0,0:08:27.99,0:08:30.57,Default,Tulip,0,0,0,Tape,Yeah, it is. \NYou're either married or you're not.
 Dialogue: 0,0:08:30.57,0:08:31.49,Default,Tulip,0,0,0,Tape,What else is there?
 Dialogue: 0,0:08:31.49,0:08:32.58,Default,Megan,0,0,0,Tape,Tulip, please.
 Dialogue: 0,0:08:32.58,0:08:35.08,Default,Megan,0,0,0,Tape,We just want you to know \Nnone of this is your fault.
@@ -226,7 +228,7 @@ Dialogue: 0,0:08:51.97,0:08:55.64,Default,Tulip,0,0,0,Tape,Things were fine, but
 Dialogue: 0,0:08:56.77,0:08:59.14,Default,Tulip,0,0,0,,That's definitely\Nwhat happened.
 Dialogue: 0,0:08:59.14,0:09:01.56,Default,Tulip,0,0,0,,But knowing it sure\Ndoesn't feel any better.
 Dialogue: 0,0:09:02.06,0:09:05.61,Default,Tulip,0,0,0,,I guess... {\i1}I{\i0} was the one\Nchanging my memories.
-Dialogue: 0,0:09:06.73,0:09:07.28,Default,Tulip,0,0,0,,Whoa!
+Comment: 0,0:09:06.73,0:09:07.28,Default,Tulip,0,0,0,,Whoa!
 Dialogue: 0,0:09:10.74,0:09:13.37,Default,Atticus,0,0,0,,...watch that tape without\Nthoroughly sniffing it first!
 Comment: 0,0:09:13.37,0:09:14.03,Default,Tulip,0,0,0,,Ugh.
 Dialogue: 0,0:09:15.49,0:09:18.16,Default,The Cat,0,0,0,,Why, look at that!\NAwake already.
@@ -240,7 +242,7 @@ Dialogue: 0,0:09:33.59,0:09:34.68,Default,Tulip,0,0,0,,I don't care.
 Dialogue: 0,0:09:36.68,0:09:37.77,Default,The Cat,0,0,0,,But it's going down!
 Dialogue: 0,0:09:37.77,0:09:39.27,Default,The Cat,0,0,0,,The train must think\Nyou're doing well.
 Dialogue: 0,0:09:39.27,0:09:40.81,Default,Tulip,0,0,0,,Oh, wow!
-Dialogue: 0,0:09:40.81,0:09:43.02,Default,Tulip,0,0,0,,So, it's a good thing\Nmy number's going down?
+Dialogue: 0,0:09:40.81,0:09:43.02,Default,Tulip,0,0,0,,So it's a good thing\Nmy number's going down?
 Dialogue: 0,0:09:43.02,0:09:45.23,Default,Tulip,0,0,0,,I'm growing as a person?
 Dialogue: 0,0:09:45.23,0:09:46.11,Default,Tulip,0,0,0,,Thanks, train!
 Dialogue: 0,0:09:46.11,0:09:49.36,Default,Tulip,0,0,0,,So glad an inanimate object likes me!
@@ -259,4 +261,5 @@ Dialogue: 0,0:10:40.62,0:10:42.25,Default,The Cat,0,0,0,,who can help you...
 Dialogue: 0,0:10:42.25,0:10:44.29,Default,The Cat,0,0,0,,find... them!
 Dialogue: 0,0:10:48.00,0:10:50.96,Default,The Cat,0,0,0,,Thank you.\NI will not disappoint.
 Dialogue: 0,0:10:52.30,0:10:54.30,Default,Steward,0,0,0,,Do not fail again!
-Dialogue: 0,0:10:55.47,0:10:58.72,Default,The Cat,0,0,0,,No. No!\NMy—My things!
+Dialogue: 0,0:10:55.47,0:10:56.97,Default,The Cat,0,0,0,,No. No!
+Dialogue: 0,0:10:56.97,0:10:58.72,Default,The Cat,0,0,0,,My—My things!
