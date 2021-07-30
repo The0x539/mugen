@@ -22,49 +22,41 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.45,0:00:10.18,Default,,0,0,0,,♪♪
 Dialogue: 0,0:00:10.21,0:00:14.01,Default,,0,0,0,,Ahh. I think it's safe to say\Nwe took care of that spa car.
 Dialogue: 0,0:00:14.04,0:00:15.84,Default,,0,0,0,,Sorry we had to bail\Non that salt scrub,
 Dialogue: 0,0:00:15.87,0:00:18.05,Default,,0,0,0,,but if we want to get anywhere,\Nwe got to keep moving.
-Dialogue: 0,0:00:18.08,0:00:21.43,Default,,0,0,0,,Sad-One: I'll never get\Nmy youthful glow back.
+Dialogue: 0,0:00:18.08,0:00:21.43,Default,,0,0,0,,I'll never get\Nmy youthful glow back.
 Dialogue: 0,0:00:21.46,0:00:23.57,Default,,0,0,0,,Atticus, you holding up?
 Dialogue: 0,0:00:24.78,0:00:27.19,Default,,0,0,0,,I think your people may have\Na different definition
 Dialogue: 0,0:00:27.23,0:00:28.71,Default,,0,0,0,,of relaxation.
 Dialogue: 0,0:00:28.75,0:00:32.89,Default,,0,0,0,,They didn't even give us\Nkerchiefs when we were finished.
-Dialogue: 0,0:00:32.92,0:00:35.44,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:35.48,0:00:37.20,Default,,0,0,0,,[ Sighs ] We're not gonna\Nstress ourselves out.
+Dialogue: 0,0:00:35.48,0:00:37.20,Default,,0,0,0,ed,We're not gonna\Nstress ourselves out.
 Dialogue: 0,0:00:37.24,0:00:38.62,Default,,0,0,0,,We're gonna stay positive,
 Dialogue: 0,0:00:38.65,0:00:40.90,Default,,0,0,0,,and we are gonna take this\None car at a time.
-Dialogue: 0,0:00:40.93,0:00:43.35,Default,,0,0,0,,Glad-One: ♪ When you scrub up,\Nyou lift your heart up ♪
-Dialogue: 0,0:00:43.38,0:00:46.42,Default,,0,0,0,,♪ You gotta be clean,\Nclean, clean ♪
-Dialogue: 0,0:00:46.46,0:00:51.05,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:51.08,0:00:55.91,Default,,0,0,0,,♪ But when the...clean\Nis...clean.. ♪
-Dialogue: 0,0:00:55.95,0:00:58.09,Default,,0,0,0,,[ Click ]
+Dialogue: 0,0:00:40.93,0:00:43.35,Default,,0,0,0,,When you scrub up,\Nyou lift your heart up
+Dialogue: 0,0:00:43.38,0:00:46.42,Default,,0,0,0,,You gotta be clean,\Nclean, clean
+Dialogue: 0,0:00:51.08,0:00:55.91,Default,,0,0,0,,But when the...clean\Nis...clean...
 Dialogue: 0,0:00:58.12,0:01:01.82,Default,,0,0,0,,First things first,\Nlet's check for danger.
 Dialogue: 0,0:01:01.85,0:01:05.92,Default,,0,0,0,,No spikes, mummies...\Nemotional manipulation.
 Dialogue: 0,0:01:05.96,0:01:08.27,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:01:08.30,0:01:10.44,Default,,0,0,0,,Whoa-ho-ho!\NNeat!
-Dialogue: 0,0:01:10.48,0:01:12.76,Default,,0,0,0,,[ Chuckles ]\NGravity car?
+Dialogue: 0,0:01:10.48,0:01:12.76,Default,,0,0,0,,Gravity car?
 Dialogue: 0,0:01:12.79,0:01:13.93,Default,,0,0,0,,My goodness.
 Dialogue: 0,0:01:13.97,0:01:17.76,Default,,0,0,0,,I've always suspected stairs\Ncan't be trusted.
-Dialogue: 0,0:01:17.80,0:01:21.08,Default,,0,0,0,,♪♪
-Dialogue: 0,0:01:21.11,0:01:22.39,Default,,0,0,0,,[ Beeping ]
 Dialogue: 0,0:01:22.42,0:01:23.49,Default,,0,0,0,,One-One, you okay?
 Dialogue: 0,0:01:23.53,0:01:26.46,Default,,0,0,0,,Oh! Uh...it's broken!
-Dialogue: 0,0:01:26.50,0:01:28.12,Default,,0,0,0,,Sad-One: I broke it.
-Dialogue: 0,0:01:28.15,0:01:29.46,Default,,0,0,0,,W-What do you --[ Horn trumpets ]
+Dialogue: 0,0:01:26.50,0:01:28.12,Default,,0,0,0,,I broke it.
+Dialogue: 0,0:01:28.15,0:01:29.46,Default,,0,0,0,,W-What do you --
 Dialogue: 0,0:01:29.50,0:01:31.78,Default,,0,0,0,,I think\Nthe inhabitants found us.
 Dialogue: 0,0:01:31.81,0:01:34.85,Default,,0,0,0,,But did they send ambassadors\Nor warriors?
-Dialogue: 0,0:01:34.88,0:01:37.13,Default,,0,0,0,,♪♪
 Dialogue: 0,0:01:37.16,0:01:38.65,Default,,0,0,0,,Royalty!
 Dialogue: 0,0:01:38.68,0:01:40.58,Default,,0,0,0,,Gravity...turtle car?
 Dialogue: 0,0:01:40.61,0:01:42.79,Default,,0,0,0,,Announcing\Nhis supreme excellency!
 Dialogue: 0,0:01:42.82,0:01:45.31,Default,,0,0,0,,Please, extend your necks\Nin adoration!
-Dialogue: 0,0:01:45.34,0:01:48.17,Default,,0,0,0,,♪♪
 Dialogue: 0,0:01:48.21,0:01:50.45,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:01:50.48,0:01:52.80,Default,,0,0,0,,I am Aloysius III,
 Dialogue: 0,0:01:52.83,0:01:56.15,Default,,0,0,0,,Emperor and Unifier of the Hard-\Nand Soft-Shelled.
-Dialogue: 0,0:01:56.18,0:01:58.29,Default,,0,0,0,,Tacos?Turtles.
+Dialogue: 0,0:01:56.18,0:01:58.29,Default,,0,0,0,split,Tacos?Turtles.
 Dialogue: 0,0:01:58.32,0:02:00.77,Default,,0,0,0,,Tsk! Come now,\NTulip. Ugh!
 Dialogue: 0,0:02:00.81,0:02:03.12,Default,,0,0,0,,So, who will be\Nannouncing whom?
 Dialogue: 0,0:02:03.15,0:02:04.88,Default,,0,0,0,,Oh, uh, I'm Tulip.
@@ -81,19 +73,17 @@ Dialogue: 0,0:02:24.24,0:02:26.49,Default,,0,0,0,,Naturally. We can show you\Nto
 Dialogue: 0,0:02:26.52,0:02:28.32,Default,,0,0,0,,but, pray tell, who is\Nyour little friend
 Dialogue: 0,0:02:28.35,0:02:30.18,Default,,0,0,0,,dismantling\Nour turtle-totter?
 Dialogue: 0,0:02:30.21,0:02:32.04,Default,,0,0,0,,One-One,\Nwhat are you doing?
-Dialogue: 0,0:02:33.70,0:02:35.01,Default,,0,0,0,,Glad-One:\NIt was going "tch tch,"
+Dialogue: 0,0:02:33.70,0:02:35.01,Default,,0,0,0,,It was going "tch tch,"
 Dialogue: 0,0:02:35.05,0:02:36.74,Default,,0,0,0,,but it should be going\N"woop woop."
 Dialogue: 0,0:02:36.77,0:02:38.19,Default,,0,0,0,,Shouldn't take too long.
 Dialogue: 0,0:02:38.22,0:02:40.33,Default,,0,0,0,,Oh, I'm sure they have someone\Nwho can fix it,
 Dialogue: 0,0:02:40.36,0:02:42.88,Default,,0,0,0,,some kind of\Nlicensed technician...
 Dialogue: 0,0:02:42.92,0:02:46.33,Default,,0,0,0,,turtle -- turt-nition?\NTur...
 Dialogue: 0,0:02:46.37,0:02:48.34,Default,,0,0,0,,Anyway, come on.\NWe got to go.
-Dialogue: 0,0:02:48.37,0:02:51.41,Default,,0,0,0,,Sad-One: [ Groans ]
-Dialogue: 0,0:02:51.44,0:02:55.86,Default,,0,0,0,,♪♪
+Dialogue: 0,0:02:48.37,0:02:51.41,Default,,0,0,0,,[ Groans ]
 Dialogue: 0,0:02:55.89,0:02:58.59,Default,,0,0,0,,We Corginians pride ourselves\Non our masonry.
 Dialogue: 0,0:02:58.62,0:03:01.76,Default,,0,0,0,,I like to think that our stones\Nare sturdy and handsome,
 Dialogue: 0,0:03:01.80,0:03:04.21,Default,,0,0,0,,like the corgis\Nthat crafted them.
-Dialogue: 0,0:03:04.25,0:03:07.04,Default,,0,0,0,,♪♪
 Dialogue: 0,0:03:07.08,0:03:09.87,Default,,0,0,0,,Gravity...turtle...\Ncollege car?
 Dialogue: 0,0:03:09.91,0:03:12.19,Default,,0,0,0,,Structures can be\Nimpressive,
 Dialogue: 0,0:03:12.22,0:03:14.22,Default,,0,0,0,,but a culture is measured\Nby its cuisine.
@@ -102,15 +92,15 @@ Dialogue: 0,0:03:17.09,0:03:19.06,Default,,0,0,0,,and great\Nfor traveling quick
 Dialogue: 0,0:03:19.09,0:03:20.40,Default,,0,0,0,,Intriguing.
 Dialogue: 0,0:03:20.44,0:03:21.89,Default,,0,0,0,,[ Groaning ]
 Dialogue: 0,0:03:21.92,0:03:23.96,Default,,0,0,0,,One-One, stop being\Na fussy baby.
-Dialogue: 0,0:03:23.99,0:03:27.34,Default,,0,0,0,,Glad-One: Look at that house!\NThere is no wall at all!
+Dialogue: 0,0:03:23.99,0:03:27.34,Default,,0,0,0,,Look at that house!\NThere is no wall at all!
 Dialogue: 0,0:03:27.37,0:03:28.58,Default,,0,0,0,,So?
 Dialogue: 0,0:03:28.62,0:03:30.90,Default,,0,0,0,,These houses are supposed\Nto have walls!
 Dialogue: 0,0:03:30.93,0:03:32.55,Default,,0,0,0,,Anyone could\Njust walk in!
-Dialogue: 0,0:03:32.59,0:03:35.69,Default,,0,0,0,,Sad-One: Oh, my gosh.\NI can see their saucepans!
+Dialogue: 0,0:03:32.59,0:03:35.69,Default,,0,0,0,,Oh, my gosh.\NI can see their saucepans!
 Dialogue: 0,0:03:35.73,0:03:37.28,Default,,0,0,0,,We've ridden\Na French-toast ferryboat
 Dialogue: 0,0:03:37.32,0:03:38.80,Default,,0,0,0,,across a maple-syrup river.
 Dialogue: 0,0:03:38.83,0:03:40.11,Default,,0,0,0,,This is relatively normal.
-Dialogue: 0,0:03:40.15,0:03:41.73,Default,,0,0,0,,Glad-One:\NBut those weren't broken.
+Dialogue: 0,0:03:40.15,0:03:41.73,Default,,0,0,0,,But those weren't broken.
 Dialogue: 0,0:03:41.77,0:03:43.08,Default,,0,0,0,,Why do you --
 Dialogue: 0,0:03:43.11,0:03:45.74,Default,,0,0,0,,I believe this is the door\Nyou're looking for?
 Dialogue: 0,0:03:45.77,0:03:48.74,Default,,0,0,0,,Cool. Well, uh,\NYour Highness,
@@ -121,11 +111,11 @@ Dialogue: 0,0:03:53.95,0:03:56.23,Default,,0,0,0,,Come back!\NWe got to go!
 Dialogue: 0,0:03:56.27,0:03:58.41,Default,,0,0,0,,Actually, Aloysius and I\Nwere in the middle
 Dialogue: 0,0:03:58.44,0:04:00.72,Default,,0,0,0,,of some fascinating\Ndiscussions.
 Dialogue: 0,0:04:00.75,0:04:03.45,Default,,0,0,0,,How do you keep your crown\Nbalanced on your head?
-Dialogue: 0,0:04:03.48,0:04:05.59,Default,,0,0,0,,Bobby pins, mostly.Hmm!
+Dialogue: 0,0:04:03.48,0:04:05.59,Default,,0,0,0,split,Bobby pins, mostly.Hmm!
 Dialogue: 0,0:04:05.62,0:04:08.14,Default,,0,0,0,,Knowing we have\Na potential ally here,
 Dialogue: 0,0:04:08.17,0:04:10.11,Default,,0,0,0,,perhaps we could\Ntake our time?
 Dialogue: 0,0:04:10.14,0:04:13.18,Default,,0,0,0,,We already spent a lot of time\Nin that spa car.
-Dialogue: 0,0:04:13.21,0:04:14.46,Default,,0,0,0,,We need to get --Hmm?
+Dialogue: 0,0:04:13.21,0:04:14.46,Default,,0,0,0,split,We need to get --Hmm?
 Dialogue: 0,0:04:14.49,0:04:16.18,Default,,0,0,0,,Hey, no.\NDon't do that.
 Dialogue: 0,0:04:16.22,0:04:19.46,Default,,0,0,0,,Why? I just want to know\Nwhat you're thinking.
 Dialogue: 0,0:04:19.50,0:04:20.98,Default,,0,0,0,,No!\NStop it!
@@ -133,17 +123,17 @@ Dialogue: 0,0:04:21.01,0:04:22.95,Default,,0,0,0,,Hmm? Hmm?
 Dialogue: 0,0:04:22.98,0:04:24.50,Default,,0,0,0,,Ugh! Fine!
 Dialogue: 0,0:04:24.54,0:04:25.95,Default,,0,0,0,,We know\Nwhere the door is,
 Dialogue: 0,0:04:25.98,0:04:28.30,Default,,0,0,0,,so I guess it wouldn't hurt to\Nstay for a little while.
-Dialogue: 0,0:04:28.33,0:04:29.95,Default,,0,0,0,,Fantastic!\N[ Clears throat ]
+Dialogue: 0,0:04:28.33,0:04:29.95,Default,,0,0,0,,Fantastic!
 Dialogue: 0,0:04:29.99,0:04:32.99,Default,,0,0,0,,Now, my friend,\Nthe charter of walkies dictates
-Dialogue: 0,0:04:33.03,0:04:36.48,Default,,0,0,0,,that no citizen --Meet back here\Nin one hour!
+Dialogue: 0,0:04:33.03,0:04:36.48,Default,,0,0,0,ed,that no citizen --Meet back here\Nin one hour!
 Dialogue: 0,0:04:36.51,0:04:38.51,Default,,0,0,0,,Hey, buddy.
 Dialogue: 0,0:04:38.55,0:04:40.52,Default,,0,0,0,,I'm kind of worried\Nabout you.
-Dialogue: 0,0:04:40.55,0:04:43.14,Default,,0,0,0,,Glad-One: This brick isn't\Nsupposed to be here at all.
+Dialogue: 0,0:04:40.55,0:04:43.14,Default,,0,0,0,,This brick isn't\Nsupposed to be here at all.
 Dialogue: 0,0:04:43.17,0:04:44.83,Default,,0,0,0,,How do you know\Nit's not supposed to be here?
-Dialogue: 0,0:04:44.87,0:04:46.80,Default,,0,0,0,,Sad-One:\NIt just isn't.
+Dialogue: 0,0:04:44.87,0:04:46.80,Default,,0,0,0,,It just isn't.
 Dialogue: 0,0:04:46.83,0:04:50.15,Default,,0,0,0,,Hmm...well,\NI suppose someone
 Dialogue: 0,0:04:50.18,0:04:52.46,Default,,0,0,0,,could trip over\Nthese loose bricks.
-Dialogue: 0,0:04:52.49,0:04:55.95,Default,,0,0,0,,Glad-One:\NExactly! And someone could trip\Nover that loose house!
+Dialogue: 0,0:04:52.49,0:04:55.95,Default,,0,0,0,,Exactly! And someone could trip\Nover that loose house!
 Dialogue: 0,0:04:55.98,0:04:57.78,Default,,0,0,0,,If we each take a side,\Nwe can do this in no time!
 Dialogue: 0,0:04:57.81,0:05:01.19,Default,,0,0,0,,Maybe we shouldn't all split up.\N[ Imitates rimshot ]
 Dialogue: 0,0:05:01.23,0:05:03.54,Default,,0,0,0,,I was thinking\Nabout buying shoes.
@@ -151,14 +141,11 @@ Dialogue: 0,0:05:03.57,0:05:05.06,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:05:07.03,0:05:09.61,Default,,0,0,0,,We all want\Nthe tennis ball thrown,
 Dialogue: 0,0:05:09.65,0:05:12.03,Default,,0,0,0,,but we never want to drop it.\NDrop it!
 Dialogue: 0,0:05:12.07,0:05:15.97,Default,,0,0,0,,I do enjoy the occasional leaf\Nof romaine lettuce myself --
-Dialogue: 0,0:05:16.00,0:05:18.35,Default,,0,0,0,,just don't tell\Nthe missus.\N[ Chuckles ]
+Dialogue: 0,0:05:16.00,0:05:18.35,Default,,0,0,0,,just don't tell\Nthe missus.
 Dialogue: 0,0:05:18.38,0:05:21.80,Default,,0,0,0,,This hole in the ground\Nprovides an interesting look.
 Dialogue: 0,0:05:21.83,0:05:24.70,Default,,0,0,0,,Our mail delivery service\Nis built around them.
-Dialogue: 0,0:05:24.73,0:05:27.01,Default,,0,0,0,,[ Wind gusts ]
-Dialogue: 0,0:05:27.05,0:05:30.70,Default,,0,0,0,,♪♪
 Dialogue: 0,0:05:30.74,0:05:33.40,Default,,0,0,0,,It's fast, and everybody\Ngets something.
 Dialogue: 0,0:05:33.43,0:05:36.71,Default,,0,0,0,,No disappointed faces for\Nempty mailboxes in this kingdom.
-Dialogue: 0,0:05:36.75,0:05:40.37,Default,,0,0,0,,♪♪
 Dialogue: 0,0:05:40.40,0:05:43.20,Default,,0,0,0,,Okay. Okay. Stop pushing.\NI'm going. I'm going.
 Dialogue: 0,0:05:43.23,0:05:45.41,Default,,0,0,0,,So, what about\Nyour missing walls?
 Dialogue: 0,0:05:45.44,0:05:46.69,Default,,0,0,0,,You mean\Nthe open quarter?
@@ -166,31 +153,26 @@ Dialogue: 0,0:05:46.72,0:05:49.03,Default,,0,0,0,,Do your houses have walls\Non 
 Dialogue: 0,0:05:49.07,0:05:51.76,Default,,0,0,0,,How do your people get\Nfresh air, or dry their clothes?
 Dialogue: 0,0:05:51.79,0:05:55.70,Default,,0,0,0,,Hmm. You put a lot of thought\Ninto your designs.
 Dialogue: 0,0:05:55.73,0:05:57.35,Default,,0,0,0,,This is\Njust how it is.
-Dialogue: 0,0:05:57.39,0:05:59.42,Default,,0,0,0,,[ Humming ]\NHuh?
+Dialogue: 0,0:05:57.39,0:05:59.42,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:59.46,0:06:01.53,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:06:01.56,0:06:06.74,Default,,0,0,0,,[ Breathing heavily ]
-Dialogue: 0,0:06:06.78,0:06:09.23,Default,,0,0,0,,[ Grumbles ]\NBleh!
-Dialogue: 0,0:06:09.26,0:06:10.88,Default,,0,0,0,,[ Sighs ]\NPhew!
+Dialogue: 0,0:06:06.78,0:06:09.23,Default,,0,0,0,,Bleh!
+Dialogue: 0,0:06:09.26,0:06:10.88,Default,,0,0,0,,Phew!
 Dialogue: 0,0:06:10.92,0:06:12.95,Default,,0,0,0,,Ha. Take that,\NMiss Carlson!
 Dialogue: 0,0:06:12.99,0:06:15.89,Default,,0,0,0,,Now who needs improvement\Nin cleaning up after herself
 Dialogue: 0,0:06:15.92,0:06:18.51,Default,,0,0,0,,and cursive and brevity?
 Dialogue: 0,0:06:18.55,0:06:19.89,Default,,0,0,0,,Huh?
-Dialogue: 0,0:06:19.93,0:06:22.45,Default,,0,0,0,,[ Whirring ]Huh?
+Dialogue: 0,0:06:19.93,0:06:22.45,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:22.48,0:06:24.79,Default,,0,0,0,,Aah!
 Dialogue: 0,0:06:24.83,0:06:27.07,Default,,0,0,0,,Do not remove the orbs.\NGot it.
 Dialogue: 0,0:06:27.11,0:06:30.39,Default,,0,0,0,,I'll write that down\Nwith less jammy hands.
 Dialogue: 0,0:06:30.42,0:06:32.39,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:06:32.42,0:06:35.56,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:35.60,0:06:36.91,Default,,0,0,0,,[ Grumbles ]
 Dialogue: 0,0:06:36.94,0:06:40.71,Default,,0,0,0,,We should probably\Nget going anyway.
 Dialogue: 0,0:06:40.74,0:06:42.78,Default,,0,0,0,,Atticus?!\NOne-One?!
-Dialogue: 0,0:06:42.81,0:06:47.06,Default,,0,0,0,,♪♪
 Dialogue: 0,0:06:47.09,0:06:50.09,Default,,0,0,0,,I guess neither of them know\Nhow long an hour is.
-Dialogue: 0,0:06:50.13,0:06:53.44,Default,,0,0,0,,[ All conversing indistinctly ]
 Dialogue: 0,0:06:53.48,0:06:54.93,Default,,0,0,0,,What's going on?
 Dialogue: 0,0:06:54.96,0:06:56.62,Default,,0,0,0,,Someone has moved the jam.\NIt's dried up!
 Dialogue: 0,0:06:56.65,0:06:59.45,Default,,0,0,0,,Well, yeah, I was trying to\Nhelp you clean it up.
-Dialogue: 0,0:06:59.48,0:07:00.93,Default,,0,0,0,,Whoa!\N[ Screech ]
+Dialogue: 0,0:06:59.48,0:07:00.93,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:07:00.97,0:07:03.49,Default,,0,0,0,,How are we supposed to slide\Nto the other side?
 Dialogue: 0,0:07:03.52,0:07:06.94,Default,,0,0,0,,Everything is going to be\Nslowed down if we have to walk!
 Dialogue: 0,0:07:06.97,0:07:10.32,Default,,0,0,0,,Oh, you...use this?\NI-I didn't even think --
@@ -199,58 +181,41 @@ Dialogue: 0,0:07:12.12,0:07:13.77,Default,,0,0,0,,No. No. No.\Njam pond has been
 Dialogue: 0,0:07:13.81,0:07:15.67,Default,,0,0,0,,No, I don't know\Nwhy it happened.
 Dialogue: 0,0:07:15.71,0:07:19.47,Default,,0,0,0,,I know how it happened, but\NI don't know why it happened.
 Dialogue: 0,0:07:19.50,0:07:21.61,Default,,0,0,0,,I'm really sorry.
-Dialogue: 0,0:07:21.64,0:07:23.65,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:23.68,0:07:26.20,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:07:26.23,0:07:28.65,Default,,0,0,0,,[ Humming ]
-Dialogue: 0,0:07:28.68,0:07:30.76,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:07:30.79,0:07:35.04,Default,,0,0,0,,♪♪
 Dialogue: 0,0:07:35.07,0:07:38.14,Default,,0,0,0,,Oh, no.\NWhere's One-One?
-Dialogue: 0,0:07:38.18,0:07:39.80,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:07:39.83,0:07:42.35,Default,,0,0,0,,♪♪
 Dialogue: 0,0:07:42.39,0:07:43.98,Default,,0,0,0,,Atticus?!
 Dialogue: 0,0:07:44.01,0:07:46.67,Default,,0,0,0,,Atticus, what's going on?\NHave you seen One-One?
 Dialogue: 0,0:07:46.70,0:07:48.84,Default,,0,0,0,,Seen him?\NWe're trying to stop him,
 Dialogue: 0,0:07:48.88,0:07:50.78,Default,,0,0,0,,but we can't reach!
-Dialogue: 0,0:07:50.81,0:07:53.36,Default,,0,0,0,,♪♪
 Dialogue: 0,0:07:53.40,0:07:55.82,Default,,0,0,0,,If he moves all those stairs,\Nthe gravity will go with them,
 Dialogue: 0,0:07:55.85,0:07:57.82,Default,,0,0,0,,and our kingdom\Nwill be torn apart!
 Dialogue: 0,0:07:57.85,0:07:59.51,Default,,0,0,0,,One-One.
-Dialogue: 0,0:07:59.54,0:08:01.48,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:01.51,0:08:02.82,Default,,0,0,0,,Uhh...
-Dialogue: 0,0:08:02.86,0:08:05.13,Default,,0,0,0,,[ Grunts ]
 Dialogue: 0,0:08:05.17,0:08:06.55,Default,,0,0,0,,Aah!
 Dialogue: 0,0:08:06.58,0:08:07.83,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:08:07.86,0:08:17.80,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:17.84,0:08:20.18,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:08:20.22,0:08:24.53,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:24.57,0:08:26.71,Default,,0,0,0,,One-One,\Nyou have to stop!
-Dialogue: 0,0:08:26.74,0:08:29.68,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:29.71,0:08:31.23,Default,,0,0,0,,What are you doing?!
-Dialogue: 0,0:08:31.26,0:08:33.16,Default,,0,0,0,,Glad-One: I'm helping,\NMiss Tulip. I'm putting it...
-Dialogue: 0,0:08:33.20,0:08:34.85,Default,,0,0,0,,Sad-One:\N...where it's supposed to be.
-Dialogue: 0,0:08:34.89,0:08:36.34,Default,,0,0,0,,Glad-One:\NIf they knew it was broken...
-Dialogue: 0,0:08:36.37,0:08:37.82,Default,,0,0,0,,Sad-One:\N...they would have fixed it.
+Dialogue: 0,0:08:31.26,0:08:33.16,Default,,0,0,0,,I'm helping,\NMiss Tulip. I'm putting it...
+Dialogue: 0,0:08:33.20,0:08:34.85,Default,,0,0,0,,...where it's supposed to be.
+Dialogue: 0,0:08:34.89,0:08:36.34,Default,,0,0,0,,If they knew it was broken...
+Dialogue: 0,0:08:36.37,0:08:37.82,Default,,0,0,0,,...they would have fixed it.
 Dialogue: 0,0:08:37.86,0:08:39.76,Default,,0,0,0,,Together: They don't need\Nto worry anymore.
 Dialogue: 0,0:08:39.79,0:08:41.72,Default,,0,0,0,,I'm here to get things\Nback in order.
 Dialogue: 0,0:08:41.76,0:08:44.55,Default,,0,0,0,,One-One,\Nyou're really scaring me.
-Dialogue: 0,0:08:44.59,0:08:49.08,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:49.11,0:08:51.56,Default,,0,0,0,,Yeah. Yeah.\NNow I'm floating away!
-Dialogue: 0,0:08:51.60,0:08:53.77,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:53.80,0:08:55.05,Default,,0,0,0,,Why are you\Ndoing this?!
 Dialogue: 0,0:08:55.08,0:08:57.05,Default,,0,0,0,,I have to help\Nput things in order.
 Dialogue: 0,0:08:57.08,0:08:59.74,Default,,0,0,0,,It wouldn't be like this\Nif I had just been better.
 Dialogue: 0,0:08:59.78,0:09:01.57,Default,,0,0,0,,Look around you.
-Dialogue: 0,0:09:01.61,0:09:03.02,Default,,0,0,0,,[ Grunts ]
 Dialogue: 0,0:09:03.05,0:09:04.40,Default,,0,0,0,,This isn't helping.
 Dialogue: 0,0:09:04.44,0:09:07.27,Default,,0,0,0,,How can I not try and fix it?\NIt's my fault.
 Dialogue: 0,0:09:07.30,0:09:11.30,Default,,0,0,0,,Is that what you think?\NThat it's your fault?
-Dialogue: 0,0:09:11.34,0:09:13.24,Default,,0,0,0,,I know it.\NNo, One-One.
+Dialogue: 0,0:09:11.34,0:09:13.24,Default,,0,0,0,split,I know it.\NNo, One-One.
 Dialogue: 0,0:09:13.27,0:09:15.24,Default,,0,0,0,,It's not your fault\Nthe car is this way.
 Dialogue: 0,0:09:15.27,0:09:18.55,Default,,0,0,0,,There isn't a fault,\Nit just is.
 Dialogue: 0,0:09:18.59,0:09:22.94,Default,,0,0,0,,But all this, you trying to\Nmake it your responsibility...
 Dialogue: 0,0:09:22.97,0:09:25.49,Default,,0,0,0,,this is causing\Nreal harm.
 Dialogue: 0,0:09:25.53,0:09:27.49,Default,,0,0,0,,Don't you see?
-Dialogue: 0,0:09:27.53,0:09:31.60,Default,,0,0,0,,♪♪
 Dialogue: 0,0:09:31.64,0:09:32.98,Default,,0,0,0,,I know what it's like
 Dialogue: 0,0:09:33.02,0:09:35.26,Default,,0,0,0,,to think that if you had\Njust been better,
 Dialogue: 0,0:09:35.29,0:09:38.16,Default,,0,0,0,,things would've been different,\Nthat you're responsible
@@ -258,31 +223,23 @@ Dialogue: 0,0:09:38.19,0:09:40.61,Default,,0,0,0,,for fixing things that are\Nbe
 Dialogue: 0,0:09:40.64,0:09:44.10,Default,,0,0,0,,Just know that I speak\Nfrom experience when I say
 Dialogue: 0,0:09:44.13,0:09:47.24,Default,,0,0,0,,this is not your fault.
 Dialogue: 0,0:09:47.27,0:09:51.79,Default,,0,0,0,,And I still want to help you,\NOne-One, if you'll let me.
-Dialogue: 0,0:09:51.83,0:09:57.07,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:57.11,0:09:59.90,Default,,0,0,0,,[ Whirring ]
 Dialogue: 0,0:09:59.94,0:10:01.67,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:10:01.70,0:10:09.91,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:09.95,0:10:11.54,Default,,0,0,0,,[ Chuckles ]\NHey!
+Dialogue: 0,0:10:09.95,0:10:11.54,Default,,0,0,0,,Hey!
 Dialogue: 0,0:10:11.57,0:10:16.13,Default,,0,0,0,,Your Highness, we both\Nfeel terrible, don't we?
-Dialogue: 0,0:10:16.16,0:10:17.54,Default,,0,0,0,,Sad-One: Sorry.
+Dialogue: 0,0:10:16.16,0:10:17.54,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:10:17.58,0:10:20.10,Default,,0,0,0,,He's kind of going through\Na lot right now.
 Dialogue: 0,0:10:20.13,0:10:22.17,Default,,0,0,0,,Well, the whole sky's gone.\NYeah, it's missing.
 Dialogue: 0,0:10:22.20,0:10:23.96,Default,,0,0,0,,But there's\Na different sky behind it.
 Dialogue: 0,0:10:24.00,0:10:25.93,Default,,0,0,0,,Oh, the whole portfolio's\Ngoing to be delayed.
-Dialogue: 0,0:10:25.97,0:10:27.10,Default,,0,0,0,,[ Chuckles nervously ]
 Dialogue: 0,0:10:27.14,0:10:29.31,Default,,0,0,0,,Well, this is\Nquite the mess.
 Dialogue: 0,0:10:29.35,0:10:32.35,Default,,0,0,0,,If I may, the Corginian\NResponse Team
 Dialogue: 0,0:10:32.39,0:10:34.39,Default,,0,0,0,,specializes\Nin disaster relief.
 Dialogue: 0,0:10:34.42,0:10:37.15,Default,,0,0,0,,Well, they mostly work\Nwith doorbell aftermath,
 Dialogue: 0,0:10:37.18,0:10:39.32,Default,,0,0,0,,but I still think\Nthey could be of help.
 Dialogue: 0,0:10:39.36,0:10:41.98,Default,,0,0,0,,I may take you up\Non that offer, my friend.
-Dialogue: 0,0:10:42.02,0:10:46.68,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:46.71,0:10:48.40,Default,,0,0,0,,[ Beeps ]
-Dialogue: 0,0:10:48.44,0:10:50.96,Default,,0,0,0,,[ Beep ]Glad-One:\NHello! I'm One...
-Dialogue: 0,0:10:50.99,0:10:51.99,Default,,0,0,0,,Sad-One: ...One.
+Dialogue: 0,0:10:48.44,0:10:50.96,Default,,0,0,0,,Hello! I'm One...
+Dialogue: 0,0:10:50.99,0:10:51.99,Default,,0,0,0,,...One.
 Dialogue: 0,0:10:52.03,0:10:53.51,Default,,0,0,0,,I know.\NI'm Tulip.
 Dialogue: 0,0:10:53.54,0:10:55.86,Default,,0,0,0,,Do we ever truly know\Nwho we are?
-Dialogue: 0,0:10:55.89,0:10:58.38,Default,,0,0,0,,Glad-One: [ Chuckles ] But\Nwith my best friends by my side,
+Dialogue: 0,0:10:55.89,0:10:58.38,Default,,0,0,0,,But\Nwith my best friends by my side,
 Dialogue: 0,0:10:58.41,0:11:02.24,Default,,0,0,0,,we push onward --\Nto our homes and mothers!
-Dialogue: 0,0:11:02.80,0:11:08.70,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:08.73,0:11:15.19,Default,,0,0,0,,♪♪
