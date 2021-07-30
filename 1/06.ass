@@ -24,89 +24,90 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:10.11,0:00:13.74,Default,Tulip,0,0,0,,Ahh. I think it's safe to say\Nwe took care of that spa car.
 Dialogue: 0,0:00:13.74,0:00:15.62,Default,Tulip,0,0,0,,Sorry we had to bail\Non that salt scrub,
-Dialogue: 0,0:00:15.62,0:00:17.71,Default,Tulip,0,0,0,,but if we want to get anywhere,\Nwe got to keep moving.
-Dialogue: 0,0:00:17.71,0:00:20.88,Default,Sad-One,0,0,0,,I'll never get\Nmy youthful glow back.
-Dialogue: 0,0:00:20.88,0:00:22.46,Default,Tulip,0,0,0,,Atticus, you holding up?
-Dialogue: 0,0:00:24.50,0:00:26.97,Default,Atticus,0,0,0,,I think your people may have\Na different definition
-Dialogue: 0,0:00:26.97,0:00:28.30,Default,Atticus,0,0,0,,of relaxation.
-Dialogue: 0,0:00:28.30,0:00:30.64,Default,Atticus,0,0,0,,They didn't even give us\Nkerchiefs when we were finished.
+Dialogue: 0,0:00:15.62,0:00:17.71,Default,Tulip,0,0,0,,but if we wanna get anywhere,\Nwe gotta keep moving.
+Dialogue: 0,0:00:17.71,0:00:20.88,Default,Sad-One,0,0,0,,I'll never get my youthful glow back.
+Dialogue: 0,0:00:20.88,0:00:22.46,Default,Tulip,0,0,0,,Atticus, ya holdin' up?
+Dialogue: 0,0:00:24.50,0:00:28.30,Default,Atticus,1,1,30,,I think your people may have a different definition of relaxation.
+Dialogue: 0,0:00:28.30,0:00:30.64,Default,Atticus,1,1,30,,They didn't even give us kerchiefs when we were finished.
 Dialogue: 0,0:00:35.56,0:00:37.02,Default,Tulip,0,0,0,,We aren't going to\Nstress ourselves out.
 Dialogue: 0,0:00:37.02,0:00:38.27,Default,Tulip,0,0,0,,We're gonna stay positive,
 Dialogue: 0,0:00:38.27,0:00:40.56,Default,Tulip,0,0,0,,and we are gonna take this\None car at a time.
-Dialogue: 0,0:00:40.56,0:00:42.81,Default,Glad-One,0,0,0,,When you scrub up,\Nyou lift your heart up
-Dialogue: 0,0:00:42.81,0:00:45.73,Default,Glad-One,0,0,0,,You gotta be clean,\Nclean, clean
-Dialogue: 0,0:00:50.53,0:00:54.08,Default,Glad-One,0,0,0,,But when the...clean\Nis...clean...
+Dialogue: 0,0:00:40.56,0:00:42.81,Default,Glad-One,0,0,0,,When you scrub up, you lift your heart up
+Dialogue: 0,0:00:42.81,0:00:45.73,Default,Glad-One,0,0,0,,You gotta be clean, clean, clean!
+Dialogue: 0,0:00:50.53,0:00:52.95,Default,Glad-One,0,0,0,,But when the... clean is...
+Dialogue: 0,0:00:52.95,0:00:54.08,Default,Glad-One,0,0,0,,clean...
 Dialogue: 0,0:00:58.41,0:01:01.37,Default,Tulip,0,0,0,,First things first,\Nlet's check for danger.
 Dialogue: 0,0:01:01.37,0:01:05.34,Default,Tulip,0,0,0,,No spikes, mummies...\Nemotional manipulation.
 Dialogue: 0,0:01:05.34,0:01:05.96,Default,Tulip,0,0,0,,Whoa!
-Dialogue: 0,0:01:08.01,0:01:10.01,Default,Tulip,0,0,0,,Whoa-ho-ho!\NNeat!
+Dialogue: 0,0:01:08.01,0:01:10.01,Default,Tulip,0,0,0,,Whoa-ho-ho! \NNeat!
 Dialogue: 0,0:01:11.18,0:01:12.22,Default,Tulip,0,0,0,,Gravity car?
 Dialogue: 0,0:01:12.22,0:01:13.43,Default,Atticus,0,0,0,,My goodness.
-Dialogue: 0,0:01:13.43,0:01:16.85,Default,Atticus,0,0,0,,I've always suspected stairs\Ncan't be trusted.
+Dialogue: 0,0:01:13.43,0:01:16.85,Default,Atticus,0,0,0,,I've always suspected \Nstairs can't be trusted.
 Dialogue: 0,0:01:21.73,0:01:22.98,Default,Tulip,0,0,0,,One-One, you okay?
-Dialogue: 0,0:01:22.98,0:01:26.48,Default,Glad-One,0,0,0,,Oh! Uh...it's broken!
+Dialogue: 0,0:01:22.98,0:01:26.48,Default,Glad-One,0,0,0,,Oh! Uh... It's broken!
 Dialogue: 0,0:01:26.48,0:01:27.48,Default,Sad-One,0,0,0,,I broke it.
-Dialogue: 0,0:01:27.48,0:01:29.11,Default,Tulip,0,0,0,,W-What do you --
-Dialogue: 0,0:01:29.11,0:01:31.20,Default,Atticus,0,0,0,,I think\Nthe inhabitants found us.
-Dialogue: 0,0:01:31.20,0:01:34.37,Default,Atticus,0,0,0,,But did they send ambassadors\Nor warriors?
+Dialogue: 0,0:01:27.48,0:01:29.11,Default,Tulip,0,0,0,,Wh-What do you—
+Dialogue: 0,0:01:29.11,0:01:31.20,Default,Atticus,0,0,0,,I think the inhabitants found us.
+Dialogue: 0,0:01:31.20,0:01:34.37,Default,Atticus,0,0,0,,But did they send ambassadors or warriors?
 Dialogue: 0,0:01:36.37,0:01:37.70,Default,Atticus,0,0,0,,Royalty!
-Dialogue: 0,0:01:37.70,0:01:40.04,Default,Tulip,0,0,0,,Gravity...turtle car?
-Dialogue: 0,0:01:40.04,0:01:42.37,Default,Glad-One,0,0,0,,Announcing\Nhis supreme excellency!
-Dialogue: 0,0:01:42.37,0:01:44.83,Default,Soldier Turtle,0,0,0,,Please, extend your necks\Nin adoration!
-Dialogue: 0,0:01:47.21,0:01:48.38,Default,Atticus,0,0,0,,Hmm.
+Dialogue: 0,0:01:37.70,0:01:40.04,Default,Tulip,0,0,0,,Gravity... turtle car?
+Dialogue: 0,0:01:40.04,0:01:42.37,Default,Glad-One,0,0,0,,Announcing\NHis Supreme Excellency!
+Dialogue: 0,0:01:42.37,0:01:44.83,Default,Soldier Turtle,0,0,0,,Please, extend your necks in adoration!
+Dialogue: 0,0:01:47.21,0:01:48.38,Default,Atticus,0,0,0,,Hmm!
 Dialogue: 0,0:01:50.17,0:01:52.18,Default,Aloysius,0,0,0,,I am Aloysius III,
-Dialogue: 0,0:01:52.18,0:01:55.51,Default,Aloysius,0,0,0,,Emperor and Unifier of the Hard-\Nand Soft-Shelled.
+Dialogue: 0,0:01:52.18,0:01:55.51,Default,Aloysius,0,0,0,,Emperor and Unifier \Nof the Hard- and Soft-Shelled.
 Dialogue: 0,0:01:55.51,0:01:56.43,Default,Tulip,0,0,0,,Tacos?
 Dialogue: 0,0:01:56.43,0:01:57.60,Default,Aloysius,0,0,0,,Turtles.
-Dialogue: 0,0:01:57.60,0:02:00.27,Default,Atticus,0,0,0,,Tsk! Come now,\NTulip. Ugh!
+Dialogue: 0,0:01:57.60,0:02:00.27,Default,Atticus,0,0,0,,Tsk. Come now, Tulip. Ugh!
 Dialogue: 0,0:02:00.27,0:02:02.27,Default,Aloysius,0,0,0,,So, who will be\Nannouncing whom?
 Dialogue: 0,0:02:02.27,0:02:04.35,Default,Tulip,0,0,0,,Oh, uh, I'm Tulip.
-Dialogue: 0,0:02:04.35,0:02:06.23,Default,Tulip,0,0,0,,I feel like I've done\Nthis before.
-Dialogue: 0,0:02:06.23,0:02:07.86,Default,Tulip,0,0,0,,Anyway, we're just looking\Nfor the exit.
+Dialogue: 0,0:02:04.35,0:02:06.23,Default,Tulip,0,0,0,,I feel like I've done this before.
+Dialogue: 0,0:02:06.23,0:02:07.86,Default,Tulip,0,0,0,,Anyway, we're just looking for the exit.
 Dialogue: 0,0:02:07.86,0:02:09.61,Default,Atticus,0,0,0,,Let's not be hasty.
-Dialogue: 0,0:02:09.61,0:02:11.69,Default,Atticus,0,0,0,,I don't often get to see\Nother royalty.
+Dialogue: 0,0:02:09.61,0:02:11.69,Default,Atticus,0,0,0,,I don't often get to see other royalty.
 Dialogue: 0,0:02:12.07,0:02:14.07,Default,Atticus,0,0,0,,I am Atticus,
-Dialogue: 0,0:02:14.07,0:02:17.78,Default,Atticus,0,0,0,,King and Uniter of the Cardigans\Nand the Pembrokes.
-Dialogue: 0,0:02:17.78,0:02:19.87,Default,Atticus,0,0,0,,You'll pardon my lack\Nof fanfare,
-Dialogue: 0,0:02:19.87,0:02:21.70,Default,Atticus,0,0,0,,but I am on a crusade\Nfor justice
-Dialogue: 0,0:02:21.70,0:02:23.79,Default,Atticus,0,0,0,,that requires\Na bit of discretion.
+Dialogue: 0,0:02:14.07,0:02:17.78,Default,Atticus,0,0,0,,King and Uniter of the Cardigans \Nand the Pembrokes.
+Dialogue: 0,0:02:17.78,0:02:19.87,Default,Atticus,0,0,0,,You'll pardon my lack of fanfare,
+Dialogue: 0,0:02:19.87,0:02:21.70,Default,Atticus,0,0,0,,but I am on a crusade for justice
+Dialogue: 0,0:02:21.70,0:02:23.79,Default,Atticus,0,0,0,,that requires a bit of discretion.
 Dialogue: 0,0:02:23.79,0:02:26.00,Default,Aloysius,0,0,0,,Naturally. We can show you\Nto the other door,
 Dialogue: 0,0:02:26.00,0:02:29.59,Default,Aloysius,0,0,0,,but, pray tell, who is your little friend \Ndismantling our turtle-totter?
-Dialogue: 0,0:02:29.59,0:02:31.34,Default,Tulip,0,0,0,,One-One,\Nwhat are you doing?
+Dialogue: 0,0:02:29.59,0:02:31.34,Default,Tulip,0,0,0,,One-One, what are you doing?
 Dialogue: 0,0:02:33.38,0:02:34.63,Default,Glad-One,0,0,0,,It was going "tch tch,"
-Dialogue: 0,0:02:34.63,0:02:36.51,Default,Glad-One,0,0,0,,but it should be going\N"woop woop."
+Dialogue: 0,0:02:34.63,0:02:36.51,Default,Glad-One,0,0,0,,but it {\i1}should{\i0} be going "woop woop."
 Dialogue: 0,0:02:36.51,0:02:37.43,Default,Glad-One,0,0,0,,Shouldn't take too long.
-Dialogue: 0,0:02:37.43,0:02:39.85,Default,Tulip,0,0,0,,Oh, I'm sure they have someone\Nwho can fix it,
+Dialogue: 0,0:02:37.43,0:02:39.85,Default,Tulip,0,0,0,,Oh, I'm sure they have \Nsomeone who can fix it,
 Dialogue: 0,0:02:39.85,0:02:42.43,Default,Tulip,0,0,0,,some kind of\Nlicensed technician...
-Dialogue: 0,0:02:42.43,0:02:45.27,Default,Tulip,0,0,0,,turtle -- turt-nition?\NTur...
-Dialogue: 0,0:02:45.73,0:02:47.36,Default,Tulip,0,0,0,,Anyway, come on.\NWe got to go.
-Dialogue: 0,0:02:47.73,0:02:51.53,Default,Sad-One,0,0,0,,[ Groans ]
+Dialogue: 0,0:02:42.43,0:02:45.27,Default,Tulip,0,0,0,,Turtle... Turt-nician? Tur...
+Dialogue: 0,0:02:45.73,0:02:47.36,Default,Tulip,0,0,0,,Anyway, come on. We gotta go.
+Dialogue: 0,0:02:47.73,0:02:50.36,Default,Sad-One,0,0,0,,Hrrrrrnnnnngh...
 Dialogue: 0,0:02:55.24,0:02:58.20,Default,Atticus,0,0,0,,We Corginians pride ourselves\Non our masonry.
 Dialogue: 0,0:02:58.20,0:03:01.41,Default,Atticus,0,0,0,,I like to think that our stones\Nare sturdy and handsome,
 Dialogue: 0,0:03:01.41,0:03:03.58,Default,Atticus,0,0,0,,like the corgis\Nthat crafted them.
-Dialogue: 0,0:03:06.25,0:03:09.50,Default,Tulip,0,0,0,,Gravity...turtle...\Ncollege car?
-Dialogue: 0,0:03:09.50,0:03:11.50,Default,Aloysius,0,0,0,,Structures can be\Nimpressive,
-Dialogue: 0,0:03:11.50,0:03:13.76,Default,Aloysius,0,0,0,,but a culture is measured\Nby its cuisine.
+Dialogue: 0,0:03:06.25,0:03:09.50,Default,Tulip,0,0,0,,Gravity... turtle... college car?
+Dialogue: 0,0:03:09.50,0:03:11.50,Default,Aloysius,0,0,0,,Structures can be impressive,
+Dialogue: 0,0:03:11.50,0:03:13.76,Default,Aloysius,0,0,0,,but a culture is measured by its cuisine.
 Dialogue: 0,0:03:13.76,0:03:16.43,Default,Aloysius,0,0,0,,Our all-natural jam pond\Nis both delicious
-Dialogue: 0,0:03:16.43,0:03:18.30,Default,Aloysius,0,0,0,,and great\Nfor traveling quickly.
+Dialogue: 0,0:03:16.43,0:03:18.30,Default,Aloysius,0,0,0,,and great for traveling quickly.
 Dialogue: 0,0:03:18.30,0:03:19.51,Default,Atticus,0,0,0,,Intriguing.
-Dialogue: 0,0:03:19.51,0:03:21.26,Default,Sad-One,0,0,0,,[ Groaning ]
-Dialogue: 0,0:03:21.26,0:03:23.43,Default,Tulip,0,0,0,,One-One, stop being\Na fussy baby.
-Dialogue: 0,0:03:23.43,0:03:26.31,Default,Glad-One,0,0,0,,Look at that house!\NThere is no wall at all!
-Dialogue: 0,0:03:26.85,0:03:27.81,Default,Tulip,0,0,0,,So?
-Dialogue: 0,0:03:27.81,0:03:30.40,Default,Glad-One,0,0,0,,These houses are supposed\Nto have walls!
-Dialogue: 0,0:03:30.40,0:03:31.98,Default,Glad-One,0,0,0,,Anyone could\Njust walk in!
-Dialogue: 0,0:03:31.98,0:03:35.15,Default,Sad-One,0,0,0,,Oh, my gosh.\NI can see their saucepans!
-Dialogue: 0,0:03:35.15,0:03:38.32,Default,Tulip,0,0,0,,We've ridden a French-toast ferryboat \Nacross a maple-syrup river.
+Dialogue: 0,0:03:19.51,0:03:21.26,Default,Sad-One,0,0,0,,Nrgh. E-Engh!
+Dialogue: 0,0:03:21.26,0:03:23.43,Default,Tulip,0,0,0,,One-One! Stop being a fussy baby.
+Dialogue: 0,0:03:23.43,0:03:24.60,Default,Glad-One,0,0,0,,Look at that house!
+Dialogue: 0,0:03:24.60,0:03:26.31,Default,Glad-One,0,0,0,,There's no wall at all!
+Dialogue: 0,0:03:26.85,0:03:27.81,Default,Tulip,0,0,0,,...So?
+Dialogue: 0,0:03:27.81,0:03:30.40,Default,Glad-One,0,0,0,,These houses are \Nsupposed to have walls!
+Dialogue: 0,0:03:30.40,0:03:31.98,Default,Glad-One,0,0,0,,Anyone could just walk in!
+Dialogue: 0,0:03:31.98,0:03:35.15,Default,Sad-One,0,0,0,,Oh my gosh, \NI can see their saucepans!
+Dialogue: 0,0:03:35.15,0:03:38.32,Default,Tulip,0,0,0,,We've ridden a French toast ferryboat \Nacross a maple syrup river.
 Dialogue: 0,0:03:38.32,0:03:39.62,Default,Tulip,0,0,0,,This is relatively normal.
 Dialogue: 0,0:03:39.62,0:03:41.12,Default,Glad-One,0,0,0,,But those weren't broken.
-Dialogue: 0,0:03:41.12,0:03:41.99,Default,Tulip,0,0,0,,Why do you --
-Dialogue: 0,0:03:41.99,0:03:44.87,Default,Aloysius,0,0,0,,I believe this is the door\Nyou're looking for?
-Dialogue: 0,0:03:46.08,0:03:48.21,Default,Tulip,0,0,0,,Cool. Well, uh,\NYour Highness,
-Dialogue: 0,0:03:48.21,0:03:49.75,Default,Tulip,0,0,0,,thank you so much\Nfor taking us here.
-Dialogue: 0,0:03:49.75,0:03:51.67,Default,Tulip,0,0,0,,We wish you\Nthe best and --
+Dialogue: 0,0:03:41.12,0:03:41.99,Default,Tulip,0,0,0,,Why do you—
+Dialogue: 0,0:03:41.99,0:03:44.87,Default,Aloysius,0,0,0,,I believe this is \Nthe door you're looking for?
+Dialogue: 0,0:03:46.08,0:03:48.21,Default,Tulip,0,0,0,,Cool. Well, uh, Your Highness,
+Dialogue: 0,0:03:48.21,0:03:49.75,Default,Tulip,0,0,0,,thank you so much for taking us here.
+Dialogue: 0,0:03:49.75,0:03:51.67,Default,Tulip,0,0,0,,We wish you the best and—
 Dialogue: 0,0:03:51.67,0:03:52.92,Default,Tulip,0,0,0,,Hey! One-One!
-Dialogue: 0,0:03:54.26,0:03:55.72,Default,Tulip,0,0,0,,Come back!\NWe got to go!
+Dialogue: 0,0:03:54.26,0:03:55.72,Default,Tulip,0,0,0,,Come back! We gotta go!
 Dialogue: 0,0:03:55.72,0:04:00.09,Default,Atticus,0,0,0,,Actually, Aloysius and I were in the middle \Nof some fascinating discussions.
 Dialogue: 0,0:04:00.09,0:04:02.68,Default,Atticus,0,0,0,,How do you keep your crown\Nbalanced on your head?
 Dialogue: 0,0:04:02.68,0:04:04.10,Default,Aloysius,0,0,0,,Bobby pins, mostly.
@@ -114,12 +115,12 @@ Dialogue: 0,0:04:04.10,0:04:04.93,Default,Atticus,0,0,0,,Hmm!
 Dialogue: 0,0:04:04.93,0:04:07.69,Default,Atticus,0,0,0,,Knowing we have\Na potential ally here,
 Dialogue: 0,0:04:07.69,0:04:09.44,Default,Atticus,0,0,0,,perhaps we could\Ntake our time?
 Dialogue: 0,0:04:09.44,0:04:12.23,Default,Tulip,0,0,0,,We already spent a lot of time\Nin that spa car.
-Dialogue: 0,0:04:12.23,0:04:13.11,Default,Tulip,0,0,0,,We need to get --
-Dialogue: 0,0:04:13.11,0:04:13.94,Default,Atticus,0,0,0,,Hmm?
+Dialogue: 0,0:04:12.23,0:04:13.11,Default,Tulip,0,0,0,,We need to get—
+Comment: 0,0:04:13.11,0:04:13.94,Default,Atticus,0,0,0,,Hmm?
 Dialogue: 0,0:04:13.94,0:04:15.94,Default,Tulip,0,0,0,,Hey, no.\NDon't do that.
 Dialogue: 0,0:04:15.94,0:04:18.78,Default,Atticus,0,0,0,,Why? I just want to know\Nwhat you're thinking.
-Dialogue: 0,0:04:18.78,0:04:20.03,Default,Tulip,0,0,0,,No!\NStop it!
-Dialogue: 0,0:04:20.03,0:04:22.53,Default,Atticus,0,0,0,,Hmm? Hmm?
+Dialogue: 0,0:04:18.78,0:04:20.03,Default,Tulip,0,0,0,,No! Stop it!
+Comment: 0,0:04:20.03,0:04:22.53,Default,Atticus,0,0,0,,Hmm? Hmm?
 Dialogue: 0,0:04:22.53,0:04:24.08,Default,Tulip,0,0,0,,Ugh! Fine!
 Dialogue: 0,0:04:24.08,0:04:27.54,Default,Tulip,0,0,0,,We know where the door is, \Nso I guess it wouldn't hurt to stay for a little while.
 Dialogue: 0,0:04:27.54,0:04:28.75,Default,Atticus,0,0,0,,Fantastic!
@@ -128,12 +129,13 @@ Dialogue: 0,0:04:32.50,0:04:35.67,Default,Atticus,0,0,0,,{\an8}that no citizen c
 Dialogue: 0,0:04:32.50,0:04:34.75,Default,Tulip,0,0,0,,Meet back here\Nin one hour!
 Dialogue: 0,0:04:36.26,0:04:38.42,Default,Tulip,0,0,0,,Hey, buddy.
 Dialogue: 0,0:04:38.42,0:04:40.18,Default,Tulip,0,0,0,,I'm kind of worried\Nabout you.
-Dialogue: 0,0:04:40.18,0:04:42.64,Default,Glad-One,0,0,0,,This brick isn't\Nsupposed to be here at all.
+Dialogue: 0,0:04:40.18,0:04:42.64,Default,Glad-One,0,0,0,,This brick isn't supposed to be here at all.
 Dialogue: 0,0:04:42.64,0:04:44.39,Default,Tulip,0,0,0,,How do you know\Nit's not supposed to be here?
-Dialogue: 0,0:04:44.39,0:04:45.77,Default,Sad-One,0,0,0,,It just isn't.
-Dialogue: 0,0:04:45.77,0:04:50.02,Default,Tulip,0,0,0,,Hmm...well,\NI suppose someone
-Dialogue: 0,0:04:50.02,0:04:52.44,Default,Tulip,0,0,0,,could trip over\Nthese loose bricks.
-Dialogue: 0,0:04:52.44,0:04:55.27,Default,Glad-One,0,0,0,,Exactly! And someone could trip\Nover that loose house!
+Dialogue: 0,0:04:44.39,0:04:45.77,Default,Sad-One,0,0,0,,It just {\i1}isn't{\i0}.
+Dialogue: 0,0:04:45.77,0:04:46.97,Default,Tulip,0,0,0,,Hmm...
+Dialogue: 0,0:04:46.97,0:04:50.02,Default,Tulip,0,0,0,,Well, I suppose someone
+Dialogue: 0,0:04:50.02,0:04:52.44,Default,Tulip,0,0,0,,{\i1}could{\i0} trip over these loose bricks.
+Dialogue: 0,0:04:52.44,0:04:55.27,Default,Glad-One,0,0,0,,Exactly! And someone {\i1}could{\i0} \Ntrip over that loose house!
 Dialogue: 0,0:04:55.27,0:04:58.28,Default,Glad-One,0,0,0,,{\move(960,1020,-800,1020,1276,3010)}If we each take a side,\Nwe can do this in no time!
 Dialogue: 0,0:04:57.11,0:04:58.86,Default,Tulip,0,0,0,,Maybe we shouldn't \Nall split up.
 Dialogue: 0,0:04:58.86,0:05:00.28,Default,Tulip,0,0,0,,Ba-dum tsh.
@@ -143,107 +145,111 @@ Dialogue: 0,0:05:03.07,0:05:04.08,Default,Tulip,0,0,0,,Hmm.
 Dialogue: 0,0:05:06.62,0:05:09.04,Default,Atticus,0,0,0,,We all want\Nthe tennis ball thrown,
 Dialogue: 0,0:05:09.04,0:05:10.83,Default,Atticus,0,0,0,,but we never want to drop it.
 Dialogue: 0,0:05:10.83,0:05:11.42,Default,Atticus,0,0,0,,Drop it!
-Dialogue: 0,0:05:11.42,0:05:15.25,Default,Aloysius,0,0,0,,I do enjoy the occasional leaf\Nof romaine lettuce myself --
+Dialogue: 0,0:05:11.42,0:05:15.25,Default,Aloysius,0,0,0,,I do enjoy the occasional leaf\Nof romaine lettuce myself—
 Dialogue: 0,0:05:15.25,0:05:16.80,Default,Aloysius,0,0,0,,just don't tell\Nthe missus.
 Dialogue: 0,0:05:17.88,0:05:20.97,Default,Atticus,0,0,0,,This hole in the ground\Nprovides an interesting look.
 Dialogue: 0,0:05:20.97,0:05:23.30,Default,Aloysius,0,0,0,,Our mail delivery service\Nis built around them.
 Dialogue: 0,0:05:30.23,0:05:32.90,Default,Aloysius,0,0,0,,It's fast, and everybody\Ngets something.
-Dialogue: 0,0:05:32.90,0:05:36.23,Default,Aloysius,0,0,0,,No disappointed faces for\Nempty mailboxes in this kingdom.
+Dialogue: 0,0:05:32.90,0:05:36.23,Default,Aloysius,0,0,0,,No disappointed faces \Nfor empty mailboxes in this kingdom.
 Dialogue: 0,0:05:39.90,0:05:42.53,Default,Tulip,0,0,0,,Okay. Okay. Stop pushing.\NI'm going. I'm going.
 Dialogue: 0,0:05:42.53,0:05:44.62,Default,Aloysius,0,0,0,,So, what about\Nyour missing walls?
 Dialogue: 0,0:05:44.62,0:05:45.95,Default,Aloysius,0,0,0,,You mean\Nthe open quarter?
-Dialogue: 0,0:05:45.95,0:05:48.37,Default,Aloysius,0,0,0,,Do your houses have walls\Non all sides?
-Dialogue: 0,0:05:48.37,0:05:52.00,Default,Aloysius,0,0,0,,How do your people get\Nfresh air, or dry their clothes?
-Dialogue: 0,0:05:52.00,0:05:52.79,Default,Atticus,0,0,0,,Hmm.
+Dialogue: 0,0:05:45.95,0:05:48.37,Default,Aloysius,0,0,0,,Do your houses have walls on all sides?
+Dialogue: 0,0:05:48.37,0:05:52.00,Default,Aloysius,0,0,0,,Well, how do your people get fresh air, \Nor dry their clothes?
+Dialogue: 0,0:05:52.00,0:05:52.79,Default,Atticus,0,0,0,,Huh!
 Dialogue: 0,0:05:52.79,0:05:54.96,Default,Atticus,0,0,0,,You put a lot of thought\Ninto your designs.
-Dialogue: 0,0:05:54.96,0:05:56.71,Default,Atticus,0,0,0,,This is\Njust how it is.
+Dialogue: 0,0:05:54.96,0:05:56.71,Default,Atticus,0,0,0,,This is just how it is.
 Dialogue: 0,0:05:57.88,0:05:58.59,Default,Turtle,0,0,0,,Huh?
 Dialogue: 0,0:05:59.21,0:06:00.01,Default,Turtle,0,0,0,,Hmm.
 Dialogue: 0,0:06:07.22,0:06:08.31,Default,Tulip,0,0,0,,Bleh!
 Dialogue: 0,0:06:09.43,0:06:10.18,Default,Tulip,0,0,0,,Phew!
-Dialogue: 0,0:06:10.18,0:06:12.48,Default,Tulip,0,0,0,,Ha. Take that,\NMiss Carlson!
+Dialogue: 0,0:06:10.18,0:06:12.48,Default,Tulip,0,0,0,,Ha. Take that, Miss Carlson!
 Dialogue: 0,0:06:12.48,0:06:15.19,Default,Tulip,0,0,0,,Now who needs improvement\Nin cleaning up after herself
 Dialogue: 0,0:06:15.19,0:06:16.65,Default,Tulip,0,0,0,,and cursive and brevity?
 Dialogue: 0,0:06:18.11,0:06:18.73,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:06:20.07,0:06:20.74,Default,Tulip,0,0,0,,Huh?
-Dialogue: 0,0:06:21.90,0:06:22.57,Default,Tulip,0,0,0,,Aah!
+Dialogue: 0,0:06:21.90,0:06:22.57,Default,Tulip,0,0,0,,Ahh!
 Dialogue: 0,0:06:24.41,0:06:26.28,Default,Tulip,0,0,0,,Do not remove the orbs.\NGot it.
-Dialogue: 0,0:06:26.28,0:06:29.49,Default,Tulip,0,0,0,,I'll write that down\Nwith less jammy hands.
+Dialogue: 0,0:06:26.28,0:06:29.49,Default,Tulip,0,0,0,,I will write that down\Nwith less jammy hands.
 Dialogue: 0,0:06:30.29,0:06:31.45,Default,Tulip,0,0,0,,Hmm.
 Dialogue: 0,0:06:36.71,0:06:38.63,Default,Tulip,0,0,0,,We should probably\Nget going anyway.
-Dialogue: 0,0:06:39.88,0:06:41.88,Default,Tulip,0,0,0,,Atticus?!\NOne-One?!
+Dialogue: 0,0:06:39.88,0:06:41.88,Default,Tulip,0,0,0,,Atticus? One-One?
 Dialogue: 0,0:06:46.51,0:06:49.43,Default,Tulip,0,0,0,,I guess neither of them know\Nhow long an hour is.
 Dialogue: 0,0:06:52.60,0:06:54.06,Default,Tulip,0,0,0,,What's going on?
 Dialogue: 0,0:06:54.06,0:06:56.06,Default,Turtle,0,0,0,,Someone has moved the jam.\NIt's dried up!
-Dialogue: 0,0:06:56.06,0:06:58.94,Default,Tulip,0,0,0,,Well, yeah, I was trying to\Nhelp you clean it up.
+Dialogue: 0,0:06:56.06,0:06:58.94,Default,Tulip,0,0,0,,Well, yeah, I was trying \Nto help you clean it up.
 Dialogue: 0,0:06:58.94,0:07:01.11,Default,Turtle,0,0,0,,Whoa!
 Dialogue: 0,0:07:01.11,0:07:03.15,Default,Turtle,0,0,0,,How are we supposed to slide\Nto the other side?
 Dialogue: 0,0:07:03.15,0:07:06.11,Default,Turtle,0,0,0,,Everything is going to be\Nslowed down if we have to walk!
-Dialogue: 0,0:07:06.11,0:07:09.87,Default,Tulip,0,0,0,,Oh, you...use this?\NI-I didn't even think --
+Dialogue: 0,0:07:06.11,0:07:09.87,Default,Tulip,0,0,0,,Oh, you... use this?\NI-I-I didn't even think—
 Dialogue: 0,0:07:09.87,0:07:11.29,Default,Kevin,0,0,0,,Hey, Chief,\NI'm gonna be late.
 Dialogue: 0,0:07:11.29,0:07:13.20,Default,Kevin,0,0,0,,No. No. No.\Njam pond has been dried up.
 Dialogue: 0,0:07:13.20,0:07:15.12,Default,Kevin,0,0,0,,No, I don't know\Nwhy it happened.
-Dialogue: 0,0:07:15.12,0:07:18.63,Default,Kevin,0,0,0,,I know how it happened, but\NI don't know why it happened.
+Dialogue: 0,0:07:15.12,0:07:18.63,Default,Kevin,0,0,0,,I know {\i1}how{\i0} it happened, \Nbut I don't know {\i1}why{\i0} it happened.
 Dialogue: 0,0:07:18.63,0:07:20.13,Default,Tulip,0,0,0,,I'm really sorry.
 Dialogue: 0,0:07:34.43,0:07:36.14,Default,Tulip,0,0,0,,Oh, no.\NWhere's One-One?
 Dialogue: 0,0:07:41.90,0:07:43.28,Default,Tulip,0,0,0,,Atticus?!
 Dialogue: 0,0:07:43.28,0:07:46.32,Default,Tulip,0,0,0,,Atticus, what's going on?\NHave you seen One-One?
-Dialogue: 0,0:07:46.32,0:07:48.36,Default,Atticus,0,0,0,,Seen him?\NWe're trying to stop him,
+Dialogue: 0,0:07:46.32,0:07:48.36,Default,Atticus,0,0,0,,{\i1}Seen{\i0} him?\NWe're trying to {\i1}stop{\i0} him,
 Dialogue: 0,0:07:48.36,0:07:50.12,Default,Atticus,0,0,0,,but we can't reach!
-Dialogue: 0,0:07:52.66,0:07:55.33,Default,Aloysius,0,0,0,,If he moves all those stairs,\Nthe gravity will go with them,
+Dialogue: 0,0:07:52.66,0:07:55.33,Default,Aloysius,0,0,0,,If he moves all those stairs,\Nthe gravity will go with them
 Dialogue: 0,0:07:55.33,0:07:57.00,Default,Aloysius,0,0,0,,and our kingdom\Nwill be torn apart!
-Dialogue: 0,0:07:57.00,0:07:58.50,Default,Tulip,0,0,0,,One-One.
-Dialogue: 0,0:08:01.29,0:08:02.17,Default,Tulip,0,0,0,,Uhh...
-Dialogue: 0,0:08:04.51,0:08:05.17,Default,Tulip,0,0,0,,Aah!
-Dialogue: 0,0:08:05.67,0:08:07.09,Default,Tulip,0,0,0,,Whoa!
-Dialogue: 0,0:08:18.27,0:08:18.89,Default,Tulip,0,0,0,,Whoa!
+Dialogue: 0,0:07:57.00,0:07:58.50,Default,Tulip,0,0,0,,One-One...
+Comment: 0,0:08:01.29,0:08:02.17,Default,Tulip,0,0,0,,Uhh...
+Comment: 0,0:08:04.51,0:08:05.17,Default,Tulip,0,0,0,,Aah!
+Comment: 0,0:08:05.67,0:08:07.09,Default,Tulip,0,0,0,,Whoa!
+Comment: 0,0:08:18.27,0:08:18.89,Default,Tulip,0,0,0,,Whoa!
 Dialogue: 0,0:08:23.86,0:08:26.44,Default,Tulip,0,0,0,,One-One,\Nyou have to stop!
-Dialogue: 0,0:08:29.66,0:08:30.91,Default,Tulip,0,0,0,,What are you doing?!
+Dialogue: 0,0:08:29.66,0:08:30.91,Default,Tulip,0,0,0,,What are you doing?
 Dialogue: 0,0:08:30.91,0:08:34.29,Default,One-One,0,0,0,,I'm helping, Miss Tulip. I'm putting it \Nwhere it's supposed to be.
 Dialogue: 0,0:08:34.29,0:08:37.00,Default,One-One,0,0,0,,If they knew it was broken, \Nthey would have fixed it.
 Dialogue: 0,0:08:37.00,0:08:38.87,Default,One,0,0,0,,They don't need\Nto worry anymore.
 Dialogue: 0,0:08:38.87,0:08:41.25,Default,One,0,0,0,,I'm here to get things\Nback in order.
-Dialogue: 0,0:08:41.25,0:08:43.84,Default,Tulip,0,0,0,,One-One,\Nyou're really scaring me.
+Dialogue: 0,0:08:41.25,0:08:43.84,Default,Tulip,0,0,0,,One-One, you're really scaring me.
 Dialogue: 0,0:08:48.63,0:08:50.68,Default,Kevin,0,0,0,,Yeah. Yeah.\NNow I'm floating away!
-Dialogue: 0,0:08:53.10,0:08:54.68,Default,Tulip,0,0,0,,Why are you\Ndoing this?!
-Dialogue: 0,0:08:54.68,0:08:56.77,Default,One,0,0,0,,I have to help\Nput things in order.
+Dialogue: 0,0:08:53.10,0:08:54.68,Default,Tulip,0,0,0,,Why are you doing this?
+Dialogue: 0,0:08:54.68,0:08:56.77,Default,One,0,0,0,,I have to help put things in order.
 Dialogue: 0,0:08:56.77,0:08:59.27,Default,One,0,0,0,,It wouldn't be like this\Nif I had just been better.
 Dialogue: 0,0:08:59.27,0:09:01.06,Default,Tulip,0,0,0,,Look around you.
 Dialogue: 0,0:09:02.06,0:09:03.36,Default,Tulip,0,0,0,,This isn't helping.
-Dialogue: 0,0:09:03.36,0:09:06.78,Default,One,0,0,0,,How can I not try and fix it?\NIt's my fault.
+Dialogue: 0,0:09:03.36,0:09:05.52,Default,One,0,0,0,,How can I not try and fix it?
+Dialogue: 0,0:09:05.52,0:09:06.78,Default,One,0,0,0,,It's my fault.
 Dialogue: 0,0:09:06.78,0:09:08.86,Default,Tulip,0,0,0,,Is that what you think?
 Dialogue: 0,0:09:08.86,0:09:10.20,Default,Tulip,0,0,0,,That it's your fault?
 Dialogue: 0,0:09:10.20,0:09:11.53,Default,One,0,0,0,,I know it.
 Dialogue: 0,0:09:11.53,0:09:12.87,Default,Tulip,0,0,0,,No, One-One.
 Dialogue: 0,0:09:12.87,0:09:14.91,Default,Tulip,0,0,0,,It's not your fault\Nthe car is this way.
-Dialogue: 0,0:09:14.91,0:09:18.12,Default,Tulip,0,0,0,,There isn't a fault,\Nit just is.
+Dialogue: 0,0:09:14.91,0:09:16.49,Default,Tulip,0,0,0,,There isn't a fault.
+Dialogue: 0,0:09:16.49,0:09:18.12,Default,Tulip,0,0,0,,It just is.
 Dialogue: 0,0:09:18.12,0:09:22.63,Default,Tulip,0,0,0,,But all this, you trying to\Nmake it your responsibility...
-Dialogue: 0,0:09:22.63,0:09:25.09,Default,Tulip,0,0,0,,this is causing\Nreal harm.
+Dialogue: 0,0:09:22.63,0:09:25.09,Default,Tulip,0,0,0,,This is causing real harm.
 Dialogue: 0,0:09:25.09,0:09:26.13,Default,Tulip,0,0,0,,Don't you see?
 Dialogue: 0,0:09:31.13,0:09:34.85,Default,Tulip,0,0,0,,I know what it's like to think \Nthat if you had just been better,
 Dialogue: 0,0:09:34.85,0:09:36.51,Default,Tulip,0,0,0,,things would've been different,
 Dialogue: 0,0:09:36.51,0:09:40.52,Default,Tulip,0,0,0,,that you're responsible for fixing things \Nthat are beyond your control.
-Dialogue: 0,0:09:40.52,0:09:44.11,Default,Tulip,0,0,0,,Just know that I speak\Nfrom experience when I say
+Dialogue: 0,0:09:40.52,0:09:44.11,Default,Tulip,0,0,0,,Just know that I speak\Nfrom experience when I say:
 Dialogue: 0,0:09:44.11,0:09:46.52,Default,Tulip,0,0,0,,this is not your fault.
 Dialogue: 0,0:09:46.52,0:09:50.74,Default,Tulip,0,0,0,,And I still want to help you,\NOne-One, if you'll let me.
-Dialogue: 0,0:09:59.25,0:10:01.16,Default,Tulip,0,0,0,,Whoa!
+Comment: 0,0:09:59.25,0:10:01.16,Default,Tulip,0,0,0,,Whoa!
 Dialogue: 0,0:10:10.01,0:10:11.42,Default,Tulip,0,0,0,,Hey!
-Dialogue: 0,0:10:11.42,0:10:14.93,Default,Tulip,0,0,0,,Your Highness, we both\Nfeel terrible.
+Dialogue: 0,0:10:11.42,0:10:14.93,Default,Tulip,0,0,0,,Your Highness, we both feel terrible.
 Dialogue: 0,0:10:14.93,0:10:15.68,Default,Tulip,0,0,0,,Don't we?
 Dialogue: 0,0:10:15.68,0:10:17.01,Default,Sad-One,0,0,0,,Sorry.
-Dialogue: 0,0:10:17.01,0:10:19.47,Default,Tulip,0,0,0,,He's kind of going through\Na lot right now.
-Dialogue: 0,0:10:19.47,0:10:21.64,Default,Kevin,0,0,0,,Well, the whole sky's gone.\NYeah, it's missing.
-Dialogue: 0,0:10:21.64,0:10:23.44,Default,Kevin,0,0,0,,But there's\Na different sky behind it.
-Dialogue: 0,0:10:23.44,0:10:25.31,Default,Kevin,0,0,0,,Oh, the whole portfolio's\Ngoing to be delayed.
+Dialogue: 0,0:10:17.01,0:10:19.47,Default,Tulip,0,0,0,,He's kinda going through\Na lot right now.
+Dialogue: 0,0:10:19.47,0:10:20.64,Default,Kevin,0,0,0,,Well, the whole sky's gone.
+Dialogue: 0,0:10:20.64,0:10:21.64,Default,Kevin,0,0,0,,Yeah, it's missing.
+Dialogue: 0,0:10:21.64,0:10:23.44,Default,Kevin,0,0,0,,But, uh, there's \Na different sky behind it?
+Dialogue: 0,0:10:23.44,0:10:25.31,Default,Kevin,0,0,0,,Ugh, the whole portfolio's\Ngonna be delayed.
 Dialogue: 0,0:10:26.52,0:10:28.86,Default,Aloysius,0,0,0,,Well, this is\Nquite the mess.
-Dialogue: 0,0:10:28.86,0:10:31.49,Default,Atticus,0,0,0,,If I may, the Corginian\NResponse Team
-Dialogue: 0,0:10:31.49,0:10:33.95,Default,Atticus,0,0,0,,specializes\Nin disaster relief.
+Dialogue: 0,0:10:28.86,0:10:31.49,Default,Atticus,0,0,0,,If I may, the Corginian Response Team
+Dialogue: 0,0:10:31.49,0:10:33.95,Default,Atticus,0,0,0,,specializes in disaster relief.
 Dialogue: 0,0:10:33.95,0:10:36.62,Default,Atticus,0,0,0,,Well, they mostly work\Nwith doorbell aftermath,
 Dialogue: 0,0:10:36.62,0:10:38.78,Default,Atticus,0,0,0,,but I still think\Nthey could be of help.
 Dialogue: 0,0:10:38.78,0:10:40.95,Default,Aloysius,0,0,0,,I may take you up\Non that offer, my friend.
-Dialogue: 0,0:10:49.17,0:10:50.59,Default,Glad-One,0,0,0,,Hello! I'm One...
-Dialogue: 0,0:10:50.59,0:10:51.42,Default,Sad-One,0,0,0,,...One.
-Dialogue: 0,0:10:51.42,0:10:53.30,Default,Tulip,0,0,0,,I know.\NI'm Tulip.
+Dialogue: 0,0:10:49.17,0:10:50.59,Default,Glad-One,0,0,0,,{\alphaFF}!{\r}Hello! I’m One!{\alphaFF}-One...
+Dialogue: 0,0:10:50.59,0:10:51.42,Default,Sad-One,0,0,0,,Hello! I’m One-One...
+Dialogue: 0,0:10:51.42,0:10:52.38,Default,Tulip,0,0,0,,I know.
+Dialogue: 0,0:10:52.38,0:10:53.30,Default,Tulip,0,0,0,,I'm Tulip.
 Dialogue: 0,0:10:53.30,0:10:55.26,Default,Sad-One,0,0,0,,Do we ever truly know\Nwho we are?
-Dialogue: 0,0:10:56.26,0:10:58.01,Default,Glad-One,0,0,0,,But\Nwith my best friends by my side,
-Dialogue: 0,0:10:58.01,0:11:02.10,Default,Glad-One,0,0,0,,we push onward --\Nto our homes and mothers!
+Dialogue: 0,0:10:56.26,0:10:58.01,Default,Glad-One,0,0,0,,But with my best friends by my side,
+Dialogue: 0,0:10:58.01,0:11:02.10,Default,Glad-One,0,0,0,,we push onward—\Nto our homes and mothers!
