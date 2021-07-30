@@ -30,7 +30,7 @@ Dialogue: 0,0:00:21.46,0:00:23.57,Default,,0,0,0,,Atticus, you holding up?
 Dialogue: 0,0:00:24.78,0:00:27.19,Default,,0,0,0,,I think your people may have\Na different definition
 Dialogue: 0,0:00:27.23,0:00:28.71,Default,,0,0,0,,of relaxation.
 Dialogue: 0,0:00:28.75,0:00:32.89,Default,,0,0,0,,They didn't even give us\Nkerchiefs when we were finished.
-Dialogue: 0,0:00:35.48,0:00:37.20,Default,,0,0,0,ed,We're not gonna\Nstress ourselves out.
+Dialogue: 0,0:00:35.48,0:00:37.20,Default,,0,0,0,,We aren't going to\Nstress ourselves out.
 Dialogue: 0,0:00:37.24,0:00:38.62,Default,,0,0,0,,We're gonna stay positive,
 Dialogue: 0,0:00:38.65,0:00:40.90,Default,,0,0,0,,and we are gonna take this\None car at a time.
 Dialogue: 0,0:00:40.93,0:00:43.35,Default,,0,0,0,,When you scrub up,\Nyou lift your heart up
@@ -56,7 +56,8 @@ Dialogue: 0,0:01:42.82,0:01:45.31,Default,,0,0,0,,Please, extend your necks\Nin 
 Dialogue: 0,0:01:48.21,0:01:50.45,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:01:50.48,0:01:52.80,Default,,0,0,0,,I am Aloysius III,
 Dialogue: 0,0:01:52.83,0:01:56.15,Default,,0,0,0,,Emperor and Unifier of the Hard-\Nand Soft-Shelled.
-Dialogue: 0,0:01:56.18,0:01:58.29,Default,,0,0,0,split,Tacos?Turtles.
+Dialogue: 0,0:01:56.18,0:01:56.43,Default,,0,0,0,,Tacos?
+Dialogue: 0,0:01:56.43,0:01:58.29,Default,,0,0,0,,Turtles.
 Dialogue: 0,0:01:58.32,0:02:00.77,Default,,0,0,0,,Tsk! Come now,\NTulip. Ugh!
 Dialogue: 0,0:02:00.81,0:02:03.12,Default,,0,0,0,,So, who will be\Nannouncing whom?
 Dialogue: 0,0:02:03.15,0:02:04.88,Default,,0,0,0,,Oh, uh, I'm Tulip.
@@ -111,11 +112,13 @@ Dialogue: 0,0:03:53.95,0:03:56.23,Default,,0,0,0,,Come back!\NWe got to go!
 Dialogue: 0,0:03:56.27,0:03:58.41,Default,,0,0,0,,Actually, Aloysius and I\Nwere in the middle
 Dialogue: 0,0:03:58.44,0:04:00.72,Default,,0,0,0,,of some fascinating\Ndiscussions.
 Dialogue: 0,0:04:00.75,0:04:03.45,Default,,0,0,0,,How do you keep your crown\Nbalanced on your head?
-Dialogue: 0,0:04:03.48,0:04:05.59,Default,,0,0,0,split,Bobby pins, mostly.Hmm!
+Dialogue: 0,0:04:03.48,0:04:04.18,Default,,0,0,0,,Bobby pins, mostly.
+Dialogue: 0,0:04:04.18,0:04:05.59,Default,,0,0,0,,Hmm!
 Dialogue: 0,0:04:05.62,0:04:08.14,Default,,0,0,0,,Knowing we have\Na potential ally here,
 Dialogue: 0,0:04:08.17,0:04:10.11,Default,,0,0,0,,perhaps we could\Ntake our time?
-Dialogue: 0,0:04:10.14,0:04:13.18,Default,,0,0,0,,We already spent a lot of time\Nin that spa car.
-Dialogue: 0,0:04:13.21,0:04:14.46,Default,,0,0,0,split,We need to get --Hmm?
+Dialogue: 0,0:04:10.14,0:04:13.07,Default,,0,0,0,,We already spent a lot of time\Nin that spa car.
+Dialogue: 0,0:04:13.07,0:04:13.11,Default,,0,0,0,,We need to get --
+Dialogue: 0,0:04:13.11,0:04:14.46,Default,,0,0,0,,Hmm?
 Dialogue: 0,0:04:14.49,0:04:16.18,Default,,0,0,0,,Hey, no.\NDon't do that.
 Dialogue: 0,0:04:16.22,0:04:19.46,Default,,0,0,0,,Why? I just want to know\Nwhat you're thinking.
 Dialogue: 0,0:04:19.50,0:04:20.98,Default,,0,0,0,,No!\NStop it!
@@ -125,7 +128,8 @@ Dialogue: 0,0:04:24.54,0:04:25.95,Default,,0,0,0,,We know\Nwhere the door is,
 Dialogue: 0,0:04:25.98,0:04:28.30,Default,,0,0,0,,so I guess it wouldn't hurt to\Nstay for a little while.
 Dialogue: 0,0:04:28.33,0:04:29.95,Default,,0,0,0,,Fantastic!
 Dialogue: 0,0:04:29.99,0:04:32.99,Default,,0,0,0,,Now, my friend,\Nthe charter of walkies dictates
-Dialogue: 0,0:04:33.03,0:04:36.48,Default,,0,0,0,ed,that no citizen --Meet back here\Nin one hour!
+Dialogue: 0,0:04:33.03,0:04:36.26,Default,,0,0,0,,{\an8}that no citizen can be denied a stroll...
+Dialogue: 0,0:04:33.03,0:04:36.48,Default,,0,0,0,,Meet back here\Nin one hour!
 Dialogue: 0,0:04:36.51,0:04:38.51,Default,,0,0,0,,Hey, buddy.
 Dialogue: 0,0:04:38.55,0:04:40.52,Default,,0,0,0,,I'm kind of worried\Nabout you.
 Dialogue: 0,0:04:40.55,0:04:43.14,Default,,0,0,0,,This brick isn't\Nsupposed to be here at all.
@@ -210,7 +214,8 @@ Dialogue: 0,0:08:59.78,0:09:01.57,Default,,0,0,0,,Look around you.
 Dialogue: 0,0:09:03.05,0:09:04.40,Default,,0,0,0,,This isn't helping.
 Dialogue: 0,0:09:04.44,0:09:07.27,Default,,0,0,0,,How can I not try and fix it?\NIt's my fault.
 Dialogue: 0,0:09:07.30,0:09:11.30,Default,,0,0,0,,Is that what you think?\NThat it's your fault?
-Dialogue: 0,0:09:11.34,0:09:13.24,Default,,0,0,0,split,I know it.\NNo, One-One.
+Dialogue: 0,0:09:11.34,0:09:11.53,Default,,0,0,0,,I know it.
+Dialogue: 0,0:09:11.53,0:09:13.24,Default,,0,0,0,,No, One-One.
 Dialogue: 0,0:09:13.27,0:09:15.24,Default,,0,0,0,,It's not your fault\Nthe car is this way.
 Dialogue: 0,0:09:15.27,0:09:18.55,Default,,0,0,0,,There isn't a fault,\Nit just is.
 Dialogue: 0,0:09:18.59,0:09:22.94,Default,,0,0,0,,But all this, you trying to\Nmake it your responsibility...
