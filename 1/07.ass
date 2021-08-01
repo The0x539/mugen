@@ -45,7 +45,7 @@ Dialogue: 0,0:00:51.32,0:00:52.87,Default,Atticus,0,0,0,,Who is that dog\Nbeneat
 Dialogue: 0,0:00:52.87,0:00:55.66,Default,Atticus,0,0,0,,How has he obtained\Nthe Imperial Crown of Corginia?
 Dialogue: 0,0:00:56.54,0:00:58.58,Default,Tulip,0,0,0,,Atticus, that's your reflection.
 Dialogue: 0,0:00:58.58,0:01:00.67,Default,Atticus,0,0,0,,Oh, this is terribly embarrassing.
-Dialogue: 0,0:01:00.67,0:01:02.50,Default,Atticus,0,0,0,,I...
+Dialogue: 0,0:01:00.67,0:01:01.17,Default,Atticus,0,0,0,,I—
 Dialogue: 0,0:01:02.50,0:01:03.00,Default,Atticus,0,0,0,,I just—
 Dialogue: 0,0:01:06.59,0:01:07.46,Default,Tulip,0,0,0,,Whoo-hoo!
 Dialogue: 0,0:01:07.46,0:01:07.96,Default,Atticus,0,0,0,,Whoa!
@@ -61,10 +61,10 @@ Dialogue: 0,0:01:34.53,0:01:35.53,Default,Tulip,0,0,0,,No, look!
 Dialogue: 0,0:01:35.53,0:01:37.70,Default,Tulip,0,0,0,,My reflection isn't moving with me!
 Dialogue: 0,0:01:39.04,0:01:40.54,Default,Tulip,0,0,0,,Are your reflections broken too?
 Dialogue: 0,0:01:41.83,0:01:42.79,Default,,0,0,0,,I'm not broken.
-Dialogue: 0,0:01:42.79,0:01:44.63,Default,Tulip,0,0,0,,Whoa!\NYou're alive?!
-Dialogue: 0,0:01:44.63,0:01:47.84,Default,Tulip,0,0,0,,Oh, no. I'm sorry about all the times \NI've picked my nose in front of you.
+Dialogue: 0,0:01:42.79,0:01:44.63,Default,Tulip,0,0,0,,Whoa! You're alive?
+Dialogue: 0,0:01:44.63,0:01:47.84,Default,Tulip,0,0,0,,Oh no. I'm sorry about all the times \NI've picked my nose in front of you.
 Dialogue: 0,0:01:47.84,0:01:49.80,Default,,0,0,0,,Not gonna lie,\Nthat was gross.
-Dialogue: 0,0:01:49.80,0:01:51.88,Default,Tulip,0,0,0,,Do you know why\NI can't open the door?
+Dialogue: 0,0:01:49.80,0:01:51.88,Default,Tulip,0,0,0,,Do {\i1}you{\i0} know why\NI can't open the door?
 Dialogue: 0,0:01:51.88,0:01:53.64,Default,,0,0,0,,Doors work differently in this car.
 Dialogue: 0,0:01:53.64,0:01:56.72,Default,,0,0,0,,{\i1}I{\i0} have to be the one to open them \Nwith you as {\i1}my{\i0} reflection.
 Dialogue: 0,0:01:56.72,0:02:00.89,Default,Tulip,0,0,0,,This isn't gonna suck me \Ninto a loop of my own memories, is it?
@@ -72,8 +72,8 @@ Dialogue: 0,0:02:00.89,0:02:03.23,Default,,0,0,0,,Nah. We place our foot\Non the
 Dialogue: 0,0:02:03.23,0:02:05.65,Default,,0,0,0,,at the same time\Nin the opposite direction.
 Dialogue: 0,0:02:05.65,0:02:08.32,Default,,0,0,0,,Then we can cross the barrier\Ninto each other's world.
 Dialogue: 0,0:02:08.32,0:02:11.57,Default,Atticus,0,0,0,,I don't know about\Nthis world-switching business.
-Dialogue: 0,0:02:11.57,0:02:14.57,Default,,0,0,0,,Well, if you want to stay \Nin this car forever, fine by me.
-Dialogue: 0,0:02:14.57,0:02:17.49,Default,,0,0,0,,But it's gonna get \N{\i1}real{\i0} boring, {\i1}real{\i0} quick.
+Dialogue: 0,0:02:11.57,0:02:14.57,Default,,0,0,0,,Well, if you want to stay \Nin this car forever, fine by me,
+Dialogue: 0,0:02:14.57,0:02:17.49,Default,,0,0,0,,but it's gonna get \N{\i1}real{\i0} boring, {\i1}real{\i0} quick.
 Dialogue: 0,0:02:17.49,0:02:18.66,Default,,0,0,0,,Trust me.
 Dialogue: 0,0:02:18.66,0:02:19.91,Default,Tulip,0,0,0,,Hmm.
 Dialogue: 0,0:02:20.54,0:02:23.00,Default,Tulip,0,0,0,,Yeah. I can't just stay here.
@@ -149,7 +149,7 @@ Dialogue: 0,0:05:13.58,0:05:15.46,Default,Mace,0,0,0,,If your reflection doesn't
 Dialogue: 0,0:05:15.46,0:05:18.26,Default,Mace,0,0,0,,we'll find her and we'll polish her \Ndown to a pile of nothing.
 Dialogue: 0,0:05:18.92,0:05:20.76,Default,Tulip,0,0,0,,A pile of nothing?
 Dialogue: 0,0:05:21.51,0:05:23.01,Default,Tulip,0,0,0,,You can't kill her!
-Dialogue: 0,0:05:23.01,0:05:25.51,Default,Tulip,0,0,0,,I just thought she'd go\Nto jail or something!
+Dialogue: 0,0:05:23.01,0:05:25.51,Default,Tulip,0,0,0,,I-I just thought she'd go\Nto jail or something!
 Dialogue: 0,0:05:25.51,0:05:29.27,Default,Mace,0,0,0,,That shatter, that sliver, \Nis not a person.
 Dialogue: 0,0:05:29.27,0:05:31.73,Default,Mace,0,0,0,,She exists to reflect \N{\i1}your{\i0} existence,
 Dialogue: 0,0:05:31.73,0:05:33.94,Default,Mace,0,0,0,,and if she isn't serving\Nthat purpose,
@@ -169,13 +169,14 @@ Dialogue: 0,0:06:01.63,0:06:02.13,Default,Mace,0,0,0,,What?
 Comment: 0,0:06:02.72,0:06:03.72,Default,Tulip,0,0,0,,Ugh!
 Dialogue: 0,0:06:03.72,0:06:05.80,Default,Tulip,0,0,0,,Stay here and keep them distracted!
 Dialogue: 0,0:06:06.68,0:06:07.85,Default,Mace,0,0,0,,Stop.
-Dialogue: 0,0:06:07.85,0:06:10.47,Default,Mace,0,0,0,,That Sliver just doesn't\Nknow all the rules yet.
+Dialogue: 0,0:06:07.85,0:06:10.47,Default,Mace,0,0,0,,That sliver just doesn't\Nknow all the rules yet.
 Dialogue: 0,0:06:10.47,0:06:11.31,Default,Mace,0,0,0,,Suit up.
 Dialogue: 0,0:06:30.66,0:06:31.95,Default,Atticus,0,0,0,,Remain where you are, gentlemen!
 Dialogue: 0,0:06:31.95,0:06:36.79,Default,Atticus,0,0,0,,I am a pacifist by nature,\Nbut a warrior by necessity.
 Dialogue: 0,0:06:36.79,0:06:37.79,Default,Glad-One,0,0,0,,I'm a robot!
-Dialogue: 0,0:06:47.05,0:06:49.85,Default,Tulip,0,0,0,,Stop! You can't\Nleave me trapped here!
-Dialogue: 0,0:06:49.85,0:06:51.22,Default,,0,0,0,,If it means I get\Nto be free...
+Dialogue: 0,0:06:47.05,0:06:47.72,Default,Tulip,0,0,0,,Stop!
+Dialogue: 0,0:06:47.72,0:06:49.85,Default,Tulip,0,0,0,,You can't leave me trapped here!
+Dialogue: 0,0:06:49.85,0:06:51.22,Default,,0,0,0,,If it means I get to be free...
 Dialogue: 0,0:06:53.27,0:06:54.56,Default,,0,0,0,,then I'm doing it.
 Dialogue: 0,0:07:17.29,0:07:20.63,Default,Tulip,0,0,0,,Hey. I can help you\Nif you talk to me.
 Dialogue: 0,0:07:20.63,0:07:22.30,Default,,0,0,0,,That's funny,\Ncoming from you.
@@ -236,7 +237,8 @@ Comment: 0,0:09:42.44,0:09:43.44,Default,Tulip,0,0,0,,Ugh.
 Dialogue: 0,0:09:43.44,0:09:45.31,Default,,0,0,0,,Oh, {\i1}man{\i0}.
 Dialogue: 0,0:09:45.31,0:09:46.36,Default,Tulip,0,0,0,,Aw, yeah.
 Dialogue: 0,0:09:46.36,0:09:48.69,Default,Tulip,0,0,0,,This is such a boring car\Nto see first.
-Dialogue: 0,0:09:48.69,0:09:52.11,Default,,0,0,0,,Are you kidding?\NThis. Is so. Cool!
+Dialogue: 0,0:09:48.69,0:09:50.24,Default,,0,0,0,,Are you kidding?
+Dialogue: 0,0:09:50.24,0:09:52.11,Default,,0,0,0,,This. Is so. Cool!
 Dialogue: 0,0:09:52.11,0:09:53.53,Default,,0,0,0,,Do you think they'll let me\Nopen an account?
 Dialogue: 0,0:09:53.53,0:09:54.66,Default,,0,0,0,,Will I get a checkbook?
 Dialogue: 0,0:09:54.66,0:09:57.20,Default,,0,0,0,,Look! Ah, it's those \Nlittle pens on chains!
