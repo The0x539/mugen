@@ -33,8 +33,8 @@ Dialogue: 0,0:00:36.31,0:00:38.18,Default,Sad-One,0,0,0,,You're not my dentist.
 Dialogue: 0,0:00:38.73,0:00:39.94,Default,Atticus,0,0,0,,Tulip, hello.
 Dialogue: 0,0:00:39.94,0:00:42.06,Default,Atticus,0,0,0,,So, with the humidity\Nin that luau car,
 Dialogue: 0,0:00:42.06,0:00:43.86,Default,Atticus,0,0,0,,along with the hard floors here,
-Dialogue: 0,0:00:43.86,0:00:46.40,Default,Atticus,0,0,0,,my fur and I seem to be \Nhaving a disagreement.
-Dialogue: 0,0:00:46.40,0:00:48.86,Default,Tulip,0,0,0,,Well, I think it kinda\Nsuits you, but...
+Dialogue: 0,0:00:43.86,0:00:46.28,Default,Atticus,0,0,0,,my fur and I seem to be \Nhaving a disagreement.
+Dialogue: 0,0:00:46.28,0:00:48.86,Default,Tulip,0,0,0,,Well, I think it kinda\Nsuits you, but...
 Dialogue: 0,0:00:52.74,0:00:54.08,Default,Tulip,0,0,0,,Very regal.
 Dialogue: 0,0:00:54.08,0:00:55.79,Default,Atticus,0,0,0,,I appreciate it.
 Dialogue: 0,0:00:55.79,0:00:57.66,Default,Glad-One,0,0,0,,My tartar is under control!
@@ -44,9 +44,11 @@ Dialogue: 0,0:01:01.37,0:01:02.00,Default,Glad-One,0,0,0,,Ready!
 Dialogue: 0,0:01:02.00,0:01:03.17,Default,Atticus,0,0,0,,At your command.
 Dialogue: 0,0:01:04.50,0:01:06.42,Default,Tulip,0,0,0,,I declare bankruptcy!
 Dialogue: 0,0:01:28.11,0:01:30.03,Default,Tulip,0,0,0,,Hmm. No exit in sight...
-Dialogue: 0,0:01:30.03,0:01:33.45,Default,Glad-One,0,0,0,,Miss Tulip, look at all these mums!
+Dialogue: 0,0:01:30.03,0:01:31.28,Default,Glad-One,0,0,0,,Miss Tulip.
+Dialogue: 0,0:01:31.65,0:01:33.45,Default,Glad-One,0,0,0,,Look at all these mums!
 Dialogue: 0,0:01:34.03,0:01:37.29,Default,Tulip,0,0,0,,I guess we could just\Nstand here, not moving,
-Dialogue: 0,0:01:37.29,0:01:41.37,Default,Tulip,0,0,0,,and give a real hard look,\Nout here on the floor,
+Dialogue: 0,0:01:37.29,0:01:39.83,Default,Tulip,0,0,0,,and give a real hard look,
+Dialogue: 0,0:01:39.83,0:01:41.37,Default,Tulip,0,0,0,,out here on the floor,
 Dialogue: 0,0:01:41.37,0:01:43.12,Default,Tulip,0,0,0,,where we won't be distracted.
 Dialogue: 0,0:01:43.12,0:01:44.92,Default,Tulip,0,0,0,,Again, without moving.
 Dialogue: 0,0:01:44.92,0:01:48.96,Default,Tulip,0,0,0,,Or I suppose we {\i1}could{\i0} \Ntake a quick break to—
@@ -58,7 +60,7 @@ Dialogue: 0,0:01:59.22,0:02:01.81,Default,Atticus,0,0,0,,Weren't you trying\Nto 
 Dialogue: 0,0:02:01.81,0:02:06.15,Default,Tulip,0,0,0,,Well, I mean, I {\i1}was{\i0} trying\Nto get to game design camp,
 Dialogue: 0,0:02:06.15,0:02:08.17,Default,Tulip,0,0,0,,but... it's over.
 Dialogue: 0,0:02:09.07,0:02:11.90,Default,Tulip,0,0,0,,Now I just... \Nkinda wanna go home?
-Dialogue: 0,0:02:11.90,0:02:12.70,Default,Tulip,0,0,0,,Hmm.
+Dialogue: 0,0:02:11.90,0:02:13.07,Default,Tulip,0,0,0,,Hmm.
 Dialogue: 0,0:02:13.07,0:02:14.49,Default,Atticus,0,0,0,,Hey, Atticus?
 Dialogue: 0,0:02:14.49,0:02:16.41,Default,Atticus,0,0,0,,Thanks for sticking\Nwith me through all this.
 Comment: 0,0:02:17.08,0:02:17.62,Default,Atticus,0,0,0,,Ptoo!
@@ -219,7 +221,7 @@ Dialogue: 0,0:09:10.40,0:09:11.74,Default,The Conductor,0,0,0,,Aww.
 Dialogue: 0,0:09:12.16,0:09:14.33,Default,The Conductor,0,0,0,,No more tears.
 Dialogue: 0,0:09:18.70,0:09:20.12,Default,Tulip,0,0,0,,Atticus, no!
 Dialogue: 0,0:09:20.46,0:09:22.21,Default,The Conductor,0,0,0,,You {\i1}will{\i0} cease your journey.
-Dialogue: 0,0:09:22.21,0:09:23.83,Default,Tulip,0,0,0,,Why should I listen\Nto you?!
+Dialogue: 0,0:09:22.21,0:09:23.83,Default,Tulip,0,0,0,,Why should I listen to you?
 Dialogue: 0,0:09:24.71,0:09:27.20,Default,The Conductor,0,0,0,,Because I am the Conductor.
 Dialogue: 0,0:09:38.06,0:09:39.23,Default,Tulip,0,0,0,,Atticus!
 Dialogue: 0,0:09:46.23,0:09:47.32,Default,Tulip,0,0,0,,Atticus?
