@@ -76,7 +76,8 @@ Dialogue: 0,0:02:50.58,0:02:53.38,Default,,0,0,0,,Luckily, I was in dire\Nneed o
 Dialogue: 0,0:02:53.41,0:02:54.58,Default,,0,0,0,,Sleeping's creepy.
 Dialogue: 0,0:02:54.62,0:02:57.38,Default,,0,0,0,,Aah! One-One!\NHow'd you get here?
 Dialogue: 0,0:02:57.41,0:02:58.59,Default,,0,0,0,,I followed you.
-Dialogue: 0,0:02:58.62,0:03:00.38,Default,,0,0,0,split,Yeah, but how?\NI 'unno.
+Dialogue: 0,0:02:58.62,0:03:00.12,Default,,0,0,0,,Yeah, but how?
+Dialogue: 0,0:03:00.12,0:03:00.38,Default,,0,0,0,,I 'unno.
 Dialogue: 0,0:03:00.42,0:03:03.63,Default,,0,0,0,,So, the glorified wind-up toy\Nwill be joining us.
 Dialogue: 0,0:03:03.66,0:03:06.42,Default,,0,0,0,,I am glorious.
 Dialogue: 0,0:03:08.63,0:03:09.84,Default,,0,0,0,,So...
@@ -120,7 +121,8 @@ Dialogue: 0,0:05:02.64,0:05:04.13,Default,,0,0,0,,Wait, there's a new trick\NI l
 Dialogue: 0,0:05:04.16,0:05:06.44,Default,,0,0,0,,If we play the right tones\Ninto the receiver,
 Dialogue: 0,0:05:06.47,0:05:08.79,Default,,0,0,0,,we can control\Nthe network.
 Dialogue: 0,0:05:09.82,0:05:11.51,Default,,0,0,0,,Hello?
-Dialogue: 0,0:05:11.55,0:05:12.76,Default,,0,0,0,split,Whoa!\NIt worked!
+Dialogue: 0,0:05:11.55,0:05:12.04,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:05:12.04,0:05:12.76,Default,,0,0,0,,It worked!
 Dialogue: 0,0:05:12.79,0:05:14.79,Default,,0,0,0,,Hi, y-yes,\Nwe need a taxi.
 Dialogue: 0,0:05:14.83,0:05:16.41,Default,,0,0,0,,Tell 'em\Nwe're sopping wet!
 Dialogue: 0,0:05:16.45,0:05:17.55,Default,,0,0,0,,Shush.\NShh. Shh. Shh.
