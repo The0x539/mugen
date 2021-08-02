@@ -22,7 +22,8 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:24.23,0:00:26.12,Default,,0,0,0,split,Hmm. Miss Tulip?
+Dialogue: 0,0:00:24.23,0:00:25.21,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:00:25.21,0:00:26.12,Default,,0,0,0,,Miss Tulip?
 Dialogue: 0,0:00:26.16,0:00:27.47,Default,,0,0,0,,I don't want to get\Ncavities, either.
 Dialogue: 0,0:00:27.51,0:00:29.23,Default,,0,0,0,,Oh, of course not.
 Dialogue: 0,0:00:29.27,0:00:32.86,Default,,0,0,0,,Uh...
@@ -39,7 +40,8 @@ Dialogue: 0,0:00:54.12,0:00:55.60,Default,,0,0,0,,I appreciate it.
 Dialogue: 0,0:00:55.64,0:00:57.54,Default,,0,0,0,,My tartar is under control!
 Dialogue: 0,0:00:57.57,0:00:59.74,Default,,0,0,0,,I can see that.
 Dialogue: 0,0:00:59.78,0:01:01.37,Default,,0,0,0,,Alright,\Nyou two ready?
-Dialogue: 0,0:01:01.40,0:01:04.34,Default,,0,0,0,split,-Ready!\N-At your command.
+Dialogue: 0,0:01:01.40,0:01:02.00,Default,,0,0,0,,Ready!
+Dialogue: 0,0:01:02.00,0:01:04.34,Default,,0,0,0,,At your command.
 Dialogue: 0,0:01:04.37,0:01:06.30,Default,,0,0,0,,I declare bankruptcy!
 Dialogue: 0,0:01:28.15,0:01:29.88,Default,,0,0,0,,Hmm.\NNo exit in sight.
 Dialogue: 0,0:01:29.91,0:01:33.61,Default,,0,0,0,,Miss Tulip,\Nlook at all these mums!
@@ -50,8 +52,8 @@ Dialogue: 0,0:01:42.68,0:01:44.31,Default,,0,0,0,,Again, without moving.
 Dialogue: 0,0:01:44.34,0:01:48.45,Default,,0,0,0,,Or I suppose we could take\Na quick break to...
 Dialogue: 0,0:01:48.48,0:01:49.35,Default,,0,0,0,,Oh!
 Dialogue: 0,0:01:51.69,0:01:54.70,Default,,0,0,0,,Whee!
-Dialogue: 0,0:01:54.73,0:01:57.18,Default,,0,0,0,,Now, this is\Nthe kinda thing I'm gonna miss
-Dialogue: 0,0:01:57.22,0:01:58.87,Default,,0,0,0,split,when I get home.Home?
+Dialogue: 0,0:01:54.73,0:01:58.31,Default,,0,0,0,,Now, this is the kinda thing \NI'm gonna miss when I get home.
+Dialogue: 0,0:01:58.31,0:01:58.87,Default,,0,0,0,,Home?
 Dialogue: 0,0:01:58.91,0:02:01.46,Default,,0,0,0,,Weren't you trying\Nto get to Oshkosh?
 Dialogue: 0,0:02:01.50,0:02:05.50,Default,,0,0,0,,Well, I mean, I was trying\Nto get to game design camp,
 Dialogue: 0,0:02:05.53,0:02:08.61,Default,,0,0,0,,but it's over.
@@ -100,7 +102,7 @@ Dialogue: 0,0:03:45.94,0:03:48.43,Default,,0,0,0,,Miss Tulip,\Nwithout a helmet?
 Dialogue: 0,0:03:48.46,0:03:50.36,Default,,0,0,0,,I live dangerously.
 Dialogue: 0,0:03:50.40,0:03:52.57,Default,,0,0,0,,Oof!\NTa-da!
 Dialogue: 0,0:03:52.61,0:03:55.37,Default,,0,0,0,,They're gonna make\Na statue of her one day.
-Comment: 0,0:03:56.40,0:03:57.72,Default,,0,0,0,,Uh...\N[ Chomp! ]
+Comment: 0,0:03:56.40,0:03:57.72,Default,,0,0,0,,Uh...
 Dialogue: 0,0:03:57.75,0:03:59.86,Default,,0,0,0,,We're also heroes!
 Dialogue: 0,0:04:02.03,0:04:04.38,Default,,0,0,0,,We'll put that one down\Nas a team effort.
 Dialogue: 0,0:04:04.41,0:04:05.03,Default,,0,0,0,,Let's keep it up.
@@ -113,17 +115,20 @@ Dialogue: 0,0:04:16.77,0:04:19.29,Default,,0,0,0,,I'll split up the rations.
 Dialogue: 0,0:04:19.32,0:04:20.81,Default,,0,0,0,,I'll warn you.\NI'm gamey.
 Dialogue: 0,0:04:20.84,0:04:22.05,Default,,0,0,0,,Fear not, One-One.
 Dialogue: 0,0:04:22.08,0:04:24.95,Default,,0,0,0,,I've danced this tango\Nonce or twice before.
-Dialogue: 0,0:04:27.43,0:04:28.71,Default,,0,0,0,split,-Ha.\N-Ooh.
+Dialogue: 0,0:04:27.43,0:04:28.16,Default,,0,0,0,,Ha.
+Dialogue: 0,0:04:28.16,0:04:28.71,Default,,0,0,0,,Ooh.
 Dialogue: 0,0:04:28.75,0:04:31.40,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:04:31.44,0:04:32.30,Default,,0,0,0,,Hmm-hmm!
 Dialogue: 0,0:04:32.34,0:04:33.96,Default,,0,0,0,,A bold move.
-Dialogue: 0,0:04:33.99,0:04:36.62,Default,,0,0,0,alphatime,Bzzhhhhhhhhhhh-tck!
+Dialogue: 0,0:04:33.99,0:04:36.26,Default,,0,0,0,,Bzzhhhhhhhhhhh...
+Dialogue: 0,0:04:36.26,0:04:36.62,Default,,0,0,0,,Bzzhhhhhhhhhhh-tck!
 Dialogue: 0,0:04:36.65,0:04:37.76,Default,,0,0,0,,Okay, it's safe to go now.
 Dialogue: 0,0:04:37.79,0:04:41.03,Default,,0,0,0,,Hup!\NAfter you, champion.
 Dialogue: 0,0:04:50.11,0:04:54.50,Default,,0,0,0,,The final test --\Nthe punching bags of pain.
-Dialogue: 0,0:04:54.53,0:04:55.77,Default,,0,0,0,split,-There she goes.\N-Wow!
-Dialogue: 0,0:04:55.81,0:04:57.33,Default,,0,0,0,,Been nice knowing ya.
-Comment: 0,0:04:58.09,0:05:00.50,Default,,0,0,0,,Ugh!
+Dialogue: 0,0:04:55.07,0:04:56.15,Default,,0,0,0,,There she goes.
+Dialogue: 0,0:04:55.57,0:04:56.15,Default,,0,0,0,,{\3c003F00}Wow!
+Dialogue: 0,0:04:56.15,0:04:57.33,Default,,0,0,0,,Been nice knowing ya.
+Comment: 0,0:04:58.36,0:04:58.90,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:05:00.54,0:05:04.33,Default,,0,0,0,,Yay!
 Dialogue: 0,0:05:04.37,0:05:06.47,Default,,0,0,0,,With courage and grace,
 Dialogue: 0,0:05:06.51,0:05:09.72,Default,,0,0,0,,a champion rises\Nto the challenge.
@@ -155,7 +160,8 @@ Dialogue: 0,0:06:07.02,0:06:09.43,Default,,0,0,0,,All the way down, left,\Nthen 
 Dialogue: 0,0:06:09.47,0:06:11.81,Default,,0,0,0,,You'll get to a slide,\Nand the door is just outside.
 Dialogue: 0,0:06:11.85,0:06:13.99,Default,,0,0,0,,You need to hide\Nsomeplace safe, Khaki.
 Dialogue: 0,0:06:14.02,0:06:14.99,Default,,0,0,0,,Atticus, One-One.
-Dialogue: 0,0:06:15.02,0:06:17.72,Default,,0,0,0,split,-I think that --\N-Shh.
+Dialogue: 0,0:06:15.02,0:06:16.27,Default,,0,0,0,,I think that --
+Dialogue: 0,0:06:16.27,0:06:17.72,Default,,0,0,0,,Shh.
 Comment: 0,0:06:44.23,0:06:45.43,Default,,0,0,0,,Aah!
 Dialogue: 0,0:06:54.72,0:06:56.86,Default,,0,0,0,,Tulip, One-One,\Nit has been an honor,
 Dialogue: 0,0:06:56.89,0:06:59.14,Default,,0,0,0,,but now is the time\Nfor you to save yourselves.
