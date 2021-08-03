@@ -29,7 +29,7 @@ Dialogue: 0,0:00:15.04,0:00:17.21,Default,Glad-One,0,0,0,,Are we stopping to tal
 Dialogue: 0,0:00:17.21,0:00:18.62,Default,Glad-One,0,0,30,,Hello, hands!
 Dialogue: 0,0:00:18.62,0:00:20.88,Default,Sad-One,0,0,30,,Wait, do I even {\i1}have{\i0} hands?
 Dialogue: 0,0:00:21.75,0:00:25.59,Default,Tulip,0,0,0,,Ugh! That cat wasted time \NI could've used getting off the train.
-Dialogue: 0,0:00:25.59,0:00:28.13,Default,Tulip,0,0,0,,We've gotta keep moving \Nif we're ever gonna find the conductor.
+Dialogue: 0,0:00:25.59,0:00:28.13,Default,Tulip,0,0,0,,We've gotta keep moving \Nif we're ever gonna find the Conductor.
 Dialogue: 0,0:00:28.13,0:00:31.14,Default,Tulip,0,0,30,,From now on, we're not stopping for anything!
 Dialogue: 0,0:00:31.14,0:00:33.22,Default,Tulip,0,0,0,,All right, One-One. Time me!
 Dialogue: 0,0:00:33.22,0:00:33.97,Default,Tulip,0,0,0,,Ready!
@@ -111,7 +111,7 @@ Dialogue: 0,0:04:14.32,0:04:16.24,Default,Atticus,0,0,0,,{\pos(1400,1020)}Like w
 Dialogue: 0,0:04:14.32,0:04:16.82,Default,Tulip,0,0,0,,{\pos(560,1020)}Like why there's\Na giant shadow monster?!
 Dialogue: 0,0:04:16.82,0:04:18.57,Default,Atticus,0,0,0,,Yes. Patience, young lady.
 Dialogue: 0,0:04:18.57,0:04:19.49,Default,Tulip,0,0,0,,Patience?
-Dialogue: 0,0:04:19.49,0:04:22.03,Default,Tulip,0,0,0,,I'll never get to the conductor \Nby just waiting around.
+Dialogue: 0,0:04:19.49,0:04:22.03,Default,Tulip,0,0,0,,I'll never get to the Conductor \Nby just waiting around.
 Dialogue: 0,0:04:22.03,0:04:24.33,Default,Tulip,0,0,0,,Let's band together\Nand attack the monster!
 Dialogue: 0,0:04:24.33,0:04:25.29,Default,Atticus,0,0,0,,Impossible.
 Dialogue: 0,0:04:25.29,0:04:27.25,Default,Atticus,0,0,0,,Ever since it appeared,\Nthe water has risen
