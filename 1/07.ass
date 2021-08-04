@@ -53,7 +53,7 @@ Dialogue: 0,0:01:17.10,0:01:19.10,Default,Tulip,0,0,0,,I guess we’re dealing\N
 Dialogue: 0,0:01:19.10,0:01:20.69,Default,Tulip,0,0,0,,or puzzle, or...
 Dialogue: 0,0:01:20.69,0:01:22.60,Default,Tulip,0,0,0,,Oh, man, do you guys remember—
 Dialogue: 0,0:01:23.61,0:01:25.19,Default,Tulip,0,0,0,,Whoa!
-Dialogue: 0,0:01:25.19,0:01:27.98,Default,Glad-One,0,0,0,,No, I don’t remember "Whoa!"
+Dialogue: 0,0:01:25.19,0:01:27.98,Default,Glad-One,0,0,0,,No, I don’t remember “Whoa!”
 Dialogue: 0,0:01:27.98,0:01:31.53,Default,Sad-One,0,0,0,,My memory has been\Nterrible ever since The Change.
 Dialogue: 0,0:01:31.53,0:01:32.20,Default,Atticus,0,0,0,,What change?
 Dialogue: 0,0:01:32.20,0:01:34.53,Default,Sad-One,0,0,0,,My new haircut,\Ndidn’t you notice?
@@ -97,9 +97,9 @@ Dialogue: 0,0:02:49.69,0:02:52.15,Default,,0,0,0,,Oh, that’s {\i1}how{\i0} we 
 Dialogue: 0,0:02:52.15,0:02:54.86,Default,,0,0,0,,I didn’t say I was {\i1}going{\i0} \Nto switch back.
 Dialogue: 0,0:02:55.66,0:02:57.49,Default,Tulip,0,0,0,,I haven’t come\Nthis far on the train
 Dialogue: 0,0:02:57.49,0:02:59.95,Default,Tulip,0,0,0,,to get bamboozled\Nby my own reflection!
-Dialogue: 0,0:02:59.95,0:03:02.41,Default,Glad-One,0,0,0,,Excellent use\Nof "bamboozled," Old Tulip!
-Dialogue: 0,0:03:02.41,0:03:03.62,Default,Tulip,0,0,0,,I’m not "Old Tulip!"
-Dialogue: 0,0:03:03.62,0:03:05.29,Default,Tulip,0,0,0,,"Former Tulip" it is.
+Dialogue: 0,0:02:59.95,0:03:02.41,Default,Glad-One,0,0,0,,Excellent use\Nof “bamboozled,” Old Tulip!
+Dialogue: 0,0:03:02.41,0:03:03.62,Default,Tulip,0,0,0,,I’m not “Old Tulip!”
+Dialogue: 0,0:03:03.62,0:03:05.29,Default,Tulip,0,0,0,,“Former Tulip” it is.
 Dialogue: 0,0:03:05.29,0:03:08.00,Default,,0,0,0,,You can keep calling her Tulip,\Nbecause I’m not her,
 Dialogue: 0,0:03:08.00,0:03:09.79,Default,,0,0,0,,and I’m not living\Nher life anymore.
 Dialogue: 0,0:03:09.79,0:03:12.30,Default,,0,0,0,,I don’t have to do\Nyour stupid coding anymore.
@@ -190,7 +190,7 @@ Dialogue: 0,0:07:32.06,0:07:34.10,Default,Tulip,0,0,0,,I can just handle\Nmy pro
 Dialogue: 0,0:07:34.10,0:07:35.56,Default,Tulip,0,0,0,,That’s completely different!
 Dialogue: 0,0:07:35.56,0:07:37.60,Default,,0,0,0,,Skipping texts from Mikayla?
 Dialogue: 0,0:07:37.60,0:07:39.56,Default,,0,0,0,,Pretending you couldn’t\Nhear Mom because,
-Dialogue: 0,0:07:39.56,0:07:42.53,Default,,0,0,0,,"Sorry, I was just\Nso busy making my game!"
+Dialogue: 0,0:07:39.56,0:07:42.53,Default,,0,0,0,,“Sorry, I was just\Nso busy making my game!”
 Dialogue: 0,0:07:42.53,0:07:44.15,Default,,0,0,0,,Just go away, Tulip!
 Dialogue: 0,0:07:44.15,0:07:45.53,Default,,0,0,0,,That’s what you do best!
 Dialogue: 0,0:07:49.28,0:07:51.74,Default,Tulip,0,0,0,,Okay. You’re right.
