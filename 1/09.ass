@@ -104,7 +104,7 @@ Dialogue: 0,0:04:06.68,0:04:09.44,Default,Teacher,0,0,0,,Mark, I know it was you
 Dialogue: 0,0:04:09.44,0:04:10.27,Default,Glad-One,0,0,0,,Again!
 Comment: 0,0:04:13.94,0:04:14.44,Default,Teacher,0,0,0,,Ugh!
 Dialogue: 0,0:04:16.90,0:04:19.57,Default,Teacher,0,0,0,,{\an8}Mark, I know it was you.
-Dialogue: 0,0:04:15.69,0:04:17.74,Default,Tulip,0,0,0,,One-One,\Ndid you do that?
+Dialogue: 0,0:04:15.69,0:04:17.74,Default,Tulip,0,0,0,,One-One, did you do that?
 Dialogue: 0,0:04:17.74,0:04:19.57,Default,Glad-One,0,0,0,,Yeah, I did! Again!
 Dialogue: 0,0:04:19.57,0:04:21.57,Default,The Cat,0,0,0,,Ball, cease this foolishness.
 Dialogue: 0,0:04:21.57,0:04:23.20,Default,Sad-One,0,0,0,,Fiiiiiine.
@@ -196,7 +196,7 @@ Dialogue: 0,0:08:05.46,0:08:07.68,Default,The Cat,0,0,0,,Information is power, k
 Dialogue: 0,0:08:07.68,0:08:10.22,Default,The Cat,0,0,0,,Notice anything... important?
 Dialogue: 0,0:08:11.35,0:08:12.51,Default,Tulip,0,0,0,,Cannons.
 Dialogue: 0,0:08:13.18,0:08:16.89,Default,Tulip,0,0,0,,Wait, so... the Conductor\Nrepurposed that cannon?
-Dialogue: 0,0:08:16.89,0:08:19.85,Default,Tulip,0,0,0,,Which means...\NI could repurpose it too.
+Dialogue: 0,0:08:16.89,0:08:19.85,Default,Tulip,0,0,0,,Which means...\NI could repurpose it, too.
 Dialogue: 0,0:08:19.85,0:08:21.52,Default,Tulip,0,0,0,,I-I could use it\Nto save Atticus!
 Dialogue: 0,0:08:21.52,0:08:22.61,Default,The Cat,0,0,0,,Ta-da.
 Dialogue: 0,0:08:23.61,0:08:26.61,Default,Tulip,0,0,0,,You dragged me through a tape when you could've \Njust told me that in the first place?
