@@ -90,9 +90,9 @@ Dialogue: 0,0:04:06.60,0:04:07.89,Default,Amelia,0,0,0,,Of course I am!
 Dialogue: 0,0:04:10.52,0:04:12.11,Default,Amelia,0,0,0,,You keep a pipe\Nin your backpack?
 Dialogue: 0,0:04:12.11,0:04:14.03,Default,Tulip,0,0,0,,It's a Donut-Holer!
 Dialogue: 0,0:04:16.24,0:04:17.82,Default,Glad-One,0,0,0,,{\2cBFBFBF}{\k20}{\k8}Look{\k10}ing {\k9}for {\k7}a {\k21}way {\k9}to {\k29}stop {\k10}the {\k17}Ste{\k18}ward
-Dialogue: 0,0:04:17.82,0:04:19.32,Default,Glad-One,0,0,0,,{\2cBFBFBF}{\k29}Stop {\k10}the {\k19}Ste{\k19}ward{\k0}, {\k30}stop {\k9}the {\k20}Ste{\k14}ward
+Dialogue: 0,0:04:17.82,0:04:19.32,Default,Glad-One,0,0,0,,{\2cBFBFBF}{\k29}Stop {\k10}the {\k19}Ste{\k19}ward, {\k30}stop {\k9}the {\k20}Ste{\k14}ward
 Dialogue: 0,0:04:19.32,0:04:20.70,Default,Glad-One,0,0,0,,{\2cBFBFBF}{\k21}Look{\k12}ing {\k8}for {\k8}a {\k15}way {\k8}to {\k29}stop {\k8}the {\k17}Ste{\k12}ward
-Dialogue: 0,0:04:20.70,0:04:22.66,Default,Glad-One,0,0,0,,{\2cBFBFBF}{\k7}So {\k8}we {\k7}can {\k27}turn {\k11}E{\k9}vil {\k11}At{\k12}ti{\k23}cus {\k20}back {\k9}to {\k9}a {\k43}dog
+Dialogue: 0,0:04:20.70,0:04:22.66,Default,Glad-One,0,0,0,,{\2cBFBFBF}{\k7}So {\k8}we {\k7}can {\k27}turn {\k11}E{\k9}vil {\k11}At{\k12}ti{\k23}cus {\k10}back {\k10}in{\k9}to {\k9}a {\k43}dog!
 Dialogue: 0,0:04:22.66,0:04:24.91,Default,Sad-One,0,0,0,,Ugh, too many syllables.
 Dialogue: 0,0:04:27.83,0:04:29.83,Default,Tulip,0,0,0,,You can't just make\Nwhatever car you want.
 Dialogue: 0,0:04:30.25,0:04:31.04,Default,Amelia,0,0,0,,Why not?
