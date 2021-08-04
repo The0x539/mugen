@@ -23,7 +23,8 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:10.52,0:00:12.11,Default,,0,0,0,,There it is.
-Dialogue: 0,0:00:12.15,0:00:14.46,Default,,0,0,0,split,The end of the train.Wrong, kitten.
+Dialogue: 0,0:00:12.15,0:00:13.49,Default,,0,0,0,,The end of the train.
+Dialogue: 0,0:00:13.49,0:00:14.46,Default,,0,0,0,,Wrong, kitten.
 Dialogue: 0,0:00:14.49,0:00:16.39,Default,,0,0,0,,The beginning of the train.
 Dialogue: 0,0:00:22.22,0:00:24.71,Default,,0,0,0,,Ooh, the Engine\Nhas a splinter.
 Dialogue: 0,0:00:27.13,0:00:28.85,Default,,0,0,0,,Amelia's building\Nmore train cars?
@@ -119,7 +120,8 @@ Dialogue: 0,0:05:57.18,0:05:58.97,Default,,0,0,0,,Gotcha!
 Comment: 0,0:05:59.01,0:06:01.70,Default,,0,0,0,,Unh!
 Comment: 0,0:06:01.74,0:06:03.46,Default,,0,0,0,,Uh!
 Comment: 0,0:06:07.22,0:06:09.19,Default,,0,0,0,,Argh!
-Dialogue: 0,0:06:22.79,0:06:25.41,Default,,0,0,0,split,No!Oh, my.
+Dialogue: 0,0:06:22.79,0:06:23.91,Default,,0,0,0,,No!
+Dialogue: 0,0:06:23.91,0:06:25.41,Default,,0,0,0,,Oh, my.
 Dialogue: 0,0:06:25.45,0:06:28.45,Default,,0,0,0,,No dog and no parents?
 Dialogue: 0,0:06:28.49,0:06:30.07,Default,,0,0,0,,Who will you lose next?
 Dialogue: 0,0:06:30.11,0:06:32.08,Default,,0,0,0,,Upsy daisy.
@@ -184,16 +186,20 @@ Dialogue: 0,0:09:57.38,0:09:59.32,Default,,0,0,0,,I'll miss you.
 Dialogue: 0,0:09:59.35,0:10:01.42,Default,,0,0,0,,Okay.
 Dialogue: 0,0:10:01.46,0:10:03.22,Default,,0,0,0,,Wait, wait.\NHug.
 Dialogue: 0,0:10:03.25,0:10:05.32,Default,,0,0,0,,Hug first.
-Dialogue: 0,0:10:06.81,0:10:08.36,Default,,0,0,0,split,Come here!Group hug!
+Dialogue: 0,0:10:06.92,0:10:07.29,Default,,0,0,0,,Yay!
+Dialogue: 0,0:10:07.29,0:10:07.80,Default,,0,0,0,,Come here!
+Dialogue: 0,0:10:07.80,0:10:08.36,Default,,0,0,0,,Group hug!
 Dialogue: 0,0:10:14.13,0:10:15.78,Default,,0,0,0,,Goodbye, Amelia.
 Dialogue: 0,0:10:15.82,0:10:18.13,Default,,0,0,0,,I hope you get\Nyour exit someday.
 Comment: 0,0:10:18.16,0:10:19.86,Default,,0,0,0,,Hm.
 Dialogue: 0,0:10:22.96,0:10:24.24,Default,,0,0,0,,I love you guys.
 Dialogue: 0,0:10:32.14,0:10:35.28,Default,,0,0,0,,Tulip! Your dad is here\Nto pick you up for camp!
 Dialogue: 0,0:10:35.32,0:10:36.67,Default,,0,0,0,,Coming!
-Dialogue: 0,0:10:36.70,0:10:40.36,Default,,0,0,0,split,Hey, Dad!Hey, you.
+Dialogue: 0,0:10:36.70,0:10:38.20,Default,,0,0,0,,Hey, Dad!
+Dialogue: 0,0:10:38.20,0:10:40.36,Default,,0,0,0,,Hey, you.
 Dialogue: 0,0:10:40.39,0:10:41.67,Default,,0,0,0,,Have a great time.
 Dialogue: 0,0:10:41.71,0:10:43.12,Default,,0,0,0,,Call me when you get settled in?
-Dialogue: 0,0:10:43.15,0:10:45.19,Default,,0,0,0,split,I will.I'll get her there safe.
+Dialogue: 0,0:10:43.15,0:10:44.62,Default,,0,0,0,,I will.
+Dialogue: 0,0:10:44.62,0:10:45.19,Default,,0,0,0,,I'll get her there safe.
 Dialogue: 0,0:10:53.48,0:10:55.82,Default,,0,0,0,,So, bud, you ready?
 Dialogue: 0,0:10:55.86,0:10:57.41,Default,,0,0,0,,I'm ready for anything.
