@@ -29,7 +29,7 @@ Dialogue: 0,0:00:14.45,0:00:16.45,Default,The Cat,0,0,0,,The {\i1}beginning{\i0}
 Dialogue: 0,0:00:22.29,0:00:24.46,Default,Glad-One,0,0,30,,Ooh, the Engine has a splinter.
 Dialogue: 0,0:00:27.05,0:00:29.30,Default,Tulip,0,0,0,,Amelia's building\Nmore train cars?
 Dialogue: 0,0:00:29.30,0:00:31.39,Default,The Cat,0,0,0,,The train is never finished, kitten.
-Dialogue: 0,0:00:31.39,0:00:33.47,Default,Tulip,0,0,0,,Do we have to go through\Nthe new car to get there?
+Dialogue: 0,0:00:31.39,0:00:33.47,Default,Tulip,0,0,0,,Do we have to go through\Nthe new car to get in there?
 Dialogue: 0,0:00:33.47,0:00:35.97,Default,The Cat,0,0,0,,{\i1}You{\i0} will have to go\Nthrough the new car,
 Dialogue: 0,0:00:35.97,0:00:38.23,Default,The Cat,0,0,0,,for this where I bid you adieu.
 Dialogue: 0,0:00:38.23,0:00:39.06,Default,Tulip,0,0,0,,What?
@@ -72,7 +72,7 @@ Dialogue: 0,0:02:52.65,0:02:54.99,Default,Amelia,0,0,0,,{Uh. }You insensitive—
 Dialogue: 0,0:02:54.99,0:02:57.82,Default,Amelia,0,0,0,,How dare you force me\Nto relive those memories!
 Dialogue: 0,0:02:57.82,0:02:59.83,Default,Tulip,0,0,0,,Just returning the favor, lady.
 Dialogue: 0,0:03:00.95,0:03:02.95,Default,Amelia,0,0,0,,If you don't take your exit now,
-Dialogue: 0,0:03:02.95,0:03:04.79,Default,Amelia,0,0,0,,I'll send it so far down\Nthe train,
+Dialogue: 0,0:03:02.95,0:03:04.79,Default,Amelia,0,0,0,,I'll send it so far \Ndown the train,
 Dialogue: 0,0:03:04.79,0:03:07.54,Default,Amelia,0,0,0,,you'll die of old age\Nbefore you see it again.
 Dialogue: 0,0:03:07.54,0:03:10.80,Default,Tulip,0,0,0,,I'm not leaving until Atticus\Nis back to normal.
 Dialogue: 0,0:03:10.80,0:03:13.30,Default,Amelia,0,0,0,,And I thought you were smart.
@@ -105,7 +105,7 @@ Dialogue: 0,0:04:46.52,0:04:48.98,Default,Tulip,0,0,0,,It wouldn't be my real li
 Dialogue: 0,0:04:48.98,0:04:51.44,Default,Tulip,0,0,0,,They weren't... happy together.
 Dialogue: 0,0:04:51.44,0:04:53.86,Default,Amelia,0,0,0,,I could make you a car\Nwhere they are.
 Dialogue: 0,0:04:53.86,0:04:56.98,Default,Amelia,0,0,0,,I can make a car that's exactly\Nhow you want it to be.
-Dialogue: 0,0:04:56.98,0:05:00.20,Default,Amelia,0,0,0,,Just one big, happy family.
+Dialogue: 0,0:04:56.98,0:05:00.20,Default,Amelia,0,0,0,,Just one big happy family.
 Dialogue: 0,0:05:05.12,0:05:06.91,Default,Tulip,0,0,0,,You can't even make a car
 Dialogue: 0,0:05:06.91,0:05:08.70,Default,Tulip,0,0,0,,without any turtles in it!
 Dialogue: 0,0:05:14.50,0:05:15.42,Default,Amelia,0,0,0,,Stop!
@@ -149,7 +149,7 @@ Dialogue: 0,0:08:19.77,0:08:23.98,Default,Amelia,0,0,0,,There's a hole in the un
 Dialogue: 0,0:08:23.98,0:08:26.78,Default,Amelia,0,0,0,,Why won't the train\Njust let me put him back?
 Dialogue: 0,0:08:27.45,0:08:30.66,Default,Tulip,0,0,0,,I'm really sorry\Nabout your husband, Amelia.
 Dialogue: 0,0:08:30.66,0:08:33.28,Default,Tulip,0,0,0,,I don't know what it's like\Nto lose someone you love.
-Dialogue: 0,0:08:33.87,0:08:39.04,Default,Tulip,0,0,0,,But, I-I do know that neither of us \Ncan go back to the way things were.
+Dialogue: 0,0:08:33.87,0:08:39.04,Default,Tulip,0,0,0,,But... I do know that neither of us \Ncan go back to the way things were.
 Dialogue: 0,0:08:39.04,0:08:41.83,Default,Tulip,0,0,0,,We have to adapt \Nto the changes in our lives.
 Dialogue: 0,0:08:41.83,0:08:43.79,Default,Tulip,0,0,0,,It's the only way \Nthings can get better.
 Dialogue: 0,0:08:43.79,0:08:45.84,Default,Amelia,0,0,0,,It doesn't matter.
