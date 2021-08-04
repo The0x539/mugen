@@ -23,62 +23,62 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:30.13,0:00:31.30,Default,Glad-One,0,0,0,,Look, Miss Tulip!
-Dialogue: 0,0:00:31.30,0:00:33.76,Default,Glad-One,0,0,0,,I found your shoes,\Nand now I'm a shoe head!
-Dialogue: 0,0:00:33.76,0:00:34.97,Default,Glad-One,0,0,0,,Who's a shoe head?
-Dialogue: 0,0:00:34.97,0:00:36.60,Default,Glad-One,0,0,0,,Shoe-Head, that's who!
+Dialogue: 0,0:00:31.30,0:00:33.76,Default,Glad-One,0,0,0,,I found your shoes,\Nand now I’m a shoe head!
+Dialogue: 0,0:00:33.76,0:00:34.97,Default,Glad-One,0,0,0,,Who’s a shoe head?
+Dialogue: 0,0:00:34.97,0:00:36.60,Default,Glad-One,0,0,0,,Shoe-Head, that’s who!
 Dialogue: 0,0:00:37.81,0:00:38.81,Default,Tulip,0,0,0,,Thanks.
 Dialogue: 0,0:00:39.48,0:00:41.98,Default,Sad-One,0,0,0,,I told you Boot Body would be funnier.
 Dialogue: 0,0:00:42.81,0:00:45.40,Default,Glad-One,0,0,0,,Wait! Are we leaving\NAtticus behind?
-Dialogue: 0,0:00:49.07,0:00:50.86,Default,Tulip,0,0,0,,He's not Atticus anymore.
-Dialogue: 0,0:00:56.41,0:00:57.91,Default,Glad-One,0,0,0,,Your number's going up!
-Dialogue: 0,0:00:57.91,0:00:59.75,Default,Glad-One,0,0,0,,You're losing progress, Miss Tulip.
+Dialogue: 0,0:00:49.07,0:00:50.86,Default,Tulip,0,0,0,,He’s not Atticus anymore.
+Dialogue: 0,0:00:56.41,0:00:57.91,Default,Glad-One,0,0,0,,Your number’s going up!
+Dialogue: 0,0:00:57.91,0:00:59.75,Default,Glad-One,0,0,0,,You’re losing progress, Miss Tulip.
 Dialogue: 0,0:00:59.75,0:01:01.12,Default,Tulip,0,0,0,,What progress?
-Dialogue: 0,0:01:01.12,0:01:04.09,Default,Tulip,0,0,0,,Atticus is gone and my number's\Nnot gonna change that!
+Dialogue: 0,0:01:01.12,0:01:04.09,Default,Tulip,0,0,0,,Atticus is gone and my number’s\Nnot gonna change that!
 Dialogue: 0,0:01:05.34,0:01:08.21,Default,Tulip,0,0,0,,Nothing will ever change.
-Dialogue: 0,0:01:08.21,0:01:09.92,Default,Tulip,0,0,0,,I'm stuck on this train forever.
-Dialogue: 0,0:01:11.55,0:01:13.93,Default,The Cat,0,0,0,,Fatalism doesn't suit you, kitten.
-Dialogue: 0,0:01:13.93,0:01:17.47,Default,The Cat,0,0,0,,After all, you're my favorite\Nperson arbitrarily named
+Dialogue: 0,0:01:08.21,0:01:09.92,Default,Tulip,0,0,0,,I’m stuck on this train forever.
+Dialogue: 0,0:01:11.55,0:01:13.93,Default,The Cat,0,0,0,,Fatalism doesn’t suit you, kitten.
+Dialogue: 0,0:01:13.93,0:01:17.47,Default,The Cat,0,0,0,,After all, you’re my favorite\Nperson arbitrarily named
 Dialogue: 0,0:01:17.47,0:01:20.23,Default,The Cat,0,0,0,,after a particular\Nkind of flower.
 Dialogue: 0,0:01:20.23,0:01:21.77,Default,Glad-One,0,0,0,,One that bounces back!
 Dialogue: 0,0:01:22.94,0:01:23.94,Default,The Cat,0,0,0,,Quite right.
-Dialogue: 0,0:01:23.94,0:01:25.40,Default,The Cat,0,0,0,,Now, as you've no doubt noticed,
-Dialogue: 0,0:01:25.40,0:01:26.98,Default,The Cat,0,0,0,,I'm trapped beneath the weight of...
+Dialogue: 0,0:01:23.94,0:01:25.40,Default,The Cat,0,0,0,,Now, as you’ve no doubt noticed,
+Dialogue: 0,0:01:25.40,0:01:26.98,Default,The Cat,0,0,0,,I’m trapped beneath the weight of...
 Dialogue: 0,0:01:27.61,0:01:29.32,Default,The Cat,0,0,0,,childhood escapism.
 Dialogue: 0,0:01:29.32,0:01:31.82,Default,The Cat,0,0,0,,Might I propose \None last bonne affaire?
 Dialogue: 0,0:01:31.82,0:01:32.78,Default,The Cat,0,0,0,,If you help me—
-Dialogue: 0,0:01:32.78,0:01:34.53,Default,Tulip,0,0,0,,I help you,\Nthen we're done.
+Dialogue: 0,0:01:32.78,0:01:34.53,Default,Tulip,0,0,0,,I help you,\Nthen we’re done.
 Dialogue: 0,0:01:34.53,0:01:35.62,Default,Tulip,0,0,0,,No more trades.
 Dialogue: 0,0:01:35.62,0:01:37.54,Default,The Cat,0,0,0,,But... what would {\i1}you{\i0} gain?
 Dialogue: 0,0:01:40.20,0:01:42.37,Default,The Cat,0,0,0,,Now, to hold up\Nmy end of the deal.
-Dialogue: 0,0:01:42.37,0:01:44.13,Default,Tulip,0,0,0,,I don't ever want \Nto talk to you again.
+Dialogue: 0,0:01:42.37,0:01:44.13,Default,Tulip,0,0,0,,I don’t ever want \Nto talk to you again.
 Dialogue: 0,0:01:44.13,0:01:44.88,Default,The Cat,0,0,0,,But wait!
-Dialogue: 0,0:01:46.13,0:01:48.05,Default,The Cat,0,0,0,,There's still time\Nto cure the dog!
-Dialogue: 0,0:01:50.13,0:01:51.88,Default,Tulip,0,0,0,,Don't you dare\Nlie to me again!
+Dialogue: 0,0:01:46.13,0:01:48.05,Default,The Cat,0,0,0,,There’s still time\Nto cure the dog!
+Dialogue: 0,0:01:50.13,0:01:51.88,Default,Tulip,0,0,0,,Don’t you dare\Nlie to me again!
 Dialogue: 0,0:01:51.88,0:01:52.72,Default,The Cat,0,0,0,,No lies!
 Dialogue: 0,0:01:52.72,0:01:54.09,Default,The Cat,0,0,0,,He {\i1}can{\i0} be turned back,
 Dialogue: 0,0:01:54.09,0:01:56.14,Default,The Cat,0,0,0,,and the solution is in this tape.
 Dialogue: 0,0:01:56.14,0:01:57.64,Default,Tulip,0,0,0,,Last time I saw one of these,
 Dialogue: 0,0:01:57.64,0:02:00.35,Default,Tulip,0,0,0,,I almost got trapped\Nin my own memories forever.
-Dialogue: 0,0:02:00.35,0:02:02.19,Default,The Cat,0,0,0,,That's because it was\Nyour own tape.
+Dialogue: 0,0:02:00.35,0:02:02.19,Default,The Cat,0,0,0,,That’s because it was\Nyour own tape.
 Dialogue: 0,0:02:02.19,0:02:03.85,Default,The Cat,0,0,0,,This one belongs to...
 Dialogue: 0,0:02:03.85,0:02:04.73,Default,The Cat,0,0,0,,another.
-Dialogue: 0,0:02:04.73,0:02:06.98,Default,The Cat,0,0,0,,And while it's admittedly\Na little voyeuristic,
-Dialogue: 0,0:02:06.98,0:02:08.11,Default,The Cat,0,0,0,,it's not dangerous.
+Dialogue: 0,0:02:04.73,0:02:06.98,Default,The Cat,0,0,0,,And while it’s admittedly\Na little voyeuristic,
+Dialogue: 0,0:02:06.98,0:02:08.11,Default,The Cat,0,0,0,,it’s not dangerous.
 Dialogue: 0,0:02:08.11,0:02:09.15,Default,Tulip,0,0,0,,Oh, sure.
-Dialogue: 0,0:02:09.15,0:02:11.03,Default,Tulip,0,0,0,,You've only lied to me twice now.
+Dialogue: 0,0:02:09.15,0:02:11.03,Default,Tulip,0,0,0,,You’ve only lied to me twice now.
 Dialogue: 0,0:02:11.03,0:02:12.28,Default,Tulip,0,0,0,,Why not go for a third?
 Dialogue: 0,0:02:12.28,0:02:14.70,Default,Glad-One,0,0,0,,Yeah! Fool her thrice,\Nshame on me!
-Dialogue: 0,0:02:14.70,0:02:16.91,Default,The Cat,0,0,0,,Our goals aren't\Nwholly dissimilar.
+Dialogue: 0,0:02:14.70,0:02:16.91,Default,The Cat,0,0,0,,Our goals aren’t\Nwholly dissimilar.
 Dialogue: 0,0:02:16.91,0:02:18.62,Default,The Cat,0,0,0,,The Conductor\Ntried to kill me.
 Dialogue: 0,0:02:23.29,0:02:24.42,Default,Tulip,0,0,0,,Fine.
-Dialogue: 0,0:02:24.42,0:02:26.08,Default,Tulip,0,0,0,,But you're watching it first.
+Dialogue: 0,0:02:24.42,0:02:26.08,Default,Tulip,0,0,0,,But you’re watching it first.
 Dialogue: 0,0:02:26.08,0:02:27.09,Default,The Cat,0,0,0,,Deal.
 Dialogue: 0,0:02:37.68,0:02:39.06,Default,Tulip,0,0,0,,Ugh.
 Dialogue: 0,0:02:49.40,0:02:50.78,Default,The Cat,0,0,0,,Took you long enough.
 Dialogue: 0,0:02:50.78,0:02:53.36,Default,The Cat,0,0,0,,Luckily, I was in dire need of a cat nap.
-Dialogue: 0,0:02:53.36,0:02:54.61,Default,Glad-One,0,0,0,,Sleeping's creepy.
+Dialogue: 0,0:02:53.36,0:02:54.61,Default,Glad-One,0,0,0,,Sleeping’s creepy.
 Dialogue: 0,0:02:54.61,0:02:56.49,Default,Tulip,0,0,0,,Aah! One-One!
-Dialogue: 0,0:02:56.49,0:02:57.66,Default,Tulip,0,0,0,,How'd {\i1}you{\i0} get here?
+Dialogue: 0,0:02:56.49,0:02:57.66,Default,Tulip,0,0,0,,How’d {\i1}you{\i0} get here?
 Dialogue: 0,0:02:57.66,0:02:58.62,Default,Glad-One,0,0,0,,I followed you.
 Dialogue: 0,0:02:58.62,0:03:00.12,Default,Tulip,0,0,0,,Yeah, but... how?
 Dialogue: 0,0:03:00.12,0:03:00.95,Default,Glad-One,0,0,0,,{\an4\p1\pos(960,1010)}m 0.17 -26.22 l 0.17 -26.22 1.37 -24.27 2.53 -22.30 3.66 -20.29 4.74 -18.25 5.79 -16.18 6.79 -14.07 7.76 -11.93 8.69 -9.77 1.80 -6.64 1.80 -6.64 -0.08 -11.57 -1.94 -16.09 -3.77 -20.18 -4.68 -22.06 -5.58 -23.84 0.17 -26.22 m 11.00 4.81 l 11.00 4.81 11.32 4.23 11.63 3.62 11.94 3.00 12.23 2.35 12.51 1.69 12.77 1.01 13.03 0.31 13.28 -0.41 13.52 -1.15 13.74 -1.91 13.96 -2.69 14.16 -3.49 14.35 -4.30 14.54 -5.14 14.87 -6.86 15.16 -8.67 15.41 -10.55 15.61 -12.50 15.77 -14.54 15.89 -16.65 15.96 -18.83 16.00 -21.10 15.98 -23.44 23.41 -22.58 23.41 -22.58 23.35 -20.05 23.24 -17.59 23.09 -15.22 22.88 -12.93 22.63 -10.71 22.33 -8.57 21.98 -6.50 21.59 -4.52 21.14 -2.61 20.90 -1.69 20.65 -0.78 20.39 0.10 20.11 0.97 19.82 1.81 19.52 2.64 19.21 3.45 18.89 4.23 18.55 5.00 18.20 5.75 17.84 6.48 17.47 7.19 17.09 7.88 16.69 8.55 16.69 8.55 16.26 9.28 15.81 10.01 15.35 10.72 14.87 11.42 14.36 12.12 13.84 12.81 13.30 13.49 12.74 14.15 12.16 14.81 11.56 15.46 10.94 16.10 10.31 16.73 9.65 17.35 8.97 17.97 8.28 18.57 7.57 19.16 6.84 19.74 6.09 20.32 5.31 20.88 4.53 21.44 3.72 21.98 2.89 22.52 2.04 23.05 1.18 23.56 -0.61 24.57 -2.48 25.54 -4.42 26.47 -6.44 27.36 -10.41 21.05 -10.41 21.05 -8.46 20.30 -6.59 19.53 -4.80 18.71 -3.94 18.29 -3.09 17.86 -2.27 17.42 -1.47 16.98 -0.69 16.52 0.07 16.05 0.81 15.58 1.53 15.09 2.23 14.60 2.91 14.10 3.57 13.58 4.21 13.06 4.82 12.53 5.42 11.99 6.00 11.45 6.56 10.89 7.09 10.32 7.61 9.75 8.10 9.16 8.58 8.57 9.03 7.97 9.47 7.35 9.88 6.73 10.27 6.10 10.65 5.46 11.00 4.81 11.00 4.81 m -13.84 -19.63 l -13.84 -19.63 -13.63 -19.34 -13.41 -19.04 -12.97 -18.40 -12.51 -17.69 -12.04 -16.93 -11.56 -16.10 -11.07 -15.21 -10.05 -13.24 -8.98 -11.02 -7.87 -8.56 -6.72 -5.85 -5.52 -2.89 -12.42 -0.05 -12.42 -0.05 -14.29 -4.95 -16.14 -9.41 -17.06 -11.47 -17.97 -13.42 -18.88 -15.26 -19.78 -16.98 -13.84 -19.63 m -139.63 -27.59 l -139.63 -33.58 -101.34 -33.58 -101.34 -27.59 -139.63 -27.59 m -102.03 -25.59 l -95.25 -25.59 -83.22 24.09 -90.14 24.09 -102.03 -25.59 m -83.91 36.56 l -83.91 30.59 -45.63 30.59 -45.63 36.56 -83.91 36.56 m -25.86 37.41 l -32.19 37.41 -32.19 37.41 -33.40 35.50 -34.55 33.58 -35.61 31.65 -36.61 29.69 -37.07 28.71 -37.52 27.72 -37.95 26.72 -38.37 25.72 -38.76 24.72 -39.13 23.71 -39.49 22.69 -39.83 21.67 -39.83 21.67 -40.15 20.65 -40.44 19.64 -40.72 18.63 -40.98 17.63 -41.21 16.62 -41.43 15.63 -41.62 14.63 -41.80 13.65 -41.95 12.66 -42.08 11.68 -42.20 10.70 -42.29 9.73 -42.36 8.76 -42.41 7.79 -42.44 6.83 -42.45 5.88 -42.45 5.88 -42.44 4.70 -42.40 3.52 -42.34 2.36 -42.25 1.20 -42.13 0.06 -41.99 -1.08 -41.83 -2.21 -41.64 -3.34 -41.42 -4.45 -41.18 -5.56 -40.91 -6.66 -40.62 -7.75 -40.30 -8.84 -39.96 -9.92 -39.59 -10.98 -39.20 -12.05 -39.20 -12.05 -38.48 -13.86 -37.70 -15.64 -36.88 -17.39 -36.01 -19.10 -35.09 -20.78 -34.13 -22.42 -33.12 -24.02 -32.06 -25.59 -25.77 -25.59 -25.77 -25.59 -27.83 -20.81 -28.73 -18.56 -29.55 -16.40 -30.28 -14.33 -30.92 -12.36 -31.47 -10.47 -31.94 -8.69 -31.94 -8.69 -32.33 -6.93 -32.67 -5.15 -32.97 -3.35 -33.20 -1.52 -33.39 0.34 -33.52 2.23 -33.60 4.14 -33.63 6.08 -33.63 6.08 -33.61 7.42 -33.56 8.78 -33.49 10.14 -33.38 11.52 -33.24 12.90 -33.06 14.29 -32.86 15.69 -32.63 17.09 -32.63 17.09 -32.37 18.49 -32.08 19.87 -31.78 21.24 -31.44 22.59 -31.09 23.92 -30.71 25.23 -30.31 26.53 -29.89 27.81 -29.89 27.81 -29.58 28.69 -29.21 29.66 -28.31 31.88 -27.19 34.46 -25.86 37.41 -25.86 37.41 m 27.34 37.41 l 27.34 37.41 28.60 34.66 29.66 32.25 30.52 30.19 30.87 29.28 31.17 28.47 31.17 28.47 31.45 27.67 31.72 26.85 32.25 25.12 32.75 23.26 33.23 21.28 33.23 21.28 33.68 19.28 34.07 17.32 34.39 15.42 34.66 13.56 34.66 13.56 34.85 11.72 34.99 9.86 35.08 7.98 35.11 6.08 35.11 6.08 35.08 4.14 35.00 2.23 34.87 0.34 34.69 -1.52 34.45 -3.35 34.17 -5.15 33.83 -6.93 33.44 -8.69 33.44 -8.69 33.22 -9.57 32.98 -10.47 32.43 -12.36 31.79 -14.33 31.06 -16.40 30.25 -18.56 29.35 -20.81 27.28 -25.59 33.53 -25.59 33.53 -25.59 34.73 -23.82 35.87 -22.01 36.93 -20.18 37.93 -18.33 38.40 -17.39 38.85 -16.45 39.29 -15.50 39.71 -14.54 40.11 -13.57 40.50 -12.60 40.87 -11.63 41.22 -10.64 41.22 -10.64 41.55 -9.65 41.86 -8.66 42.15 -7.67 42.42 -6.68 42.66 -5.68 42.89 -4.68 43.09 -3.69 43.27 -2.68 43.43 -1.68 43.57 -0.68 43.69 0.33 43.78 1.34 43.86 2.35 43.91 3.36 43.94 4.38 43.95 5.39 43.95 5.39 43.94 6.25 43.92 7.12 43.88 7.99 43.82 8.87 43.74 9.76 43.65 10.66 43.41 12.48 43.11 14.33 42.74 16.21 42.30 18.12 41.80 20.06 41.80 20.06 41.48 21.16 41.13 22.26 40.76 23.35 40.37 24.44 39.95 25.53 39.50 26.62 39.03 27.71 38.54 28.79 38.02 29.88 37.48 30.96 36.91 32.04 36.32 33.11 35.70 34.19 35.06 35.26 33.70 37.41 27.34 37.41 m 46.81 36.56 l 46.81 30.59 85.09 30.59 85.09 36.56 46.81 36.56 m 84.67 24.09 l 96.56 -25.59 103.48 -25.59 91.45 24.09 84.67 24.09 m 102.80 -27.59 l 102.80 -33.58 141.08 -33.58 141.08 -27.59 102.80 -27.59
@@ -86,18 +86,18 @@ Dialogue: 0,0:03:00.95,0:03:04.00,Default,The Cat,0,0,0,,So the glorified wind-u
 Dialogue: 0,0:03:04.00,0:03:06.12,Default,Sad-One,0,0,0,,I {\i1}am{\i0} glorious.
 Dialogue: 0,0:03:08.79,0:03:09.96,Default,Tulip,0,0,0,,So...
 Dialogue: 0,0:03:09.96,0:03:11.63,Default,Tulip,0,0,0,,what exactly are we looking for here?
-Dialogue: 0,0:03:11.63,0:03:13.30,Default,The Cat,0,0,0,,We'll know it\Nwhen we see it.
+Dialogue: 0,0:03:11.63,0:03:13.30,Default,The Cat,0,0,0,,We’ll know it\Nwhen we see it.
 Dialogue: 0,0:03:13.30,0:03:16.47,Default,Tulip,0,0,0,,Fine. But if you hated\Nthe Conductor so much,
-Dialogue: 0,0:03:16.47,0:03:17.30,Default,Tulip,0,0,0,,why'd you help him?
+Dialogue: 0,0:03:16.47,0:03:17.30,Default,Tulip,0,0,0,,why’d you help him?
 Dialogue: 0,0:03:17.30,0:03:18.76,Default,The Cat,0,0,0,,Je suis désolé.
-Dialogue: 0,0:03:18.76,0:03:21.22,Default,The Cat,0,0,0,,I thought if I found you,\NI'd be left alone.
-Dialogue: 0,0:03:21.22,0:03:22.60,Default,Sad-One,0,0,0,,That's funny!
-Dialogue: 0,0:03:22.60,0:03:24.56,Default,Sad-One,0,0,0,,That didn't work at all!
-Dialogue: 0,0:03:36.65,0:03:38.66,Default,The Cat,0,0,0,,No. It didn't.
+Dialogue: 0,0:03:18.76,0:03:21.22,Default,The Cat,0,0,0,,I thought if I found you,\NI’d be left alone.
+Dialogue: 0,0:03:21.22,0:03:22.60,Default,Sad-One,0,0,0,,That’s funny!
+Dialogue: 0,0:03:22.60,0:03:24.56,Default,Sad-One,0,0,0,,That didn’t work at all!
+Dialogue: 0,0:03:36.65,0:03:38.66,Default,The Cat,0,0,0,,No. It didn’t.
 Dialogue: 0,0:03:47.83,0:03:49.79,Default,Teacher,0,0,0,,Excellent work, Alrick.
 Dialogue: 0,0:03:51.67,0:03:54.71,Default,Teacher,0,0,0,,Perhaps you should spend \Nless time with your toys, Amelia.
-Dialogue: 0,0:03:54.71,0:03:57.68,Default,Amelia,0,0,0,,It's not a toy.\NIt's a crystal radio.
-Dialogue: 0,0:03:59.39,0:04:00.60,Default,Tulip,0,0,0,,Who's this goof?
+Dialogue: 0,0:03:54.71,0:03:57.68,Default,Amelia,0,0,0,,It’s not a toy.\NIt’s a crystal radio.
+Dialogue: 0,0:03:59.39,0:04:00.60,Default,Tulip,0,0,0,,Who’s this goof?
 Dialogue: 0,0:04:00.60,0:04:02.85,Default,The Cat,0,0,0,,Someone {\i1}very{\i0} important.
 Comment: 0,0:04:04.72,0:04:05.43,Default,Teacher,0,0,0,,Ugh!
 Dialogue: 0,0:04:06.68,0:04:09.44,Default,Teacher,0,0,0,,Mark, I know it was you.
@@ -114,65 +114,65 @@ Dialogue: 0,0:04:25.95,0:04:27.04,Default,Tulip,0,0,0,,Wha—
 Dialogue: 0,0:04:31.79,0:04:33.25,Default,Dean,0,0,0,,Engineering.
 Dialogue: 0,0:04:33.25,0:04:37.72,Default,Dean,0,0,0,,Derived from the Latin words\N"ingignere," to contrive,
 Dialogue: 0,0:04:37.72,0:04:40.43,Default,Dean,0,0,0,,{\an8}and "ingenium," or cleverness.
-Dialogue: 0,0:04:41.05,0:04:42.97,Default,Dean,0,0,0,,{\an8}But I've rambled on long enough.
-Dialogue: 0,0:04:42.97,0:04:45.43,Default,Dean,0,0,0,,{\an8}It's time to throw our caps into the air,
-Dialogue: 0,0:04:45.43,0:04:48.56,Default,Dean,0,0,0,,{\an8}because that's how we always \Ntend to end these sorts of things.
+Dialogue: 0,0:04:41.05,0:04:42.97,Default,Dean,0,0,0,,{\an8}But I’ve rambled on long enough.
+Dialogue: 0,0:04:42.97,0:04:45.43,Default,Dean,0,0,0,,{\an8}It’s time to throw our caps into the air,
+Dialogue: 0,0:04:45.43,0:04:48.56,Default,Dean,0,0,0,,{\an8}because that’s how we always \Ntend to end these sorts of things.
 Dialogue: 0,0:04:37.72,0:04:39.93,Default,Tulip,0,0,0,,This memory better not be\Nanother waste of time.
-Dialogue: 0,0:04:40.43,0:04:42.97,Default,Alrick,0,0,0,,I can't do this.\NThere are too many people.
+Dialogue: 0,0:04:40.43,0:04:42.97,Default,Alrick,0,0,0,,I can’t do this.\NThere are too many people.
 Dialogue: 0,0:04:42.97,0:04:44.26,Default,Amelia,0,0,0,,You wanna\Nmake a run for it?
 Dialogue: 0,0:04:44.26,0:04:46.47,Default,Amelia,0,0,0,,Bunk off before\Nthey hand us diplomas?
 Dialogue: 0,0:04:48.56,0:04:49.10,Default,Amelia,0,0,0,,Here.
-Dialogue: 0,0:04:49.44,0:04:52.86,Default,Dean,0,0,0,,{\an8}Congratulations, class of '76.
+Dialogue: 0,0:04:49.44,0:04:52.86,Default,Dean,0,0,0,,{\an8}Congratulations, class of ’76.
 Dialogue: 0,0:04:52.86,0:04:54.52,Default,Tulip,0,0,0,,Wait. Is that...?
 Dialogue: 0,0:04:58.95,0:05:00.15,Default,Amelia,0,0,0,,Quick, in here.
 Dialogue: 0,0:05:00.99,0:05:02.78,Default,Alrick,0,0,0,,No change to call a cab, love.
-Dialogue: 0,0:05:02.78,0:05:04.49,Default,Amelia,0,0,0,,Wait, there's a new trick I learned.
+Dialogue: 0,0:05:02.78,0:05:04.49,Default,Amelia,0,0,0,,Wait, there’s a new trick I learned.
 Dialogue: 0,0:05:04.49,0:05:08.45,Default,Amelia,0,0,0,,If we play the right tones into the receiver, \Nwe can control the network.
 Dialogue: 0,0:05:11.17,0:05:11.67,Default,Agent,0,0,0,,Hello?
 Dialogue: 0,0:05:11.67,0:05:12.04,Default,Alrick,0,0,0,,Whoa!
 Dialogue: 0,0:05:12.04,0:05:13.21,Default,Amelia,0,0,0,,It worked!
 Dialogue: 0,0:05:13.21,0:05:15.29,Default,Amelia,0,0,0,,Hi, y-yes, we need a taxi.
-Dialogue: 0,0:05:15.29,0:05:16.71,Default,Alrick,0,0,0,,Tell 'em we're sopping wet!
+Dialogue: 0,0:05:15.29,0:05:16.71,Default,Alrick,0,0,0,,Tell ’em we’re sopping wet!
 Dialogue: 0,0:05:16.71,0:05:18.92,Default,Amelia,0,0,0,,Shush. Shh. Shh. Shh.
 Dialogue: 0,0:05:18.92,0:05:20.01,Default,Amelia,0,0,0,,No, no. No, not you.
 Dialogue: 0,0:05:20.01,0:05:21.13,Default,Alrick,0,0,0,,Yes, you!
-Dialogue: 0,0:05:21.13,0:05:22.22,Default,Amelia,0,0,0,,We're very dry.
-Dialogue: 0,0:05:22.22,0:05:24.72,Default,Amelia,0,0,0,,A hundred percent dry. We're very dry.
-Dialogue: 0,0:05:26.93,0:05:27.81,Default,Tulip,0,0,0,,This isn't helping.
+Dialogue: 0,0:05:21.13,0:05:22.22,Default,Amelia,0,0,0,,We’re very dry.
+Dialogue: 0,0:05:22.22,0:05:24.72,Default,Amelia,0,0,0,,A hundred percent dry. We’re very dry.
+Dialogue: 0,0:05:26.93,0:05:27.81,Default,Tulip,0,0,0,,This isn’t helping.
 Dialogue: 0,0:05:34.36,0:05:35.77,Default,Alrick,0,0,0,,A-mel-i-a.
 Dialogue: 0,0:05:35.77,0:05:36.94,Default,Tulip,0,0,0,,The Conductor?!
 Dialogue: 0,0:05:36.94,0:05:38.11,Default,The Cat,0,0,0,,Mm-hmm.
 Dialogue: 0,0:05:38.11,0:05:40.86,Default,Alrick,0,0,0,,It is I, your normal boy-friend.
 Dialogue: 0,0:05:40.86,0:05:42.74,Default,Alrick,0,0,0,,I am a hu-mon.
 Dialogue: 0,0:05:42.74,0:05:44.16,Default,Alrick,0,0,0,,This is how I sound now.
-Dialogue: 0,0:05:44.16,0:05:46.20,Default,Alrick,0,0,0,,I do hope that it's acceptable.
+Dialogue: 0,0:05:44.16,0:05:46.20,Default,Alrick,0,0,0,,I do hope that it’s acceptable.
 Dialogue: 0,0:05:46.20,0:05:48.79,Default,Amelia,0,0,0,,Oh, very acceptable.
-Dialogue: 0,0:05:48.79,0:05:51.04,Default,Amelia,0,0,0,,But you're obviously a robot.
-Dialogue: 0,0:05:52.12,0:05:54.58,Default,Amelia,0,0,0,,And me?\NI'm just a simple hu-mon.
+Dialogue: 0,0:05:48.79,0:05:51.04,Default,Amelia,0,0,0,,But you’re obviously a robot.
+Dialogue: 0,0:05:52.12,0:05:54.58,Default,Amelia,0,0,0,,And me?\NI’m just a simple hu-mon.
 Dialogue: 0,0:05:54.58,0:05:59.38,Default,Amelia,0,0,0,,But perhaps we can bridge the gap \Nbetween our two civilizations.
 Dialogue: 0,0:06:00.76,0:06:01.97,Default,Amelia,0,0,0,,So...
 Dialogue: 0,0:06:01.97,0:06:02.97,Default,Amelia,0,0,0,,what do you think?
 Dialogue: 0,0:06:03.34,0:06:04.30,Default,Alrick,0,0,0,,Oh.
 Dialogue: 0,0:06:11.10,0:06:14.56,Default,Sad-One,0,0,0,,Plato says love is a serious mental disease.
 Dialogue: 0,0:06:14.56,0:06:16.98,Default,The Cat,0,0,0,,That, we can agree upon, ball.
-Dialogue: 0,0:06:16.98,0:06:19.11,Default,Tulip,0,0,0,,So this is the Conductor's tape?
-Dialogue: 0,0:06:19.11,0:06:20.99,Default,Tulip,0,0,0,,He's just some... British guy?
+Dialogue: 0,0:06:16.98,0:06:19.11,Default,Tulip,0,0,0,,So this is the Conductor’s tape?
+Dialogue: 0,0:06:19.11,0:06:20.99,Default,Tulip,0,0,0,,He’s just some... British guy?
 Dialogue: 0,0:06:20.99,0:06:22.11,Default,Tulip,0,0,0,,What happened to him?
 Dialogue: 0,0:06:22.11,0:06:23.40,Default,The Cat,0,0,0,,So impatient.
 Dialogue: 0,0:06:23.40,0:06:24.41,Default,The Cat,0,0,0,,Just watch.
-Dialogue: 0,0:06:24.41,0:06:26.37,Default,Tulip,0,0,0,,No! We're done wasting time!
+Dialogue: 0,0:06:24.41,0:06:26.37,Default,Tulip,0,0,0,,No! We’re done wasting time!
 Dialogue: 0,0:06:26.37,0:06:27.74,Default,Tulip,0,0,0,,I want to save my friend!
-Dialogue: 0,0:06:27.74,0:06:29.74,Default,Glad-One,0,0,0,,Let's blow this joint, Miss Tulip!
+Dialogue: 0,0:06:27.74,0:06:29.74,Default,Glad-One,0,0,0,,Let’s blow this joint, Miss Tulip!
 Dialogue: 0,0:06:36.83,0:06:37.96,Default,Friend,0,0,0,,Hey.
-Dialogue: 0,0:06:37.96,0:06:39.80,Default,Friend,0,0,0,,C'mon. Please, open up.
-Dialogue: 0,0:06:39.80,0:06:42.05,Default,Friend,0,0,0,,Look, I know it's hard,
-Dialogue: 0,0:06:42.05,0:06:43.30,Default,Friend,0,0,0,,but it'll be good to go.
-Dialogue: 0,0:06:43.59,0:06:45.01,Default,Friend,0,0,0,,We're all here for you.
-Dialogue: 0,0:06:46.97,0:06:49.97,Default,Tulip,0,0,0,,Uh, where's Amelia?
+Dialogue: 0,0:06:37.96,0:06:39.80,Default,Friend,0,0,0,,C’mon. Please, open up.
+Dialogue: 0,0:06:39.80,0:06:42.05,Default,Friend,0,0,0,,Look, I know it’s hard,
+Dialogue: 0,0:06:42.05,0:06:43.30,Default,Friend,0,0,0,,but it’ll be good to go.
+Dialogue: 0,0:06:43.59,0:06:45.01,Default,Friend,0,0,0,,We’re all here for you.
+Dialogue: 0,0:06:46.97,0:06:49.97,Default,Tulip,0,0,0,,Uh, where’s Amelia?
 Dialogue: 0,0:06:50.26,0:06:51.56,Default,Sad-One,0,0,0,,Gone forever?
-Dialogue: 0,0:06:52.48,0:06:54.89,Default,Friend,0,0,0,,Well, the service...\NIt's starting now.
+Dialogue: 0,0:06:52.48,0:06:54.89,Default,Friend,0,0,0,,Well, the service...\NIt’s starting now.
 Comment: 0,0:06:58.36,0:06:59.11,Default,Tulip,0,0,0,,Wha!
-Dialogue: 0,0:07:06.41,0:07:07.74,Default,Tulip,0,0,0,,Why can't we reach him?
+Dialogue: 0,0:07:06.41,0:07:07.74,Default,Tulip,0,0,0,,Why can’t we reach him?
 Dialogue: 0,0:07:07.74,0:07:10.33,Default,The Cat,0,0,0,,The tape reflects how\Neach memory was stored,
 Dialogue: 0,0:07:10.33,0:07:13.04,Default,The Cat,0,0,0,,and the Conductor keeps\Nthis memory at a distance.
 Dialogue: 0,0:07:13.04,0:07:14.50,Default,Sad-One,0,0,0,,Beaten by the system.
@@ -184,14 +184,14 @@ Comment: 0,0:07:23.30,0:07:24.17,Default,Tulip,0,0,0,,Ah.
 Dialogue: 0,0:07:24.80,0:07:25.88,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:07:29.14,0:07:30.47,Default,Tulip,0,0,0,,There! Take us in.
 Dialogue: 0,0:07:37.48,0:07:39.06,Default,Tulip,0,0,0,,What the...?
-Dialogue: 0,0:07:39.06,0:07:40.40,Default,Tulip,0,0,0,,Let's follow him.
+Dialogue: 0,0:07:39.06,0:07:40.40,Default,Tulip,0,0,0,,Let’s follow him.
 Dialogue: 0,0:07:46.11,0:07:47.45,Default,Tulip,0,0,0,,Amelia?!
 Dialogue: 0,0:07:52.20,0:07:53.70,Default,Tulip,0,0,0,,Amelia.
-Dialogue: 0,0:07:53.70,0:07:55.54,Default,Tulip,0,0,0,,She's stuck here like me.
+Dialogue: 0,0:07:53.70,0:07:55.54,Default,Tulip,0,0,0,,She’s stuck here like me.
 Dialogue: 0,0:07:55.54,0:07:58.83,Default,The Cat,0,0,0,,Oui. Once upon a train, \Nthere was a different Conductor.
 Dialogue: 0,0:07:58.83,0:08:02.29,Default,The Cat,0,0,0,,Until Amelia arrived and ousted them \Nfor her own purposes.
 Dialogue: 0,0:08:02.29,0:08:03.92,Default,Tulip,0,0,0,,How does this help Atticus?
-Dialogue: 0,0:08:03.92,0:08:05.46,Default,Tulip,0,0,0,,We're right back \Nwhere we started!
+Dialogue: 0,0:08:03.92,0:08:05.46,Default,Tulip,0,0,0,,We’re right back \Nwhere we started!
 Dialogue: 0,0:08:05.46,0:08:07.68,Default,The Cat,0,0,0,,Information is power, kitten.
 Dialogue: 0,0:08:07.68,0:08:10.22,Default,The Cat,0,0,0,,Notice anything... important?
 Dialogue: 0,0:08:11.35,0:08:12.51,Default,Tulip,0,0,0,,Cannons.
@@ -199,39 +199,39 @@ Dialogue: 0,0:08:13.18,0:08:16.89,Default,Tulip,0,0,0,,Wait, so... the Conductor
 Dialogue: 0,0:08:16.89,0:08:19.85,Default,Tulip,0,0,0,,Which means...\NI could repurpose it, too.
 Dialogue: 0,0:08:19.85,0:08:21.52,Default,Tulip,0,0,0,,I-I could use it\Nto save Atticus!
 Dialogue: 0,0:08:21.52,0:08:22.61,Default,The Cat,0,0,0,,Ta-da.
-Dialogue: 0,0:08:23.61,0:08:26.61,Default,Tulip,0,0,0,,You dragged me through a tape when you could've \Njust told me that in the first place?
-Dialogue: 0,0:08:26.61,0:08:30.61,Default,The Cat,0,0,0,,Oh, I guess I should've just {\i1}told{\i0} you \Nhow to save the dog?
-Dialogue: 0,0:08:30.61,0:08:32.28,Default,Tulip,0,0,0,,Yes, you should've just told me!
-Dialogue: 0,0:08:33.16,0:08:35.04,Default,The Cat,0,0,0,,But where's the showmanship?
-Dialogue: 0,0:08:35.04,0:08:36.33,Default,Tulip,0,0,0,,Don't you get it?!
+Dialogue: 0,0:08:23.61,0:08:26.61,Default,Tulip,0,0,0,,You dragged me through a tape when you could’ve \Njust told me that in the first place?
+Dialogue: 0,0:08:26.61,0:08:30.61,Default,The Cat,0,0,0,,Oh, I guess I should’ve just {\i1}told{\i0} you \Nhow to save the dog?
+Dialogue: 0,0:08:30.61,0:08:32.28,Default,Tulip,0,0,0,,Yes, you should’ve just told me!
+Dialogue: 0,0:08:33.16,0:08:35.04,Default,The Cat,0,0,0,,But where’s the showmanship?
+Dialogue: 0,0:08:35.04,0:08:36.33,Default,Tulip,0,0,0,,Don’t you get it?!
 Dialogue: 0,0:08:36.33,0:08:38.71,Default,Tulip,0,0,0,,Seeing her tape\Njust made things harder!
 Dialogue: 0,0:08:38.71,0:08:42.21,Default,Tulip,0,0,0,,It was easier when I thought the Conductor \Nwas some heartless robot thing.
 Dialogue: 0,0:08:42.84,0:08:45.00,Default,Tulip,0,0,0,,She turned Atticus into a monster.
-Dialogue: 0,0:08:45.00,0:08:47.21,Default,Tulip,0,0,0,,I don't want to feel bad for her.
-Dialogue: 0,0:08:49.05,0:08:51.89,Default,Tulip,0,0,0,,But now I know she's \Na person named Amelia,
+Dialogue: 0,0:08:45.00,0:08:47.21,Default,Tulip,0,0,0,,I don’t want to feel bad for her.
+Dialogue: 0,0:08:49.05,0:08:51.89,Default,Tulip,0,0,0,,But now I know she’s \Na person named Amelia,
 Dialogue: 0,0:08:52.34,0:08:54.68,Default,Tulip,0,0,0,,who was in love, and...
-Dialogue: 0,0:08:54.68,0:08:56.06,Default,Tulip,0,0,0,,she's hurt.
-Dialogue: 0,0:08:57.27,0:08:59.98,Default,Tulip,0,0,0,,And she's running away\Nfrom the changes in her life.
-Dialogue: 0,0:09:02.73,0:09:04.48,Default,Tulip,0,0,0,,Because she's afraid.
+Dialogue: 0,0:08:54.68,0:08:56.06,Default,Tulip,0,0,0,,she’s hurt.
+Dialogue: 0,0:08:57.27,0:08:59.98,Default,Tulip,0,0,0,,And she’s running away\Nfrom the changes in her life.
+Dialogue: 0,0:09:02.73,0:09:04.48,Default,Tulip,0,0,0,,Because she’s afraid.
 Dialogue: 0,0:09:06.86,0:09:07.90,Default,Tulip,0,0,0,,Like me.
 Dialogue: 0,0:09:31.01,0:09:32.01,Default,Tulip,0,0,0,,Home...
 Dialogue: 0,0:09:32.01,0:09:32.97,Default,Glad-One,0,0,0,,Hooray!
-Dialogue: 0,0:09:32.97,0:09:34.64,Default,Glad-One,0,0,0,,Now you'll be gone forever!
-Dialogue: 0,0:09:34.64,0:09:36.56,Default,Sad-One,0,0,0,,To be clear, that's a good thing.
+Dialogue: 0,0:09:32.97,0:09:34.64,Default,Glad-One,0,0,0,,Now you’ll be gone forever!
+Dialogue: 0,0:09:34.64,0:09:36.56,Default,Sad-One,0,0,0,,To be clear, that’s a good thing.
 Dialogue: 0,0:09:46.11,0:09:47.53,Default,Tulip,0,0,0,,No.
-Dialogue: 0,0:09:47.53,0:09:49.69,Default,Tulip,0,0,0,,I can't leave while Atticus\Nis still a monster.
+Dialogue: 0,0:09:47.53,0:09:49.69,Default,Tulip,0,0,0,,I can’t leave while Atticus\Nis still a monster.
 Dialogue: 0,0:09:49.69,0:09:51.36,Default,Sad-One,0,0,0,,But what about your door?
-Dialogue: 0,0:09:51.36,0:09:53.03,Default,Tulip,0,0,0,,I'll just have to take it with me.
+Dialogue: 0,0:09:51.36,0:09:53.03,Default,Tulip,0,0,0,,I’ll just have to take it with me.
 Dialogue: 0,0:09:53.70,0:09:55.28,Default,Tulip,0,0,0,,If the Conductor\Nis just a person,
 Dialogue: 0,0:09:55.28,0:09:57.20,Default,Tulip,0,0,0,,and the train\Nis just a machine,
-Dialogue: 0,0:09:57.20,0:09:59.54,Default,Tulip,0,0,0,,then what's stopping me\Nfrom doing what she did?
-Dialogue: 0,0:10:05.04,0:10:07.59,Default,Tulip,0,0,0,,I-It's like programming.
-Dialogue: 0,0:10:07.59,0:10:10.71,Default,Tulip,0,0,0,,W-We're gonna use \Nyour shuttle as a controller.
+Dialogue: 0,0:09:57.20,0:09:59.54,Default,Tulip,0,0,0,,then what’s stopping me\Nfrom doing what she did?
+Dialogue: 0,0:10:05.04,0:10:07.59,Default,Tulip,0,0,0,,I-It’s like programming.
+Dialogue: 0,0:10:07.59,0:10:10.71,Default,Tulip,0,0,0,,W-We’re gonna use \Nyour shuttle as a controller.
 Dialogue: 0,0:10:10.71,0:10:14.34,Default,Tulip,0,0,0,,I saw that the train has some kind of \Ninput socket next to the door.
 Dialogue: 0,0:10:21.27,0:10:23.48,Default,Tulip,0,0,0,,How do we connect \Nthe shuttle and the input?
 Dialogue: 0,0:10:23.48,0:10:24.35,Default,Glad-One,0,0,0,,I can help!
 Dialogue: 0,0:10:24.90,0:10:27.15,Default,The Cat,0,0,0,,Did you just break my shuttlecraft?
-Dialogue: 0,0:10:27.15,0:10:29.36,Default,Sad-One,0,0,0,,Depends. Who's asking?
+Dialogue: 0,0:10:27.15,0:10:29.36,Default,Sad-One,0,0,0,,Depends. Who’s asking?
 Dialogue: 0,0:10:38.08,0:10:39.79,Default,The Cat,0,0,0,,My paws are your paws.
 Dialogue: 0,0:10:39.79,0:10:40.83,Default,The Cat,0,0,0,,Where to, kitten?
 Dialogue: 0,0:10:40.83,0:10:42.33,Default,Tulip,0,0,0,,Take us to the engine.

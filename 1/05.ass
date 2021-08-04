@@ -22,10 +22,10 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.36,0:00:10.91,Default,Tulip,0,0,0,,Thank you!\NWe'll never forget you!
-Dialogue: 0,0:00:13.41,0:00:14.95,Default,Atticus,0,0,0,,What was that fella's name again?
+Dialogue: 0,0:00:08.36,0:00:10.91,Default,Tulip,0,0,0,,Thank you!\NWe’ll never forget you!
+Dialogue: 0,0:00:13.41,0:00:14.95,Default,Atticus,0,0,0,,What was that fella’s name again?
 Dialogue: 0,0:00:14.95,0:00:16.58,Default,Tulip,0,0,0,,I kinda already forgot.
-Dialogue: 0,0:00:16.58,0:00:19.58,Default,Glad-One,0,0,30,,Well, I'm gonna call him\NMildred the Tyrannosaur.
+Dialogue: 0,0:00:16.58,0:00:19.58,Default,Glad-One,0,0,30,,Well, I’m gonna call him\NMildred the Tyrannosaur.
 Dialogue: 0,0:00:19.58,0:00:20.38,Default,Tulip,0,0,0,,Aah!
 Dialogue: 0,0:00:34.56,0:00:36.98,Default,Tulip,0,0,0,,So cars on the train\Ncan just move around?
 Dialogue: 0,0:00:36.98,0:00:38.35,Default,Glad-One,0,0,0,,I like it!
@@ -40,38 +40,38 @@ Dialogue: 0,0:00:59.50,0:01:02.00,Default,Atticus,0,0,0,,No, never. Of course no
 Dialogue: 0,0:01:02.00,0:01:05.21,Default,Glad-One,0,0,0,,Hello, me-shaped thing! \NAre you my mum?
 Dialogue: 0,0:01:05.21,0:01:07.51,Default,Glad-One,0,0,0,,And if so, where have you been?
 Dialogue: 0,0:01:09.17,0:01:09.97,Default,Sad-One,0,0,0,,Rude.
-Dialogue: 0,0:01:09.97,0:01:14.05,Default,The Cat,0,0,0,,If it isn't my favorite person \Nnamed after a flower for no good reason.
+Dialogue: 0,0:01:09.97,0:01:14.05,Default,The Cat,0,0,0,,If it isn’t my favorite person \Nnamed after a flower for no good reason.
 Dialogue: 0,0:01:17.39,0:01:19.60,Default,The Cat,0,0,0,,Calm down, dog.
 Dialogue: 0,0:01:19.93,0:01:22.35,Default,Atticus,0,0,0,,Is this the cat\Nyou told me about?
 Dialogue: 0,0:01:22.35,0:01:23.86,Default,Tulip,0,0,0,,Unfortunately, yes.
-Dialogue: 0,0:01:23.86,0:01:25.27,Default,Glad-One,0,0,0,,She's a real gem.
+Dialogue: 0,0:01:23.86,0:01:25.27,Default,Glad-One,0,0,0,,She’s a real gem.
 Dialogue: 0,0:01:25.27,0:01:27.86,Default,Tulip,0,0,0,,One-One, last time we saw her,\Nshe tried to kidnap you.
-Dialogue: 0,0:01:27.86,0:01:30.53,Default,The Cat,0,0,0,,Kidnap? Je n'oserais jamais!
+Dialogue: 0,0:01:27.86,0:01:30.53,Default,The Cat,0,0,0,,Kidnap? Je n’oserais jamais!
 Dialogue: 0,0:01:30.53,0:01:33.49,Default,The Cat,0,0,0,,I seem to recall we had a deal,\N{\i1}you{\i0} backed out,
 Dialogue: 0,0:01:33.49,0:01:35.91,Default,The Cat,0,0,0,,I left you alone,\Nand you abandoned me
 Dialogue: 0,0:01:35.91,0:01:39.50,Default,The Cat,0,0,0,,to the relentless splashes\Nof a thousand Randalls.
 Dialogue: 0,0:01:39.50,0:01:41.50,Default,The Cat,0,0,0,,Litter under the box.
 Dialogue: 0,0:01:41.50,0:01:43.50,Default,Tulip,0,0,0,,Fine. What are you doing here?
-Dialogue: 0,0:01:43.50,0:01:47.00,Default,The Cat,0,0,0,,Me? Why, you're the ones\Nwho oafishly stumbled into...
+Dialogue: 0,0:01:43.50,0:01:47.00,Default,The Cat,0,0,0,,Me? Why, you’re the ones\Nwho oafishly stumbled into...
 Dialogue: 0,0:01:47.00,0:01:48.88,Default,The Cat,0,0,0,,my humble abode.
-Dialogue: 0,0:01:48.88,0:01:51.42,Default,Glad-One,0,0,0,,Nice place, but your mom's a little quiet.
-Dialogue: 0,0:01:51.42,0:01:52.51,Default,The Cat,0,0,0,,Don't touch that!
+Dialogue: 0,0:01:48.88,0:01:51.42,Default,Glad-One,0,0,0,,Nice place, but your mom’s a little quiet.
+Dialogue: 0,0:01:51.42,0:01:52.51,Default,The Cat,0,0,0,,Don’t touch that!
 Dialogue: 0,0:01:52.97,0:01:54.01,Default,The Cat,0,0,0,,I apologize.
 Dialogue: 0,0:01:54.01,0:01:57.18,Default,The Cat,0,0,0,,Everything here is \Nextremely important to me.
-Dialogue: 0,0:01:57.18,0:01:59.10,Default,Tulip,0,0,0,,Yeah, well, it's really dusty\Nand boring to me,
-Dialogue: 0,0:01:59.10,0:01:59.93,Default,Tulip,0,0,0,,so we're leaving.
+Dialogue: 0,0:01:57.18,0:01:59.10,Default,Tulip,0,0,0,,Yeah, well, it’s really dusty\Nand boring to me,
+Dialogue: 0,0:01:59.10,0:01:59.93,Default,Tulip,0,0,0,,so we’re leaving.
 Dialogue: 0,0:01:59.93,0:02:01.98,Default,Glad-One,0,0,0,,Goodbye, former kidnapper!
-Dialogue: 0,0:02:01.98,0:02:04.94,Default,Glad-One,0,0,0,,I miss you already \Nand it's emotionally confusing.
-Dialogue: 0,0:02:04.94,0:02:07.52,Default,The Cat,0,0,0,,Wait! Don't you want to \Nexplore the kismet
+Dialogue: 0,0:02:01.98,0:02:04.94,Default,Glad-One,0,0,0,,I miss you already \Nand it’s emotionally confusing.
+Dialogue: 0,0:02:04.94,0:02:07.52,Default,The Cat,0,0,0,,Wait! Don’t you want to \Nexplore the kismet
 Dialogue: 0,0:02:07.52,0:02:08.73,Default,The Cat,0,0,0,,that brought us together?
-Dialogue: 0,0:02:08.73,0:02:10.36,Default,Tulip,0,0,0,,Nope. I don't trust you!
+Dialogue: 0,0:02:08.73,0:02:10.36,Default,Tulip,0,0,0,,Nope. I don’t trust you!
 Dialogue: 0,0:02:10.82,0:02:13.07,Default,The Cat,0,0,0,,That prickles my whiskers, kitten,
 Dialogue: 0,0:02:13.07,0:02:14.82,Default,The Cat,0,0,0,,but I understand.
 Dialogue: 0,0:02:15.20,0:02:16.41,Default,The Cat,0,0,0,,Au revoi—oop!
 Dialogue: 0,0:02:18.08,0:02:19.24,Default,The Cat,0,0,0,,Oh, my!
 Dialogue: 0,0:02:19.24,0:02:22.00,Default,The Cat,0,0,0,,Be a dear and help me \Nwith those fallen items, would you?
-Dialogue: 0,0:02:22.00,0:02:25.75,Default,The Cat,0,0,0,,I'd do it myself, \Nbut, well, you know.
-Dialogue: 0,0:02:29.84,0:02:31.38,Default,Tulip,0,0,0,,Wait, where'd you get this?
+Dialogue: 0,0:02:22.00,0:02:25.75,Default,The Cat,0,0,0,,I’d do it myself, \Nbut, well, you know.
+Dialogue: 0,0:02:29.84,0:02:31.38,Default,Tulip,0,0,0,,Wait, where’d you get this?
 Dialogue: 0,0:02:31.38,0:02:33.80,Default,The Cat,0,0,0,,I procure so many\Nwonderful things.
 Dialogue: 0,0:02:33.80,0:02:34.63,Default,The Cat,0,0,0,,Why?
 Dialogue: 0,0:02:34.63,0:02:36.14,Default,Tulip,0,0,0,,Because...
@@ -79,23 +79,23 @@ Dialogue: 0,0:02:36.14,0:02:38.64,Default,Tulip,0,0,0,,I-It has my name on it.
 Dialogue: 0,0:02:38.64,0:02:40.60,Default,The Cat,0,0,0,,Oh, is that one yours?
 Dialogue: 0,0:02:40.60,0:02:42.81,Default,The Cat,0,0,0,,I suppose we ought\Nto give it a look, hmm?
 Dialogue: 0,0:02:42.81,0:02:44.06,Default,Glad-One,0,0,0,,Great idea!
-Dialogue: 0,0:02:44.06,0:02:45.90,Default,Atticus,0,0,0,,Careful, Tulip.\NI don't trust it.
-Dialogue: 0,0:02:45.90,0:02:48.06,Default,Tulip,0,0,0,,But what if it's important?
+Dialogue: 0,0:02:44.06,0:02:45.90,Default,Atticus,0,0,0,,Careful, Tulip.\NI don’t trust it.
+Dialogue: 0,0:02:45.90,0:02:48.06,Default,Tulip,0,0,0,,But what if it’s important?
 Dialogue: 0,0:02:48.06,0:02:49.19,Default,The Cat,0,0,0,,Of course it is.
 Dialogue: 0,0:02:49.19,0:02:52.32,Default,The Cat,0,0,0,,This tape contains everything\Nthat makes you you.
 Dialogue: 0,0:02:52.32,0:02:53.90,Default,The Cat,0,0,0,,Every passenger has one.
 Dialogue: 0,0:02:54.28,0:02:55.57,Default,Tulip,0,0,0,,Every passenger?
-Dialogue: 0,0:02:55.57,0:02:56.82,Default,Sad-One,0,0,0,,Guess you're not special.
+Dialogue: 0,0:02:55.57,0:02:56.82,Default,Sad-One,0,0,0,,Guess you’re not special.
 Dialogue: 0,0:02:56.82,0:03:00.74,Default,The Cat,0,0,0,,Yes, and every one of them \Nhas a little number from a little tape,
 Dialogue: 0,0:03:00.74,0:03:01.74,Default,The Cat,0,0,0,,just like you.
-Dialogue: 0,0:03:01.74,0:03:03.29,Default,Tulip,0,0,0,,How's this connected\Nto my number?
+Dialogue: 0,0:03:01.74,0:03:03.29,Default,Tulip,0,0,0,,How’s this connected\Nto my number?
 Dialogue: 0,0:03:03.29,0:03:04.96,Default,Tulip,0,0,0,,Who made it?\NHow does it help me?
 Dialogue: 0,0:03:04.96,0:03:08.33,Default,The Cat,0,0,0,,My dear, it will be much simpler\Nif we just watch.
 Dialogue: 0,0:03:09.96,0:03:10.84,Default,Tulip,0,0,0,,Uh...
 Dialogue: 0,0:03:10.84,0:03:11.80,Default,The Cat,0,0,0,,In you go.
-Dialogue: 0,0:03:12.71,0:03:13.88,Default,Atticus,0,0,0,,I'm not sure about this.
+Dialogue: 0,0:03:12.71,0:03:13.88,Default,Atticus,0,0,0,,I’m not sure about this.
 Dialogue: 0,0:03:15.76,0:03:16.38,Default,Tulip,0,0,0,,Huh?
-Dialogue: 0,0:03:17.39,0:03:18.22,Default,Atticus,0,0,0,,Maybe you shouldn't—
+Dialogue: 0,0:03:17.39,0:03:18.22,Default,Atticus,0,0,0,,Maybe you shouldn’t—
 Dialogue: 0,0:03:23.43,0:03:24.31,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:03:27.19,0:03:28.52,Default,Tulip,0,0,0,,Atticus?
 Dialogue: 0,0:03:28.52,0:03:29.94,Default,Tulip,0,0,0,,Ahh! One-One?
@@ -105,15 +105,15 @@ Dialogue: 0,0:03:39.12,0:03:40.78,Default,Tulip,0,0,0,,I remember that.
 Dialogue: 0,0:03:40.78,0:03:43.12,Default,Andy,0,0,90,Tape,Oh, no! Are you okay, honey?
 Dialogue: 0,0:03:44.08,0:03:46.33,Default,Mikayla,0,0,90,Tape,Corn Nutters! Corn Nutters!
 Dialogue: 0,0:03:46.33,0:03:47.50,Default,Tulip,0,0,90,Tape,Bucket! Bucket! Bucket!
-Dialogue: 0,0:03:47.50,0:03:50.29,Default,Tulip,0,0,90,Tape,Mom, look!\NI can see Orion's belt...
+Dialogue: 0,0:03:47.50,0:03:50.29,Default,Tulip,0,0,90,Tape,Mom, look!\NI can see Orion’s belt...
 Dialogue: 0,0:03:50.29,0:03:52.04,Default,Tulip,0,0,0,Tape,and part of his pants.
 Dialogue: 0,0:03:52.04,0:03:52.88,Default,Tulip,0,0,0,,Aww!
 Comment: 0,0:03:54.17,0:03:55.01,Default,Tulip,0,0,0,,Ahh!
 Dialogue: 0,0:03:55.76,0:03:57.05,Default,Tulip,0,0,0,,Hey.
-Dialogue: 0,0:03:57.05,0:03:58.59,Default,Tulip,0,0,0,,You're me.
+Dialogue: 0,0:03:57.05,0:03:58.59,Default,Tulip,0,0,0,,You’re me.
 Dialogue: 0,0:03:58.59,0:04:00.39,Default,Tulip,0,0,0,Tape,{\i1}Wave your hands in the air
-Dialogue: 0,0:04:00.39,0:04:03.06,Default,Megan/Andy,0,0,0,Tape,{\i1}Like you don't care
-Dialogue: 0,0:04:03.06,0:04:04.77,Default,Tulip,0,0,0,,What's going on?
+Dialogue: 0,0:04:00.39,0:04:03.06,Default,Megan/Andy,0,0,0,Tape,{\i1}Like you don’t care
+Dialogue: 0,0:04:03.06,0:04:04.77,Default,Tulip,0,0,0,,What’s going on?
 Dialogue: 0,0:04:04.77,0:04:06.48,Default,Tulip,0,0,0,,Whoa! DolphWorld?
 Dialogue: 0,0:04:06.48,0:04:08.77,Default,Tulip,0,0,0,,Oh, I used to love this place!
 Dialogue: 0,0:04:08.77,0:04:10.61,Default,Tulip,0,0,0,,I wonder why it closed.
@@ -121,10 +121,10 @@ Dialogue: 0,0:04:12.15,0:04:15.57,Default,Megan,0,0,0,Tape,Oh, Tulip, how about\
 Dialogue: 0,0:04:15.57,0:04:17.49,Default,Tulip,0,0,0,Tape,They look so beautiful\Nin their natural state.
 Dialogue: 0,0:04:19.24,0:04:20.82,Default,Megan/Tulip/Andy,0,0,0,Tape,A pyramid!
 Dialogue: 0,0:04:20.82,0:04:23.74,Default,Tulip,0,0,0,,Oh, yeah!\NThis day was so much fun!
-Dialogue: 0,0:04:25.83,0:04:27.00,Default,Tulip,0,0,0,,I'm home!
-Dialogue: 0,0:04:27.00,0:04:27.87,Default,Tulip,0,0,0,,I'm...
+Dialogue: 0,0:04:25.83,0:04:27.00,Default,Tulip,0,0,0,,I’m home!
+Dialogue: 0,0:04:27.00,0:04:27.87,Default,Tulip,0,0,0,,I’m...
 Dialogue: 0,0:04:28.21,0:04:29.96,Default,Tulip,0,0,0,,still in a memory.
-Dialogue: 0,0:04:34.38,0:04:37.05,Default,Atticus,0,0,300,TV,{\fs-2\bord3\shad1}Are you tired of owning things \Nthat aren't donuts,
+Dialogue: 0,0:04:34.38,0:04:37.05,Default,Atticus,0,0,300,TV,{\fs-2\bord3\shad1}Are you tired of owning things \Nthat aren’t donuts,
 Dialogue: 0,0:04:37.05,0:04:38.42,Default,Atticus,0,0,300,TV,{\fs-2\bord3\shad1}but could be donuts?
 Dialogue: 0,0:04:38.42,0:04:40.97,Default,Sad-One,0,0,300,TV,{\fs-2\bord3\shad1}Every day of my miserable life.
 Dialogue: 0,0:04:40.97,0:04:42.93,Default,Atticus,0,0,300,TV,{\fs-2\bord3\shad1}Then buy a Donut-Holer!
@@ -132,57 +132,57 @@ Dialogue: 0,0:04:44.43,0:04:47.39,Default,Atticus,0,300,80,TV,Easy to grip and c
 Dialogue: 0,0:04:47.39,0:04:48.23,Default,Atticus,0,0,80,TV,Ha-ha!
 Dialogue: 0,0:04:48.23,0:04:49.98,Default,Glad-One,0,0,80,TV,Certainly not a scam?!
 Dialogue: 0,0:04:49.98,0:04:51.27,Default,Glad-One,0,0,80,TV,Say no more!
-Dialogue: 0,0:04:51.27,0:04:53.56,Default,Glad-One,0,0,80,TV,I'm spending my life savings on it!
-Dialogue: 0,0:05:01.95,0:05:04.45,Default,Andy,0,0,0,Tape,{\bord3\blur12\c0\1a&HFE&\3a&HFE&\shad0.01}So, you're tucking me in now, huh?
-Dialogue: 1,0:05:01.95,0:05:04.45,Default,Andy,0,0,0,Tape,{\bord0\blur12\shad0}So, you're tucking me in now, huh?
+Dialogue: 0,0:04:51.27,0:04:53.56,Default,Glad-One,0,0,80,TV,I’m spending my life savings on it!
+Dialogue: 0,0:05:01.95,0:05:04.45,Default,Andy,0,0,0,Tape,{\bord3\blur12\c0\1a&HFE&\3a&HFE&\shad0.01}So, you’re tucking me in now, huh?
+Dialogue: 1,0:05:01.95,0:05:04.45,Default,Andy,0,0,0,Tape,{\bord0\blur12\shad0}So, you’re tucking me in now, huh?
 Dialogue: 0,0:05:06.04,0:05:06.99,Default,Tulip,0,0,0,,What was that?
 Dialogue: 0,0:05:06.99,0:05:08.25,Default,Andy,0,0,0,Tape,Great news, Bud!
 Dialogue: 0,0:05:08.25,0:05:10.54,Default,Megan,0,0,0,Tape,You got a full scholarship to Vassar,
 Dialogue: 0,0:05:10.54,0:05:14.34,Default,Megan,0,0,0,Tape,the school for smart people\Ntoo creative for their own good!
-Dialogue: 0,0:05:14.34,0:05:16.00,Default,Tulip,0,0,0,,Ah, that's better.
+Dialogue: 0,0:05:14.34,0:05:16.00,Default,Tulip,0,0,0,,Ah, that’s better.
 Dialogue: 0,0:05:16.00,0:05:17.88,Default,Andy,0,0,0,Tape,But who cares about school?
 Dialogue: 0,0:05:17.88,0:05:19.55,Default,Andy,0,0,0,Tape,Step aside, Shigeru.
 Dialogue: 0,0:05:19.55,0:05:23.72,Default,Andy,0,0,0,Tape,You just became Ultra-Galactic \NWorld President of Game Design!
 Dialogue: 0,0:05:24.93,0:05:28.02,Default,Megan,0,0,0,Tape,Who wants to celebrate \Nwith double-onion ice cream cake?
 Dialogue: 0,0:05:28.02,0:05:29.18,Default,Tulip,0,0,0,Tape,Me!
-Dialogue: 0,0:05:31.60,0:05:32.60,Default,Tulip,0,0,0,,This isn't right.
-Dialogue: 0,0:05:32.60,0:05:34.77,Default,Tulip,0,0,0,,Something's\Nchanging my memories!
+Dialogue: 0,0:05:31.60,0:05:32.60,Default,Tulip,0,0,0,,This isn’t right.
+Dialogue: 0,0:05:32.60,0:05:34.77,Default,Tulip,0,0,0,,Something’s\Nchanging my memories!
 Comment: 0,0:05:40.86,0:05:41.65,Default,Tulip,0,0,0,,Aah!
 Dialogue: 0,0:05:44.82,0:05:46.91,Default,Tulip,0,0,0,,Get it off, get it off, get it off!
 Dialogue: 0,0:05:47.91,0:05:48.79,Default,Megan,0,0,0,Tape,Tulip?
 Dialogue: 0,0:05:49.33,0:05:50.91,Default,Megan,0,0,0,Tape,How about those dolphins?
 Dialogue: 0,0:05:50.91,0:05:53.17,Default,Tulip,0,0,0,Tape,They look so beautiful\Nin their natural state.
 Dialogue: 0,0:05:54.67,0:05:56.42,Default,Megan/Tulip/Andy,0,0,0,Tape,A pyramid!
-Dialogue: 0,0:05:56.42,0:05:58.05,Default,Tulip,0,0,0,,This isn't how it happened.
-Dialogue: 0,0:05:59.42,0:06:03.18,Default,Dolphin Handler,0,0,0,Tape,Uh, let's hear it for Dolphmu!
-Dialogue: 0,0:06:03.18,0:06:04.80,Default,Dolphin Handler,0,0,0,Tape,What do you mean\Nshe won't wake up?
-Dialogue: 0,0:06:04.80,0:06:07.64,Default,Tulip,0,0,0,,Oh. So {\i1}that's{\i0} why\Nthey closed DolphWorld.
+Dialogue: 0,0:05:56.42,0:05:58.05,Default,Tulip,0,0,0,,This isn’t how it happened.
+Dialogue: 0,0:05:59.42,0:06:03.18,Default,Dolphin Handler,0,0,0,Tape,Uh, let’s hear it for Dolphmu!
+Dialogue: 0,0:06:03.18,0:06:04.80,Default,Dolphin Handler,0,0,0,Tape,What do you mean\Nshe won’t wake up?
+Dialogue: 0,0:06:04.80,0:06:07.64,Default,Tulip,0,0,0,,Oh. So {\i1}that’s{\i0} why\Nthey closed DolphWorld.
 Dialogue: 0,0:06:07.64,0:06:10.47,Default,Tulip,0,0,0,Tape,Mom, Dad,\Ncan—can we move closer?
 Dialogue: 0,0:06:10.47,0:06:13.31,Default,Megan,0,0,0,Tape,See? I told you she needed glasses, Andy.
-Dialogue: 0,0:06:13.31,0:06:15.65,Default,Andy,0,0,0,Tape,Well, maybe you should've taken\Nher to the optometrist, Megan.
+Dialogue: 0,0:06:13.31,0:06:15.65,Default,Andy,0,0,0,Tape,Well, maybe you should’ve taken\Nher to the optometrist, Megan.
 Dialogue: 0,0:06:15.65,0:06:17.06,Default,Megan,0,0,0,Tape,When? When am I supposed to do that?
 Dialogue: 0,0:06:17.06,0:06:20.78,Default,Tulip,0,0,0,,Oh, yeah.\NThey were fighting. Hmm.
 Dialogue: 0,0:06:17.06,0:06:19.73,Default,Andy,0,0,0,Tape,{\an8}Any time. You can do it literally {\i1}any{\i0} time.{wow this line was just straight up missing}
-Dialogue: 0,0:06:19.73,0:06:22.82,Default,Megan,0,0,0,Tape,{\an8}Okay, I'll be sure to add it to my free time \Nbetween my double shifts at the hospital.
-Dialogue: 0,0:06:22.82,0:06:24.66,Default,Andy,0,0,0,Tape,{\an8\shad0\fad(0,500)}Look, it's not like I'm just \Nsitting around watching TV...
-Dialogue: 0,0:06:24.16,0:06:26.03,Default,Tulip,0,0,0,,Why'd the static go down?
+Dialogue: 0,0:06:19.73,0:06:22.82,Default,Megan,0,0,0,Tape,{\an8}Okay, I’ll be sure to add it to my free time \Nbetween my double shifts at the hospital.
+Dialogue: 0,0:06:22.82,0:06:24.66,Default,Andy,0,0,0,Tape,{\an8\shad0\fad(0,500)}Look, it’s not like I’m just \Nsitting around watching TV...
+Dialogue: 0,0:06:24.16,0:06:26.03,Default,Tulip,0,0,0,,Why’d the static go down?
 Dialogue: 0,0:06:28.37,0:06:29.87,Default,Tulip,0,0,0,,Hmm?
 Dialogue: 0,0:06:32.62,0:06:34.67,Default,Atticus,0,0,320,TV,{\fs-2\bord3\shad1}Ah-ha! Doughnut-Holer!
-Dialogue: 0,0:06:34.67,0:06:36.00,Default,Tulip,0,0,0,,They shouldn't be here.
+Dialogue: 0,0:06:34.67,0:06:36.00,Default,Tulip,0,0,0,,They shouldn’t be here.
 Dialogue: 0,0:06:36.42,0:06:38.96,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1}Harry the Bike Guy!
-Dialogue: 0,0:06:38.96,0:06:41.17,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1}He's woke for the spokes!
-Dialogue: 0,0:06:41.17,0:06:42.26,Default,Harry,0,0,310,TV,{\fs-2\bord3\shad1}It isn't a sham, I am.
-Dialogue: 0,0:06:41.17,0:06:43.55,Default,Tulip,0,0,0,,It isn't a sham, I am.
+Dialogue: 0,0:06:38.96,0:06:41.17,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1}He’s woke for the spokes!
+Dialogue: 0,0:06:41.17,0:06:42.26,Default,Harry,0,0,310,TV,{\fs-2\bord3\shad1}It isn’t a sham, I am.
+Dialogue: 0,0:06:41.17,0:06:43.55,Default,Tulip,0,0,0,,It isn’t a sham, I am.
 Dialogue: 0,0:06:44.43,0:06:45.80,Default,Tulip,0,0,0,,Dad was there.
 Comment: 0,0:06:50.64,0:06:51.10,Default,Andy,0,0,0,Tape,Huh?
-Dialogue: 0,0:06:53.02,0:06:56.52,Default,Andy,0,0,0,Tape,So, you're tucking me in now, huh?
+Dialogue: 0,0:06:53.02,0:06:56.52,Default,Andy,0,0,0,Tape,So, you’re tucking me in now, huh?
 Dialogue: 0,0:06:59.61,0:07:01.03,Default,Andy,0,0,0,Tape,Awful news, Tulip.
-Dialogue: 0,0:07:01.03,0:07:02.94,Default,Megan,0,0,0,Tape,We're getting divorced!
+Dialogue: 0,0:07:01.03,0:07:02.94,Default,Megan,0,0,0,Tape,We’re getting divorced!
 Comment: 0,0:07:02.94,0:07:04.95,Default,Tulip,0,0,0,,Aah! Aah!
 Dialogue: 0,0:07:04.95,0:07:07.62,Default,Megan/Andy,0,0,0,Tape,Divorce! Divorce! Divorce!
 Dialogue: 0,0:07:13.29,0:07:14.00,Default,Ugly Irwin,0,0,0,Tape,Divorce!
 Dialogue: 0,0:07:14.00,0:07:15.00,Default,Tulip,0,0,0,,No!
-Dialogue: 0,0:07:15.00,0:07:17.92,Default,Tulip,0,0,0,,This isn't what happened, either!
+Dialogue: 0,0:07:15.00,0:07:17.92,Default,Tulip,0,0,0,,This isn’t what happened, either!
 Dialogue: 0,0:07:22.84,0:07:24.92,Default,Tulip,0,0,0,Tape,We having dinner here\Nor going out?
 Dialogue: 0,0:07:25.47,0:07:27.47,Default,Andy,0,0,0,Tape,Neither. We just want to talk to you.
 Dialogue: 0,0:07:27.47,0:07:28.64,Default,Megan,0,0,0,Tape,Talk {\i1}with{\i0} you.
@@ -192,41 +192,41 @@ Dialogue: 0,0:07:33.35,0:07:38.23,Default,Megan,0,0,0,Tape,Tulip, we want you to
 Dialogue: 0,0:07:38.23,0:07:41.36,Default,Megan,0,0,0,Tape,things are going to be\Nchanging soon.
 Dialogue: 0,0:07:41.36,0:07:43.03,Default,Tulip,0,0,0,Tape,Changing?
 Dialogue: 0,0:07:43.03,0:07:45.24,Default,Tulip,0,0,0,Tape,Uh, is this, like,\Na puberty thing?
-Dialogue: 0,0:07:45.24,0:07:46.78,Default,Tulip,0,0,0,Tape,'Cause if so, I'm fine!
-Dialogue: 0,0:07:47.95,0:07:49.70,Default,Tulip,0,0,0,Tape,Let's just go get\NChinese food and—
+Dialogue: 0,0:07:45.24,0:07:46.78,Default,Tulip,0,0,0,Tape,’Cause if so, I’m fine!
+Dialogue: 0,0:07:47.95,0:07:49.70,Default,Tulip,0,0,0,Tape,Let’s just go get\NChinese food and—
 Dialogue: 0,0:07:49.70,0:07:50.41,Default,Andy,0,0,0,Tape,Tulip, sit.
 Dialogue: 0,0:07:50.41,0:07:51.70,Default,Megan,0,0,0,Tape,Andy.
 Dialogue: 0,0:07:53.83,0:07:54.54,Default,Tulip,0,0,0,Tape,What?
 Dialogue: 0,0:07:54.54,0:07:57.50,Default,Megan,0,0,0,Tape,You might have noticed\NDad and I have...
 Dialogue: 0,0:07:57.50,0:07:59.04,Default,Megan,0,0,0,Tape,problems, sometimes...
 Dialogue: 0,0:07:59.04,0:08:01.71,Default,Megan,0,0,0,Tape,like... arguments, things like that.
-Dialogue: 0,0:08:02.92,0:08:05.59,Default,Andy,0,0,0,Tape,We've tried to fix things, but...
+Dialogue: 0,0:08:02.92,0:08:05.59,Default,Andy,0,0,0,Tape,We’ve tried to fix things, but...
 Dialogue: 0,0:08:06.17,0:08:09.34,Default,Andy,0,0,0,Tape,your mom and I decided \Nto take some time off from each other.
 Dialogue: 0,0:08:09.64,0:08:11.43,Default,Andy,0,0,0,Tape,Are you... okay?
-Dialogue: 0,0:08:11.43,0:08:13.31,Default,Tulip,0,0,0,Tape,Yeah. Why wouldn't I be?
-Dialogue: 0,0:08:13.31,0:08:14.27,Default,Tulip,0,0,0,,You're not.
+Dialogue: 0,0:08:11.43,0:08:13.31,Default,Tulip,0,0,0,Tape,Yeah. Why wouldn’t I be?
+Dialogue: 0,0:08:13.31,0:08:14.27,Default,Tulip,0,0,0,,You’re not.
 Dialogue: 0,0:08:14.27,0:08:16.43,Default,Tulip,0,0,0,Tape,Are you...\Ngetting divorced?
 Comment: 0,0:08:17.23,0:08:18.27,Default,Megan,0,0,0,Tape,Uh,
 Dialogue: 0,0:08:18.27,0:08:19.31,Default,Megan,0,0,0,Tape,Well...
-Dialogue: 0,0:08:19.31,0:08:21.90,Default,Megan,0,0,0,Tape,Right now, we're just separating.
-Dialogue: 0,0:08:21.90,0:08:24.07,Default,Tulip,0,0,0,Tape,But then you're gonna\Nget divorced after that.
-Dialogue: 0,0:08:24.07,0:08:25.65,Default,Tulip,0,0,0,,"It's not that simple."
-Dialogue: 0,0:08:26.11,0:08:27.99,Default,Andy,0,0,0,Tape,It's not that simple, Bud.
-Dialogue: 0,0:08:27.99,0:08:30.57,Default,Tulip,0,0,0,Tape,Yeah, it is. \NYou're either married or you're not.
+Dialogue: 0,0:08:19.31,0:08:21.90,Default,Megan,0,0,0,Tape,Right now, we’re just separating.
+Dialogue: 0,0:08:21.90,0:08:24.07,Default,Tulip,0,0,0,Tape,But then you’re gonna\Nget divorced after that.
+Dialogue: 0,0:08:24.07,0:08:25.65,Default,Tulip,0,0,0,,"It’s not that simple."
+Dialogue: 0,0:08:26.11,0:08:27.99,Default,Andy,0,0,0,Tape,It’s not that simple, Bud.
+Dialogue: 0,0:08:27.99,0:08:30.57,Default,Tulip,0,0,0,Tape,Yeah, it is. \NYou’re either married or you’re not.
 Dialogue: 0,0:08:30.57,0:08:31.49,Default,Tulip,0,0,0,Tape,What else is there?
 Dialogue: 0,0:08:31.49,0:08:32.58,Default,Megan,0,0,0,Tape,Tulip, please.
 Dialogue: 0,0:08:32.58,0:08:35.08,Default,Megan,0,0,0,Tape,We just want you to know \Nnone of this is your fault.
 Dialogue: 0,0:08:35.08,0:08:37.20,Default,Tulip,0,0,0,Tape,I know that!\NWhy would it be?!
 Dialogue: 0,0:08:37.20,0:08:39.75,Default,Tulip,0,0,0,,Oh. I remember\Nhow scared I was.
-Dialogue: 0,0:08:39.75,0:08:41.50,Default,Andy,0,0,0,Tape,Tulip, I'm so sorry.
+Dialogue: 0,0:08:39.75,0:08:41.50,Default,Andy,0,0,0,Tape,Tulip, I’m so sorry.
 Dialogue: 0,0:08:41.50,0:08:43.50,Default,Tulip,0,0,0,,How mad I was.
 Dialogue: 0,0:08:43.50,0:08:45.17,Default,Tulip,0,0,0,,How alone I felt.
-Dialogue: 0,0:08:45.17,0:08:48.72,Default,Megan,0,0,0,Tape,Things change,\Nbut our love for you won't.
+Dialogue: 0,0:08:45.17,0:08:48.72,Default,Megan,0,0,0,Tape,Things change,\Nbut our love for you won’t.
 Dialogue: 0,0:08:48.72,0:08:50.26,Default,Megan,0,0,0,Tape,We just want you\Nto understand—
 Dialogue: 0,0:08:50.26,0:08:51.97,Default,Tulip,0,0,0,Tape,I understand perfectly!
 Dialogue: 0,0:08:51.97,0:08:55.64,Default,Tulip,0,0,0,Tape,Things were fine, but then \N{\i1}you{\i0} decided to change everything!
-Dialogue: 0,0:08:56.77,0:08:59.14,Default,Tulip,0,0,0,,That's definitely\Nwhat happened.
-Dialogue: 0,0:08:59.14,0:09:01.56,Default,Tulip,0,0,0,,But knowing it sure\Ndoesn't feel any better.
+Dialogue: 0,0:08:56.77,0:08:59.14,Default,Tulip,0,0,0,,That’s definitely\Nwhat happened.
+Dialogue: 0,0:08:59.14,0:09:01.56,Default,Tulip,0,0,0,,But knowing it sure\Ndoesn’t feel any better.
 Dialogue: 0,0:09:02.06,0:09:05.61,Default,Tulip,0,0,0,,I guess... {\i1}I{\i0} was the one\Nchanging my memories.
 Comment: 0,0:09:06.73,0:09:07.28,Default,Tulip,0,0,0,,Whoa!
 Dialogue: 0,0:09:10.74,0:09:13.37,Default,Atticus,0,0,0,,...watch that tape without\Nthoroughly sniffing it first!
@@ -236,27 +236,27 @@ Dialogue: 0,0:09:18.16,0:09:19.33,Default,Tulip,0,0,0,,You tried to trap me?!
 Dialogue: 0,0:09:19.33,0:09:23.04,Default,The Cat,0,0,0,,Can one really be trapped \Nwhen reliving such happy memories?
 Dialogue: 0,0:09:23.04,0:09:25.67,Default,The Cat,0,0,0,,Perhaps you want to sit down again, \Ngive it a closer look?
 Dialogue: 0,0:09:26.50,0:09:28.34,Default,Tulip,0,0,0,,I saw everything\NI needed to see.
-Dialogue: 0,0:09:28.34,0:09:30.51,Default,The Cat,0,0,0,,Let's not be hasty,\Nmy petulant perennial!
+Dialogue: 0,0:09:28.34,0:09:30.51,Default,The Cat,0,0,0,,Let’s not be hasty,\Nmy petulant perennial!
 Dialogue: 0,0:09:30.51,0:09:31.51,Default,The Cat,0,0,0,,What about your number?
-Dialogue: 0,0:09:33.59,0:09:34.68,Default,Tulip,0,0,0,,I don't care.
-Dialogue: 0,0:09:36.68,0:09:37.77,Default,The Cat,0,0,0,,But it's going down!
-Dialogue: 0,0:09:37.77,0:09:39.27,Default,The Cat,0,0,0,,The train must think\Nyou're doing well.
+Dialogue: 0,0:09:33.59,0:09:34.68,Default,Tulip,0,0,0,,I don’t care.
+Dialogue: 0,0:09:36.68,0:09:37.77,Default,The Cat,0,0,0,,But it’s going down!
+Dialogue: 0,0:09:37.77,0:09:39.27,Default,The Cat,0,0,0,,The train must think\Nyou’re doing well.
 Dialogue: 0,0:09:39.27,0:09:40.81,Default,Tulip,0,0,0,,Oh, wow!
-Dialogue: 0,0:09:40.81,0:09:43.02,Default,Tulip,0,0,0,,So it's a good thing\Nmy number's going down?
-Dialogue: 0,0:09:43.02,0:09:45.23,Default,Tulip,0,0,0,,I'm growing as a person?
+Dialogue: 0,0:09:40.81,0:09:43.02,Default,Tulip,0,0,0,,So it’s a good thing\Nmy number’s going down?
+Dialogue: 0,0:09:43.02,0:09:45.23,Default,Tulip,0,0,0,,I’m growing as a person?
 Dialogue: 0,0:09:45.23,0:09:46.11,Default,Tulip,0,0,0,,Thanks, train!
 Dialogue: 0,0:09:46.11,0:09:49.36,Default,Tulip,0,0,0,,So glad an inanimate object likes me!
 Dialogue: 0,0:09:49.36,0:09:52.24,Default,Tulip,0,0,0,,No more numbers,\Nno more mystery.
-Dialogue: 0,0:09:58.83,0:10:00.50,Default,Sad-One,0,0,0,,We don't like you.
+Dialogue: 0,0:09:58.83,0:10:00.50,Default,Sad-One,0,0,0,,We don’t like you.
 Comment: 0,0:10:04.17,0:10:05.17,Default,The Cat,0,0,0,,How?!
 Comment: 0,0:10:07.38,0:10:08.09,Default,The Cat,0,0,0,,Huh?!
 Dialogue: 0,0:10:21.35,0:10:23.27,Default,Steward,0,0,0,,Where is the passenger?
-Dialogue: 0,0:10:23.27,0:10:26.77,Default,The Cat,0,0,0,,Um, she isn't exactly here at present.
+Dialogue: 0,0:10:23.27,0:10:26.77,Default,The Cat,0,0,0,,Um, she isn’t exactly here at present.
 Dialogue: 0,0:10:26.77,0:10:28.69,Default,The Cat,0,0,0,,And she may have taken\Nthe ball with her.
 Dialogue: 0,0:10:29.44,0:10:31.94,Default,The Cat,0,0,0,,The tape!\NIt should have trapped her!
 Dialogue: 0,0:10:36.16,0:10:38.37,Default,The Cat,0,0,0,,Mercy, please!
 Dialogue: 0,0:10:38.37,0:10:39.33,Default,The Cat,0,0,0,,You know...
-Dialogue: 0,0:10:39.33,0:10:40.62,Default,The Cat,0,0,0,,I'm the only one...
+Dialogue: 0,0:10:39.33,0:10:40.62,Default,The Cat,0,0,0,,I’m the only one...
 Dialogue: 0,0:10:40.62,0:10:42.25,Default,The Cat,0,0,0,,who can help you...
 Dialogue: 0,0:10:42.25,0:10:44.29,Default,The Cat,0,0,0,,find... them!
 Dialogue: 0,0:10:48.00,0:10:50.96,Default,The Cat,0,0,0,,Thank you.\NI will not disappoint.

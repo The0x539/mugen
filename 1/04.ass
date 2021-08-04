@@ -25,18 +25,18 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:18.37,0:00:20.12,Default,Nancy,0,0,0,,The door unlocked\Na few minutes ago.
 Dialogue: 0,0:00:21.46,0:00:22.63,Default,Tulip,0,0,0,,Mwah!
-Dialogue: 0,0:00:22.63,0:00:23.92,Default,Tulip,0,0,0,,We'll miss you, Nancy!
+Dialogue: 0,0:00:22.63,0:00:23.92,Default,Tulip,0,0,0,,We’ll miss you, Nancy!
 Dialogue: 0,0:00:23.92,0:00:26.51,Default,Tulip,0,0,0,,We know your restaurant\Nwill be a big success.
-Dialogue: 0,0:00:26.51,0:00:29.55,Default,Tulip,0,0,0,,You've come a long way\Nin your pasta-making.
+Dialogue: 0,0:00:26.51,0:00:29.55,Default,Tulip,0,0,0,,You’ve come a long way\Nin your pasta-making.
 Comment: 0,0:00:35.06,0:00:36.18,Default,Tulip,0,0,0,,Mnh.
-Dialogue: 0,0:00:39.94,0:00:42.23,Default,Tulip,0,0,0,,Okay, so let's break down\Nthe Straight-Up Italy Car.
+Dialogue: 0,0:00:39.94,0:00:42.23,Default,Tulip,0,0,0,,Okay, so let’s break down\Nthe Straight-Up Italy Car.
 Dialogue: 0,0:00:42.23,0:00:44.90,Default,Atticus,0,0,0,,I thought we agreed to call it\Nthe Mediterranean Republic Car.
 Dialogue: 0,0:00:44.90,0:00:47.11,Default,Tulip,0,0,0,,There were at least two things\Nthat happened in there
 Dialogue: 0,0:00:47.11,0:00:49.45,Default,Tulip,0,0,0,,that correspond\Nto what we did in Corginia.
 Dialogue: 0,0:00:49.45,0:00:51.20,Default,Tulip,0,0,0,,We helped someone: Nancy.
 Dialogue: 0,0:00:51.20,0:00:54.74,Default,Tulip,0,0,0,,And we fought someone: the mean grandmother \Nstealing coins from the fountain.
 Dialogue: 0,0:00:54.74,0:00:57.12,Default,Tulip,0,0,0,,But there was no change\Nto my number!
-Dialogue: 0,0:00:57.12,0:00:59.21,Default,Tulip,0,0,0,,See, if you look at the logic tree {that }I've drawn...
+Dialogue: 0,0:00:57.12,0:00:59.21,Default,Tulip,0,0,0,,See, if you look at the logic tree {that }I’ve drawn...
 Dialogue: 0,0:00:59.21,0:01:02.17,Default,Glad-One,0,0,0,,Ooh, I like that you use circles\Non your ‘i’s instead of dots.
 Dialogue: 0,0:01:02.17,0:01:03.50,Default,Tulip,0,0,0,,Hmm.
 Dialogue: 0,0:01:06.67,0:01:07.76,Default,Tulip,0,0,0,,Whoa.
@@ -48,7 +48,7 @@ Dialogue: 0,0:01:21.48,0:01:23.98,Default,Atticus,0,0,0,,Perhaps if you sleep on
 Dialogue: 0,0:01:23.98,0:01:25.32,Default,Tulip,0,0,0,,I can crack this!
 Dialogue: 0,0:01:25.32,0:01:28.07,Default,Tulip,0,0,0,,I just have to go about it\Nusing the Scientific Method.
 Dialogue: 0,0:01:28.07,0:01:29.99,Default,Tulip,0,0,0,,Interesting bit of Tulip trivia:
-Dialogue: 0,0:01:29.99,0:01:34.28,Default,Tulip,0,0,0,,I competed in North-Middle Branch Area \NMiddle School's Scientific Odyssey Trials.
+Dialogue: 0,0:01:29.99,0:01:34.28,Default,Tulip,0,0,0,,I competed in North-Middle Branch Area \NMiddle School’s Scientific Odyssey Trials.
 Dialogue: 0,0:01:34.28,0:01:36.45,Default,Tulip,0,0,0,,My team even took home \Nthe award for
 Dialogue: 0,0:01:36.45,0:01:38.95,Default,Tulip,0,0,0,,Best Hypothetically-Proven Hypothesis.
 Dialogue: 0,0:01:38.95,0:01:41.21,Default,Atticus,0,0,0,,At the very least,\Ngive One-One a break from it.
@@ -56,26 +56,26 @@ Dialogue: 0,0:01:41.21,0:01:45.42,Default,Atticus,0,0,0,,Your logic trees have h
 Dialogue: 0,0:01:45.42,0:01:47.09,Default,Glad-One,0,0,0,,Ah!
 Dialogue: 0,0:01:47.55,0:01:48.96,Default,Sad-One,0,0,0,,I deserved that.
 Dialogue: 0,0:01:48.96,0:01:49.71,Default,Tulip,0,0,0,,All right.
-Dialogue: 0,0:01:49.71,0:01:52.18,Default,Tulip,0,0,0,,I'll put the notebook away—for now!
+Dialogue: 0,0:01:49.71,0:01:52.18,Default,Tulip,0,0,0,,I’ll put the notebook away—for now!
 Dialogue: 0,0:01:52.47,0:01:54.09,Default,Tulip,0,0,0,,Until later, my love.
 Dialogue: 0,0:02:02.02,0:02:03.23,Default,Tulip,0,0,0,,Ew!
 Dialogue: 0,0:02:03.23,0:02:04.27,Default,Tulip,0,0,0,,Oh, cool!
 Dialogue: 0,0:02:05.69,0:02:06.94,Default,Tulip,0,0,0,,Anyone see a door?
-Dialogue: 0,0:02:06.94,0:02:10.11,Default,Sad-One,0,0,0,,Maybe it's, like, one of those\Nwhere we have to push a knot,
+Dialogue: 0,0:02:06.94,0:02:10.11,Default,Sad-One,0,0,0,,Maybe it’s, like, one of those\Nwhere we have to push a knot,
 Dialogue: 0,0:02:10.11,0:02:12.03,Default,Sad-One,0,0,0,,like a secret passageway?
 Dialogue: 0,0:02:13.28,0:02:17.58,Default,Atticus,0,0,0,,Because my admittedly petite, \Nbut noble legs keep me close to the ground,
 Dialogue: 0,0:02:17.58,0:02:20.75,Default,Atticus,0,0,0,,I have often found that \Nif there is not an answer in front of you,
 Dialogue: 0,0:02:20.75,0:02:21.95,Default,Atticus,0,0,0,,one may come from above.
 Dialogue: 0,0:02:23.50,0:02:24.46,Default,Atticus,0,0,0,,Right again!
-Dialogue: 0,0:02:24.46,0:02:25.79,Default,Atticus,0,0,0,,If anyone's keeping track,
-Dialogue: 0,0:02:25.79,0:02:27.84,Default,Atticus,0,0,0,,I think I'm winning\Nat being right about things.
-Dialogue: 0,0:02:27.84,0:02:29.75,Default,Glad-One,0,0,0,,I've been keeping track, \Nand you are!
+Dialogue: 0,0:02:24.46,0:02:25.79,Default,Atticus,0,0,0,,If anyone’s keeping track,
+Dialogue: 0,0:02:25.79,0:02:27.84,Default,Atticus,0,0,0,,I think I’m winning\Nat being right about things.
+Dialogue: 0,0:02:27.84,0:02:29.75,Default,Glad-One,0,0,0,,I’ve been keeping track, \Nand you are!
 Dialogue: 0,0:02:29.75,0:02:31.76,Default,Tulip,0,0,0,,Maybe we should try\Nbuilding a ladder.
 Dialogue: 0,0:02:37.68,0:02:39.43,Default,Tulip,0,0,0,,Oh! Hi!
 Dialogue: 0,0:02:39.43,0:02:41.72,Default,Tulip,0,0,0,,Do you know how we can\Nget to the door up there?
 Dialogue: 0,0:02:43.31,0:02:44.98,Default,Tulip,0,0,0,,Ah, great!
 Dialogue: 0,0:02:48.44,0:02:50.48,Default,Atticus,0,0,0,,Would you mind telling us how?
-Dialogue: 0,0:02:53.95,0:02:56.66,Default,Glad-One,0,0,0,,He can't speak! \NJust like Atticus.
+Dialogue: 0,0:02:53.95,0:02:56.66,Default,Glad-One,0,0,0,,He can’t speak! \NJust like Atticus.
 Dialogue: 0,0:02:56.66,0:02:57.24,Default,Atticus,0,0,0,,Huh?
 Dialogue: 0,0:02:57.24,0:02:58.32,Default,Tulip,0,0,0,,Ugh, man.
 Dialogue: 0,0:02:58.32,0:03:00.16,Default,Tulip,0,0,0,,This is gonna take a while.
@@ -84,7 +84,7 @@ Dialogue: 0,0:03:05.00,0:03:07.67,Default,Atticus,0,0,0,,by a... giant spider...
 Dialogue: 0,0:03:07.67,0:03:09.67,Default,Atticus,0,0,0,,made... of metal?
 Dialogue: 0,0:03:09.67,0:03:10.50,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:03:10.50,0:03:12.76,Default,Glad-One,0,0,0,,Oh, like my spindly friend in Corginia.
-Dialogue: 0,0:03:12.76,0:03:14.67,Default,Tulip,0,0,0,,One-One, that thing wasn't your friend.
+Dialogue: 0,0:03:12.76,0:03:14.67,Default,Tulip,0,0,0,,One-One, that thing wasn’t your friend.
 Dialogue: 0,0:03:15.13,0:03:15.88,Default,Glad-One,0,0,0,,Goodness!
 Dialogue: 0,0:03:15.88,0:03:16.76,Default,Glad-One,0,0,0,,Was it my mum?
 Dialogue: 0,0:03:16.76,0:03:18.09,Default,Tulip,0,0,0,,It was trying to hurt us.
@@ -94,38 +94,38 @@ Dialogue: 0,0:03:30.36,0:03:34.36,Default,Atticus,0,0,0,,but only if we put our 
 Dialogue: 0,0:03:35.86,0:03:37.16,Default,Atticus,0,0,0,,And...
 Dialogue: 0,0:03:37.61,0:03:38.61,Default,Glad-One,0,0,0,,Eat some air!
 Dialogue: 0,0:03:38.61,0:03:40.32,Default,Sad-One,0,0,0,,Eating air makes me burpy.
-Dialogue: 0,0:03:40.32,0:03:41.99,Default,Tulip,0,0,0,,I don't think you can breathe.
+Dialogue: 0,0:03:40.32,0:03:41.99,Default,Tulip,0,0,0,,I don’t think you can breathe.
 Dialogue: 0,0:03:41.99,0:03:45.25,Default,Sad-One,0,0,0,,You never take my psychosomatic\Nconditions seriously.
 Dialogue: 0,0:03:46.79,0:03:48.58,Default,Tulip,0,0,0,,Oh! Do we have to sing?
 Dialogue: 0,0:03:50.88,0:03:52.59,Default,Atticus,0,0,0,,Hmm. Big heart?
 Dialogue: 0,0:03:52.59,0:03:55.30,Default,Atticus,0,0,0,,Very emotional, perhaps. Or important?
 Dialogue: 0,0:03:55.30,0:03:57.97,Default,Atticus,0,0,0,,My people have a song\Nabout a folk hero of ours:
 Dialogue: 0,0:03:57.97,0:03:59.97,Default,Atticus,0,0,0,,{\i1}The Ballad of Mustard and Stink Tail{\i0}!
-Dialogue: 0,0:03:59.97,0:04:03.97,Default,Atticus,0,0,0,,It's got drama, pathos,\Nand a bit of bawdy humor.
+Dialogue: 0,0:03:59.97,0:04:03.97,Default,Atticus,0,0,0,,It’s got drama, pathos,\Nand a bit of bawdy humor.
 Comment: 0,0:04:07.94,0:04:09.40,Default,Greige,0,0,0,,Mnh-mnh.
-Dialogue: 0,0:04:09.40,0:04:11.69,Default,Atticus,0,0,0,,The crystal doesn't recognize howling?
-Dialogue: 0,0:04:11.69,0:04:13.73,Default,Atticus,0,0,0,,But it's the ancient language of my people!
+Dialogue: 0,0:04:09.40,0:04:11.69,Default,Atticus,0,0,0,,The crystal doesn’t recognize howling?
+Dialogue: 0,0:04:11.69,0:04:13.73,Default,Atticus,0,0,0,,But it’s the ancient language of my people!
 Dialogue: 0,0:04:13.73,0:04:15.78,Default,Glad-One,0,0,0,,Ooh, ooh, me now! Me now!
 Dialogue: 0,0:04:15.78,0:04:16.61,Default,Glad-One,0,0,0,,Ahem.
 Dialogue: 0,0:04:16.61,0:04:18.45,Default,Glad-One,0,0,0,,Do-do-do-do-do-doot.
 Dialogue: 0,0:04:22.83,0:04:24.08,Default,Sad-One,0,0,0,,Connection failed.
-Dialogue: 0,0:04:24.08,0:04:24.99,Default,Tulip,0,0,0,,Don't worry, guys!
+Dialogue: 0,0:04:24.08,0:04:24.99,Default,Tulip,0,0,0,,Don’t worry, guys!
 Dialogue: 0,0:04:24.99,0:04:27.08,Default,Tulip,0,0,0,,I know a super emotional song to try.
 Dialogue: 0,0:04:28.04,0:04:31.38,Default,Tulip,0,0,0,,{\i1}High, low
 Dialogue: 0,0:04:31.38,0:04:34.13,Default,Tulip,0,0,0,,{\i1}Wherever we go
 Dialogue: 0,0:04:34.13,0:04:39.18,Default,Tulip,0,0,0,,{\i1}I just know that our souls twine as one
 Comment: 0,0:04:41.97,0:04:43.35,Default,Greige,0,0,0,,Mmm.
 Dialogue: 0,0:04:43.35,0:04:45.52,Default,Tulip,0,0,0,,But that song is super emotional!
-Dialogue: 0,0:04:45.52,0:04:48.56,Default,Tulip,0,0,0,,It's from this movie about a couple \Nwho fall in love on a zeppelin,
+Dialogue: 0,0:04:45.52,0:04:48.56,Default,Tulip,0,0,0,,It’s from this movie about a couple \Nwho fall in love on a zeppelin,
 Dialogue: 0,0:04:48.56,0:04:50.85,Default,Tulip,0,0,0,,and the guy dies\Nwhen the zeppelin blows up!
 Comment: 0,0:04:50.85,0:04:52.52,Default,Greige,0,0,0,,Mmm.
 Dialogue: 0,0:04:52.52,0:04:55.07,Default,Tulip,0,0,0,,Okay. My world has a billion songs.
-Dialogue: 0,0:04:55.07,0:04:56.57,Default,Tulip,0,0,0,,I'll find one that works.
-Dialogue: 0,0:04:56.57,0:05:00.70,Default,Tulip,0,0,0,,Get ready, car, \Nbecause I'm about to blow your heart's mind!
+Dialogue: 0,0:04:55.07,0:04:56.57,Default,Tulip,0,0,0,,I’ll find one that works.
+Dialogue: 0,0:04:56.57,0:05:00.70,Default,Tulip,0,0,0,,Get ready, car, \Nbecause I’m about to blow your heart’s mind!
 Dialogue: 0,0:05:00.70,0:05:04.83,Default,Tulip,0,0,0,,{\i1}I cleave thee
 Dialogue: 0,0:05:04.83,0:05:08.79,Default,Tulip,0,0,0,,{\i1}To mine heart
-Dialogue: 0,0:05:08.79,0:05:11.58,Default,Tulip,0,0,0,,{\i1}Girl, you know it's so true
-Dialogue: 0,0:05:11.58,0:05:14.63,Default,Tulip,0,0,0,,{\i1}That I'm in love with you
+Dialogue: 0,0:05:08.79,0:05:11.58,Default,Tulip,0,0,0,,{\i1}Girl, you know it’s so true
+Dialogue: 0,0:05:11.58,0:05:14.63,Default,Tulip,0,0,0,,{\i1}That I’m in love with you
 Dialogue: 0,0:05:14.63,0:05:20.38,Default,Tulip,0,0,0,,{\i1}And even my pickup misses your face
 Comment: 0,0:05:20.38,0:05:21.68,Default,Tulip,0,0,0,,{\i1}Ugh!
 Dialogue: 0,0:05:21.68,0:05:23.64,Default,Tulip,0,0,0,,{\i1}I hope you choke
@@ -134,17 +134,17 @@ Dialogue: 0,0:05:28.56,0:05:31.94,Default,Tulip,0,0,0,,{\i1}I can see our future
 Dialogue: 0,0:05:31.94,0:05:34.40,Default,Tulip,0,0,0,,{\i1}When I look into your eyes
 Dialogue: 0,0:05:34.40,0:05:35.77,Default,Tulip,0,0,0,,Ugh!
 Dialogue: 0,0:05:35.77,0:05:38.48,Default,Sad-One,0,0,0,,I like the ones about\Nunrequited love the most.
-Dialogue: 0,0:05:38.48,0:05:40.65,Default,Sad-One,0,0,0,,It's like, {\i1}real,{\i0} you know?
+Dialogue: 0,0:05:38.48,0:05:40.65,Default,Sad-One,0,0,0,,It’s like, {\i1}real,{\i0} you know?
 Dialogue: 0,0:05:40.65,0:05:43.74,Default,Atticus,0,0,0,,Perhaps if we sleep on it,\Nthe right song will come to you.
 Dialogue: 0,0:05:43.74,0:05:46.41,Default,Tulip,0,0,0,,You know, you suggest\Nwe {"}sleep on{"} things a lot.
 Dialogue: 0,0:05:46.41,0:05:47.74,Default,Atticus,0,0,0,,I {\i1}am{\i0} a dog.
 Dialogue: 0,0:05:47.74,0:05:48.91,Default,Tulip,0,0,0,,Oh, right.
 Dialogue: 0,0:05:48.91,0:05:50.66,Default,Tulip,0,0,0,,Well, maybe if we just build a ladder.
-Dialogue: 0,0:05:51.83,0:05:54.38,Default,Tulip,0,0,0,,I'm sorry, but your weird\Nsong thing isn't working.
+Dialogue: 0,0:05:51.83,0:05:54.38,Default,Tulip,0,0,0,,I’m sorry, but your weird\Nsong thing isn’t working.
 Dialogue: 0,0:05:54.38,0:05:56.59,Default,Tulip,0,0,0,,Now, are you guys gonna help me\Nbuild a ladder or what?
 Dialogue: 0,0:05:59.17,0:06:01.01,Default,Tulip,0,0,0,,Ugh! No thumbs!
 Dialogue: 0,0:06:01.63,0:06:03.43,Default,Tulip,0,0,0,,Lot of help everyone is in this car.
-Dialogue: 0,0:06:03.43,0:06:04.89,Default,Atticus,0,0,0,,Since I couldn't sing it,
+Dialogue: 0,0:06:03.43,0:06:04.89,Default,Atticus,0,0,0,,Since I couldn’t sing it,
 Dialogue: 0,0:06:04.89,0:06:09.18,Default,Atticus,0,0,0,,this provides the perfect opportunity to {\i1}tell{\i0} you \N{\i1}The Ballad of Mustard and Stink Tail{\i0}.
 Dialogue: 0,0:06:09.18,0:06:11.02,Default,Atticus,0,0,0,,Ahem.
 Dialogue: 0,0:06:11.02,0:06:14.85,Default,Atticus,0,0,0,,Once, a mighty Corgi \Nemerged from the Blue River.
@@ -179,34 +179,34 @@ Dialogue: 0,0:06:38.67,0:06:42.30,Default,Atticus,0,0,0,,they also saw Stink Tai
 Dialogue: 0,0:06:42.30,0:06:43.80,Default,Glad-One,0,0,0,,To the end of what?
 Dialogue: 0,0:06:43.80,0:06:45.64,Default,Atticus,0,0,0,,Well, their lives.
 Dialogue: 0,0:06:45.64,0:06:46.89,Default,Sad-One,0,0,0,,Nice.
-Dialogue: 0,0:06:46.89,0:06:48.30,Default,Tulip,0,0,0,,Guys, I'm done.
+Dialogue: 0,0:06:46.89,0:06:48.30,Default,Tulip,0,0,0,,Guys, I’m done.
 Dialogue: 0,0:06:48.30,0:06:51.14,Default,Tulip,0,0,0,,Man, that story is really, really long.
-Dialogue: 0,0:06:51.14,0:06:53.14,Default,Atticus,0,0,0,,Mustard's story cannot be abridged.
+Dialogue: 0,0:06:51.14,0:06:53.14,Default,Atticus,0,0,0,,Mustard’s story cannot be abridged.
 Dialogue: 0,0:06:53.85,0:06:55.90,Default,Tulip,0,0,0,,Grump all you want,\Nbut this is gonna work.
 Dialogue: 0,0:06:59.15,0:07:01.23,Default,Tulip,0,0,0,,Yes! No more emotional songs.
 Dialogue: 0,0:07:02.07,0:07:04.57,Default,Tulip,0,0,0,,Sorry, buddy, sometimes \Nyou just gotta go logical.
 Dialogue: 0,0:07:05.74,0:07:06.99,Default,Tulip,0,0,0,,Oh, no.
 Dialogue: 0,0:07:07.32,0:07:08.74,Default,Tulip,0,0,0,,No! No, no, no, no, no, no!
-Dialogue: 0,0:07:08.74,0:07:10.41,Default,Tulip,0,0,0,,It's locked!
+Dialogue: 0,0:07:08.74,0:07:10.41,Default,Tulip,0,0,0,,It’s locked!
 Dialogue: 0,0:07:15.29,0:07:17.25,Default,Tulip,0,0,0,,No! That makes no sense!
 Dialogue: 0,0:07:17.25,0:07:20.13,Default,Tulip,0,0,0,,I tried out every possible emotional theme \Nto find one that would work.
 Dialogue: 0,0:07:20.13,0:07:23.88,Default,Tulip,0,0,20,,Break-ups, celebrities singing \Nto draw attention to important social issues,
 Dialogue: 0,0:07:23.88,0:07:26.22,Default,Tulip,0,0,0,,even songs about \Ngoing after your dreams.
 Dialogue: 0,0:07:26.22,0:07:28.55,Default,Tulip,0,0,0,,Like {\i1}my{\i0} dream of getting\Nto game design camp,
 Dialogue: 0,0:07:28.55,0:07:30.97,Default,Tulip,0,0,0,,which is probably over,\Nlike, forever ago.
-Dialogue: 0,0:07:30.97,0:07:33.81,Default,Tulip,0,0,0,,I don't even know \Nhow time works on this dumb train!
+Dialogue: 0,0:07:30.97,0:07:33.81,Default,Tulip,0,0,0,,I don’t even know \Nhow time works on this dumb train!
 Comment: 0,0:07:33.81,0:07:34.98,Default,Greige,0,0,0,,Hmm.
 Dialogue: 0,0:07:42.15,0:07:44.90,Default,Tulip,0,0,0,,My heart, me singing.
 Dialogue: 0,0:07:44.90,0:07:50.03,Default,Tulip,0,0,0,,Not your heart,\Nnot you singing.
 Dialogue: 0,0:07:50.03,0:07:52.45,Default,Tulip,0,0,0,,I thought I was \Nsupposed to find a song
 Dialogue: 0,0:07:52.45,0:07:55.04,Default,Tulip,0,0,0,,that made the crystal\Nfeel something.
-Dialogue: 0,0:07:55.04,0:07:57.62,Default,Tulip,0,0,0,,It has to be a song\Nthat's emotional for {\i1}me{\i0}?
-Dialogue: 0,0:07:59.25,0:08:01.79,Default,Tulip,0,0,0,,I've already liked a bunch\Nof the songs I've tried.
+Dialogue: 0,0:07:55.04,0:07:57.62,Default,Tulip,0,0,0,,It has to be a song\Nthat’s emotional for {\i1}me{\i0}?
+Dialogue: 0,0:07:59.25,0:08:01.79,Default,Tulip,0,0,0,,I’ve already liked a bunch\Nof the songs I’ve tried.
 Dialogue: 0,0:08:01.79,0:08:04.42,Default,Tulip,0,0,0,,How would I know which song\NI really connect to most?
 Dialogue: 0,0:08:04.42,0:08:05.17,Default,Atticus,0,0,0,,Hmm.
 Dialogue: 0,0:08:05.17,0:08:08.09,Default,Atticus,0,0,0,,I thought of {\i1}The Ballad of Mustard \Nand Stink Tail{\i0} immediately.
 Dialogue: 0,0:08:08.09,0:08:11.01,Default,Tulip,0,0,0,,So it could just be\Nthe first song I think of?
-Dialogue: 0,0:08:11.01,0:08:12.43,Default,Tulip,0,0,0,,That's too arbitrary!
+Dialogue: 0,0:08:11.01,0:08:12.43,Default,Tulip,0,0,0,,That’s too arbitrary!
 Dialogue: 0,0:08:12.43,0:08:13.85,Default,Atticus,0,0,0,,Seems worth a try.
 Dialogue: 0,0:08:19.15,0:08:20.77,Default,Tulip,0,0,0,,Okay.
 Dialogue: 0,0:08:20.77,0:08:23.15,Default,Tulip,0,0,0,,But if this were\Nthe Scientific Odyssey Trials,
@@ -214,47 +214,47 @@ Dialogue: 0,0:08:23.15,0:08:24.94,Default,Tulip,0,0,0,,this would {\i1}not{\i0} 
 Dialogue: 0,0:08:24.94,0:08:26.69,Default,Tulip,0,0,0,,Not even for\N"Best Last Ditch Effort."
 Dialogue: 0,0:08:26.69,0:08:28.15,Default,Tulip,0,0,0,,And yes, that is a real thing,
 Dialogue: 0,0:08:28.15,0:08:30.03,Default,Tulip,0,0,0,,and yes, I petitioned\Nto remove the category,
-Dialogue: 0,0:08:30.03,0:08:31.12,Default,Tulip,0,0,0,,and no, they didn't.
-Dialogue: 0,0:08:32.45,0:08:33.91,Default,Tulip,0,0,0,,Fine! I'm singing!
+Dialogue: 0,0:08:30.03,0:08:31.12,Default,Tulip,0,0,0,,and no, they didn’t.
+Dialogue: 0,0:08:32.45,0:08:33.91,Default,Tulip,0,0,0,,Fine! I’m singing!
 Dialogue: 0,0:08:35.04,0:08:36.62,Default,Tulip,0,0,0,,La-la-la-la...
 Dialogue: 0,0:08:36.62,0:08:38.83,Default,Tulip,0,0,0,,What do I care about? Uh...
 Dialogue: 0,0:08:38.83,0:08:42.08,Default,Tulip,0,0,0,,Programming is cool, and...
 Dialogue: 0,0:08:42.08,0:08:44.88,Default,Tulip,0,0,0,,I like my friends, and, um...
 Dialogue: 0,0:08:44.88,0:08:46.38,Default,Tulip,0,0,0,,onions, and...
 Dialogue: 0,0:08:46.38,0:08:49.63,Default,Tulip,0,0,0,,the first three bites of pancakes, and...
-Dialogue: 0,0:08:49.63,0:08:54.60,Default,Tulip,0,0,0,,Oh, I like getting new textbooks at the beginning \Nof the year before I'm sick of school again,
+Dialogue: 0,0:08:49.63,0:08:54.60,Default,Tulip,0,0,0,,Oh, I like getting new textbooks at the beginning \Nof the year before I’m sick of school again,
 Dialogue: 0,0:08:54.60,0:08:57.27,Default,Tulip,0,0,0,,and road trips, and...
 Dialogue: 0,0:08:57.27,0:09:00.14,Default,Tulip,0,0,0,,Huh. Road trips.
 Dialogue: 0,0:09:00.60,0:09:01.73,Default,Tulip,0,0,0,,Heh.
 Dialogue: 0,0:09:01.73,0:09:02.19,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:09:05.36,0:09:06.07,Default,Tulip,0,0,0,,What?
-Dialogue: 0,0:09:06.07,0:09:08.69,Default,Tulip,0,0,0,,Ugh, that's embarrassing! \NLemme pick a different one.
+Dialogue: 0,0:09:06.07,0:09:08.69,Default,Tulip,0,0,0,,Ugh, that’s embarrassing! \NLemme pick a different one.
 Dialogue: 0,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\move(32,-128,32,0,0,400)\fad(0,400)\p1\an7\bord0\shad0\1a&H3F&\c0}m 0 0 l 320 0 320 128 0 128
 Dialogue: 1,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\bord0\shad0\an5\fad(0,400)\p1\fscx12\fscy12\move(84,-64,84,64,0,400)}m 171.9 82.6 l 577.1 -0 l 577.1 113 l 171.9 195.6  m 171.9 82.5 l 237.2 82.5 237.2 504.9 171.9 504.9  m 235 488.2 b 246.7 531.7 209.1 579.6 151.1 595.1 b 93.1 610.6 36.7 588 25 544.5 b 13.4 501 50.9 453.1 108.9 437.6 b 166.9 422 223.4 444.7 235 488.2  m 511.9 13.5 l 577.1 13.5 577.1 435.9 511.9 435.9  m 575 419.2 b 586.6 462.7 549.1 510.6 491.1 526.1 b 433.1 541.6 376.6 519 365 475.5 b 353.3 432 390.9 384.1 448.9 368.6 b 506.9 353 563.3 375.7 575 419.2 \N
 Dialogue: 1,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\bord0\shad0\an4\fs36\move(144,-92,144,36,0,400)\fad(0,400)\b1\fnArial}Cameo
 Dialogue: 1,0:09:08.69,0:09:12.78,Default,,0,0,0,,{\bord0\shad0\an4\fs48\move(144,-44,144,84,0,400)\fad(0,400)\b0\fnArial}Word Up
-Dialogue: 0,0:09:14.78,0:09:16.12,Default,Tulip,0,0,0,,That doesn't make sense!
-Dialogue: 0,0:09:16.12,0:09:17.62,Default,Atticus,0,0,0,,Doesn't seem to matter\Nif it makes sense.
-Dialogue: 0,0:09:17.62,0:09:19.54,Default,Tulip,0,0,0,,I can't believe\Nthis is happening.
-Dialogue: 0,0:09:19.54,0:09:21.21,Default,Glad-One,0,0,0,,It's the music of your heart.
-Dialogue: 0,0:09:21.21,0:09:23.04,Default,Tulip,0,0,0,,But it isn't emotional at all.
-Dialogue: 0,0:09:23.04,0:09:25.84,Default,Tulip,0,0,0,,It's just some song my family\Nused to sing on road trips.
-Dialogue: 0,0:09:25.84,0:09:27.80,Default,Tulip,0,0,0,,It's about... dancing or something.
+Dialogue: 0,0:09:14.78,0:09:16.12,Default,Tulip,0,0,0,,That doesn’t make sense!
+Dialogue: 0,0:09:16.12,0:09:17.62,Default,Atticus,0,0,0,,Doesn’t seem to matter\Nif it makes sense.
+Dialogue: 0,0:09:17.62,0:09:19.54,Default,Tulip,0,0,0,,I can’t believe\Nthis is happening.
+Dialogue: 0,0:09:19.54,0:09:21.21,Default,Glad-One,0,0,0,,It’s the music of your heart.
+Dialogue: 0,0:09:21.21,0:09:23.04,Default,Tulip,0,0,0,,But it isn’t emotional at all.
+Dialogue: 0,0:09:23.04,0:09:25.84,Default,Tulip,0,0,0,,It’s just some song my family\Nused to sing on road trips.
+Dialogue: 0,0:09:25.84,0:09:27.80,Default,Tulip,0,0,0,,It’s about... dancing or something.
 Dialogue: 0,0:09:27.80,0:09:28.59,Default,Sad-One,0,0,0,,Gross.
-Dialogue: 0,0:09:28.59,0:09:30.47,Default,Atticus,0,0,0,,Don't listen to him, just sing!
+Dialogue: 0,0:09:28.59,0:09:30.47,Default,Atticus,0,0,0,,Don’t listen to him, just sing!
 Dialogue: 0,0:09:33.47,0:09:37.14,Default,Tulip,0,0,0,,{\i1}Yo, pretty ladies around the world
 Dialogue: 0,0:09:37.14,0:09:39.10,Default,Tulip,0,0,0,,{\i1}Got a weird thing to show you
 Dialogue: 0,0:09:39.10,0:09:41.31,Default,Tulip,0,0,0,,{\i1}So tell all the boys and girls
 Dialogue: 0,0:09:41.31,0:09:43.31,Default,Tulip,0,0,0,,{\i1}Tell your brother, your sister
 Dialogue: 0,0:09:43.31,0:09:45.23,Default,Tulip,0,0,0,,{\i1}And your momma too
-Dialogue: 0,0:09:45.23,0:09:47.32,Default,Tulip,0,0,0,,{\i1}'Cause we're about to throw down
+Dialogue: 0,0:09:45.23,0:09:47.32,Default,Tulip,0,0,0,,{\i1}’Cause we’re about to throw down
 Dialogue: 0,0:09:45.23,0:09:47.32,Default,Glad-One,0,0,0,,{\an8}Your heart is fun, Miss Tulip!
-Dialogue: 0,0:09:47.32,0:09:49.49,Default,Tulip,0,0,0,,{\i1}And you'll know just what to do
-Dialogue: 0,0:09:49.49,0:09:53.78,Default,Tulip,0,0,0,,{\i1}Wave your hands in the air like you don't care
+Dialogue: 0,0:09:47.32,0:09:49.49,Default,Tulip,0,0,0,,{\i1}And you’ll know just what to do
+Dialogue: 0,0:09:49.49,0:09:53.78,Default,Tulip,0,0,0,,{\i1}Wave your hands in the air like you don’t care
 Dialogue: 0,0:09:53.78,0:09:57.74,Default,Tulip,0,0,0,,{\i1}Glide by the people as they stop{start} to look and stare
 Dialogue: 0,0:09:57.74,0:10:00.33,Default,Tulip,0,0,0,,{\i1}Do your dance, do your dance
 Dialogue: 0,0:10:00.33,0:10:02.83,Default,Tulip,0,0,0,,{\i1}Do your dance quick, mama
-Dialogue: 0,0:10:02.83,0:10:05.84,Default,Tulip,0,0,0,,{\i1}Come on baby, tell me, what's the word?
+Dialogue: 0,0:10:02.83,0:10:05.84,Default,Tulip,0,0,0,,{\i1}Come on baby, tell me, what’s the word?
 Dialogue: 0,0:10:05.84,0:10:06.96,Default,Tulip,0,0,0,,{\i1}Oh, word up!
 Dialogue: 0,0:10:07.92,0:10:08.84,Default,Tulip,0,0,0,,Huh?
 Dialogue: 0,0:10:23.19,0:10:24.40,Default,Tulip,0,0,0,,Uh...
