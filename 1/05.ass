@@ -210,7 +210,7 @@ Comment: 0,0:08:17.23,0:08:18.27,Default,Megan,0,0,0,Tape,Uh,
 Dialogue: 0,0:08:18.27,0:08:19.31,Default,Megan,0,0,0,Tape,Well...
 Dialogue: 0,0:08:19.31,0:08:21.90,Default,Megan,0,0,0,Tape,Right now, we’re just separating.
 Dialogue: 0,0:08:21.90,0:08:24.07,Default,Tulip,0,0,0,Tape,But then you’re gonna\Nget divorced after that.
-Dialogue: 0,0:08:24.07,0:08:25.65,Default,Tulip,0,0,0,,“It’s not that simple.”
+Dialogue: 0,0:08:24.07,0:08:25.65,Default,Tulip,0,0,0,,“It’s not that simple{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:08:26.11,0:08:27.99,Default,Andy,0,0,0,Tape,It’s not that simple, Bud.
 Dialogue: 0,0:08:27.99,0:08:30.57,Default,Tulip,0,0,0,Tape,Yeah, it is. \NYou’re either married or you’re not.
 Dialogue: 0,0:08:30.57,0:08:31.49,Default,Tulip,0,0,0,Tape,What else is there?

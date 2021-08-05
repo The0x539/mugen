@@ -67,7 +67,7 @@ Dialogue: 0,0:02:06.73,0:02:08.07,Default,Tulip,0,0,0,,Don’t ever change.
 Dialogue: 0,0:02:08.07,0:02:09.90,Default,Tulip,0,0,0,,Thanks, {\i1}Coding is Cool{\i0} guy!
 Dialogue: 0,0:02:09.90,0:02:11.74,Default,Tulip,0,0,0,,“Why, thank {\i1}you{\i0}, Tulip,
 Dialogue: 0,0:02:11.74,0:02:13.66,Default,Tulip,0,0,0,,for with your purchase of my book,
-Dialogue: 0,0:02:13.66,0:02:17.41,Default,Tulip,0,0,0,,I can finally afford to have this ferret \Nremoved from my face.”
+Dialogue: 0,0:02:13.66,0:02:17.41,Default,Tulip,0,0,0,,I can finally afford to have this ferret \Nremoved from my face{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:02:17.41,0:02:20.33,Default,Megan,0,0,0,,Tulip? Can you come down here, please?
 Dialogue: 0,0:02:20.33,0:02:21.37,Default,Tulip,0,0,0,,Ugh!
 Dialogue: 0,0:02:22.91,0:02:23.54,Default,Tulip,0,0,0,,Yeah?
@@ -101,7 +101,7 @@ Dialogue: 0,0:03:17.89,0:03:19.68,Default,Tulip,0,0,0,,No! I’m going back to m
 Dialogue: 0,0:03:20.68,0:03:21.89,Default,Tulip,0,0,0,,Ugh!
 Dialogue: 0,0:03:39.99,0:03:40.53,Default,Tulip,0,0,0,,Huh?
 Comment: 0,0:03:42.58,0:03:43.37,Default,Tulip,0,0,0,,Hmm.
-Dialogue: 0,0:04:26.25,0:04:28.71,Default,Tulip,0,0,0,,300 miles is {\i1}not{\i0} “a quick hop.”
+Dialogue: 0,0:04:26.25,0:04:28.71,Default,Tulip,0,0,0,,300 miles is {\i1}not{\i0} “a quick hop{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:04:39.22,0:04:40.80,Default,Tulip,0,0,0,,Oh! Well, that’s lucky.
 Dialogue: 0,0:04:51.19,0:04:52.15,Default,Tulip,0,0,0,,What the—
 Dialogue: 0,0:04:52.15,0:04:55.19,Default,Tulip,0,0,0,,Ugh, did I just hallucinate a train station?

@@ -97,7 +97,7 @@ Dialogue: 0,0:02:49.69,0:02:52.15,Default,,0,0,0,,Oh, that’s {\i1}how{\i0} we 
 Dialogue: 0,0:02:52.15,0:02:54.86,Default,,0,0,0,,I didn’t say I was {\i1}going{\i0} \Nto switch back.
 Dialogue: 0,0:02:55.66,0:02:57.49,Default,Tulip,0,0,0,,I haven’t come\Nthis far on the train
 Dialogue: 0,0:02:57.49,0:02:59.95,Default,Tulip,0,0,0,,to get bamboozled\Nby my own reflection!
-Dialogue: 0,0:02:59.95,0:03:02.41,Default,Glad-One,0,0,0,,Excellent use\Nof “bamboozled,” Old Tulip!
+Dialogue: 0,0:02:59.95,0:03:02.41,Default,Glad-One,0,0,0,,Excellent use\Nof “bamboozled{\fsp-16.5},{\fsp}” Old Tulip!
 Dialogue: 0,0:03:02.41,0:03:03.62,Default,Tulip,0,0,0,,I’m not “Old Tulip!”
 Dialogue: 0,0:03:03.62,0:03:05.29,Default,Tulip,0,0,0,,“Former Tulip” it is.
 Dialogue: 0,0:03:05.29,0:03:08.00,Default,,0,0,0,,You can keep calling her Tulip,\Nbecause I’m not her,
