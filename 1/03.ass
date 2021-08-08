@@ -92,7 +92,7 @@ Dialogue: 0,0:03:34.19,0:03:36.49,Default,Tulip,0,0,0,,no more distracting, \Nbu
 Dialogue: 0,0:03:36.49,0:03:38.16,Default,Tulip,0,0,0,,It’s exit time.\NWhere is it?
 Dialogue: 0,0:03:38.16,0:03:39.57,Default,Atticus,0,0,0,,Across the great river
 Dialogue: 0,0:03:39.57,0:03:41.83,Default,Atticus,0,0,0,,and through the twisting\NWoods of Mystery,
-Dialogue: 0,0:03:41.83,0:03:44.50,Default,Atticus,0,0,0,,you shall find\Nthe unsolvable puzzle door.
+Dialogue: 0,0:03:41.83,0:03:44.50,Default,Atticus,0,0,0,,you shall find\Nthe Unsolvable Puzzle Door.
 Dialogue: 0,0:03:44.50,0:03:45.83,Default,Tulip,0,0,0,,Water, woods, door.
 Dialogue: 0,0:03:45.83,0:03:46.41,Default,Tulip,0,0,0,,Got it!
 Dialogue: 0,0:03:46.41,0:03:48.33,Default,Tulip,0,0,0,,Thanks, king dog. Bye!
@@ -152,7 +152,7 @@ Dialogue: 0,0:05:07.41,0:05:10.71,Default,Atticus,0,0,0,,Now it’s just the Dog
 Dialogue: 0,0:05:10.71,0:05:12.63,Default,Tulip,0,0,0,,Wait, a week ago?
 Dialogue: 0,0:05:12.63,0:05:14.84,Default,Tulip,0,0,0,,That’s how long it’s been\Nsince my number changed!
 Dialogue: 0,0:05:14.84,0:05:17.17,Default,Tulip,0,0,0,,Maybe that monster \Nis related to my number,
-Dialogue: 0,0:05:17.17,0:05:20.01,Default,Tulip,0,0,0,,and maybe if we stop it \Nand reach the exit door,
+Dialogue: 0,0:05:17.17,0:05:20.01,Default,Tulip,0,0,0,,a-and maybe if we stop it \Nand reach the exit door,
 Dialogue: 0,0:05:20.01,0:05:21.34,Default,Tulip,0,0,0,,he’ll help me get off the train.
 Dialogue: 0,0:05:21.34,0:05:22.97,Default,Sad-One,0,0,0,,That’s a lot of maybes.
 Dialogue: 0,0:05:22.97,0:05:25.43,Default,Glad-One,0,0,0,,Maybes are maybe\Nmy favorite maybe.
@@ -161,7 +161,7 @@ Dialogue: 0,0:05:26.26,0:05:27.93,Default,Tulip,0,0,0,,One-One, time us.
 Dialogue: 0,0:05:27.93,0:05:28.89,Default,Tulip,0,0,0,,We’re going in.
 Dialogue: 0,0:05:28.89,0:05:29.52,Default,Atticus,0,0,0,,Wait!
 Dialogue: 0,0:05:29.52,0:05:31.39,Default,Atticus,0,0,0,,You’ll need my help\Nif you intend to leave.
-Dialogue: 0,0:05:31.39,0:05:34.27,Default,Atticus,0,0,0,,The exit is blocked\Nby the un-solvable puzzle door,
+Dialogue: 0,0:05:31.39,0:05:34.27,Default,Atticus,0,0,0,,The exit is blocked\Nby the Unsolvable Puzzle Door,
 Dialogue: 0,0:05:34.27,0:05:36.36,Default,Atticus,0,0,0,,and it’s too dangerous\Nto rush in alone.
 Dialogue: 0,0:05:36.36,0:05:38.11,Default,Tulip,0,0,0,,Pfff. How dangerous can it be?
 Dialogue: 0,0:05:38.11,0:05:40.11,Default,Tulip,0,0,0,,I’ve faced a bunch \Nof weird stuff on this train.
@@ -228,7 +228,7 @@ Dialogue: 0,0:08:32.12,0:08:33.78,Default,Atticus,0,0,0,,It’s the real monster
 Dialogue: 0,0:08:44.34,0:08:47.21,Default,Tulip,0,0,0,,Those orbs must have something\Nto do with the environment.
 Dialogue: 0,0:08:47.21,0:08:48.55,Default,Atticus,0,0,0,,We should attack.
 Dialogue: 0,0:08:48.55,0:08:49.88,Default,Sad-One,0,0,0,,We’ll never make it.
-Dialogue: 0,0:08:49.88,0:08:52.39,Default,Tulip,0,0,0,,Maybe we can escape out\Nthe unsolvable puzzle door.
+Dialogue: 0,0:08:49.88,0:08:52.39,Default,Tulip,0,0,0,,Maybe we can escape out\Nthe Unsolvable Puzzle Door.
 Dialogue: 0,0:08:52.39,0:08:53.22,Default,Tulip,0,0,0,,How do I unlock it?
 Dialogue: 0,0:08:53.22,0:08:55.39,Default,Atticus,0,0,0,,First, you put your paw\Non the handle.
 Dialogue: 0,0:08:55.39,0:08:56.31,Default,Tulip,0,0,0,,Okay.

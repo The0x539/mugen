@@ -115,7 +115,7 @@ Dialogue: 0,0:03:02.58,0:03:03.96,Default,Tulip,0,0,0,,Conductor?!
 Dialogue: 0,0:03:04.33,0:03:05.54,Default,Tulip,0,0,0,,H-Hey!
 Dialogue: 0,0:03:07.75,0:03:09.38,Default,Tulip,0,0,0,,I’m supposed to be going to Oshkosh.
 Dialogue: 0,0:03:09.38,0:03:10.75,Default,Tulip,0,0,0,,It’s this place in Wisconsin.
-Dialogue: 0,0:03:10.75,0:03:13.21,Default,Tulip,0,0,0,,And, also, my name is Tulip; \NI... should’ve said that earlier.
+Dialogue: 0,0:03:10.75,0:03:13.21,Default,Tulip,0,0,0,,And also, my name is Tulip, \NI... should’ve said that earlier.
 Dialogue: 0,0:03:13.21,0:03:14.34,Default,Tulip,0,0,0,,But there’s a game design camp,
 Dialogue: 0,0:03:14.34,0:03:15.55,Default,Tulip,0,0,0,,and my parents\Nsigned a contract,
 Dialogue: 0,0:03:15.55,0:03:17.14,Default,Tulip,0,0,0,,and I ended up\Non this stupid train,
@@ -182,7 +182,7 @@ Dialogue: 0,0:05:11.71,0:05:15.09,Default,Glad-One,0,0,0,,Miss Tulip! We made so
 Comment: 0,0:05:15.09,0:05:15.84,Default,Tulip,0,0,0,,D’oh!
 Dialogue: 0,0:05:15.84,0:05:17.26,Default,The Cat,0,0,0,,Do you really need him,
 Dialogue: 0,0:05:17.26,0:05:19.34,Default,The Cat,0,0,0,,or do you want\Nto get off this train?
-Dialogue: 0,0:05:22.43,0:05:23.39,Default,Tulip,0,0,0,,Deal.
+Dialogue: 0,0:05:22.43,0:05:23.26,Default,Tulip,0,0,0,,Deal.
 Dialogue: 0,0:05:25.43,0:05:28.18,Default,The Cat,0,0,0,,What kind of your own boss\Ndo you want to be?
 Dialogue: 0,0:05:28.18,0:05:30.73,Default,Randall,0,0,0,,I don’t think I like that word. “Boss{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:05:30.73,0:05:32.94,Default,Randall,0,0,0,,I want to feel like \Nwe’re all on the same team.
@@ -208,7 +208,7 @@ Dialogue: 0,0:06:09.52,0:06:10.73,Default,Tulip,0,0,0,,That’s a daisy.
 Dialogue: 0,0:06:12.81,0:06:14.90,Default,Tulip,0,0,0,,I may not know\Nwhat anything does,
 Dialogue: 0,0:06:14.90,0:06:18.57,Default,Tulip,0,0,0,,but there is a gear thing here\Nthat isn’t in there.
 Dialogue: 0,0:06:18.57,0:06:20.32,Default,Tulip,0,0,0,,Do you know where we can get\Na replacement?
-Dialogue: 0,0:06:20.32,0:06:21.90,Default,Randall,0,0,0,,Oh, I know! I know!
+Dialogue: 0,0:06:20.32,0:06:21.90,Default,Randall,0,0,0,,Ooh, I know! I know!
 Dialogue: 0,0:06:32.96,0:06:35.37,Default,Randall,0,0,0,,Welcome to the Market!\NSoak up your troubles!
 Dialogue: 0,0:06:35.37,0:06:38.59,Default,Randall,0,0,0,,Metal squid attack got you down?\NShop your cares away!
 Dialogue: 0,0:06:38.59,0:06:40.46,Default,Randall,0,0,0,,Put a little wiggle\Nin your step!
@@ -269,7 +269,7 @@ Dialogue: 0,0:09:09.99,0:09:11.49,Default,Tulip,0,0,0,,Probably.
 Dialogue: 0,0:09:11.49,0:09:12.91,Default,Tulip,0,0,0,,I don’t know.
 Dialogue: 0,0:09:12.91,0:09:15.20,Default,Tulip,0,0,0,,I guess I don’t really know\Nanything about the Cat.
 Dialogue: 0,0:09:15.20,0:09:16.41,Default,Tulip,0,0,0,,I just...
-Dialogue: 0,0:09:16.41,0:09:19.12,Default,Tulip,0,0,0,,...wanted to get off the train.
+Dialogue: 0,0:09:16.41,0:09:19.12,Default,Tulip,0,0,0,,wanted to get off... the train.
 Dialogue: 0,0:09:20.21,0:09:21.37,Default,Tulip,0,0,0,,Listen up, Randalls.
 Dialogue: 0,0:09:21.37,0:09:22.75,Default,Tulip,0,0,0,,If you can get me\Nto the Cat,
 Dialogue: 0,0:09:22.75,0:09:24.21,Default,Tulip,0,0,0,,I’ll take your Donut-Holer thing.
