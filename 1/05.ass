@@ -167,10 +167,10 @@ Dialogue: 0,0:06:19.73,0:06:22.82,Default,Megan,0,0,0,Tape,{\an8}Okay, I’ll be
 Dialogue: 0,0:06:22.82,0:06:24.66,Default,Andy,0,0,0,Tape,{\an8\shad0\fad(0,500)}Look, it’s not like I’m just \Nsitting around watching TV...
 Dialogue: 0,0:06:24.16,0:06:26.03,Default,Tulip,0,0,0,,Why’d the static go down?
 Dialogue: 0,0:06:28.37,0:06:29.87,Default,Tulip,0,0,0,,Hmm?
-Dialogue: 0,0:06:32.62,0:06:34.67,Default,Atticus,0,0,320,TV,{\fs-2\bord3\shad1}Ah-ha! Doughnut-Holer!
+Dialogue: 0,0:06:32.62,0:06:34.67,Default,Atticus,0,0,320,TV,{\fs-2\bord3\shad1}Ah-ha! Donut-Holer!
 Dialogue: 0,0:06:34.67,0:06:36.00,Default,Tulip,0,0,0,,They shouldn’t be here.
-Dialogue: 0,0:06:36.42,0:06:38.96,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1}Harry the Bike Guy!
-Dialogue: 0,0:06:38.96,0:06:41.17,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1}He’s woke for the spokes!
+Dialogue: 0,0:06:36.42,0:06:38.96,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1\i1}Harry the Bike Guy!
+Dialogue: 0,0:06:38.96,0:06:41.17,Default,Owen,0,0,310,TV,{\fs-2\bord3\shad1\i1}He’s woke for the spokes!
 Dialogue: 0,0:06:41.17,0:06:42.26,Default,Harry,0,0,310,TV,{\fs-2\bord3\shad1}It isn’t a sham, I am.
 Dialogue: 0,0:06:41.17,0:06:43.55,Default,Tulip,0,0,0,,It isn’t a sham, I am.
 Dialogue: 0,0:06:44.43,0:06:45.80,Default,Tulip,0,0,0,,Dad was there.
