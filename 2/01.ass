@@ -41,7 +41,7 @@ Dialogue: 0,0:01:41.16,0:01:44.67,Default,Glad-One,0,0,0,,And this is a train \N
 Dialogue: 0,0:01:44.67,0:01:47.05,Default,Glad-One,0,0,0,,How about that number\Non your hand, huh?
 Dialogue: 0,0:01:47.05,0:01:48.71,Default,Glad-One,0,0,0,,Pretty cool and green.
 Dialogue: 0,0:01:48.71,0:01:51.09,Default,Sad-One,0,0,0,,Every passenger has one.
-Dialogue: 0,0:01:51.09,0:01:53.68,Default,Glad-One,0,0,0,,The numbers are made\Nby the train based on your life
+Dialogue: 0,0:01:51.09,0:01:53.68,Default,Glad-One,0,0,0,,The numbers are made\Nby the train based on your life,
 Dialogue: 0,0:01:53.68,0:01:57.51,Default,Glad-One,0,0,0,,in order to help you have \Nthe most personalized experience we can offer.
 Dialogue: 0,0:01:57.51,0:02:00.22,Default,Glad-One,0,0,0,,If you want to go home,\Nget your number down to zero,
 Dialogue: 0,0:02:00.22,0:02:02.06,Default,Glad-One,0,0,0,,and poof, away you go.
@@ -56,7 +56,9 @@ Dialogue: 0,0:02:21.37,0:02:22.21,Default,Glad-One,0,0,0,,Companionscape.
 Dialogue: 0,0:02:22.21,0:02:25.12,Default,Sad-One,0,0,0,,{\q2\an1\move(1920,1020,-260,1020}By watching this recording, you've agreed to release the train of any liabilities—
 Dialogue: 0,0:02:30.51,0:02:31.55,Default,Seedy Merchant,0,0,0,,Hey, shiny girl.\NDon't be stuck up.
 Dialogue: 0,0:02:31.55,0:02:33.88,Default,Tape Merchant,0,0,0,,Fresh batch of passenger memory tapes!
-Dialogue: 0,0:02:33.88,0:02:37.93,Default,Tape Merchant,0,0,0,,Two for one. Today only. Real sad!
+Dialogue: 0,0:02:33.88,0:02:35.01,Default,Tape Merchant,0,0,0,,Two for one.
+Dialogue: 0,0:02:35.01,0:02:36.18,Default,Tape Merchant,0,0,0,,Today only.
+Dialogue: 0,0:02:36.18,0:02:37.93,Default,Tape Merchant,0,0,0,,Real sad!
 Dialogue: 0,0:02:37.93,0:02:39.47,Default,Tape Merchant,0,0,0,,Hey, sweetie.
 Dialogue: 0,0:02:39.47,0:02:40.93,Default,Tape Merchant,0,0,0,,You're shiny.
 Dialogue: 0,0:02:40.93,0:02:42.39,Default,Tape Merchant,0,0,0,,Lemme take a closer look.
@@ -67,8 +69,8 @@ Dialogue: 0,0:02:55.66,0:02:56.61,Default,Mace,0,0,0,,Gotcha.
 Dialogue: 0,0:03:02.62,0:03:03.25,Default,Sieve,0,0,0,,Huh?
 Dialogue: 0,0:03:06.75,0:03:07.17,Default,,0,0,0,,Huh?
 Comment: 0,0:03:15.72,0:03:17.80,Default,Slug,0,0,0,,Huh? Huh? Huh? What?
-Dialogue: 0,0:03:23.93,0:03:25.23,Default,Slug,0,0,0,,Right there?
-Dialogue: 0,0:03:30.48,0:03:32.36,Default,Sieve,0,0,0,,Dead end, sliver!
+Dialogue: 0,0:03:23.93,0:03:24.85,Default,Slug,0,0,0,,Right there?
+Dialogue: 0,0:03:30.48,0:03:31.86,Default,Sieve,0,0,0,,Dead end, sliver!
 Dialogue: 0,0:03:33.07,0:03:33.82,Default,Sieve,0,0,0,,Huh?
 Dialogue: 0,0:03:37.78,0:03:39.37,Default,Mace,0,0,0,,Maneuver 406.
 Dialogue: 0,0:03:39.37,0:03:40.53,Default,Sieve,0,0,0,,Got it, buddy!
@@ -78,7 +80,7 @@ Dialogue: 0,0:03:50.92,0:03:53.09,Default,Mace,0,0,0,,Not until you're ground in
 Dialogue: 0,0:03:55.59,0:03:56.51,Default,Slug,0,0,0,,Hey, watch it!
 Dialogue: 0,0:03:56.51,0:03:57.47,Default,Sieve,0,0,0,,Oop. Sorry!
 Dialogue: 0,0:04:29.04,0:04:31.71,Default,Mace,0,0,0,,We can't lose her, not again!
-Dialogue: 0,0:04:35.96,0:04:36.76,Default,,0,0,0,,Hm?
+Comment: 0,0:04:35.96,0:04:36.76,Default,,0,0,0,,Huh?
 Dialogue: 0,0:04:43.60,0:04:44.39,Default,,0,0,0,,Huh?
 Dialogue: 0,0:04:47.02,0:04:49.02,Default,,0,0,0,,Why did I hide behind the deer?!
 Dialogue: 0,0:04:49.02,0:04:49.77,Default,,0,0,0,,Huh?
@@ -95,11 +97,11 @@ Dialogue: 0,0:05:09.91,0:05:13.50,Default,Mace,0,0,0,,Slivers are weak,\Nthink t
 Dialogue: 0,0:05:13.50,0:05:15.00,Default,Mace,0,0,0,,She made her choice.
 Dialogue: 0,0:05:15.00,0:05:16.75,Default,Mace,0,0,0,,But they all get tired,
 Dialogue: 0,0:05:16.75,0:05:19.01,Default,Mace,0,0,0,,and they let their guard down...
-Dialogue: 0,0:05:19.01,0:05:21.34,Default,Mace,0,0,0,,Think they're safe.
+Dialogue: 0,0:05:19.01,0:05:20.55,Default,Mace,0,0,0,,Think they're safe.
 Dialogue: 0,0:05:21.72,0:05:23.59,Default,Mace,0,0,0,,They're {\i1}never{\i0} safe.
 Dialogue: 0,0:05:25.01,0:05:27.85,Default,Sieve,0,0,0,,Well I guess we should get on\Nthrough this car, and—
 Dialogue: 0,0:05:27.85,0:05:30.43,Default,Mace,0,0,0,,Nope. Your suit is compromised.
-Dialogue: 0,0:05:30.43,0:05:32.06,Default,Sieve,0,0,0,,Whoops, oh, yeah.
+Dialogue: 0,0:05:30.43,0:05:32.06,Default,Sieve,0,0,0,,Whoops. Oh, yeah.
 Dialogue: 0,0:05:32.06,0:05:33.23,Default,Sieve,0,0,0,,Thanks, buddy.
 Dialogue: 0,0:05:33.23,0:05:36.27,Default,Sieve,0,0,0,,If this tear gets too big,\NI'm a goner.
 Dialogue: 0,0:05:36.27,0:05:37.69,Default,Mace,0,0,0,,I'm fully aware.
@@ -167,10 +169,10 @@ Dialogue: 0,0:08:59.69,0:09:02.81,Default,,0,0,0,,because I hung out \Nwith him 
 Dialogue: 0,0:09:02.81,0:09:03.98,Default,Jesse,0,0,0,,Are you sure?
 Dialogue: 0,0:09:03.98,0:09:05.15,Default,Jesse,0,0,0,,I got all these pics with him.
 Dialogue: 0,0:09:08.28,0:09:10.07,Default,,0,0,0,,Pfff! That could be any deer.
-Dialogue: 0,0:09:10.07,0:09:11.91,Default,,0,0,0,,This deer can change color.
+Dialogue: 0,0:09:10.07,0:09:11.91,Default,,0,0,0,,{\i1}This{\i0} deer can change color.
 Dialogue: 0,0:09:11.91,0:09:13.78,Default,Jesse,0,0,0,,Oh, well, this guy\Ndoesn't change colors.
 Dialogue: 0,0:09:13.78,0:09:15.41,Default,Jesse,0,0,0,,He's got laser eyes.
-Dialogue: 0,0:09:15.41,0:09:17.62,Default,Jesse,0,0,0,,Bzzt! Bzzt!
+Dialogue: 0,0:09:15.41,0:09:16.87,Default,Jesse,0,0,0,,Bzzt! Bzzt!
 Dialogue: 0,0:09:17.62,0:09:19.66,Default,,0,0,0,,Seriously? Laser eyes?
 Dialogue: 0,0:09:19.66,0:09:21.75,Default,Jesse,0,0,0,,Yeah. Well, laser vision.
 Dialogue: 0,0:09:21.75,0:09:23.21,Default,Jesse,0,0,0,,Heat vision. What do... \NWhat do you call it?
@@ -195,7 +197,8 @@ Dialogue: 0,0:10:07.13,0:10:09.17,Default,,0,0,0,,You {\i1}cannot{\i0} name a de
 Dialogue: 0,0:10:09.17,0:10:10.51,Default,Jesse,0,0,0,,Let's ask the deer.
 Dialogue: 0,0:10:10.51,0:10:12.80,Default,Jesse,0,0,0,,Hey, deer. What do {\i1}you{\i0}\Nwant to be called?
 Dialogue: 0,0:10:14.72,0:10:17.14,Default,Jesse,0,0,0,,Dracula.
-Dialogue: 0,0:10:17.81,0:10:19.39,Default,Jesse,0,0,0,,See? Dracula.
+Dialogue: 0,0:10:17.81,0:10:18.85,Default,Jesse,0,0,0,,See?
+Dialogue: 0,0:10:18.85,0:10:19.39,Default,Jesse,0,0,0,,Dracula.
 Dialogue: 0,0:10:19.39,0:10:20.31,Default,,0,0,0,,No.
 Dialogue: 0,0:10:20.31,0:10:22.39,Default,Jesse,0,0,0,,Hmm, yeah.\NI guess you're right.
 Dialogue: 0,0:10:22.39,0:10:24.94,Default,Jesse,0,0,0,,Maybe we should go with something \Neveryone would be into.
