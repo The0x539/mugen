@@ -57,7 +57,7 @@ Dialogue: 0,0:01:47.00,0:01:48.88,Default,The Cat,0,0,0,,my humble abode.
 Dialogue: 0,0:01:48.88,0:01:51.42,Default,Glad-One,0,0,0,,Nice place, but your mom’s a little quiet.
 Dialogue: 0,0:01:51.42,0:01:52.51,Default,The Cat,0,0,0,,Don’t touch that!
 Dialogue: 0,0:01:52.97,0:01:54.01,Default,The Cat,0,0,0,,I apologize.
-Dialogue: 0,0:01:54.01,0:01:57.18,Default,The Cat,0,0,0,,Everything here is \Nextremely important to me.
+Dialogue: 0,0:01:54.01,0:01:57.18,Default,The Cat,0,0,0,,Everything here is \N{\i1}extremely{\i0} important to me.
 Dialogue: 0,0:01:57.18,0:01:59.10,Default,Tulip,0,0,0,,Yeah, well, it’s really dusty\Nand boring to me,
 Dialogue: 0,0:01:59.10,0:01:59.93,Default,Tulip,0,0,0,,so we’re leaving.
 Dialogue: 0,0:01:59.93,0:02:01.98,Default,Glad-One,0,0,0,,Goodbye, former kidnapper!
