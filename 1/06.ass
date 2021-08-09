@@ -122,9 +122,9 @@ Dialogue: 0,0:04:15.94,0:04:18.78,Default,Atticus,0,0,0,,Why? I just want to kno
 Dialogue: 0,0:04:18.78,0:04:20.03,Default,Tulip,0,0,0,,No! Stop it!
 Comment: 0,0:04:20.03,0:04:22.53,Default,Atticus,0,0,0,,Hmm? Hmm?
 Dialogue: 0,0:04:22.53,0:04:24.08,Default,Tulip,0,0,0,,Ugh! Fine!
-Dialogue: 0,0:04:24.08,0:04:27.54,Default,Tulip,0,0,0,,We know where the door is, \Nso I guess it wouldn’t hurt to stay for a little while.
+Dialogue: 0,0:04:24.08,0:04:27.54,Default,Tulip,0,0,0,,We know where the door is, \Nso I guess it wouldn’t hurt to stay for a {\i1}little{\i0} while.
 Dialogue: 0,0:04:27.54,0:04:28.75,Default,Atticus,0,0,0,,Fantastic!
-Dialogue: 0,0:04:29.54,0:04:32.50,Default,Atticus,0,0,0,,Now, my friend,\Nthe charter of walkies dictates
+Dialogue: 0,0:04:29.54,0:04:32.50,Default,Atticus,0,0,0,,{\an8}Now, my friend,\Nthe charter of walkies dictates
 Dialogue: 0,0:04:32.50,0:04:35.67,Default,Atticus,0,0,0,,{\an8}that no citizen can be denied a stroll...
 Dialogue: 0,0:04:32.50,0:04:34.75,Default,Tulip,0,0,0,,Meet back here\Nin one hour!
 Dialogue: 0,0:04:36.26,0:04:38.42,Default,Tulip,0,0,0,,Hey, buddy.
