@@ -43,7 +43,7 @@ Comment: 0,0:00:51.78,0:00:53.62,Default,Jesse,0,0,0,,Ahh!
 Dialogue: 0,0:00:54.53,0:00:56.37,Default,Jesse,0,0,0,,Oh. Hello.
 Comment: 0,0:00:57.79,0:00:58.58,Default,Marcel,0,0,0,,Bleh.
 Dialogue: 0,0:01:05.09,0:01:07.17,Default,Marcel,0,0,0,,There you go!
-Dialogue: 0,0:01:07.17,0:01:08.42,Default,Marcel,0,0,0,,Marcel's gonna\Nhook you up.
+Dialogue: 0,0:01:07.17,0:01:08.42,Default,Marcel,0,0,0,,Marcel's gonna hook you up.
 Dialogue: 0,0:01:09.38,0:01:11.38,Default,Jesse,0,0,0,,And you... are Marcel?
 Dialogue: 0,0:01:11.38,0:01:12.76,Default,Marcel,0,0,0,,Oh, yes.
 Dialogue: 0,0:01:12.76,0:01:14.05,Default,Marcel,0,0,0,,Check it out!
@@ -51,7 +51,7 @@ Dialogue: 0,0:01:18.22,0:01:19.14,Default,Marcel,0,0,0,,That's me.
 Dialogue: 0,0:01:19.14,0:01:21.64,Default,MT,0,0,0,,Hey! Are you learning lessons?
 Dialogue: 0,0:01:21.64,0:01:23.94,Default,Jesse,0,0,0,,I learned his name is Marcel.
 Dialogue: 0,0:01:23.94,0:01:24.73,Default,Jesse,0,0,0,,Does that count?
-Dialogue: 0,0:01:24.73,0:01:26.94,Default,MT,0,0,0,,Did your number go down?
+Dialogue: 0,0:01:24.73,0:01:26.44,Default,MT,0,0,0,,Did your number go down?
 Dialogue: 0,0:01:26.94,0:01:27.65,Default,Jesse,0,0,0,,No.
 Dialogue: 0,0:01:27.65,0:01:29.49,Default,MT,0,0,0,,Then it doesn't count! \NKeep learning!
 Dialogue: 0,0:01:29.74,0:01:31.78,Default,Marcel,0,0,0,,Well, there's... there's a lot to learn here.
@@ -59,7 +59,7 @@ Dialogue: 0,0:01:31.78,0:01:32.91,Default,Marcel,0,0,0,,We just started.
 Dialogue: 0,0:01:32.91,0:01:35.66,Default,Marcel,0,0,0,,I haven't had an explorer in ages.
 Dialogue: 0,0:01:35.66,0:01:38.91,Default,Marcel,0,0,0,,As you can see, there's \Na lot of unmapped territory.
 Dialogue: 0,0:01:38.91,0:01:41.00,Default,Marcel,0,0,0,,And, uh, that map I gave you?
-Dialogue: 0,0:01:41.00,0:01:42.67,Default,Jesse,0,0,0,,The one you spit\Nfrom your mouth?
+Dialogue: 0,0:01:41.00,0:01:42.67,Default,Jesse,0,0,0,,The one you spit from your mouth?
 Dialogue: 0,0:01:42.67,0:01:44.75,Default,Marcel,0,0,0,,Yeah, that's the one!
 Dialogue: 0,0:01:44.75,0:01:46.71,Default,Marcel,0,0,0,,It's been torn to bits.
 Dialogue: 0,0:01:46.71,0:01:48.42,Default,Marcel,0,0,0,,But if you find the pieces,
@@ -71,7 +71,7 @@ Dialogue: 0,0:01:51.80,0:01:52.88,Default,Marcel,0,0,0,,{\alphaFF}us!{\r}everyth
 Dialogue: 0,0:01:52.88,0:01:54.89,Default,Marcel,0,0,0,,So, this is great, huh?
 Dialogue: 0,0:01:54.89,0:01:56.80,Default,Jesse,0,0,0,,Yeah, it's... pretty good.
 Dialogue: 0,0:01:56.80,0:01:59.35,Default,MT,0,0,0,,So, are you just gonna\Nkeep him now, or what?
-Dialogue: 0,0:01:59.68,0:02:01.77,Default,MT,0,0,0,,Because I kind of just want to \Nhang out with his deer.
+Dialogue: 0,0:01:59.68,0:02:01.77,Default,MT,0,0,0,,Because I kinda just want to \Nhang out with his deer.
 Dialogue: 0,0:02:01.77,0:02:03.44,Default,Marcel,0,0,0,,Oh. I'm sorry!
 Dialogue: 0,0:02:03.44,0:02:04.40,Default,Marcel,0,0,0,,Here you go!
 Dialogue: 0,0:02:06.36,0:02:08.15,Default,MT,0,0,0,,All right.\NLet's see this thing.
@@ -81,8 +81,8 @@ Dialogue: 0,0:02:12.57,0:02:15.99,Default,Marcel,0,0,0,,I'm so sorry, but there 
 Dialogue: 0,0:02:15.99,0:02:18.16,Default,Marcel,0,0,0,,I... I don't make the rules.
 Dialogue: 0,0:02:18.16,0:02:20.12,Default,Marcel,0,0,0,,You can tag along\Nif you'd like.
 Dialogue: 0,0:02:20.12,0:02:21.25,Default,Marcel,0,0,0,,It's pretty fun!
-Dialogue: 0,0:02:21.58,0:02:22.46,Default,MT,0,0,0,,Whatever.
-Dialogue: 0,0:02:22.46,0:02:24.92,Default,MT,0,0,0,,Maybe you need to carry more stuff \Nto get your number down?
+Dialogue: 0,0:02:21.25,0:02:22.46,Default,MT,0,0,0,,Whatever.
+Dialogue: 0,0:02:22.46,0:02:24.92,Default,MT,0,0,0,,Maybe you need to carry more stuff \Nto get your number down.
 Dialogue: 0,0:02:24.92,0:02:26.08,Default,Jesse,0,0,0,,Yeah, maybe.
 Dialogue: 0,0:02:26.58,0:02:27.88,Default,MT,0,0,0,,Just show me the map.
 Dialogue: 0,0:02:31.26,0:02:32.55,Default,MT,0,0,0,,Hmm.
@@ -93,7 +93,7 @@ Dialogue: 0,0:02:42.35,0:02:45.27,Default,MT,0,0,0,,Pfff. Like following a line 
 Dialogue: 0,0:02:45.94,0:02:47.40,Default,MT,0,0,0,,How about those?
 Dialogue: 0,0:02:47.65,0:02:49.19,Default,Jesse,0,0,0,,You want me to walk\Non the mountains?
 Dialogue: 0,0:02:49.19,0:02:50.11,Default,MT,0,0,0,,Definitely.
-Dialogue: 0,0:02:50.11,0:02:53.15,Default,MT,0,0,0,,You'll get some balance in,\Novercome some hardships.
+Dialogue: 0,0:02:50.11,0:02:53.15,Default,MT,0,0,0,,You'll get some balance in,\Novercome some hardships...
 Dialogue: 0,0:02:53.15,0:02:54.82,Default,MT,0,0,0,,Can't get that on a dotted line!
 Dialogue: 0,0:03:04.79,0:03:08.42,Default,MT,0,0,0,,So, uh, Marcel, are you just gonna\Nwatch us the whole time?
 Dialogue: 0,0:03:08.42,0:03:10.25,Default,Marcel,0,0,0,,Yep. Pretty much.
@@ -144,11 +144,11 @@ Dialogue: 0,0:05:02.87,0:05:03.87,Default,MT,0,0,0,,Ahh, water!
 Dialogue: 0,0:05:03.87,0:05:04.91,Default,Marcel,0,0,0,,Are you okay?
 Dialogue: 0,0:05:07.83,0:05:09.96,Default,MT,0,0,0,,Non-reflective.
 Dialogue: 0,0:05:09.96,0:05:11.46,Default,MT,0,0,0,,Paper water.
-Dialogue: 0,0:05:12.04,0:05:15.04,Default,MT,0,0,0,,Yeah. I was just surprised\Nthat it wasn't real water,
-Dialogue: 0,0:05:15.04,0:05:19.01,Default,MT,0,0,0,,and it's not reflective, or wet,\Nor shiny, or something.
+Dialogue: 0,0:05:12.04,0:05:15.04,Default,MT,0,0,0,,Yeah. I was just, uh, surprised\Nthat it wasn't real water,
+Dialogue: 0,0:05:15.04,0:05:19.01,Default,MT,0,0,0,,and it's not reflective, or wet,\Nor shiny, or... something.
 Dialogue: 0,0:05:19.01,0:05:21.22,Default,MT,0,0,0,,That's... weird, right?
 Dialogue: 0,0:05:21.22,0:05:22.51,Default,MT,0,0,0,,That's surprising!
-Dialogue: 0,0:05:22.51,0:05:23.01,Default,MT,0,0,0,,That's—
+Dialogue: 0,0:05:22.51,0:05:23.01,Default,MT,0,0,0,,That's...
 Dialogue: 0,0:05:23.01,0:05:25.01,Default,MT,0,0,0,,Well, off to the mermaids.
 Dialogue: 0,0:05:31.35,0:05:33.90,Default,MT,0,0,0,,So, anyway.
 Dialogue: 0,0:05:33.90,0:05:34.98,Default,MT,0,0,0,,I'm metal.
@@ -182,17 +182,15 @@ Dialogue: 0,0:06:38.71,0:06:41.26,Default,MT,0,0,0,,And they tell you to flail w
 Dialogue: 0,0:06:41.26,0:06:42.59,Default,Jesse,0,0,0,,Excuse me.
 Dialogue: 0,0:06:42.59,0:06:44.18,Default,Jesse,0,0,0,,It's called the butterfly—
 Dialogue: 0,0:06:44.18,0:06:46.39,Default,Jesse,0,0,0,,which I happen to be\Nqualified in for State.
-Dialogue: 0,0:06:46.39,0:06:49.14,Default,MT,0,0,0,,You picked the biggest,\Nstupidest-looking stroke
-Dialogue: 0,0:06:49.14,0:06:50.10,Default,MT,0,0,0,,to be your favorite?
+Dialogue: 0,0:06:46.39,0:06:50.10,Default,MT,0,0,0,,You picked the biggest, \Nstupidest-looking stroke to be your favorite?
 Dialogue: 0,0:06:50.10,0:06:51.72,Default,Jesse,0,0,0,,I wouldn't say favorite.
-Dialogue: 0,0:06:51.72,0:06:53.89,Default,Jesse,0,0,0,,When I started, we only \Nhad one senior on the team
-Dialogue: 0,0:06:53.89,0:06:55.10,Default,Jesse,0,0,0,,who swam the butterfly,
+Dialogue: 0,0:06:51.72,0:06:55.10,Default,Jesse,0,0,0,,When I started, we only had one senior \Non the team who swam the butterfly,
 Dialogue: 0,0:06:55.10,0:06:58.69,Default,Jesse,0,0,0,,and I was the only new guy\Nwho could kinda do it.
 Dialogue: 0,0:06:58.69,0:07:00.86,Default,Jesse,0,0,0,,The team obviously \Nagreed I had to do it,
 Dialogue: 0,0:07:00.86,0:07:01.78,Default,Jesse,0,0,0,,so I did.
 Dialogue: 0,0:07:01.78,0:07:05.53,Default,MT,0,0,0,,So, {\i1}they{\i0} all agreed\Nthat {\i1}you{\i0} should go to State
 Dialogue: 0,0:07:05.53,0:07:07.70,Default,MT,0,0,0,,for something you don't like?
-Dialogue: 0,0:07:07.70,0:07:10.20,Default,Jesse,0,0,0,,Well, I didn't actually go to State.
+Dialogue: 0,0:07:07.70,0:07:10.20,Default,Jesse,0,0,0,,W-Well, I didn't actually go to State.
 Dialogue: 0,0:07:10.20,0:07:11.41,Default,Jesse,0,0,0,,Too many people qualified,
 Dialogue: 0,0:07:11.41,0:07:13.12,Default,Jesse,0,0,0,,so they needed someone to stay behind.
 Dialogue: 0,0:07:13.12,0:07:15.25,Default,Jesse,0,0,0,,I really, really wanted to go,
@@ -244,8 +242,9 @@ Dialogue: 0,0:09:00.39,0:09:01.44,Default,Marcel,0,0,0,,It's a{the} system.
 Dialogue: 0,0:09:01.44,0:09:02.56,Default,Marcel,0,0,0,,It's great.
 Dialogue: 0,0:09:02.56,0:09:03.94,Default,Marcel,0,0,0,,Let it be great!
 Dialogue: 0,0:09:07.07,0:09:08.36,Default,Jesse,0,0,0,,What do we do, MT?
-Dialogue: 0,0:09:08.36,0:09:10.32,Default,MT,0,0,0,,I...
-Dialogue: 0,0:09:10.32,0:09:11.36,Default,MT,0,0,0,,I don't know.
+Comment: 0,0:09:08.36,0:09:09.24,Default,MT,0,0,0,,I—
+Comment: 0,0:09:09.24,0:09:10.32,Default,MT,0,0,0,,I...
+Dialogue: 0,0:09:08.36,0:09:11.36,Default,MT,0,0,0,,I... I-I-I don't know!
 Dialogue: 0,0:09:11.36,0:09:13.37,Default,MT,0,0,0,,If I jump in the water, I'll sink.
 Dialogue: 0,0:09:13.37,0:09:16.24,Default,Jesse,0,0,0,,Okay. MT doesn't have any ideas.
 Dialogue: 0,0:09:16.24,0:09:17.37,Default,Jesse,0,0,0,,What can I do?
