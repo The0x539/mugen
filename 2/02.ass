@@ -60,12 +60,32 @@ Dialogue: 0,0:01:36.41,0:01:37.91,Default,Jesse,0,0,0,,Hey, how come\Nthey get t
 Dialogue: 0,0:01:37.91,0:01:39.50,Default,MT,0,0,0,,Have you seen a deer\Nfalling through here?
 Dialogue: 0,0:01:39.79,0:01:41.75,Default,Wilbur Gillicutty,0,0,0,,Hmm, can't say\Nthat I have,
 Dialogue: 0,0:01:41.75,0:01:44.25,Default,Wilbur Gillicutty,0,0,0,,but it's a right pleasure\Nto meet you two.
-Dialogue: 0,0:01:44.25,0:01:48.25,Default,Wilbur Gillicutty,0,0,0,,I'm Great-Great-Great-Great-\NGreat-Great-Great-Grandpa
-Dialogue: 0,0:01:48.25,0:01:49.63,Default,Wilbur Gillicutty,0,0,0,,Wilbur Gillicutty.
-Dialogue: 0,0:01:49.63,0:01:52.26,Default,Wilbur Gillicutty,0,0,0,,And this here is\NGreat-Great-Great-Great-
-Dialogue: 0,0:01:53.05,0:01:54.30,Default,Wilbur Gillicutty,0,0,0,,Great-Great-Great
-Dialogue: 0,0:01:54.30,0:01:56.22,Default,Wilbur Gillicutty,0,0,0,,Grandma\NSinesta Gillicutty.
-Dialogue: 0,0:01:56.22,0:01:59.85,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.G.G.G.G.S. for short.
+Dialogue: 0,0:01:44.25,0:01:45.21,Default,Wilbur Gillicutty,1,1,0,,I'm Great-
+Dialogue: 0,0:01:45.21,0:01:45.63,Default,Wilbur Gillicutty,1,1,0,,I'm Great-Great-
+Dialogue: 0,0:01:45.63,0:01:46.04,Default,Wilbur Gillicutty,1,1,0,,I'm Great-Great-Great-
+Dialogue: 0,0:01:46.04,0:01:46.50,Default,Wilbur Gillicutty,1,1,0,,I'm Great-Great-Great-Great-
+Dialogue: 0,0:01:46.50,0:01:46.88,Default,Wilbur Gillicutty,1,1,0,,I'm Great-Great-Great-Great-Great-
+Dialogue: 0,0:01:46.88,0:01:47.34,Default,Wilbur Gillicutty,1,1,0,,I'm Great-Great-Great-Great-Great-Great-
+Dialogue: 0,0:01:47.34,0:01:47.71,Default,Wilbur Gillicutty,1,1,0,,I'm Great-Great-Great-Great-Great-Great-Great-
+Dialogue: 0,0:01:47.71,0:01:49.63,Default,Wilbur Gillicutty,0,0,0,,Grandpa Wilbur Gillicutty.
+Dialogue: 0,0:01:49.63,0:01:50.63,Default,Wilbur Gillicutty,1,1,0,,And this here's
+Dialogue: 0,0:01:50.63,0:01:51.05,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-
+Dialogue: 0,0:01:51.05,0:01:51.47,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-
+Dialogue: 0,0:01:51.47,0:01:51.84,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-Great-
+Dialogue: 0,0:01:51.84,0:01:52.26,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-Great-Great-
+Dialogue: 0,0:01:52.26,0:01:53.05,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-Great-Great-{\alphaFF\fscx0\t(0,700,0.5,\fscx100)}Great-Great-Great-
+Dialogue: 0,0:01:53.05,0:01:53.51,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-Great-Great-Great-{\alphaFF}Great-Great-
+Dialogue: 0,0:01:53.51,0:01:53.93,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-Great-Great-Great-Great-{\alphaFF}Great-
+Dialogue: 0,0:01:53.93,0:01:54.30,Default,Wilbur Gillicutty,1,1,0,,And this here's Great-Great-Great-Great-Great-Great-Great-
+Dialogue: 0,0:01:54.30,0:01:56.22,Default,Wilbur Gillicutty,0,0,0,,Grandma Sinesta Gillicutty.
+Dialogue: 0,0:01:56.22,0:01:57.51,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.S. for short.
+Dialogue: 0,0:01:57.51,0:01:57.68,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.S. for short.
+Dialogue: 0,0:01:57.68,0:01:57.85,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.S. for short.
+Dialogue: 0,0:01:57.85,0:01:58.01,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.G.S. for short.
+Dialogue: 0,0:01:58.01,0:01:58.18,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.G.G.S. for short.
+Dialogue: 0,0:01:58.18,0:01:58.35,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.G.G.G.S. for short.
+Dialogue: 0,0:01:58.35,0:01:58.51,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.G.G.G.G.S. for short.
+Dialogue: 0,0:01:58.51,0:01:59.85,Default,Sinesta Gillicutty,0,0,0,,You can call me\NG.G.G.G.G.G.G.G.S. for short.
 Dialogue: 0,0:01:59.85,0:02:05.31,Default,Wilbur Gillicutty,0,0,0,,And you kids are standing on the\Nmighty Gillicutty family tree.
 Dialogue: 0,0:02:05.31,0:02:08.52,Default,Ithmus Trundleshank,0,0,0,,This ain't no stinking\NGillicutty family tree!
 Dialogue: 0,0:02:08.78,0:02:11.53,Default,Ithmus Trundleshank,0,0,0,,This is the Trundleshank family tree.
@@ -110,7 +130,7 @@ Dialogue: 0,0:03:35.82,0:03:37.82,Default,Jesse,0,0,0,,Except to you,\NI guess.
 Dialogue: 0,0:03:39.82,0:03:41.12,Default,Jesse,0,0,0,,Why are you\Nso mad at me?
 Dialogue: 0,0:03:42.41,0:03:44.54,Default,MT,0,0,0,,Look, it has nothing\Nto do with you.
 Dialogue: 0,0:03:44.54,0:03:45.91,Default,MT,0,0,0,,It's just...
-Dialogue: 0,0:03:47.71,0:03:49.79,Default,MT,0,0,0,,Okay, so... 
+Dialogue: 0,0:03:47.71,0:03:49.79,Default,MT,0,0,0,,Okay, so...
 Dialogue: 0,0:03:49.79,0:03:52.59,Default,MT,0,0,0,,I used to have this friend\Nnamed Tulip,
 Dialogue: 0,0:03:52.59,0:03:54.76,Default,MT,0,0,0,,and we did everything together,
 Dialogue: 0,0:03:54.76,0:03:57.22,Default,MT,0,0,0,,but as we grew up,
@@ -165,7 +185,7 @@ Dialogue: 0,0:05:42.41,0:05:42.78,Default,MT,0,0,0,,You?
 Dialogue: 0,0:05:43.11,0:05:43.95,Default,Marietta Gillicutty,0,0,0,,Mnh-mnh.
 Dialogue: 0,0:05:43.95,0:05:46.37,Default,MT,0,0,0,,Ugh, didn't think so.\NSee you later.
 Dialogue: 0,0:05:46.37,0:05:49.79,Default,MT,0,0,0,,Sorry you both died\Nin such embarrassing ways.
-Dialogue: 0,0:05:52.37,0:05:53.54,Default,Jesse,0,0,0,,Hmm. 
+Dialogue: 0,0:05:52.37,0:05:53.54,Default,Jesse,0,0,0,,Hmm.
 Dialogue: 0,0:05:53.54,0:05:55.84,Default,Jesse,0,0,0,,So, Mr. and Mrs. Trundleshank are mad
 Dialogue: 0,0:05:55.84,0:05:57.25,Default,Jesse,0,0,0,,'cause you Gillicutty\Nquadruplets
 Dialogue: 0,0:05:57.25,0:05:59.05,Default,Jesse,0,0,0,,broke their milk bottles\Nevery morning.
@@ -240,9 +260,9 @@ Dialogue: 0,0:08:26.99,0:08:28.53,Default,Jesse,0,0,0,,Hey.\NIt's doing its best
 Dialogue: 0,0:08:29.61,0:08:32.07,Default,Marietta Gillicutty,0,0,0,,Just kidding.\NYou're a beautiful tree.
 Dialogue: 0,0:08:32.99,0:08:34.54,Default,Marietta Gillicutty,0,0,0,,That's what's happening.
 Dialogue: 0,0:08:34.54,0:08:36.54,Default,Marietta Gillicutty,0,0,0,,Fighting makes\Nthe branches grow.
-Dialogue: 0,0:08:37.50,0:08:39.37,Default,Marietta Gillicutty,0,0,0,,Pray, good sir, 
+Dialogue: 0,0:08:37.50,0:08:39.37,Default,Marietta Gillicutty,0,0,0,,Pray, good sir,
 Dialogue: 0,0:08:39.37,0:08:43.46,Default,Marietta Gillicutty,0,0,0,,wouldst thou care to follow me down \Nto the bottom of this noble tree?
-Dialogue: 0,0:08:43.46,0:08:44.84,Default,Jesse,0,0,0,,Oh, uh, 
+Dialogue: 0,0:08:43.46,0:08:44.84,Default,Jesse,0,0,0,,Oh, uh,
 Dialogue: 0,0:08:44.84,0:08:46.51,Default,Jesse,0,0,0,,I'd love to.
 Dialogue: 0,0:08:46.51,0:08:47.47,Default,Marietta Gillicutty,0,0,0,,Good, keep going.
 Dialogue: 0,0:08:48.47,0:08:51.18,Default,Jesse,0,0,0,,Thank you for your\Nvery generous offer.
@@ -265,7 +285,7 @@ Dialogue: 0,0:09:32.97,0:09:36.22,Default,MT,0,0,0,,Bleat once if you're okay,\N
 Dialogue: 0,0:09:36.22,0:09:38.52,Default,Jesse,0,0,0,,Alan Dracula!
 Dialogue: 0,0:09:38.52,0:09:39.77,Default,MT,0,0,0,,Deer!
 Dialogue: 0,0:09:45.40,0:09:47.11,Default,MT,0,0,0,,Unbelievable!
-Dialogue: 0,0:09:47.11,0:09:47.65,Default,Jesse,0,0,0,,Alan! 
+Dialogue: 0,0:09:47.11,0:09:47.65,Default,Jesse,0,0,0,,Alan!
 Dialogue: 0,0:09:47.98,0:09:48.94,Default,Jesse,0,0,0,,A-Drac!
 Dialogue: 0,0:09:49.32,0:09:50.19,Default,Jesse,0,0,0,,Alan Dracula!
 Dialogue: 0,0:09:50.19,0:09:51.57,Default,MT,0,0,0,,Hey, deer!
