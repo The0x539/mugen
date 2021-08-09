@@ -23,8 +23,9 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:08.83,0:00:10.63,Default,,0,0,0,,Step away from\Nthat criminal!
-Dialogue: 0,0:00:10.66,0:00:12.46,Default,,0,0,0,split,Criminal?\NWe got to leave!
-Comment: 0,0:00:15.32,0:00:17.01,Default,,0,0,0,split,Whoa! Whoa!
+Dialogue: 0,0:00:10.66,0:00:11.28,Default,,0,0,0,,Criminal?
+Dialogue: 0,0:00:11.37,0:00:12.46,Default,,0,0,0,,We got to leave!
+Comment: 0,0:00:15.32,0:00:17.01,Default,Both,0,0,0,,Whoa!
 Comment: 0,0:00:20.05,0:00:22.57,Default,,0,0,0,,Ah. Unh!
 Comment: 0,0:00:22.60,0:00:25.02,Default,,0,0,0,,Huh? Uhhh!
 Dialogue: 0,0:00:27.54,0:00:29.65,Default,,0,0,0,,Ugh. Come on!
@@ -47,7 +48,8 @@ Dialogue: 0,0:01:25.01,0:01:26.74,Default,,0,0,0,,Ah!
 Dialogue: 0,0:01:28.91,0:01:31.02,Default,,0,0,0,,Hey. You okay\Nin there, son?
 Dialogue: 0,0:01:31.05,0:01:33.05,Default,,0,0,0,,What's your name?
 Comment: 0,0:01:33.09,0:01:35.19,Default,,0,0,0,,Mnh-mnh.
-Dialogue: 0,0:01:35.23,0:01:38.02,Default,,0,0,0,split,Jesse.\NUgh.
+Dialogue: 0,0:01:35.23,0:01:35.95,Default,,0,0,0,,Jesse.
+Dialogue: 0,0:01:36.41,0:01:38.02,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:01:38.06,0:01:39.37,Default,,0,0,0,,Nice to meet you,\NJesse!
 Dialogue: 0,0:01:39.40,0:01:40.54,Default,,0,0,0,,I'm Sieve.
 Dialogue: 0,0:01:40.58,0:01:42.93,Default,,0,0,0,,I'm a Mirror Officer\Nof the Peace.
@@ -59,7 +61,8 @@ Dialogue: 0,0:01:54.73,0:01:58.94,Default,,0,0,0,,She did it to her Prime,\Nand 
 Dialogue: 0,0:01:58.98,0:02:00.87,Default,,0,0,0,,Her Prime?
 Dialogue: 0,0:02:00.91,0:02:01.91,Default,,0,0,0,,Aw, boy.
 Dialogue: 0,0:02:01.94,0:02:04.40,Default,,0,0,0,,She hasn't told you anything,\Nhas she?
-Dialogue: 0,0:02:04.43,0:02:06.19,Default,,0,0,0,split,Ignore them.\NWhy?
+Dialogue: 0,0:02:04.43,0:02:05.40,Default,,0,0,0,,Ignore them.
+Dialogue: 0,0:02:05.40,0:02:06.19,Default,,0,0,0,,Why?
 Dialogue: 0,0:02:06.22,0:02:08.43,Default,,0,0,0,,They've told me more about you\Nthan you have!
 Dialogue: 0,0:02:08.47,0:02:10.50,Default,,0,0,0,,I don't owe you\Nan explanation.
 Dialogue: 0,0:02:10.54,0:02:12.40,Default,,0,0,0,,Oh, really?
@@ -78,11 +81,13 @@ Dialogue: 0,0:02:35.84,0:02:37.77,Default,,0,0,0,,Well, ma'am, the only way\Nto 
 Dialogue: 0,0:02:37.81,0:02:40.22,Default,,0,0,0,,and get out of this here car\Nis if'n you kick me.
 Dialogue: 0,0:02:41.64,0:02:43.78,Default,,0,0,0,,But please don't kick me.
 Dialogue: 0,0:02:45.82,0:02:48.54,Default,,0,0,0,,Sorry, but if it's\Nthe only way...
-Dialogue: 0,0:02:48.58,0:02:49.89,Default,,0,0,0,split,Ugh!\NOh!
+Dialogue: 0,0:02:48.58,0:02:48.94,Default,,0,0,0,,Ugh!
+Dialogue: 0,0:02:48.94,0:02:49.89,Default,,0,0,0,,Oh!
 Dialogue: 0,0:02:49.92,0:02:51.41,Default,,0,0,0,,You would.
 Dialogue: 0,0:02:51.44,0:02:52.96,Default,,0,0,0,,What's that\Nsupposed to mean?
 Dialogue: 0,0:02:53.00,0:02:54.76,Default,,0,0,0,,Kicking\Na defenseless frog?
-Dialogue: 0,0:02:54.79,0:02:56.41,Default,,0,0,0,split,Uh, toad.\NSorry.
+Dialogue: 0,0:02:54.79,0:02:55.45,Default,,0,0,0,,Uh, toad.
+Dialogue: 0,0:02:55.45,0:02:56.41,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:02:56.45,0:02:57.90,Default,,0,0,0,,Kicking\Na defenseless toad?
 Dialogue: 0,0:02:57.93,0:02:59.07,Default,,0,0,0,,A-thank you very much.
 Dialogue: 0,0:02:59.10,0:03:01.07,Default,,0,0,0,,That proves\Nyou're a criminal.
@@ -119,14 +124,16 @@ Dialogue: 0,0:04:09.00,0:04:11.04,Default,,0,0,0,,Okay, good.\NI-I ran out years
 Dialogue: 0,0:04:11.07,0:04:13.90,Default,,0,0,0,,Makes hosting folks\Nquite difficult.
 Dialogue: 0,0:04:22.02,0:04:22.74,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:04:22.77,0:04:24.57,Default,,0,0,0,,No, that looks stupid.
-Dialogue: 0,0:05:03.54,0:05:05.61,Default,,0,0,0,split,Record it!Jesse, record it!
+Dialogue: 0,0:05:03.54,0:05:04.03,Default,,0,0,0,,Record it!
+Dialogue: 0,0:05:04.03,0:05:05.61,Default,,0,0,0,,Jesse, record it!
 Dialogue: 0,0:05:05.65,0:05:07.58,Default,,0,0,0,,Man test! Man test!
 Dialogue: 0,0:05:07.61,0:05:09.51,Default,,0,0,0,,Man test! Man test!
 Dialogue: 0,0:05:09.55,0:05:11.20,Default,,0,0,0,,Man test! Man test!
 Dialogue: 0,0:05:11.24,0:05:13.62,Default,,0,0,0,,Man test! Man test!\NMan test!
 Dialogue: 0,0:05:13.65,0:05:14.86,Default,,0,0,0,,I-I don't know.
 Dialogue: 0,0:05:14.90,0:05:16.86,Default,,0,0,0,,If I do it,\Ncan I hang out with you?
-Dialogue: 0,0:05:16.90,0:05:18.11,Default,,0,0,0,split,-Hey, be a man.\N-Yeah, come on.
+Dialogue: 0,0:05:16.90,0:05:18.11,Default,,0,0,0,,Hey, be a man.
+Dialogue: 0,0:05:16.90,0:05:18.11,Default,,0,0,0,,Yeah, come on.
 Dialogue: 0,0:05:18.14,0:05:19.87,Default,,0,0,0,,Make him do it,\NJesse!
 Dialogue: 0,0:05:19.90,0:05:22.28,Default,,0,0,0,,Yeah, it's fine,\Njust do it already, Nate!
 Dialogue: 0,0:05:22.32,0:05:24.60,Default,,0,0,0,,If you don't do it,\Nyou can't be a man!
@@ -134,12 +141,14 @@ Dialogue: 0,0:05:24.63,0:05:26.22,Default,,0,0,0,,O-Okay.
 Dialogue: 0,0:05:26.25,0:05:28.12,Default,,0,0,0,,Can we do it\Non the count of three?
 Dialogue: 0,0:05:28.15,0:05:29.77,Default,,0,0,0,,I just don't\Nwant to fall.
 Dialogue: 0,0:05:29.81,0:05:31.91,Default,,0,0,0,,Yeah. One...
-Dialogue: 0,0:05:31.95,0:05:33.40,Default,,0,0,0,split,Aah!\NTwo, three.
+Dialogue: 0,0:05:31.95,0:05:33.40,Default,,0,0,0,,Aah!
+Dialogue: 0,0:05:31.95,0:05:33.40,Default,,0,0,0,,Two, three.
 Comment: 0,0:05:33.43,0:05:35.81,Default,,0,0,0,,Aaah! Oh!
 Dialogue: 0,0:05:36.99,0:05:38.30,Default,,0,0,0,,{ed}Epic fail!
 Dialogue: 0,0:05:39.58,0:05:41.58,Default,,0,0,0,,It-It really hurts.
 Dialogue: 0,0:05:41.61,0:05:43.44,Default,,0,0,0,,"It weally hurts."
-Dialogue: 0,0:05:43.48,0:05:45.75,Default,,0,0,0,split,You failed!\NAh!
+Dialogue: 0,0:05:43.48,0:05:45.74,Default,,0,0,0,,You failed!
+Dialogue: 0,0:05:44.70,0:05:45.74,Default,,0,0,0,,Ah!
 Dialogue: 0,0:05:45.79,0:05:47.13,Default,,0,0,0,,Jesse, tell him\Nhe failed!
 Dialogue: 0,0:05:47.17,0:05:49.62,Default,,0,0,0,,Nate, you failed\Nthe man test!
 Dialogue: 0,0:05:49.65,0:05:51.79,Default,,0,0,0,,Jesse...
@@ -148,7 +157,8 @@ Dialogue: 0,0:05:53.66,0:05:55.76,Default,,0,0,0,,You better not tell Mom!
 Dialogue: 0,0:05:55.80,0:05:57.46,Default,,0,0,0,,Did you get all that?
 Dialogue: 0,0:05:57.49,0:05:59.28,Default,,0,0,0,,It was epic!
 Dialogue: 0,0:05:59.32,0:06:03.50,Default,,0,0,0,,Your brother\Nbeefed it.
-Dialogue: 0,0:06:05.50,0:06:06.95,Default,,0,0,0,split,What you watching?\NNothing.
+Dialogue: 0,0:06:05.50,0:06:06.35,Default,,0,0,0,,What you watching?
+Dialogue: 0,0:06:06.35,0:06:06.95,Default,,0,0,0,,Nothing.
 Dialogue: 0,0:06:06.98,0:06:10.43,Default,,0,0,0,,Didn't sound like\Nnothing.
 Dialogue: 0,0:06:15.47,0:06:20.48,Default,,0,0,0,,Hey, Jesse, you there?
 Dialogue: 0,0:06:20.51,0:06:21.96,Default,,0,0,0,,Y-Yeah, I'm here.
@@ -176,7 +186,8 @@ Dialogue: 0,0:07:21.13,0:07:22.06,Default,,0,0,0,,No!
 Dialogue: 0,0:07:22.09,0:07:23.65,Default,,0,0,0,,Jesse, what's happening\Nin there?
 Dialogue: 0,0:07:23.68,0:07:24.68,Default,,0,0,0,,Nice try!
 Dialogue: 0,0:07:24.72,0:07:26.34,Default,,0,0,0,,The phone's gone,\Nflec!
-Dialogue: 0,0:07:26.37,0:07:28.37,Default,,0,0,0,split,Ah!\NMove.
+Dialogue: 0,0:07:26.37,0:07:27.13,Default,,0,0,0,,Ah!
+Dialogue: 0,0:07:27.13,0:07:28.37,Default,,0,0,0,,Move.
 Dialogue: 0,0:07:28.41,0:07:31.55,Default,,0,0,0,,Now, we're gonna do it\Nmy way.
 Dialogue: 0,0:07:33.69,0:07:35.83,Default,,0,0,0,,How could you do that?\NI wasn't gonna let them in!
 Dialogue: 0,0:07:35.86,0:07:39.49,Default,,0,0,0,,Why should I trust somebody\Nwho sells out his own brother?
@@ -233,8 +244,7 @@ Dialogue: 0,0:09:53.90,0:09:55.59,Default,,0,0,0,,One, two...
 Dialogue: 0,0:09:55.62,0:09:57.56,Default,,0,0,0,,Well, now, don't get\Ntoo excited, now.
 Dialogue: 0,0:09:57.59,0:10:00.39,Default,,0,0,0,,It's... it's still my body\Nwe're injuring.
 Comment: 0,0:10:02.53,0:10:04.29,Default,,0,0,0,,Aah! Ooh!
-Dialogue: 0,0:10:05.63,0:10:06.64,Default,,0,0,0,split,Whoa! Whoa!
-Dialogue: 0,0:10:06.67,0:10:08.05,Default,,0,0,0,split,Ah! Ugh!
+Dialogue: 0,0:10:05.63,0:10:06.64,Default,Both,0,0,0,,Whoa!
 Dialogue: 0,0:10:10.47,0:10:11.50,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:11.54,0:10:12.40,Default,,0,0,0,,Whoa, baby.
 Dialogue: 0,0:10:12.43,0:10:14.30,Default,,0,0,0,,Can't kick\Nwhat isn't there!
@@ -249,7 +259,8 @@ Dialogue: 0,0:10:37.46,0:10:39.39,Default,,0,0,0,,Thank you kindly\Nfor saving m
 Dialogue: 0,0:10:39.43,0:10:41.36,Default,,0,0,0,,from an existentially\Nnightmarish existence.
 Dialogue: 0,0:10:41.39,0:10:43.67,Default,,0,0,0,,I won't soon forget it.
 Dialogue: 0,0:10:43.71,0:10:47.61,Default,,0,0,0,,Good-byeeeee.
-Dialogue: 0,0:10:47.64,0:10:49.09,Default,,0,0,0,split,Uh...\NHuh.
+Dialogue: 0,0:10:47.64,0:10:48.71,Default,,0,0,0,,Uh...
+Dialogue: 0,0:10:48.00,0:10:48.71,Default,,0,0,0,,Huh.
 Dialogue: 0,0:10:49.13,0:10:51.16,Default,,0,0,0,,Jesse, your hand.
 Dialogue: 0,0:10:53.61,0:10:55.68,Default,,0,0,0,,Wow, down to 14!
 Dialogue: 0,0:10:55.72,0:10:57.65,Default,,0,0,0,,Thank you.
