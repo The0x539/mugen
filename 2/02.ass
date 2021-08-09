@@ -38,8 +38,8 @@ Dialogue: 0,0:00:26.05,0:00:27.47,Default,,0,0,0,,I'm not dealing with this.
 Dialogue: 0,0:00:27.47,0:00:28.88,Default,,0,0,0,,He could be hurt.
 Dialogue: 0,0:00:29.97,0:00:33.01,Default,Jesse,0,0,0,,Wow. Do you have, like,\Nspecial metal strength?
 Dialogue: 0,0:00:33.39,0:00:37.85,Default,,0,0,0,,No. I just don't feel pain like you \Nwith your squishy flesh.
-Dialogue: 0,0:00:39.81,0:00:43.77,Default,Jesse,0,0,0,,Mm, yeah, I {\i1}am{\i0} pretty squishy
-Dialogue: 0,0:00:43.77,0:00:46.19,Default,Jesse,0,0,0,,and, like, really good\Nat feeling pain.
+Dialogue: 0,0:00:39.81,0:00:43.77,Default,Jesse,0,0,0,,Mm, yeah, I {\i1}am{\i0} pretty squishy.
+Dialogue: 0,0:00:43.77,0:00:46.19,Default,Jesse,0,0,0,,And, like, really good\Nat feeling pain.
 Dialogue: 0,0:00:46.19,0:00:48.24,Default,Jesse,0,0,0,,If I fall, I'm gonna feel a ton of it.
 Dialogue: 0,0:00:48.24,0:00:50.28,Default,,0,0,0,,Fine! Bye!
 Dialogue: 0,0:00:54.58,0:00:55.58,Default,Jesse,0,0,0,,Oh, man.
@@ -104,7 +104,8 @@ Dialogue: 0,0:02:33.88,0:02:35.18,Default,Jesse,0,0,0,,Hey, I know.
 Dialogue: 0,0:02:35.18,0:02:37.47,Default,Jesse,0,0,0,,You could name the tree\Nafter both your families,
 Dialogue: 0,0:02:37.93,0:02:39.18,Default,Jesse,0,0,0,,like my friend Troy.
 Dialogue: 0,0:02:39.18,0:02:40.93,Default,Jesse,0,0,0,,He took both his parents' last names.
-Dialogue: 0,0:02:40.93,0:02:44.56,Default,Jesse,0,0,0,,So instead of being Troy Banks,\Nnow he's Troy Snooterly-Banks.
+Dialogue: 0,0:02:40.93,0:02:42.68,Default,Jesse,0,0,0,,So instead of being Troy Banks,
+Dialogue: 0,0:02:42.68,0:02:44.56,Default,Jesse,0,0,0,,now he's Troy Snooterly-Banks.
 Dialogue: 0,0:02:44.98,0:02:46.48,Default,Ithmus Trundleshank,0,0,0,,No way, no how!
 Dialogue: 0,0:02:46.48,0:02:47.19,Default,Ithmus Trundleshank,0,0,0,,Ptooie!
 Dialogue: 0,0:02:47.19,0:02:48.82,Default,MT,0,0,0,,Fine. I don't need your help anyway.
@@ -132,7 +133,7 @@ Dialogue: 0,0:03:39.82,0:03:41.12,Default,Jesse,0,0,0,,Why are you so mad at me?
 Dialogue: 0,0:03:42.41,0:03:44.54,Default,MT,0,0,0,,Look, it has nothing\Nto do with you.
 Dialogue: 0,0:03:44.54,0:03:45.91,Default,MT,0,0,0,,It's just...
 Dialogue: 0,0:03:47.71,0:03:49.79,Default,MT,0,0,0,,Okay, so...
-Dialogue: 0,0:03:49.79,0:03:52.59,Default,MT,0,0,0,,I used to have this friend\Nnamed Tulip,
+Dialogue: 0,0:03:49.79,0:03:52.59,Default,MT,0,0,0,,I used to have this friend named Tulip,
 Dialogue: 0,0:03:52.59,0:03:54.76,Default,MT,0,0,0,,and we did everything together,
 Dialogue: 0,0:03:54.76,0:03:57.22,Default,MT,0,0,0,,but as we grew up,
 Dialogue: 0,0:03:57.22,0:03:59.89,Default,MT,0,0,0,,I didn't have much\Nin common with her anymore,
@@ -173,11 +174,12 @@ Dialogue: 0,0:05:09.83,0:05:12.58,Default,Jesse,0,0,0,,It's called {\i1}When I L
 Dialogue: 0,0:05:12.58,0:05:13.33,Default,Jesse,0,0,0,,and it goes—
 Dialogue: 0,0:05:13.33,0:05:15.71,Default,Richard Trundleshank,0,0,0,,Is it true you spit in his face?
 Dialogue: 0,0:05:16.25,0:05:17.09,Default,Jesse,0,0,0,,No!
-Dialogue: 0,0:05:20.76,0:05:23.43,Default,Marietta Gillicutty,0,0,0,,Hi, there, little girl.\NGoing down the tree?
+Dialogue: 0,0:05:20.76,0:05:22.34,Default,Marietta Gillicutty,0,0,0,,Hi there, little girl.
+Dialogue: 0,0:05:22.34,0:05:23.43,Default,Marietta Gillicutty,0,0,0,,Goin' down the tree?
 Dialogue: 0,0:05:23.43,0:05:24.55,Default,MT,0,0,0,,Yep.
 Dialogue: 0,0:05:24.55,0:05:26.22,Default,Nathaniel Trundleshank,0,0,0,,You shouldn't talk to her, little girl.
-Dialogue: 0,0:05:26.22,0:05:28.27,Default,Nathaniel Trundleshank,0,0,0,,She's as dumb as they come.
-Dialogue: 0,0:05:28.27,0:05:29.43,Default,Marietta Gillicutty,0,0,0,,Can it, ding-dong.
+Dialogue: 0,0:05:26.22,0:05:28.02,Default,Nathaniel Trundleshank,0,0,0,,She's as dumb as they come.
+Dialogue: 0,0:05:28.02,0:05:29.43,Default,Marietta Gillicutty,0,0,0,,Can it, ding-dong.
 Dialogue: 0,0:05:29.43,0:05:33.44,Default,Nathaniel Trundleshank,0,0,0,,Aw, this from a woman \Nwho choked to death eatin' an orange peel!
 Dialogue: 0,0:05:33.44,0:05:36.44,Default,Marietta Gillicutty,0,0,0,,I told you, it's the most\Nfibrous part o' the fruit!
 Dialogue: 0,0:05:36.44,0:05:39.61,Default,Marietta Gillicutty,0,0,0,,{\i1}You{\i0} died because ya sat\Non a toilet seat too hard.
@@ -275,7 +277,8 @@ Dialogue: 0,0:08:55.39,0:08:57.73,Default,Jesse,0,0,0,,I like how your hair\Nis 
 Dialogue: 0,0:08:57.73,0:08:59.23,Default,Jesse,0,0,0,,My compliments to the chef.
 Dialogue: 0,0:08:59.23,0:08:59.98,Default,Jesse,0,0,0,,Mwah!
 Dialogue: 0,0:09:00.27,0:09:02.27,Default,MT,0,0,0,,And I like your hair.
-Dialogue: 0,0:09:02.27,0:09:04.90,Default,MT,0,0,0,,It's brown. How original.
+Dialogue: 0,0:09:02.27,0:09:03.56,Default,MT,0,0,0,,It's brown.
+Dialogue: 0,0:09:03.56,0:09:04.90,Default,MT,0,0,0,,How original.
 Dialogue: 0,0:09:04.90,0:09:06.44,Default,Jesse,0,0,0,,Shall I sing a song?
 Dialogue: 0,0:09:06.44,0:09:08.19,Default,MT,0,0,0,,I'd absolutely love it.
 Dialogue: 0,0:09:08.82,0:09:11.16,Default,Jesse,0,0,0,,{\i1}When I look at you
@@ -303,7 +306,7 @@ Dialogue: 0,0:10:19.27,0:10:20.77,Default,MT,0,0,0,,we {\i1}are{\i0} both his fr
 Dialogue: 0,0:10:20.77,0:10:22.52,Default,MT,0,0,0,,Not us, {\i1}we're{\i0} not friends.
 Dialogue: 0,0:10:22.52,0:10:25.48,Default,MT,0,0,0,,But we're friends with him, separately.
 Dialogue: 0,0:10:25.48,0:10:29.19,Default,MT,0,0,0,,So... here's the only \Nsolution I can think of.
-Dialogue: 0,0:10:29.19,0:10:33.40,Default,MT,0,0,0,,I'll travel with you and\Nhelp you get your number down.
+Dialogue: 0,0:10:29.19,0:10:33.40,Default,MT,0,0,0,,I'll travel with you and help you \Nget your number down.
 Dialogue: 0,0:10:33.40,0:10:33.86,Default,Jesse,0,0,0,,Really?
 Dialogue: 0,0:10:33.86,0:10:36.41,Default,MT,0,0,0,,But only because then you'll get off the train
 Dialogue: 0,0:10:36.41,0:10:37.62,Default,MT,0,0,0,,and I'll get to stay with,
