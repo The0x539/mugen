@@ -50,8 +50,10 @@ Dialogue: 0,0:01:13.31,0:01:14.59,Default,,0,0,0,,Check it out.
 Dialogue: 0,0:01:17.31,0:01:19.63,Default,,0,0,0,,That's me.
 Dialogue: 0,0:01:19.66,0:01:22.01,Default,,0,0,0,,Hey! Are you\Nlearning lessons?!
 Dialogue: 0,0:01:22.04,0:01:24.18,Default,,0,0,0,,I learned his name\Nis Marcel.
-Dialogue: 0,0:01:24.22,0:01:27.29,Default,,0,0,0,split,Does that count?Did your number go down?
-Dialogue: 0,0:01:27.32,0:01:29.05,Default,,0,0,0,split,No!Then it doesn't count!
+Dialogue: 0,0:01:24.22,0:01:24.73,Default,,0,0,0,,Does that count?
+Dialogue: 0,0:01:24.73,0:01:27.29,Default,,0,0,0,,Did your number go down?
+Dialogue: 0,0:01:27.32,0:01:27.65,Default,,0,0,0,,No!
+Dialogue: 0,0:01:27.65,0:01:29.05,Default,,0,0,0,,Then it doesn't count!
 Dialogue: 0,0:01:29.08,0:01:30.29,Default,,0,0,0,,Keep learning!
 Dialogue: 0,0:01:30.33,0:01:32.09,Default,,0,0,0,,Well, there's a lot\Nto learn here.
 Dialogue: 0,0:01:32.12,0:01:33.33,Default,,0,0,0,,We just started.
@@ -75,7 +77,8 @@ Dialogue: 0,0:02:11.37,0:02:13.13,Default,,0,0,0,,What's the deal with\Nyour ele
 Dialogue: 0,0:02:13.16,0:02:17.03,Default,,0,0,0,,I'm so sorry, but there can\Nonly be one explorer.
 Dialogue: 0,0:02:17.06,0:02:18.55,Default,,0,0,0,,I don't make the rules.
 Dialogue: 0,0:02:18.58,0:02:20.41,Default,,0,0,0,,You can tag along\Nif you'd like.
-Dialogue: 0,0:02:20.45,0:02:22.69,Default,,0,0,0,split,It's pretty fun.Whatever.
+Dialogue: 0,0:02:20.45,0:02:21.25,Default,,0,0,0,,It's pretty fun.
+Dialogue: 0,0:02:21.58,0:02:22.69,Default,,0,0,0,,Whatever.
 Dialogue: 0,0:02:22.72,0:02:25.45,Default,,0,0,0,,Maybe you need to carry more\Nstuff to get your number down?
 Dialogue: 0,0:02:25.49,0:02:27.04,Default,,0,0,0,,Yeah. maybe.
 Dialogue: 0,0:02:27.07,0:02:28.94,Default,,0,0,0,,Just show me the map.
@@ -91,7 +94,8 @@ Dialogue: 0,0:02:51.10,0:02:53.41,Default,,0,0,0,,You'll get some balance in,\No
 Dialogue: 0,0:02:53.44,0:02:55.27,Default,,0,0,0,,Can't get that\Non a dotted line.
 Dialogue: 0,0:03:04.94,0:03:08.98,Default,,0,0,0,,So, Marcel, are you just gonna\Nwatch us the whole time?
 Dialogue: 0,0:03:09.01,0:03:10.63,Default,,0,0,0,,Yep. Pretty much.
-Dialogue: 0,0:03:10.67,0:03:13.77,Default,,0,0,0,split,How am I doing?I like what I'm seeing so far.
+Dialogue: 0,0:03:10.67,0:03:11.25,Default,,0,0,0,,How am I doing?
+Dialogue: 0,0:03:11.25,0:03:13.77,Default,,0,0,0,,I like what I'm seeing so far.
 Dialogue: 0,0:03:13.81,0:03:15.26,Default,,0,0,0,,Yes.
 Dialogue: 0,0:03:18.50,0:03:21.47,Default,,0,0,0,,Huh?
 Dialogue: 0,0:03:21.51,0:03:24.61,Default,,0,0,0,,H-hey, there's a piece\Nof map up here.
@@ -164,7 +168,8 @@ Dialogue: 0,0:06:24.17,0:06:25.48,Default,,0,0,0,,That's the spirit—
 Dialogue: 0,0:06:25.52,0:06:27.42,Default,,0,0,0,,well, it's not\Nthe best spirit,
 Dialogue: 0,0:06:27.45,0:06:30.59,Default,,0,0,0,,but, ah, there's at least\Nsomething there.
 Dialogue: 0,0:06:33.15,0:06:35.94,Default,,0,0,0,,So, you just jumped\Nright in back there.
-Dialogue: 0,0:06:35.98,0:06:38.12,Default,,0,0,0,split,What was that about?I'm on the swim team.
+Dialogue: 0,0:06:35.98,0:06:36.46,Default,,0,0,0,,What was that about?
+Dialogue: 0,0:06:36.46,0:06:38.12,Default,,0,0,0,,I'm on the swim team.
 Dialogue: 0,0:06:38.15,0:06:39.60,Default,,0,0,0,,It's kind of what I do.
 Dialogue: 0,0:06:39.64,0:06:41.71,Default,,0,0,0,,And they tell you to flail\Nwildly with both arms?
 Dialogue: 0,0:06:41.74,0:06:44.50,Default,,0,0,0,,Excuse me?\NIt's called the butterfly—
