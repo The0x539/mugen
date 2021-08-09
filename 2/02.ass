@@ -24,7 +24,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:08.40,0:00:10.20,Default,,0,0,0,,No!
 Dialogue: 0,0:00:08.40,0:00:10.20,Default,Jesse,0,0,0,,{\pos(1280,900)}Alan Dracula!
-Dialogue: 0,0:00:10.20,0:00:11.28,Default,Jesse,0,0,0,,Whoa. 
+Dialogue: 0,0:00:10.20,0:00:11.28,Default,Jesse,0,0,0,,Whoa.
 Dialogue: 0,0:00:11.28,0:00:12.70,Default,Jesse,0,0,0,,We're on top of a tree.
 Dialogue: 0,0:00:13.33,0:00:14.20,Default,Jesse,0,0,0,,Hey!
 Dialogue: 0,0:00:14.20,0:00:17.12,Default,,1,1,30,,If you hadn't distracted me with that ridiculous name,
@@ -212,7 +212,7 @@ Comment: 0,0:06:37.42,0:06:39.00,Default,Jesse,0,0,0,,Aah!
 Dialogue: 0,0:06:42.13,0:06:43.26,Default,MT,0,0,0,,Ah, great.
 Dialogue: 0,0:06:44.88,0:06:46.43,Default,Jesse,0,0,0,,Oh, hi.
 Dialogue: 0,0:06:46.76,0:06:48.85,Default,MT,0,0,0,,How was your popularity contest?
-Dialogue: 0,0:06:48.85,0:06:50.51,Default,Jesse,0,0,0,,Well... 
+Dialogue: 0,0:06:48.85,0:06:50.51,Default,Jesse,0,0,0,,Well...
 Dialogue: 0,0:06:50.51,0:06:53.89,Default,Jesse,0,0,0,,Trying to make everyone\Nhappy didn't really work out.
 Dialogue: 0,0:06:53.89,0:06:56.27,Default,Jesse,0,0,0,,Looks like your punching\Nisn't doing much good, either.
 Dialogue: 0,0:06:56.85,0:06:58.81,Default,MT,0,0,0,,You probably slowed me down too much.
@@ -255,19 +255,19 @@ Dialogue: 0,0:08:14.64,0:08:15.52,Default,Jesse,0,0,0,,Why did you—
 Dialogue: 0,0:08:17.14,0:08:19.02,Default,Jesse,0,0,0,,I'm not a tree boy.
 Dialogue: 0,0:08:19.02,0:08:19.52,Default,Jesse,0,0,0,,What happened?
 Dialogue: 0,0:08:19.81,0:08:21.77,Default,MT,0,0,0,,I kept my eyes open\Nduring the scary parts.
-Dialogue: 0,0:08:22.06,0:08:22.98,Default,Marietta Gillicutty,0,0,0,,Oh, wow.
+Dialogue: 0,0:08:22.06,0:08:22.98,Default,Jesse,0,0,0,,Oh, wow.
 Dialogue: 0,0:08:22.98,0:08:24.23,Default,MT,0,0,0,,Hmm.
 Comment: 0,0:08:24.53,0:08:25.61,Default,Jesse,0,0,0,,Ahh!
-Dialogue: 0,0:08:25.61,0:08:26.99,Default,Marietta Gillicutty,0,0,0,,You're a terrible tree.
+Dialogue: 0,0:08:25.61,0:08:26.99,Default,MT,0,0,0,,You're a terrible tree.
 Dialogue: 0,0:08:26.99,0:08:28.53,Default,Jesse,0,0,0,,Hey. It's doing its best.
-Dialogue: 0,0:08:29.61,0:08:32.07,Default,Marietta Gillicutty,0,0,0,,Just kidding.\NYou're a beautiful tree.
-Dialogue: 0,0:08:32.99,0:08:34.54,Default,Marietta Gillicutty,0,0,0,,That's what's happening.
-Dialogue: 0,0:08:34.54,0:08:36.54,Default,Marietta Gillicutty,0,0,0,,Fighting makes the branches grow.
-Dialogue: 0,0:08:37.50,0:08:39.37,Default,Marietta Gillicutty,0,0,0,,Pray, good sir,
-Dialogue: 0,0:08:39.37,0:08:43.46,Default,Marietta Gillicutty,0,0,0,,wouldst thou care to follow me down \Nto the bottom of this noble tree?
+Dialogue: 0,0:08:29.61,0:08:32.07,Default,MT,0,0,0,,Just kidding.\NYou're a beautiful tree.
+Dialogue: 0,0:08:32.99,0:08:34.54,Default,MT,0,0,0,,That's what's happening.
+Dialogue: 0,0:08:34.54,0:08:36.54,Default,MT,0,0,0,,Fighting makes the branches grow.
+Dialogue: 0,0:08:37.50,0:08:39.37,Default,MT,0,0,0,,Pray, good sir,
+Dialogue: 0,0:08:39.37,0:08:43.46,Default,MT,0,0,0,,wouldst thou care to follow me down \Nto the bottom of this noble tree?
 Dialogue: 0,0:08:43.46,0:08:44.84,Default,Jesse,0,0,0,,Oh, uh,
 Dialogue: 0,0:08:44.84,0:08:46.51,Default,Jesse,0,0,0,,I'd... love to?
-Dialogue: 0,0:08:46.51,0:08:47.47,Default,Marietta Gillicutty,0,0,0,,Good, keep going.
+Dialogue: 0,0:08:46.51,0:08:47.47,Default,MT,0,0,0,,Good, keep going.
 Dialogue: 0,0:08:48.47,0:08:51.18,Default,Jesse,0,0,0,,Thank you for your\Nvery generous offer.
 Dialogue: 0,0:08:52.64,0:08:54.14,Default,Jesse,0,0,0,,Lovely day, isn't it?
 Dialogue: 0,0:08:54.14,0:08:55.39,Default,MT,0,0,0,,Yes, verily.
