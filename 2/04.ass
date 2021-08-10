@@ -282,7 +282,55 @@ Dialogue: 0,0:10:33.65,0:10:35.16,Default,MT,0,0,0,,Yeah!
 Dialogue: 0,0:10:35.16,0:10:35.87,Default,Jesse,0,0,0,,Huh?
 Dialogue: 0,0:10:37.70,0:10:41.75,Default,Toad,0,0,0,,Thank you kindly for saving me \Nfrom an existentially nightmarish existence.
 Dialogue: 0,0:10:41.75,0:10:43.71,Default,Toad,0,0,0,,I won't soon forget it.
-Dialogue: 0,0:10:43.71,0:10:47.46,Default,Toad,0,0,0,,Goodbye.
+Dialogue: 0,0:10:43.71,0:10:44.54,Default,Toad,0,0,0,,Goodbye.
+Comment: 0,0:10:44.87,0:10:47.46,Default,Toad,0,0,0,,{\frz345.3\pos(687,620)\fs50\shad1\bord2.4}Goodbye.
+Comment: 0,0:10:44.87,0:10:47.46,Default,Toad,0,0,0,,{\frz329.6\pos(687,620)\fs50\shad1\bord2.4}Goodbye.
+Comment: 0,0:10:44.71,0:10:44.79,Default,Toad,0,0,0,,{\an5\fscx220\fscy220\1aFF\4aFF\3cFF00\frz332.6\pos(684.67,597.57)}⬮
+Comment: 0,0:10:44.79,0:10:44.87,Default,Toad,0,0,0,,{\an5\fscx210\fscy210\1aFF\4aFF\3cFF00\frz334.6\pos(719.14,529)}⬮
+Comment: 0,0:10:44.87,0:10:44.96,Default,Toad,0,0,0,,{\an5\fscx200\fscy200\1aFF\4aFF\3cFF00\frz329.6\pos(752,449)}⬮
+Comment: 0,0:10:44.96,0:10:45.04,Default,Toad,0,0,0,,{\an5\fscx180\fscy180\1aFF\4aFF\3cFF00\frz326.6\pos(794,375)}⬮
+Comment: 0,0:10:45.04,0:10:45.12,Default,Toad,0,0,0,,{\an5\fscx170\fscy170\1aFF\4aFF\3cFF00\frz322.6\pos(845,302.86)}⬮
+Comment: 0,0:10:45.12,0:10:45.21,Default,Toad,0,0,0,,{\an5\fscx165\fscy165\1aFF\4aFF\3cFF00\frz318.6\pos(885,268)}⬮
+Comment: 0,0:10:45.21,0:10:45.29,Default,Toad,0,0,0,,{\an5\fscx162\fscy162\1aFF\4aFF\3cFF00\frz316.6\pos(924.33,228)}⬮
+Comment: 0,0:10:45.29,0:10:45.37,Default,Toad,0,0,0,,{\an5\fscx157\fscy157\1aFF\4aFF\3cFF00\frz310.6\pos(948.9,201.57)}⬮
+Comment: 0,0:10:45.37,0:10:45.46,Default,Toad,0,0,0,,{\an5\fscx150\fscy150\1aFF\4aFF\3cFF00\frz306.6\pos(978.9,178.86)}⬮
+Comment: 0,0:10:45.46,0:10:45.54,Default,Toad,0,0,0,,{\an5\fscx144\fscy144\1aFF\4aFF\3cFF00\frz297.6\pos(1011.9,168.72)}⬮
+Comment: 0,0:10:45.54,0:10:45.62,Default,Toad,0,0,0,,{\an5\fscx132\fscy132\1aFF\4aFF\3cFF00\frz287.6\pos(1040.9,155.72)}⬮
+Comment: 0,0:10:45.62,0:10:45.71,Default,Toad,0,0,0,,{\an5\fscx125\fscy125\1aFF\4aFF\3cFF00\frz282.6\pos(1070.9,144.72)}⬮
+Comment: 0,0:10:45.71,0:10:45.79,Default,Toad,0,0,0,,{\an5\fscx125\fscy125\1aFF\4aFF\3cFF00\frz275.6\pos(1102.9,132.72)}⬮
+Comment: 0,0:10:45.79,0:10:45.88,Default,Toad,0,0,0,,{\an5\fscx118\fscy118\1aFF\4aFF\3cFF00\frz270.6\pos(1117.9,132.72)}⬮
+Comment: 0,0:10:45.88,0:10:45.96,Default,Toad,0,0,0,,{\an5\fscx115\fscy115\1aFF\4aFF\3cFF00\frz266.6\pos(1138.9,134.72)}⬮
+Comment: 0,0:10:45.96,0:10:46.04,Default,Toad,0,0,0,,{\an5\fscx115\fscy115\1aFF\4aFF\3cFF00\frz253.6\pos(1172.9,147.72)}⬮
+Comment: 0,0:10:46.04,0:10:46.13,Default,Toad,0,0,0,,{\an5\fscx110\fscy110\1aFF\4aFF\3cFF00\frz243.6\pos(1199.23,162.39)}⬮
+Comment: 0,0:10:46.13,0:10:46.21,Default,Toad,0,0,0,,{\an5\fscx107\fscy107\1aFF\4aFF\3cFF00\frz237.6\pos(1220.23,184.39)}⬮
+Comment: 0,0:10:46.21,0:10:46.29,Default,Toad,0,0,0,,{\an5\fscx104\fscy104\1aFF\4aFF\3cFF00\frz233.6\pos(1243.23,201.39)}⬮
+Comment: 0,0:10:46.29,0:10:46.38,Default,Toad,0,0,0,,{\an5\fscx104\fscy104\1aFF\4aFF\3cFF00\frz233.6\pos(1273.23,225.39)}⬮
+Comment: 0,0:10:46.38,0:10:46.46,Default,Toad,0,0,0,,{\an5\fscx104\fscy104\1aFF\4aFF\3cFF00\frz233.6\pos(1294.23,241.39)}⬮
+Comment: 0,0:10:46.46,0:10:46.54,Default,Toad,0,0,0,,{\an5\fscx104\fscy104\1aFF\4aFF\3cFF00\frz233.6\pos(1316.23,255.39)}⬮
+Comment: 0,0:10:46.54,0:10:47.46,Default,Toad,0,0,0,,{\an5\fscx104\fscy104\1aFF\4aFF\3cFF00\frz233.6\pos(1330.23,262.39)}⬮
+Dialogue: 0,0:10:44.71,0:10:44.79,Default,Toad,0,0,0,,{\an5\fscx82.5\fscy82.5\frz422.6\pos(657.17,535.695)\org(684.67,597.57)\shad1.237\bord2.97\iclip(m 548.36 676 l 559.27 671.91 569.82 667.64 587.64 658.55 597.45 651.64 601.82 647.27 604.73 643.64 604.73 636.36 604 629.45 605.45 625.82 610.55 628.36 616.73 636 621.45 642.55 624 650.18 624.36 651.27 631.64 649.45 644 648.36 652.73 649.09 660.36 650.55 669.09 652.36 646.91 719.27 560.36 728.73 530.91 701.09)}Goodbye.
+Dialogue: 0,0:10:44.79,0:10:44.87,Default,Toad,0,0,0,,{\an5\fscx78.75\fscy78.75\frz424.6\pos(692.89,469.938)\org(719.14,529)\shad1.181\bord2.835}Goodbye.
+Dialogue: 0,0:10:44.87,0:10:44.96,Default,Toad,0,0,0,,{\an5\fscx75\fscy75\frz419.6\pos(727,392.75)\org(752,449)\shad1.125\bord2.7}Goodbye.
+Dialogue: 0,0:10:44.96,0:10:45.04,Default,Toad,0,0,0,,{\an5\fscx67.5\fscy67.5\frz416.6\pos(771.5,324.375)\org(794,375)\shad1.013\bord2.43}Goodbye.
+Dialogue: 0,0:10:45.04,0:10:45.12,Default,Toad,0,0,0,,{\an5\fscx63.75\fscy63.75\frz412.6\pos(823.75,255.048)\org(845,302.86)\shad0.956\bord2.295}Goodbye.
+Dialogue: 0,0:10:45.12,0:10:45.21,Default,Toad,0,0,0,,{\an5\fscx61.88\fscy61.88\frz408.6\pos(864.373,221.59)\org(885,268)\shad0.928\bord2.228}Goodbye.
+Dialogue: 0,0:10:45.21,0:10:45.29,Default,Toad,0,0,0,,{\an5\fscx60.75\fscy60.75\frz406.6\pos(904.08,182.438)\org(924.33,228)\shad0.911\bord2.187}Goodbye.
+Dialogue: 0,0:10:45.29,0:10:45.37,Default,Toad,0,0,0,,{\an5\fscx58.88\fscy58.88\frz400.6\pos(929.273,157.41)\org(948.9,201.57)\shad0.883\bord2.12}Goodbye.
+Dialogue: 0,0:10:45.37,0:10:45.46,Default,Toad,0,0,0,,{\an5\fscx56.25\fscy56.25\frz396.6\pos(960.15,136.673)\org(978.9,178.86)\shad0.844\bord2.025}Goodbye.
+Dialogue: 0,0:10:45.46,0:10:45.54,Default,Toad,0,0,0,,{\an5\fscx54\fscy54\frz387.6\pos(993.9,128.22)\org(1011.9,168.72)\shad0.81\bord1.944}Goodbye.
+Dialogue: 0,0:10:45.54,0:10:45.62,Default,Toad,0,0,0,,{\an5\fscx49.5\fscy49.5\frz377.6\pos(1024.4,118.595)\org(1040.9,155.72)\shad0.742\bord1.782}Goodbye.
+Dialogue: 0,0:10:45.62,0:10:45.71,Default,Toad,0,0,0,,{\an5\fscx46.88\fscy46.88\frz372.6\pos(1055.273,109.56)\org(1070.9,144.72)\shad0.703\bord1.688}Goodbye.
+Dialogue: 0,0:10:45.71,0:10:45.79,Default,Toad,0,0,0,,{\an5\fscx46.88\fscy46.88\frz365.6\pos(1087.273,97.56)\org(1102.9,132.72)\shad0.703\bord1.688}Goodbye.
+Dialogue: 0,0:10:45.79,0:10:45.88,Default,Toad,0,0,0,,{\an5\fscx44.25\fscy44.25\frz360.6\pos(1103.15,99.532)\org(1117.9,132.72)\shad0.664\bord1.593}Goodbye.
+Dialogue: 0,0:10:45.88,0:10:45.96,Default,Toad,0,0,0,,{\an5\fscx43.13\fscy43.13\frz356.6\pos(1124.523,102.373)\org(1138.9,134.72)\shad0.647\bord1.553}Goodbye.
+Dialogue: 0,0:10:45.96,0:10:46.04,Default,Toad,0,0,0,,{\an5\fscx43.13\fscy43.13\frz343.6\pos(1158.523,115.373)\org(1172.9,147.72)\shad0.647\bord1.553}Goodbye.
+Dialogue: 0,0:10:46.04,0:10:46.13,Default,Toad,0,0,0,,{\an5\fscx41.25\fscy41.25\frz333.6\pos(1185.48,131.452)\org(1199.23,162.39)\shad0.619\bord1.485}Goodbye.
+Dialogue: 0,0:10:46.13,0:10:46.21,Default,Toad,0,0,0,,{\an5\fscx40.13\fscy40.13\frz327.6\pos(1206.853,154.292)\org(1220.23,184.39)\shad0.602\bord1.445}Goodbye.
+Dialogue: 0,0:10:46.21,0:10:46.29,Default,Toad,0,0,0,,{\an5\fscx39\fscy39\frz323.6\pos(1230.23,172.14)\org(1243.23,201.39)\iclip(m 1107 337 l 1212 240 1315 179 1401 145 1659 337 1264 648)\shad0.585\bord1.404}Goodbye.
+Dialogue: 0,0:10:46.29,0:10:46.38,Default,Toad,0,0,0,,{\an5\fscx39\fscy39\frz323.6\pos(1260.23,196.14)\org(1273.23,225.39)\iclip(m 1107 337 l 1212 240 1315 179 1401 145 1659 337 1264 648)\shad0.585\bord1.404}Goodbye.
+Dialogue: 0,0:10:46.38,0:10:46.46,Default,Toad,0,0,0,,{\an5\fscx39\fscy39\frz323.6\pos(1281.23,212.14)\org(1294.23,241.39)\iclip(m 1107 337 l 1212 240 1315 179 1401 145 1659 337 1264 648)\shad0.585\bord1.404}Goodbye.
+Dialogue: 0,0:10:46.46,0:10:46.54,Default,Toad,0,0,0,,{\an5\fscx39\fscy39\frz323.6\pos(1303.23,226.14)\org(1316.23,255.39)\iclip(m 1107 337 l 1212 240 1315 179 1401 145 1659 337 1264 648)\shad0.585\bord1.404}Goodbye.
+Dialogue: 0,0:10:46.54,0:10:47.46,Default,Toad,0,0,0,,{\an5\fscx39\fscy39\frz323.6\pos(1317.23,233.14)\org(1330.23,262.39)\iclip(m 1107 337 l 1212 240 1315 179 1401 145 1659 337 1264 648)\shad0.585\bord1.404}Goodbye.
 Dialogue: 0,0:10:47.46,0:10:48.71,Default,MT,445,5,0,,Uh...
 Dialogue: 0,0:10:48.00,0:10:48.71,Default,Jesse,-15,465,0,,Huh.
 Dialogue: 0,0:10:49.42,0:10:50.55,Default,MT,0,0,0,,Jesse, your hand.
