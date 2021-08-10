@@ -171,7 +171,7 @@ Dialogue: 0,0:05:53.46,0:05:55.21,Phone,Jesse,0,0,0,,{\frz0.25\pos(1035,885)}You
 Dialogue: 0,0:05:56.46,0:05:57.59,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}Did you get all that?
 Dialogue: 0,0:05:57.59,0:05:58.92,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}It was epic!
 Dialogue: 0,0:05:59.51,0:06:03.34,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}Your brother beefed it.
-Dialogue: 0,0:06:05.39,0:06:06.35,Default,MT,0,0,0,,What you watching?
+Dialogue: 0,0:06:05.39,0:06:06.35,Default,MT,0,0,0,,Whatcha watching?
 Dialogue: 0,0:06:06.35,0:06:07.05,Default,Jesse,0,0,0,,Nothing.
 Dialogue: 0,0:06:07.05,0:06:08.89,Default,MT,0,0,0,,Didn't sound like nothing.
 Dialogue: 0,0:06:16.15,0:06:17.90,Default,Sieve,0,0,0,,Hey, Jesse, you there?
