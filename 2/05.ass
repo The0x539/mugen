@@ -22,69 +22,69 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.03,0:00:10.99,Default,Jesse,0,0,0,,Oh, do you know\Nmy reflection?
-Dialogue: 0,0:00:10.99,0:00:12.87,Default,MT,0,0,0,,We don't all\Nknow each other.
+Dialogue: 0,0:00:09.03,0:00:10.99,Default,Jesse,0,0,0,,Oh, do you know {\i1}my{\i0} reflection?
+Dialogue: 0,0:00:10.99,0:00:12.87,Default,MT,0,0,0,,We don't all know each other.
 Dialogue: 0,0:00:12.87,0:00:14.24,Default,Jesse,0,0,0,,But if you did...
-Dialogue: 0,0:00:14.24,0:00:15.62,Default,MT,0,0,0,,We don't.
-Comment: 0,0:00:15.62,0:00:16.50,Default,Jesse,0,0,0,,Ah!
+Dialogue: 0,0:00:14.24,0:00:15.62,Default,MT,0,0,0,,We don't...
+Comment: 0,0:00:15.62,0:00:16.50,Default,Jesse,0,0,0,,Ahh!
 Dialogue: 0,0:00:16.50,0:00:18.25,Default,MT,0,0,0,,Alan Dracula!
-Dialogue: 0,0:00:18.25,0:00:19.87,Default,Jesse,0,0,0,,Alan, what is\Nwith you today?
-Dialogue: 0,0:00:19.87,0:00:21.17,Default,MT,0,0,0,,What's with him\Nevery day?
-Dialogue: 0,0:00:25.21,0:00:26.97,Default,MT,0,0,0,,Wow.
-Dialogue: 0,0:00:25.21,0:00:26.97,Default,Jesse,0,0,0,,Whoa.
-Dialogue: 0,0:00:26.97,0:00:28.51,Default,Jesse,0,0,0,,Do reflections\Ngo to the bathroom?
-Dialogue: 0,0:00:28.51,0:00:30.22,Default,MT,0,0,0,,Okay!\NQuestion time's over.
-Dialogue: 0,0:00:30.22,0:00:31.76,Default,Jesse,0,0,0,,All right.\NAll right. All right.
-Dialogue: 0,0:00:31.76,0:00:34.97,Default,Jesse,0,0,0,,Then what about\Nsinging time?!
+Dialogue: 0,0:00:18.25,0:00:19.87,Default,Jesse,0,0,0,,Alan, what is with you today?
+Dialogue: 0,0:00:19.87,0:00:21.17,Default,MT,0,0,0,,What's with him {\i1}every{\i0} day?
+Dialogue: 0,0:00:25.21,0:00:26.97,Default,MT,-215,665,0,,Whoa.
+Dialogue: 0,0:00:25.21,0:00:26.97,Default,Jesse,385,65,0,,Wow.
+Dialogue: 0,0:00:26.97,0:00:28.51,Default,Jesse,0,0,0,,Do reflections go to the bathroom?
+Dialogue: 0,0:00:28.51,0:00:30.22,Default,MT,0,0,0,,Okay! Question time's over.
+Dialogue: 0,0:00:30.22,0:00:31.76,Default,Jesse,0,0,0,,All right, all right, all right.
+Dialogue: 0,0:00:31.76,0:00:34.97,Default,Jesse,0,0,0,,Then what about... singing time?
 Dialogue: 0,0:00:34.97,0:00:36.64,Default,Jesse,0,0,0,,{\i1}Travel friends
-Dialogue: 0,0:00:36.64,0:00:39.39,Default,Jesse,0,0,0,,{\i1}They're friends to the very end
+Dialogue: 0,0:00:36.64,0:00:39.39,Default,Jesse,0,0,0,,{\i1}They're friends 'til the very end
 Dialogue: 0,0:00:39.39,0:00:40.81,Default,MT,0,0,0,,{\i1}Travel friends
 Dialogue: 0,0:00:40.81,0:00:42.61,Default,MT,0,0,0,,{\i1}There's no rhythm in this song
 Dialogue: 0,0:00:42.61,0:00:45.44,Default,MT,0,0,0,,{\i1}Which makes it very, very dumb
 Dialogue: 0,0:00:44.23,0:00:45.44,Default,Jesse,0,0,0,,{\i1\alphaFF}easyWhich makes it very, very {\alpha}easy{\alphaFF}dumb
 Dialogue: 0,0:00:46.86,0:00:48.86,Default,Jesse,0,0,0,,{\i1}Brought together by the majesty
 Dialogue: 0,0:00:48.86,0:00:50.53,Default,Jesse,0,0,0,,{\i1}Of a superpowered deer
-Dialogue: 0,0:00:50.53,0:00:51.74,Default,Jesse,0,0,0,,Take it, A.D.!
-Dialogue: 0,0:00:52.87,0:00:54.83,Default,Jesse,0,0,0,,Ah!\NAlan Dracula!
+Dialogue: 0,0:00:50.53,0:00:51.74,Default,Jesse,0,0,0,,Take it, AD!
+Dialogue: 0,0:00:52.87,0:00:54.83,Default,Jesse,0,0,0,,Gah! Alan Dracula!
 Comment: 0,0:00:58.08,0:00:59.83,Default,MT,0,0,0,,Mnh-hmp!
 Dialogue: 0,0:00:59.83,0:01:00.67,Default,Jesse,0,0,0,,Ah!
 Dialogue: 0,0:01:00.67,0:01:02.46,Default,Jesse,0,0,0,,Cold feet! Ooh!\NCold, cold, cold, cold!{whatever}
-Dialogue: 0,0:01:02.46,0:01:04.50,Default,MT,0,0,0,,Oh, poor little\Nsuperpowered deer.
+Dialogue: 0,0:01:02.46,0:01:04.50,Default,MT,0,0,0,,Aw, poor little superpowered deer.
 Dialogue: 0,0:01:04.50,0:01:06.21,Default,MT,0,0,0,,Don't sniff those, okay?
-Dialogue: 0,0:01:08.42,0:01:10.47,Default,Jesse,0,0,0,,Let's say\Nyour prime dies.
+Dialogue: 0,0:01:08.42,0:01:10.47,Default,Jesse,0,0,0,,Let's say your prime dies.
 Dialogue: 0,0:01:10.47,0:01:12.68,Default,Jesse,0,0,0,,Tulip's gone—\Ngot in a bad Jet-Ski accident
 Dialogue: 0,0:01:12.68,0:01:14.51,Default,Jesse,0,0,0,,or was eaten by a seal\Nor something.
-Dialogue: 0,0:01:14.51,0:01:16.97,Default,Jesse,0,0,0,,Do you reflect her body?
-Dialogue: 0,0:01:16.97,0:01:19.31,Default,MT,0,0,0,,Mm. No.
+Dialogue: 0,0:01:14.51,0:01:16.97,Default,Jesse,0,0,0,,Do you... reflect her body?
+Dialogue: 0,0:01:16.97,0:01:19.31,Default,MT,0,0,0,,Mmm, no.
 Dialogue: 0,0:01:19.31,0:01:22.40,Default,MT,0,0,0,,Once a prime dies,\Nthe flecs make you choose
 Dialogue: 0,0:01:22.40,0:01:26.27,Default,MT,0,0,0,,if you want to have your memories erased \Nand reflect a new prime,
 Dialogue: 0,0:01:26.27,0:01:31.86,Default,MT,0,0,0,,or keep your memories but become a flec \Nto "protect and enforce the barrier."
-Dialogue: 0,0:01:31.86,0:01:33.82,Default,Jesse,0,0,0,,But you're not doing\Neither.
-Dialogue: 0,0:01:33.82,0:01:35.74,Default,MT,0,0,0,,No, both options\Nare stupid.
+Dialogue: 0,0:01:31.86,0:01:33.82,Default,Jesse,0,0,0,,But you're not doing either.
+Dialogue: 0,0:01:33.82,0:01:35.74,Default,MT,0,0,0,,No. Both options are stupid.
 Dialogue: 0,0:01:35.74,0:01:38.20,Default,Jesse,0,0,0,,Hmm. Yeah.
 Dialogue: 0,0:01:38.20,0:01:40.91,Default,Jesse,0,0,0,,So, um, if someone—
-Dialogue: 0,0:01:40.91,0:01:44.29,Default,Jesse,0,0,0,,not me— practices\Nkissing in a mirror,
+Dialogue: 0,0:01:40.91,0:01:44.29,Default,Jesse,0,0,0,,not me— practices kissing in a mirror,
 Dialogue: 0,0:01:44.29,0:01:46.09,Default,Jesse,0,0,0,,can their reflection\Nsee them doing it?
 Dialogue: 0,0:01:46.09,0:01:47.34,Default,Jesse,0,0,0,,A-Again, not me.
-Dialogue: 0,0:01:47.34,0:01:49.01,Default,Jesse,0,0,0,,Someone else,\Ndifferent person.
+Dialogue: 0,0:01:47.34,0:01:49.01,Default,Jesse,0,0,0,,Someone else, different person.
 Dialogue: 0,0:01:49.01,0:01:50.42,Default,Jesse,0,0,0,,Did I say "not me"—
 Dialogue: 0,0:01:50.42,0:01:51.01,Default,Jesse,0,0,0,,Hm?
-Dialogue: 0,0:01:51.51,0:01:52.51,Default,Jesse,0,0,0,,Ew.
+Dialogue: 0,0:01:51.51,0:01:52.51,Default,Jesse,0,0,0,,Eugh.
 Dialogue: 0,0:01:52.51,0:01:53.76,Default,Jesse,0,0,0,,Aw, ugh.
 Dialogue: 0,0:01:53.76,0:01:54.76,Default,MT,0,0,0,,Looks pretty deep.
 Dialogue: 0,0:01:54.76,0:01:58.26,Default,Jesse,0,0,0,,Think Alan Dracula\Nwould let us ride him across?
-Dialogue: 0,0:01:58.26,0:01:59.60,Default,Jesse,0,0,0,,Huh?
+Dialogue: 0,0:01:58.26,0:01:59.02,Default,Jesse,0,0,0,,Huh?
 Comment: 0,0:02:03.14,0:02:04.52,Default,MT,0,0,0,,Ohhhhh!
-Dialogue: 0,0:02:04.52,0:02:06.27,Default,MT,0,0,0,,Come on, Casanova!
-Dialogue: 0,0:02:06.27,0:02:08.27,Default,Jesse,0,0,0,,Hey!\NI said it was someone else!
+Dialogue: 0,0:02:04.52,0:02:06.27,Default,MT,0,0,0,,C'mon, Casanova!
+Dialogue: 0,0:02:06.27,0:02:08.27,Default,Jesse,0,0,0,,Hey! I said it was someone else!
 Dialogue: 0,0:02:09.19,0:02:11.69,Default,MT,0,0,0,,Coming in for a landing,\NAlan Dracula!
 Comment: 0,0:02:11.69,0:02:12.36,Default,MT,0,0,0,,Ugh!
 Comment: 0,0:02:13.28,0:02:14.32,Default,Both,0,0,0,,Aah!
-Dialogue: 0,0:02:14.66,0:02:16.87,Default,MT,0,0,0,,Thanks.\NMuch appreciated.
-Dialogue: 0,0:02:17.66,0:02:21.08,Default,MT,0,0,0,,Ah! Is it too much to ask\Nfor a regular door?
+Dialogue: 0,0:02:14.66,0:02:16.87,Default,MT,0,0,0,,Thanks. Much appreciated.
+Dialogue: 0,0:02:17.66,0:02:21.08,Default,MT,0,0,0,,Agh! Is it too much to ask\Nfor a regular door?
 Dialogue: 0,0:02:21.08,0:02:23.29,Default,Jesse,0,0,0,,Alan Dracula,\Nbe useful for once
 Dialogue: 0,0:02:23.29,0:02:24.67,Default,Jesse,0,0,0,,and laser away\Nthose vines.
-Dialogue: 0,0:02:24.67,0:02:27.17,Default,MT,0,0,0,,Watch— they'll just\Nexplode into more mud.
+Dialogue: 0,0:02:24.67,0:02:27.17,Default,MT,0,0,0,,Watch. They'll just explode \Ninto more mud.
 Comment: 0,0:02:27.17,0:02:28.50,Default,,0,0,0,,Oh!
 Dialogue: 0,0:02:29.67,0:02:31.59,Default,Jesse,0,0,0,,That's more like it,\NAlan Dracula!
 Dialogue: 0,0:02:31.59,0:02:32.84,Default,Perry,0,0,0,,Hey, wow.\NThank you.
@@ -93,93 +93,93 @@ Dialogue: 0,0:02:34.34,0:02:35.18,Default,Both,0,0,0,,Whoa!
 Dialogue: 0,0:02:35.18,0:02:36.64,Default,MT,0,0,0,,You can talk?
 Dialogue: 0,0:02:36.64,0:02:38.26,Default,Jesse,0,0,0,,You can talk!
 Dialogue: 0,0:02:38.26,0:02:40.06,Default,Perry,0,0,0,,Well, um, yeah,\Nyou bet.
-Dialogue: 0,0:02:40.06,0:02:43.02,Default,Perry,0,0,0,,Another one of my amazing\Nsuperpowers, I guess,
-Dialogue: 0,0:02:43.02,0:02:44.31,Default,Perry,0,0,0,,or magic or science.
-Dialogue: 0,0:02:44.31,0:02:45.35,Default,Perry,0,0,0,,You know,\None of those things.
+Dialogue: 0,0:02:40.06,0:02:43.02,Default,Perry,0,0,0,,Another one of my amazing\Nsuperpowers, I guess.
+Dialogue: 0,0:02:43.02,0:02:44.31,Default,Perry,0,0,0,,Or magic, or science.
+Dialogue: 0,0:02:44.31,0:02:45.35,Default,Perry,0,0,0,,Y'know, one of those things.
 Dialogue: 0,0:02:45.35,0:02:46.73,Default,Jesse,0,0,0,,Yeah, yeah, checks out.
 Dialogue: 0,0:02:46.73,0:02:48.02,Default,MT,0,0,0,,No, it doesn't.
 Dialogue: 0,0:02:48.02,0:02:49.98,Default,MT,0,0,0,,Hey, what's in your mouth.
 Dialogue: 0,0:02:49.98,0:02:51.73,Default,Perry,0,0,0,,Hello, hi.\NNice to meet you.
 Dialogue: 0,0:02:51.73,0:02:53.65,Default,Perry,0,0,0,,Hopped aboard your deer pal\Nback in the mud.
-Dialogue: 0,0:02:53.65,0:02:55.70,Default,MT,0,0,0,,Out of the mouth,\Nparasite, now!
+Dialogue: 0,0:02:53.65,0:02:55.70,Default,MT,0,0,0,,Out of the mouth, parasite. Now!
 Dialogue: 0,0:02:55.70,0:02:57.66,Default,Perry,0,0,0,,Hey! Whoa! What's with\Nthe name-calling?
 Dialogue: 0,0:02:57.66,0:02:59.74,Default,Perry,0,0,0,,You want to call me a name,\Nhow about Perry?
-Dialogue: 0,0:02:59.74,0:03:01.49,Default,Perry,0,0,0,,You'd like that,\Nright, Perry?
-Dialogue: 0,0:03:01.49,0:03:02.83,Default,Perry,0,0,0,,That's cute.\NI'm cute.
+Dialogue: 0,0:02:59.74,0:03:01.49,Default,Perry,0,0,0,,You'd like that, right? Perry?
+Dialogue: 0,0:03:01.49,0:03:02.83,Default,Perry,0,0,0,,That's cute. I'm cute.
 Dialogue: 0,0:03:02.83,0:03:05.16,Default,MT,0,0,0,,Saying you're cute\Ndoesn't make you cute.
 Dialogue: 0,0:03:05.16,0:03:06.83,Default,Jesse,0,0,0,,Yeah, parasite!
-Dialogue: 0,0:03:06.83,0:03:09.17,Default,Perry,0,0,0,,Pals, that's such\Na harsh label.
+Dialogue: 0,0:03:06.83,0:03:09.17,Default,Perry,0,0,0,,Pals, that's such a harsh label.
 Dialogue: 0,0:03:09.17,0:03:10.92,Default,Perry,0,0,0,,I'm a symbiotic creature.
 Dialogue: 0,0:03:10.92,0:03:14.05,Default,Perry,0,0,0,,I help and hang out like those little birds \Nwho clean crocodile teeth.
-Dialogue: 0,0:03:14.05,0:03:15.63,Default,Perry,0,0,0,,You don't call them\Nparasites.
-Dialogue: 0,0:03:15.63,0:03:16.93,Default,Perry,0,0,0,,And, hey,\Ncheck this out.
+Dialogue: 0,0:03:14.05,0:03:15.63,Default,Perry,0,0,0,,You don't call {\i1}them{\i0} parasites.
+Dialogue: 0,0:03:15.63,0:03:16.93,Default,Perry,0,0,0,,And, hey, check this out.
 Dialogue: 0,0:03:16.93,0:03:18.47,Default,Perry,0,0,0,,I'm practical.
-Dialogue: 0,0:03:18.47,0:03:20.39,Default,Perry,0,0,0,,Remember when I zapped away\Nthose vines?
-Dialogue: 0,0:03:20.39,0:03:22.81,Default,Perry,0,0,0,,Your deer pal Alvin would\Nhave never done that.
-Dialogue: 0,0:03:22.81,0:03:24.73,Default,Perry,0,0,0,,I'll never sneeze your feet\Ninto ice,
+Dialogue: 0,0:03:18.47,0:03:20.39,Default,Perry,0,0,0,,Remember when I zapped away those vines?
+Dialogue: 0,0:03:20.39,0:03:22.81,Default,Perry,0,0,0,,Your deer pal Alvin would've never done that.
+Dialogue: 0,0:03:22.81,0:03:24.73,Default,Perry,0,0,0,,I'll never sneeze your feet into ice,
 Dialogue: 0,0:03:24.73,0:03:27.23,Default,Perry,0,0,0,,and you can ride me\Nlike a horsey all day long.
 Dialogue: 0,0:03:27.23,0:03:28.40,Default,Perry,0,0,0,,Convenient, right?
-Dialogue: 0,0:03:28.40,0:03:29.94,Default,MT,0,0,0,,But I thought you came\Nfrom the mud.
-Dialogue: 0,0:03:29.94,0:03:30.98,Default,MT,0,0,0,,How do you know\Nabout all that?
-Dialogue: 0,0:03:31.32,0:03:33.07,Default,Perry,0,0,0,,I can read this guy's mind,\Nand let me tell you—
-Dialogue: 0,0:03:33.07,0:03:34.82,Default,Perry,0,0,0,,he likes you both\Nvery much...
-Dialogue: 0,0:03:41.49,0:03:42.91,Default,Perry,0,0,0,,...almost as much as grass,
+Dialogue: 0,0:03:28.40,0:03:29.94,Default,MT,0,0,0,,But I thought you came from the mud.
+Dialogue: 0,0:03:29.94,0:03:30.98,Default,MT,0,0,0,,How do you know about all that?
+Dialogue: 0,0:03:31.32,0:03:33.07,Default,Perry,0,0,0,,I can read this guy's mind,\Nand lemme tell ya,
+Dialogue: 0,0:03:33.07,0:03:34.82,Default,Perry,0,0,0,,he likes you both very much.
+Dialogue: 0,0:03:41.49,0:03:42.91,Default,Perry,0,0,0,,Almost as much as grass,
 Dialogue: 0,0:03:42.91,0:03:45.37,Default,Perry,0,0,0,,which, uh, seems to occupy\Nevery other waking thought.
-Dialogue: 0,0:03:45.37,0:03:47.04,Default,Jesse,0,0,0,,That actually checks out.
+Dialogue: 0,0:03:45.37,0:03:47.04,Default,Jesse,0,0,0,,{\i1}That{\i0} actually checks out.
 Dialogue: 0,0:03:47.04,0:03:50.17,Default,MT,0,0,0,,So Alan can still\Nthink for himself?
-Dialogue: 0,0:03:50.17,0:03:52.75,Default,Perry,0,0,0,,Oh, sure, old antler-head\Nloves this new setup.
-Dialogue: 0,0:03:52.75,0:03:54.21,Default,Perry,0,0,0,,We're like\Nbrain roommates.
+Dialogue: 0,0:03:50.17,0:03:52.75,Default,Perry,0,0,0,,Oh, sure, old Antler-Head\Nloves this new setup.
+Dialogue: 0,0:03:52.75,0:03:54.21,Default,Perry,0,0,0,,We're like brain roommates.
 Dialogue: 0,0:03:54.21,0:03:58.13,Default,Jesse,0,0,0,,MT, having an Alan Dracula\Nwho actually listens to us
 Dialogue: 0,0:03:58.13,0:03:59.93,Default,Jesse,0,0,0,,might not be\Nsuch a bad thing.
-Dialogue: 0,0:03:59.93,0:04:01.72,Default,MT,0,0,0,,As long as it's not\Nhurting him.
+Dialogue: 0,0:03:59.93,0:04:01.72,Default,MT,0,0,0,,As long as it's not hurting him.
 Dialogue: 0,0:04:01.72,0:04:03.77,Default,Perry,0,0,0,,Oh, wow, gosh.\NI would never.
 Comment: 0,0:04:05.31,0:04:06.60,Default,Both,0,0,0,,Whoa!
 Comment: 0,0:04:06.60,0:04:08.69,Default,Both,0,0,0,,Ah!
 Dialogue: 0,0:04:08.69,0:04:09.56,Default,Both,0,0,0,,Whoa.
-Dialogue: 0,0:04:09.56,0:04:11.65,Default,Perry,0,0,0,,Now let's get this boy's\Nnumber down.
-Dialogue: 0,0:04:15.61,0:04:16.78,Default,Jesse,0,0,0,,Whoa.
-Dialogue: 0,0:04:15.61,0:04:16.78,Default,MT,0,0,0,,Uh...
+Dialogue: 0,0:04:09.56,0:04:11.65,Default,Perry,0,0,0,,Now, let's get this boy's number down.
+Dialogue: 0,0:04:15.61,0:04:16.78,Default,Jesse,425,25,0,,Whoa.
+Dialogue: 0,0:04:15.61,0:04:16.78,Default,MT,-285,735,0,,Uh...
 Dialogue: 0,0:04:18.49,0:04:19.28,Default,Perry,0,0,0,,After you.
 Dialogue: 0,0:04:19.28,0:04:20.87,Default,Perry,0,0,0,,See, that's polite.\NI'm polite.
-Dialogue: 0,0:04:20.87,0:04:23.95,Default,MT,0,0,0,,Please never turn your hoof\Ninto an adult human hand again.
+Dialogue: 0,0:04:20.87,0:04:23.95,Default,MT,0,0,0,,{\i1}Please{\i0} never turn your hoof\Ninto an adult human hand again.
 Dialogue: 0,0:04:23.95,0:04:25.66,Default,Jesse,0,0,0,,Down low, APD!
 Dialogue: 0,0:04:25.66,0:04:27.71,Default,Perry,0,0,0,,Anyone else feel\Na song coming on?
 Comment: 0,0:04:26.95,0:04:27.71,Default,Jesse,0,0,0,,Whoa!
 Dialogue: 0,0:04:28.04,0:04:29.50,Default,Perry,0,0,0,,{\i1}Travel friends
 Dialogue: 0,0:04:29.50,0:04:31.63,Default,Perry,0,0,0,,{\i1}They once were three but now they're four
 Dialogue: 0,0:04:31.63,0:04:33.88,Default,Perry,0,0,0,,{\i1}The travel friends are so much more
-Dialogue: 0,0:04:33.88,0:04:35.00,Default,Perry,0,0,0,,Let's bring it home,\NJesse.
+Dialogue: 0,0:04:33.88,0:04:35.00,Default,Perry,0,0,0,,Let's bring it home, Jesse.
 Dialogue: 0,0:04:35.00,0:04:38.22,Default,Jesse,0,0,0,,{\i1}Travel frieeeends
 Dialogue: 0,0:04:38.22,0:04:38.72,Default,Jesse,0,0,0,,Ah!
 Dialogue: 0,0:04:40.09,0:04:41.01,Default,Jesse,0,0,0,,Hey, M...
 Dialogue: 0,0:04:43.55,0:04:44.51,Default,Jesse,0,0,0,,Hey.
 Dialogue: 0,0:04:44.51,0:04:46.64,Default,Jesse,0,0,0,,I know this is weird, but...
-Dialogue: 0,0:04:46.64,0:04:48.52,Default,Jesse,0,0,0,,maybe we can give\NPerry a shot.
+Dialogue: 0,0:04:46.64,0:04:48.52,Default,Jesse,0,0,0,,maybe we can give Perry a shot.
 Dialogue: 0,0:04:48.52,0:04:49.89,Default,MT,0,0,0,,I don't trust him.
-Dialogue: 0,0:04:49.89,0:04:52.65,Default,Jesse,0,0,0,,Yeah, well, you didn't trust me\Nat first, either,
+Dialogue: 0,0:04:49.89,0:04:52.65,Default,Jesse,0,0,0,,Yeah, well, you didn't \Ntrust me at first, either,
 Dialogue: 0,0:04:52.65,0:04:54.48,Default,Jesse,0,0,0,,but look at us now.
 Dialogue: 0,0:04:55.90,0:04:56.86,Default,MT,0,0,0,,Yeah.
 Dialogue: 0,0:04:56.86,0:04:58.61,Default,Perry,0,0,0,,{\i1}Tardy friends\NBow-bow-ba-bow
-Dialogue: 0,0:04:58.61,0:05:00.36,Default,Perry,0,0,0,,{\i1}They're tardy\Ntill the very end
-Dialogue: 0,0:05:00.36,0:05:03.12,Default,MT,0,0,0,,Hey, does Alan seem\Nbigger to you?
+Dialogue: 0,0:04:58.61,0:05:00.36,Default,Perry,0,0,0,,{\i1}They're tardy 'til the very end
+Dialogue: 0,0:05:00.36,0:05:03.12,Default,MT,0,0,0,,Hey, does Alan seem...\Nbigger to you?
 Dialogue: 0,0:05:03.12,0:05:04.87,Default,Jesse,0,0,0,,Hmm. Maybe?
 Dialogue: 0,0:05:04.87,0:05:06.41,Default,Perry,0,0,0,,No way am I bigger.
-Dialogue: 0,0:05:06.41,0:05:08.70,Default,Perry,0,0,0,,We're outside, and I just look\Nbigger because of the big train.
+Dialogue: 0,0:05:06.41,0:05:08.70,Default,Perry,0,0,0,,We're outside, and I just look bigger \Nbecause of the big train.
 Dialogue: 0,0:05:08.70,0:05:10.46,Default,MT,0,0,0,,That's not how\Nperspective works.
-Dialogue: 0,0:05:10.46,0:05:11.87,Default,Perry,0,0,0,,Sure, it is.
+Dialogue: 0,0:05:10.46,0:05:11.87,Default,Perry,0,0,0,,Sure it is.
 Dialogue: 0,0:05:15.25,0:05:16.21,Default,Jesse,0,0,0,,Aw!
 Dialogue: 0,0:05:16.21,0:05:17.67,Default,MT,0,0,0,,Stop doing that.
-Dialogue: 0,0:05:18.42,0:05:19.92,Default,Perry,0,0,0,,But you said\Nno adult hands.
-Dialogue: 0,0:05:19.92,0:05:21.88,Default,MT,0,0,0,,Ahh!\NBaby hands are worse.
+Dialogue: 0,0:05:18.42,0:05:19.92,Default,Perry,0,0,0,,But you said no {\i1}adult{\i0} hands.
+Dialogue: 0,0:05:19.92,0:05:21.88,Default,MT,0,0,0,,Gah! Baby hands are worse.
 Dialogue: 0,0:05:21.88,0:05:22.93,Default,MT,0,0,0,,Put that away.
 Comment: 0,0:05:22.93,0:05:23.93,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:05:24.97,0:05:26.51,Default,Jesse,0,0,0,,Ah, baby hands.
-Dialogue: 0,0:05:27.14,0:05:28.93,Default,Sashay,0,0,0,,The judges are\Ngetting restless!
+Dialogue: 0,0:05:27.14,0:05:28.93,Default,Sashay,0,0,0,,The judges are getting restless!
 Dialogue: 0,0:05:28.93,0:05:30.73,Default,MT,0,0,0,,And you are?
 Dialogue: 0,0:05:32.65,0:05:34.40,Default,Sashay,0,0,0,,I'm Sashay, baby.
 Dialogue: 0,0:05:34.40,0:05:38.36,Default,Sashay,0,0,0,,I'm head honchess here\Nat Sashay's Runway Fairway.
 Dialogue: 0,0:05:38.36,0:05:40.49,Default,Sashay,0,0,0,,If you don't hit\Nthe exit runway pronto,
-Dialogue: 0,0:05:40.49,0:05:42.82,Default,Sashay,0,0,0,,the judges\Nare going to wig out.
+Dialogue: 0,0:05:40.49,0:05:42.82,Default,Sashay,0,0,0,,the judges are going to wig out.
 Dialogue: 0,0:05:42.82,0:05:44.16,Default,Sashay,0,0,0,,Pun very much intended.
 Dialogue: 0,0:05:44.16,0:05:45.58,Default,Jesse,0,0,0,,Exit runway?
 Dialogue: 0,0:05:45.58,0:05:46.74,Default,Sashay,0,0,0,,Yes, darling.
@@ -189,7 +189,7 @@ Dialogue: 0,0:06:04.47,0:06:05.34,Default,Sashay,0,0,0,,Ta-da!
 Dialogue: 0,0:06:05.34,0:06:06.51,Default,Both,0,0,0,,Uh...
 Dialogue: 0,0:06:06.51,0:06:07.60,Default,Perry,0,0,0,,Seems easy enough.
 Dialogue: 0,0:06:07.60,0:06:10.02,Default,MT,0,0,0,,Tut-tut! We can't keep\Nthose judges waiting.
-Dialogue: 0,0:06:15.77,0:06:18.98,Default,MT,0,0,0,,It's time for\NSashay's Runway Fairway.
+Dialogue: 0,0:06:15.77,0:06:18.98,Default,MT,0,0,0,,It's time for Sashay's Runway Fairway.
 Dialogue: 0,0:06:20.36,0:06:22.95,Default,MT,0,0,0,,Give it up for\Nour first contestant.
 Dialogue: 0,0:06:22.95,0:06:25.28,Default,MT,0,0,0,,You won't believe\Nwhat you'll Jes-see!
 Comment: 0,0:06:26.78,0:06:28.20,Default,Jesse,0,0,0,,Ah! Oh.
@@ -198,10 +198,10 @@ Comment: 0,0:06:29.12,0:06:31.25,Default,Jesse,0,0,0,,Uh. Uh. Uh.
 Comment: 0,0:06:31.25,0:06:33.79,Default,Jesse,0,0,0,,Ah. Da. Ha!
 Comment: 0,0:06:33.79,0:06:35.29,Default,Jesse,0,0,0,,Ooh. Oh! Oh.
 Dialogue: 0,0:06:35.29,0:06:36.42,Default,Sashay,0,0,0,,Judges?
-Dialogue: 0,0:06:36.79,0:06:39.38,Default,Sashay,0,0,0,,Lucky number 9,\Nlooking fine.
+Dialogue: 0,0:06:36.79,0:06:39.38,Default,Sashay,0,0,0,,Lucky number 9, looking fine.
 Dialogue: 0,0:06:39.38,0:06:42.55,Default,Sashay,0,0,0,,Round that up to a 10,\Nand you're a winner, darling.
 Dialogue: 0,0:06:42.55,0:06:43.63,Default,Sashay,0,0,0,,You may exit.
-Dialogue: 0,0:06:45.97,0:06:47.26,Default,Sashay,0,0,0,,Hope you didn't fill up
+Dialogue: 0,0:06:45.97,0:06:47.26,Default,Sashay,0,0,0,,Hope you didn't fill up,
 Dialogue: 0,0:06:47.26,0:06:49.89,Default,Sashay,0,0,0,,because this tank's\Nrunning on MT!
 Dialogue: 0,0:07:00.98,0:07:03.57,Default,Sashay,0,0,0,,Avant-garde?\NMore like avant-great!
 Dialogue: 0,0:07:03.57,0:07:05.11,Default,Sashay,0,0,0,,You may exit.
@@ -209,32 +209,32 @@ Dialogue: 0,0:07:05.91,0:07:09.91,Default,Sashay,0,0,0,,Don't stake our final co
 Dialogue: 0,0:07:09.91,0:07:12.24,Default,Sashay,0,0,0,,It's Alan Dracula!
 Comment: 0,0:07:14.96,0:07:16.04,Default,Perry,0,0,0,,Heh.
 Comment: 0,0:07:35.77,0:07:36.56,Default,Perry,0,0,0,,Heh, heh.
-Dialogue: 0,0:07:38.23,0:07:40.15,Default,Jesse,0,0,0,,Oh, oh, oh, oh!
-Dialogue: 0,0:07:39.31,0:07:40.15,Default,MT,0,0,0,,Whoa.
-Dialogue: 0,0:07:41.82,0:07:43.28,Default,Sashay,0,0,0,,Hole in 1 million, baby!
-Dialogue: 0,0:07:43.28,0:07:44.74,Default,Sashay,0,0,0,,Hole in 1 million, baby!
+Dialogue: 0,0:07:38.23,0:07:40.15,Default,Jesse,545,-95,0,,Oh, oh, oh, oh!
+Dialogue: 0,0:07:39.31,0:07:40.15,Default,MT,-15,465,0,,Whoa.
+Dialogue: 0,0:07:41.82,0:07:43.28,Default,Sashay,0,5,0,,{\alphaFF}...{\r}Hole in one...{\alphaFF} million, baby!
+Dialogue: 0,0:07:43.28,0:07:44.74,Default,Sashay,0,5,0,,Hole in one million, baby!
 Dialogue: 0,0:07:44.74,0:07:47.03,Default,Sashay,0,0,0,,I couldn't have done it\Nbetter myself.
 Dialogue: 0,0:07:47.03,0:07:49.45,Default,Sashay,0,0,0,,You may all exit!
-Dialogue: 0,0:07:50.07,0:07:52.58,Default,MT,0,0,0,,Whoa. I can't believe I'm saying this, but...
-Dialogue: 0,0:07:52.58,0:07:54.50,Default,MT,0,0,0,,nice work in there.
+Dialogue: 0,0:07:50.07,0:07:52.58,Default,MT,0,0,0,,Wow. I can't believe \NI'm saying this, but...
+Dialogue: 0,0:07:52.58,0:07:54.50,Default,MT,0,0,0,,nice work in there!
 Dialogue: 0,0:07:54.50,0:07:56.50,Default,Perry,0,0,0,,Hey, hey, hey! How about\Na little personal space?
-Dialogue: 0,0:07:56.50,0:07:58.92,Default,MT,0,0,0,,But I thought\NAlan Dracula liked that.
-Dialogue: 0,0:07:58.92,0:08:00.42,Default,Perry,0,0,0,,Well, you know,\Npeople change.
-Dialogue: 0,0:08:00.42,0:08:01.67,Default,Perry,0,0,0,,Hey, check out\Nthis new door.
-Dialogue: 0,0:08:02.50,0:08:04.51,Default,Perry,0,0,0,,Look, ma, no baby hands.
+Dialogue: 0,0:07:56.50,0:07:58.92,Default,MT,0,0,0,,But... I thought\NAlan Dracula liked that.
+Dialogue: 0,0:07:58.92,0:08:00.42,Default,Perry,0,0,0,,Well, you know, people change.
+Dialogue: 0,0:08:00.42,0:08:01.67,Default,Perry,0,0,0,,Hey, check out this new door!
+Dialogue: 0,0:08:02.50,0:08:04.51,Default,Perry,0,0,0,,Look, ma! No baby hands.
 Dialogue: 0,0:08:09.09,0:08:10.76,Default,Perry,0,0,0,,Who's hungry for adventure?
-Dialogue: 0,0:08:10.76,0:08:13.26,Default,Jesse,0,0,0,,Me! I'm also hungry\Nfor real food!
-Dialogue: 0,0:08:24.65,0:08:27.99,Default,Perry,0,0,0,,Complimentary chips and—\Nhey! —thick, meaty chili.
+Dialogue: 0,0:08:10.76,0:08:13.26,Default,Jesse,0,0,0,,Me! I'm also hungry for real food!
+Dialogue: 0,0:08:24.65,0:08:27.99,Default,Perry,0,0,0,,Complimentary chips, \Nand hey— thick, meaty chili.
 Dialogue: 0,0:08:27.99,0:08:29.70,Default,Perry,0,0,0,,Meat and chips— great!
-Dialogue: 0,0:08:29.70,0:08:32.58,Default,Perry,0,0,0,,I'll bet you the old Alden\Ncouldn't do that. Ha, ha!
+Dialogue: 0,0:08:29.70,0:08:32.58,Default,Perry,0,0,0,,I betcha the old Alden\Ncouldn't do that. Ha, ha!
 Comment: 0,0:08:32.58,0:08:34.62,Default,Perry,0,0,0,,Ah!
 Comment: 0,0:08:34.62,0:08:36.50,Default,Perry,0,0,0,,Mmm. Oh.
-Dialogue: 0,0:08:36.50,0:08:38.00,Default,Jesse,0,0,0,,Wait.\NWhat are you doing?
-Dialogue: 0,0:08:38.00,0:08:39.58,Default,Jesse,0,0,0,,Alan Dracula is\Na vegetarian!
+Dialogue: 0,0:08:36.50,0:08:38.00,Default,Jesse,0,0,0,,Wait. What are you doing?
+Dialogue: 0,0:08:38.00,0:08:39.58,Default,Jesse,0,0,0,,Alan Dracula's a vegetarian!
 Dialogue: 0,0:08:39.58,0:08:40.83,Default,Perry,0,0,0,,Well, not anymore.
 Dialogue: 0,0:08:40.83,0:08:43.54,Default,Perry,0,0,0,,See, I'm growing and changing,\Njust like you, Jerome.
 Dialogue: 0,0:08:43.54,0:08:45.67,Default,Jesse,0,0,0,,Um, it's Jesse.
-Dialogue: 0,0:08:45.67,0:08:46.92,Default,Perry,0,0,0,,Yeah, like I said,\NJess—
+Dialogue: 0,0:08:45.67,0:08:46.92,Default,Perry,0,0,0,,Yeah, like I said, Jess—
 Comment: 0,0:08:47.84,0:08:48.92,Default,Jesse,0,0,0,,Whoa!
 Comment: 0,0:08:47.84,0:08:48.92,Default,MT,0,0,0,,Ah!
 Comment: 0,0:08:51.76,0:08:52.43,Default,MT,0,0,0,,Aah!
@@ -244,7 +244,7 @@ Comment: 0,0:08:56.18,0:08:57.06,Default,Jesse,0,0,0,,Aah!
 Dialogue: 0,0:08:59.31,0:09:01.06,Default,Jesse,0,0,0,,Why are his powers\Ngoing haywire?
 Dialogue: 0,0:09:01.06,0:09:04.07,Default,MT,0,0,0,,I think Alan Dracula's\Ntrying to kick Perry out.
 Dialogue: 0,0:09:04.07,0:09:06.73,Default,MT,0,0,0,,Alan's fighting it off\Nlike an infection,
-Dialogue: 0,0:09:06.73,0:09:08.74,Default,MT,0,0,0,,and you're definitely\Ngetting bigger.
+Dialogue: 0,0:09:06.73,0:09:08.74,Default,MT,0,0,0,,and you're {\i1}definitely{\i0}\Ngetting bigger.
 Dialogue: 0,0:09:08.74,0:09:09.99,Default,Perry,0,0,0,,Uh, okay, rude.
 Dialogue: 0,0:09:09.99,0:09:12.41,Default,Perry,0,0,0,,I'm pretty sure\NI'm the same size!
 Comment: 0,0:09:12.41,0:09:14.03,Default,Perry,0,0,0,,Ahhh!
@@ -281,11 +281,12 @@ Dialogue: 0,0:10:29.02,0:10:29.86,Default,Jesse,0,0,0,,Ahh!
 Dialogue: 0,0:10:32.65,0:10:34.41,Default,MT,0,0,0,,Welcome back,\NAlan Dracula.
 Dialogue: 0,0:10:34.41,0:10:36.20,Default,Jesse,0,0,0,,Sorry we didn't\Nget you out sooner.
 Dialogue: 0,0:10:37.45,0:10:38.16,Default,Jesse,0,0,0,,Huh?
-Dialogue: 0,0:10:41.37,0:10:44.46,Default,MT,0,0,0,,Look at that— Alan Dracula\Ngot your number down.
-Dialogue: 0,0:10:44.46,0:10:46.04,Default,Perry,0,0,0,,Wow!\NGreat job, Jimmy.
+Dialogue: 0,0:10:41.37,0:10:42.54,Default,MT,0,0,0,,Look at that.
+Dialogue: 0,0:10:42.54,0:10:44.46,Default,MT,0,0,0,,Alan Dracula got your number down.
+Dialogue: 0,0:10:44.46,0:10:46.04,Default,Perry,0,0,0,,Wow! Great job, Jimmy.
 Dialogue: 0,0:10:46.04,0:10:48.13,Default,Perry,0,0,0,,Kind of thanks to me, too,\Nthough, right?
 Dialogue: 0,0:10:48.13,0:10:49.96,Default,Perry,0,0,0,,Now, whose mouth\Nam I hopping in next?
-Dialogue: 0,0:10:52.76,0:10:54.84,Default,Perry,0,0,0,,Guys, guys!
+Dialogue: 0,0:10:52.76,0:10:54.84,Default,Perry,0,0,0,,Guys? Guys!
 Dialogue: 0,0:10:54.84,0:10:55.93,Default,Perry,0,0,0,,Aw, come on!
-Dialogue: 0,0:10:55.93,0:10:58.18,Default,Perry,0,0,0,,I spent two years stuck\Nin a succulent.
-Dialogue: 0,0:10:58.18,0:11:00.22,Default,Perry,0,0,0,,Let me hop in one of\Nyour mouths!
+Dialogue: 0,0:10:55.93,0:10:58.18,Default,Perry,0,0,0,,I spent two years \Nstuck in a succulent.
+Dialogue: 0,0:10:58.18,0:11:00.22,Default,Perry,0,0,0,,Lemme hop in one of\Nyour mouths!
