@@ -22,58 +22,41 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.34,0:00:08.07,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:09.04,0:00:11.04,Default,,0,0,0,,[ Door clicking ]
-Dialogue: 0,0:00:11.04,0:00:13.15,Default,,0,0,0,,[ Train rattling ]
-Dialogue: 0,0:00:15.04,0:00:16.43,Default,,0,0,0,,[ Thud! ]
-Dialogue: 0,0:00:16.43,0:00:19.88,Default,,0,0,0,,[ All cheering ]
 Dialogue: 0,0:00:19.88,0:00:22.40,Default,,0,0,0,,Hmm,\Nisn't it beautiful?
 Dialogue: 0,0:00:22.40,0:00:24.95,Default,,0,0,0,,It's okay.\NAdmire me.
 Dialogue: 0,0:00:24.95,0:00:26.71,Default,,0,0,0,,How long have\Nyou been on here?
 Dialogue: 0,0:00:26.71,0:00:28.51,Default,,0,0,0,,What did you do?
 Dialogue: 0,0:00:28.51,0:00:32.20,Default,,0,0,0,,A while. And what it took\Nto be the best.
-Dialogue: 0,0:00:32.86,0:00:36.48,Default,,0,0,0,,[ Twinkle! ]
-Dialogue: 0,0:00:36.48,0:00:38.41,Default,,0,0,0,,You got a name?\NNope.
-Dialogue: 0,0:00:38.41,0:00:39.76,Default,,0,0,0,,You can call her MT.\NUgh.
+Dialogue: 0,0:00:36.48,0:00:38.41,Default,,0,0,0,split,You got a name?\NNope.
+Dialogue: 0,0:00:38.41,0:00:39.76,Default,,0,0,0,split,You can call her MT.\NUgh.
 Dialogue: 0,0:00:39.76,0:00:42.07,Default,,0,0,0,,I'm Jesse, and this\Nis Alan Dracula.
-Dialogue: 0,0:00:42.07,0:00:43.66,Default,,0,0,0,,[ Snorts ]
-Dialogue: 0,0:00:43.66,0:00:45.90,Default,,0,0,0,,[ Chews ]
 Dialogue: 0,0:00:45.90,0:00:47.97,Default,,0,0,0,,Want some?
-Dialogue: 0,0:00:47.97,0:00:49.35,Default,,0,0,0,,[ Chews ]Good?
+Dialogue: 0,0:00:47.97,0:00:49.35,Default,,0,0,0,,Good?
 Dialogue: 0,0:00:49.35,0:00:51.67,Default,,0,0,0,,Hmm, it's pretty good.
-Dialogue: 0,0:00:51.67,0:00:53.05,Default,,0,0,0,,[ Swallows ]
 Dialogue: 0,0:00:53.05,0:00:54.22,Default,,0,0,0,,I don't know why I said that.
-Dialogue: 0,0:00:54.22,0:00:56.05,Default,,0,0,0,,It tastes like old pennies.
+Dialogue: 0,0:00:54.22,0:00:56.05,Default,,0,0,0,ed,It tastes like old pennies.
 Dialogue: 0,0:00:56.05,0:00:57.91,Default,,0,0,0,,Then wheel it.\NYou don't like it?
 Dialogue: 0,0:00:57.91,0:00:59.99,Default,,0,0,0,,Don't eat it.\NKick it to the wheels.
 Dialogue: 0,0:00:59.99,0:01:02.06,Default,,0,0,0,,You do what you want.
-Dialogue: 0,0:01:03.40,0:01:04.58,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:01:04.58,0:01:06.75,Default,,0,0,0,,[ Thuds ]
 Dialogue: 0,0:01:06.75,0:01:08.82,Default,,0,0,0,,Look at you.
 Dialogue: 0,0:01:08.82,0:01:10.69,Default,,0,0,0,,I like what I see.
-Dialogue: 0,0:01:10.69,0:01:12.62,Default,,0,0,0,,♪♪
-Dialogue: 0,0:01:12.62,0:01:16.55,Default,,0,0,0,,[ Indistinct conversations\Nand laughter ]
-Dialogue: 0,0:01:16.55,0:01:21.70,Default,,0,0,0,,♪♪
-Dialogue: 0,0:01:21.70,0:01:23.84,Default,,0,0,0,,[ Crash! ]
 Dialogue: 0,0:01:23.84,0:01:25.08,Default,,0,0,0,,Coooooool.
 Dialogue: 0,0:01:25.08,0:01:27.29,Default,,0,0,0,,Yeah, we took over this car.
 Dialogue: 0,0:01:27.29,0:01:28.88,Default,,0,0,0,,Now it belongs to the Apex.
 Dialogue: 0,0:01:28.88,0:01:30.12,Default,,0,0,0,,Cool name, huh?
-Dialogue: 0,0:01:30.12,0:01:31.29,Default,,0,0,0,,Yeah.\NHuh. Kind of.
+Dialogue: 0,0:01:30.12,0:01:31.29,Default,,0,0,0,split,Yeah.\NHuh. Kind of.
 Dialogue: 0,0:01:31.29,0:01:34.64,Default,,0,0,0,,I got it from a book.
 Dialogue: 0,0:01:34.64,0:01:37.51,Default,,0,0,0,,Grace, did you find\Nsome more strays?
-Dialogue: 0,0:01:37.51,0:01:40.30,Default,,0,0,0,,[ Warble! ]
 Dialogue: 0,0:01:40.30,0:01:44.27,Default,,0,0,0,,My second in command, Simon,\NI trust him with my life,
 Dialogue: 0,0:01:44.27,0:01:46.10,Default,,0,0,0,,even if he was wearing\Nblack socks and sandals
-Dialogue: 0,0:01:46.10,0:01:47.59,Default,,0,0,0,,when I first met him.[ Laughs ]
+Dialogue: 0,0:01:46.10,0:01:47.59,Default,,0,0,0,,when I first met him.
 Dialogue: 0,0:01:47.59,0:01:49.69,Default,,0,0,0,,Thanks for letting me\Nkeep my cool factor
 Dialogue: 0,0:01:49.69,0:01:51.31,Default,,0,0,0,,for 10 seconds there.
 Dialogue: 0,0:01:51.31,0:01:54.28,Default,,0,0,0,,Whew, we caught you\Njust in time.
 Dialogue: 0,0:01:57.15,0:01:58.77,Default,,0,0,0,,I thought I was doing\Npretty good.
 Dialogue: 0,0:01:58.77,0:02:00.32,Default,,0,0,0,,Yeah, look at you two.
 Dialogue: 0,0:02:00.32,0:02:03.05,Default,,0,0,0,,With those numbers, you'll\Nbe stuck here forever.
-Dialogue: 0,0:02:03.05,0:02:04.53,Default,,0,0,0,,[ Both laugh ]
-Dialogue: 0,0:02:04.53,0:02:05.67,Default,,0,0,0,,Ugh.
+Comment: 0,0:02:04.53,0:02:05.67,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:02:05.67,0:02:08.64,Default,,0,0,0,,I'm sure you had the best\Nof intentions...
 Dialogue: 0,0:02:08.64,0:02:11.16,Default,,0,0,0,,you, but I'm afraid\Nyou've been leading Jesse
 Dialogue: 0,0:02:11.16,0:02:12.78,Default,,0,0,0,,in the wrong direction.
@@ -104,7 +87,7 @@ Dialogue: 0,0:03:07.84,0:03:10.29,Default,,0,0,0,,I'll take this one.\NJesse, wi
 Dialogue: 0,0:03:10.29,0:03:11.81,Default,,0,0,0,,Excuse me? Hi.
 Dialogue: 0,0:03:11.81,0:03:14.88,Default,,0,0,0,,I respect the whole vibe\Nyou've got going on here,
 Dialogue: 0,0:03:14.88,0:03:17.40,Default,,0,0,0,,but we don't...\NWait.
-Dialogue: 0,0:03:17.40,0:03:19.71,Default,,0,0,0,,Where's Alan Dracula?What? The deer?
+Dialogue: 0,0:03:17.40,0:03:19.71,Default,,0,0,0,split,Where's Alan Dracula?What? The deer?
 Dialogue: 0,0:03:19.71,0:03:21.20,Default,,0,0,0,,Probably taken\Nto be stabled.
 Dialogue: 0,0:03:21.20,0:03:22.65,Default,,0,0,0,,Didn't think you'd want him\Nrunning off.
 Dialogue: 0,0:03:22.65,0:03:23.75,Default,,0,0,0,,Stabled?
@@ -126,12 +109,10 @@ Dialogue: 0,0:03:52.09,0:03:54.40,Default,,0,0,0,,Whaaaaaaat?
 Dialogue: 0,0:03:54.40,0:03:57.09,Default,,0,0,0,,Cool.Whoa, slow down there.
 Dialogue: 0,0:03:57.09,0:03:59.23,Default,,0,0,0,,You don't want to end up\Nlike Lucy.
 Dialogue: 0,0:03:59.23,0:04:01.03,Default,,0,0,0,,Aim first, okay?
-Dialogue: 0,0:04:01.03,0:04:08.97,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:08.97,0:04:12.63,Default,,0,0,0,,[ Gasps ] This is the\Nbest day of my life.\NI know.
+Dialogue: 0,0:04:08.97,0:04:12.63,Default,,0,0,0,split,This is the\Nbest day of my life.\NI know.
 Dialogue: 0,0:04:12.63,0:04:14.80,Default,,0,0,0,,I'm clipping you so I\Ncan catch you if you fall,
 Dialogue: 0,0:04:14.80,0:04:17.84,Default,,0,0,0,,but also don't fall\Nbecause I've never tested it.
-Dialogue: 0,0:04:17.84,0:04:21.57,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:21.57,0:04:24.05,Default,,0,0,0,,Aah!
+Comment: 0,0:04:21.57,0:04:24.05,Default,,0,0,0,,Aah!
 Dialogue: 0,0:04:24.05,0:04:26.09,Default,,0,0,0,,Alan Dracula!
 Dialogue: 0,0:04:26.09,0:04:27.92,Default,,0,0,0,,Alan Dracula!
 Dialogue: 0,0:04:27.92,0:04:29.37,Default,,0,0,0,,Do malls have crane games?
@@ -141,8 +122,7 @@ Dialogue: 0,0:04:33.85,0:04:35.24,Default,,0,0,0,,Yeah, you are, null.
 Dialogue: 0,0:04:35.24,0:04:37.31,Default,,0,0,0,,Grace and Simon say\Nyou're not even real.
 Dialogue: 0,0:04:37.31,0:04:39.45,Default,,0,0,0,,Well, Grace and Simon\Nare about to lose
 Dialogue: 0,0:04:39.45,0:04:41.45,Default,,0,0,0,,the shortest member\Nof their little club.
-Dialogue: 0,0:04:41.45,0:04:43.31,Default,,0,0,0,,Psh. [ Laughs ]
-Dialogue: 0,0:04:43.31,0:04:51.70,Default,,0,0,0,,♪♪
+Dialogue: 0,0:04:41.45,0:04:43.31,Default,,0,0,0,,Psh.
 Dialogue: 0,0:04:51.70,0:04:53.50,Default,,0,0,0,,Huh? Huh-whaa!
 Dialogue: 0,0:04:53.50,0:04:55.43,Default,,0,0,0,,You good?\NSomething I should know?
 Dialogue: 0,0:04:55.43,0:04:58.57,Default,,0,0,0,,It's fine probably.
@@ -161,10 +141,9 @@ Dialogue: 0,0:05:28.98,0:05:30.50,Default,,0,0,0,,different from us, huh?
 Dialogue: 0,0:05:30.50,0:05:33.54,Default,,0,0,0,,I mean, she doesn't even\Nhave a number.
 Dialogue: 0,0:05:33.54,0:05:36.16,Default,,0,0,0,,Yeah, well, she wouldn't.
 Dialogue: 0,0:05:36.16,0:05:37.30,Default,,0,0,0,,She's not a passenger.
-Dialogue: 0,0:05:37.30,0:05:40.37,Default,,0,0,0,,Exactly, she's a null.A what?
+Dialogue: 0,0:05:37.30,0:05:40.37,Default,,0,0,0,split,Exactly, she's a null.A what?
 Dialogue: 0,0:05:40.37,0:05:42.13,Default,,0,0,0,,Oh, I'm sorry.
 Dialogue: 0,0:05:42.13,0:05:43.86,Default,,0,0,0,,I forgot that\Nyou don't know.
-Dialogue: 0,0:05:43.86,0:05:45.34,Default,,0,0,0,,[ Chuckles ]
 Dialogue: 0,0:05:45.34,0:05:49.38,Default,,0,0,0,,Null, it means nothing,\Nnot even a zero.
 Dialogue: 0,0:05:49.38,0:05:50.86,Default,,0,0,0,,I read it in a book.
 Dialogue: 0,0:05:50.86,0:05:52.80,Default,,0,0,0,,Oh, uh, yeah.
@@ -184,28 +163,25 @@ Dialogue: 0,0:06:24.34,0:06:27.00,Default,,0,0,0,,that you got pulled into.
 Dialogue: 0,0:06:27.00,0:06:28.18,Default,,0,0,0,,We found a null.
 Dialogue: 0,0:06:28.18,0:06:29.69,Default,,0,0,0,,Don't know if\Nit's dangerous.
 Dialogue: 0,0:06:31.42,0:06:34.35,Default,,0,0,0,,Alan Dracula, where are you?
-Dialogue: 0,0:06:34.35,0:06:36.56,Default,,0,0,0,,Alan Dra-- Whoa!\NHuh?
-Dialogue: 0,0:06:36.56,0:06:39.08,Default,,0,0,0,,Hold him still.\NCome on.
+Dialogue: 0,0:06:34.35,0:06:36.56,Default,,0,0,0,,Alan Dra— Whoa!\NHuh?
+Dialogue: 0,0:06:36.56,0:06:39.08,Default,,0,0,0,split,Hold him still.\NCome on.
 Dialogue: 0,0:06:39.08,0:06:42.16,Default,,0,0,0,,What?\NHey, knock it off.
-Dialogue: 0,0:06:42.16,0:06:43.78,Default,,0,0,0,,Whoa. Aah!Huh?
-Dialogue: 0,0:06:43.78,0:06:45.37,Default,,0,0,0,,What is wrong with you?Aah!
-Dialogue: 0,0:06:45.37,0:06:46.82,Default,,0,0,0,,Huh?[ Grunts ]
+Dialogue: 0,0:06:42.16,0:06:43.78,Default,,0,0,0,split,Whoa. Aah!Huh?
+Dialogue: 0,0:06:43.78,0:06:45.37,Default,,0,0,0,split,What is wrong with you?Aah!
+Dialogue: 0,0:06:45.37,0:06:46.82,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:46.82,0:06:48.06,Default,,0,0,0,,Ahhh.
 Dialogue: 0,0:06:48.06,0:06:50.92,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:50.92,0:06:52.27,Default,,0,0,0,,Yes!
 Dialogue: 0,0:06:52.27,0:06:53.75,Default,,0,0,0,,Nice.
-Dialogue: 0,0:06:53.75,0:06:55.44,Default,,0,0,0,,[ Growls ]
-Dialogue: 0,0:06:55.44,0:06:58.93,Default,,0,0,0,,Aah!Ow, ow, ow, ow.
+Dialogue: 0,0:06:55.44,0:06:58.93,Default,,0,0,0,split,Aah!Ow, ow, ow, ow.
 Dialogue: 0,0:06:58.93,0:07:01.42,Default,,0,0,0,,Simon is gonna have\Nsome explaining to do.
 Dialogue: 0,0:07:01.42,0:07:02.62,Default,,0,0,0,,Is it dangerous?
 Dialogue: 0,0:07:02.62,0:07:05.35,Default,,0,0,0,,Doesn't seem like\Nhe can touch us.
-Dialogue: 0,0:07:05.35,0:07:07.53,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:07.53,0:07:08.98,Default,,0,0,0,,[ Giggles ]
 Dialogue: 0,0:07:08.98,0:07:11.46,Default,,0,0,0,,Does he have anything\Nbesides these cubes?
 Dialogue: 0,0:07:11.46,0:07:12.70,Default,,0,0,0,,Nuh-uh.
 Dialogue: 0,0:07:12.70,0:07:15.26,Default,,0,0,0,,Not that I can find,\Nit's all junk.
-Dialogue: 0,0:07:15.26,0:07:18.64,Default,,0,0,0,,[ Sighs ] Let's see.
-Dialogue: 0,0:07:18.64,0:07:20.09,Default,,0,0,0,,Huh![ Shattering ]
+Dialogue: 0,0:07:15.26,0:07:18.64,Default,,0,0,0,,Let's see.
+Comment: 0,0:07:18.64,0:07:20.09,Default,,0,0,0,,Huh!
 Dialogue: 0,0:07:20.09,0:07:21.85,Default,,0,0,0,,Aah!
 Dialogue: 0,0:07:21.85,0:07:23.16,Default,,0,0,0,,Huh?
 Dialogue: 0,0:07:23.16,0:07:26.75,Default,,0,0,0,,Simon, do you have any idea\Nwhat is going on in your car?
@@ -214,7 +190,7 @@ Dialogue: 0,0:07:28.34,0:07:31.41,Default,,0,0,0,,Your little toadies were tryin
 Dialogue: 0,0:07:31.41,0:07:32.48,Default,,0,0,0,,He's shaking.
 Dialogue: 0,0:07:32.48,0:07:34.45,Default,,0,0,0,,The deer?\NWhat?
 Dialogue: 0,0:07:34.45,0:07:36.28,Default,,0,0,0,,Hey, look at me\Nwhen I'm talking to you.
-Dialogue: 0,0:07:36.28,0:07:37.97,Default,,0,0,0,,Who do you --I'm talkin' now.
+Dialogue: 0,0:07:36.28,0:07:37.97,Default,,0,0,0,split,Who do you—\NI'm talkin' now.
 Dialogue: 0,0:07:37.97,0:07:40.42,Default,,0,0,0,,I've got a number,\Nand you don't.
 Dialogue: 0,0:07:40.42,0:07:42.66,Default,,0,0,0,,You two are only as good\Nas you are useful.
 Dialogue: 0,0:07:42.66,0:07:44.80,Default,,0,0,0,,I thought we could at least\Nget something from the deer,
@@ -225,22 +201,16 @@ Dialogue: 0,0:07:50.91,0:07:52.81,Default,,0,0,0,,You can't help him\Nlike we ca
 Dialogue: 0,0:07:54.81,0:07:57.44,Default,,0,0,0,,I'm afraid your first raid\Ndidn't have any loot.
 Dialogue: 0,0:07:57.44,0:07:58.82,Default,,0,0,0,,Next time will be better,
 Dialogue: 0,0:07:58.82,0:08:01.92,Default,,0,0,0,,but that doesn't mean\Nit's a total waste.
-Dialogue: 0,0:08:01.92,0:08:05.31,Default,,0,0,0,,Yeah!!
+Dialogue: 0,0:08:01.92,0:08:05.31,Default,,0,0,0,,Yeah!
 Dialogue: 0,0:08:05.31,0:08:07.00,Default,,0,0,0,,He doesn't seem\Nto like it.
 Dialogue: 0,0:08:07.00,0:08:08.59,Default,,0,0,0,,Nulls can't actually\Nfeel anything.
 Dialogue: 0,0:08:08.59,0:08:10.17,Default,,0,0,0,,They're not real.
-Dialogue: 0,0:08:10.17,0:08:13.76,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:13.76,0:08:16.35,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:08:16.35,0:08:18.35,Default,,0,0,0,,[ Ding! Crackle! ]
-Dialogue: 0,0:08:18.35,0:08:28.88,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:28.88,0:08:30.88,Default,,0,0,0,,Empty handed\Nbut high spirited?
 Dialogue: 0,0:08:30.88,0:08:32.47,Default,,0,0,0,,Eh,\Ncould have been worse.
 Dialogue: 0,0:08:32.47,0:08:34.03,Default,,0,0,0,,Jesse was a natural.
 Dialogue: 0,0:08:34.03,0:08:35.72,Default,,0,0,0,,Hey, where's MT?
-Dialogue: 0,0:08:35.72,0:08:38.69,Default,,0,0,0,,[ Blows landing, MT straining ]
-Dialogue: 0,0:08:38.69,0:08:40.93,Default,,0,0,0,,Hey!\NNngh!
-Dialogue: 0,0:08:40.93,0:08:42.55,Default,,0,0,0,,[ MT straining ]
-Dialogue: 0,0:08:42.55,0:08:43.69,Default,,0,0,0,,[ Gasps ]
+Dialogue: 0,0:08:38.69,0:08:40.93,Default,,0,0,0,split,Hey!\NNngh!
 Dialogue: 0,0:08:43.69,0:08:45.87,Default,,0,0,0,,Hey, let me go!
 Dialogue: 0,0:08:45.87,0:08:47.97,Default,,0,0,0,,Jesse, don't listen to them!
 Dialogue: 0,0:08:47.97,0:08:49.01,Default,,0,0,0,,M-MT?
@@ -250,10 +220,10 @@ Dialogue: 0,0:08:53.67,0:08:55.18,Default,,0,0,0,,She broke Todd's foot.
 Dialogue: 0,0:08:55.18,0:08:56.46,Default,,0,0,0,,What are you doing to her?
 Dialogue: 0,0:08:56.46,0:08:58.29,Default,,0,0,0,,You don't need to worry\Nabout it.
 Dialogue: 0,0:08:58.29,0:08:59.67,Default,,0,0,0,,When you're part of the Apex,
-Dialogue: 0,0:08:59.67,0:09:02.05,Default,,0,0,0,,the Apex takes\Ncare of you.Stop it!
+Dialogue: 0,0:08:59.67,0:09:02.05,Default,,0,0,0,split,the Apex takes\Ncare of you.Stop it!
 Dialogue: 0,0:09:02.05,0:09:04.02,Default,,0,0,0,,Tell me exactly what\Nyou're doing to my friend.
-Dialogue: 0,0:09:04.02,0:09:06.92,Default,,0,0,0,,Now.\NShe was trying\Nto trick you,
-Dialogue: 0,0:09:06.92,0:09:09.16,Default,,0,0,0,,so we're gonna\Nwheel her.\NI --
+Dialogue: 0,0:09:04.02,0:09:06.92,Default,,0,0,0,split,Now.\NShe was trying\Nto trick you,
+Dialogue: 0,0:09:06.92,0:09:09.16,Default,,0,0,0,split,so we're gonna\Nwheel her.\NI—
 Dialogue: 0,0:09:09.16,0:09:11.17,Default,,0,0,0,,W-What?
 Dialogue: 0,0:09:11.17,0:09:12.69,Default,,0,0,0,,What is wrong with you?!
 Dialogue: 0,0:09:12.69,0:09:14.17,Default,,0,0,0,,Get your hands off her.
@@ -263,31 +233,24 @@ Dialogue: 0,0:09:18.45,0:09:20.76,Default,,0,0,0,,I'm not going to be a part\Nof
 Dialogue: 0,0:09:20.76,0:09:23.07,Default,,0,0,0,,on or off the train.
 Dialogue: 0,0:09:23.07,0:09:24.42,Default,,0,0,0,,I'm done with you.
 Dialogue: 0,0:09:24.42,0:09:26.35,Default,,0,0,0,,And anyone else like you.
-Dialogue: 0,0:09:26.35,0:09:28.25,Default,,0,0,0,,[ MT straining ]
 Dialogue: 0,0:09:28.25,0:09:29.81,Default,,0,0,0,,Aah!
 Dialogue: 0,0:09:29.81,0:09:31.60,Default,,0,0,0,,Aah!
 Dialogue: 0,0:09:31.60,0:09:32.91,Default,,0,0,0,,A-Aah!
-Dialogue: 0,0:09:32.91,0:09:34.22,Default,,0,0,0,,[ Thud! ]
-Dialogue: 0,0:09:34.22,0:09:37.85,Default,,0,0,0,,Ah!\NAaaah!
+Dialogue: 0,0:09:34.22,0:09:37.85,Default,,0,0,0,split,Ah!\NAaaah!
 Dialogue: 0,0:09:37.85,0:09:39.54,Default,,0,0,0,,I'm sorry I left you.
-Dialogue: 0,0:09:39.54,0:09:41.06,Default,,0,0,0,,[ Snorts ]\NAww.
+Dialogue: 0,0:09:39.54,0:09:41.06,Default,,0,0,0,,Aww.
 Dialogue: 0,0:09:41.06,0:09:45.03,Default,,0,0,0,,Jesse, I tried to do it the easy\Nway, but you made it hard.
 Dialogue: 0,0:09:45.03,0:09:48.96,Default,,0,0,0,,If you let the nulls take\Nadvantage of you, they will.
 Dialogue: 0,0:09:48.96,0:09:51.10,Default,,0,0,0,,You'll thank me\Nfor this later.
-Dialogue: 0,0:09:51.10,0:09:52.86,Default,,0,0,0,,[ Gasps ]
 Dialogue: 0,0:09:52.86,0:09:54.07,Default,,0,0,0,,Aah!
 Dialogue: 0,0:09:54.07,0:09:57.11,Default,,0,0,0,,How nice to see you again,\Nsliver.
 Dialogue: 0,0:09:57.11,0:10:00.11,Default,,0,0,0,,Aah!
-Dialogue: 0,0:10:00.11,0:10:02.08,Default,,0,0,0,,[ Both panting ]
-Dialogue: 0,0:10:02.08,0:10:03.91,Default,,0,0,0,,[ Screeching ]
-Dialogue: 0,0:10:03.91,0:10:06.57,Default,,0,0,0,,I don't know where\Nwe can hide.\NI got you.
+Dialogue: 0,0:10:03.91,0:10:06.57,Default,,0,0,0,split,I don't know where\Nwe can hide.\NI got you.
 Dialogue: 0,0:10:06.57,0:10:08.78,Default,,0,0,0,,We're getting out of here.
 Dialogue: 0,0:10:08.78,0:10:10.92,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:10.92,0:10:13.09,Default,,0,0,0,,Jesse, your number!
 Dialogue: 0,0:10:13.09,0:10:14.54,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:16.13,0:10:18.61,Default,,0,0,0,,Whoa.
-Dialogue: 0,0:10:18.61,0:10:22.27,Default,,0,0,0,,[ Whooshing ]
-Dialogue: 0,0:10:22.27,0:10:23.62,Default,,0,0,0,,♪♪
 Dialogue: 0,0:10:23.62,0:10:25.27,Default,,0,0,0,,We're going home.
 Dialogue: 0,0:10:25.27,0:10:26.97,Default,,0,0,0,,We're free!
 Dialogue: 0,0:10:29.55,0:10:31.32,Default,,0,0,0,,Ugh! Huh?
@@ -296,8 +259,5 @@ Dialogue: 0,0:10:37.60,0:10:39.60,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:42.46,0:10:43.64,Default,,0,0,0,,Jesse!
 Dialogue: 0,0:10:43.64,0:10:46.50,Default,,0,0,0,,No, no, no, no.
 Dialogue: 0,0:10:46.50,0:10:48.09,Default,,0,0,0,,Oh.
-Dialogue: 0,0:10:48.09,0:10:57.58,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:57.58,0:10:59.52,Default,,0,0,0,,[ Whirring ]Huh?
+Dialogue: 0,0:10:57.58,0:10:59.52,Default,,0,0,0,,Huh?
 Dialogue: 0,0:10:59.52,0:11:01.97,Default,,0,0,0,,End of the line,\Nsliver.
-Dialogue: 0,0:11:03.97,0:11:10.98,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:10.98,0:11:17.67,Default,,0,0,0,,♪♪
