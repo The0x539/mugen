@@ -89,10 +89,10 @@ Dialogue: 0,0:03:09.96,0:03:11.63,Default,Tulip,0,0,0,,what exactly are we looki
 Dialogue: 0,0:03:11.63,0:03:13.30,Default,The Cat,0,0,0,,We’ll know it\Nwhen we see it.
 Dialogue: 0,0:03:13.30,0:03:16.47,Default,Tulip,0,0,0,,Fine. But if you hated\Nthe Conductor so much,
 Dialogue: 0,0:03:16.47,0:03:17.30,Default,Tulip,0,0,0,,why’d you help him?
-Dialogue: 0,0:03:17.30,0:03:18.76,Default,The Cat,0,0,0,,Je suis désolé.
+Dialogue: 0,0:03:17.30,0:03:18.76,Default,The Cat,0,0,0,,Je suis désolée.
 Dialogue: 0,0:03:18.76,0:03:21.22,Default,The Cat,0,0,0,,I thought if I found you,\NI’d be left alone.
 Dialogue: 0,0:03:21.22,0:03:22.60,Default,Sad-One,0,0,0,,That’s funny!
-Dialogue: 0,0:03:22.60,0:03:24.56,Default,Sad-One,0,0,0,,That didn’t work at all!
+Dialogue: 0,0:03:22.60,0:03:24.56,Default,Sad-One,0,0,0,,That didn’t work {\i1}at all{\i0}!
 Dialogue: 0,0:03:36.65,0:03:38.66,Default,The Cat,0,0,0,,No. It didn’t.
 Dialogue: 0,0:03:47.83,0:03:49.79,Default,Teacher,0,0,0,,Excellent work, Alrick.
 Dialogue: 0,0:03:51.67,0:03:54.71,Default,Teacher,0,0,0,,Perhaps you should spend \Nless time with your toys, Amelia.
@@ -145,7 +145,7 @@ Dialogue: 0,0:05:36.94,0:05:38.11,Default,The Cat,0,0,0,,Mm-hmm.
 Dialogue: 0,0:05:38.11,0:05:40.86,Default,Alrick,0,0,0,,It is I, your normal boy-friend.
 Dialogue: 0,0:05:40.86,0:05:42.74,Default,Alrick,0,0,0,,I am a hu-mon.
 Dialogue: 0,0:05:42.74,0:05:44.16,Default,Alrick,0,0,0,,This is how I sound now.
-Dialogue: 0,0:05:44.16,0:05:46.20,Default,Alrick,0,0,0,,I do hope that it’s acceptable.
+Dialogue: 0,0:05:44.16,0:05:46.20,Default,Alrick,0,0,0,,I do hope that it’s accept-able.
 Dialogue: 0,0:05:46.20,0:05:48.79,Default,Amelia,0,0,0,,Oh, very acceptable.
 Dialogue: 0,0:05:48.79,0:05:51.04,Default,Amelia,0,0,0,,But you’re obviously a robot.
 Dialogue: 0,0:05:52.12,0:05:54.58,Default,Amelia,0,0,0,,And me?\NI’m just a simple hu-mon.
