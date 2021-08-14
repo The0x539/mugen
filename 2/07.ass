@@ -116,7 +116,22 @@ Dialogue: 0,0:03:41.95,0:03:43.37,Default,MT,0,0,0,,Yeah, that's fine.
 Dialogue: 0,0:03:43.37,0:03:45.71,Default,MT,0,0,0,,I'll make sure Alan Dracula is safe.
 Dialogue: 0,0:03:45.71,0:03:47.62,Default,MT,0,0,0,,We'll talk later, okay?
 Dialogue: 0,0:03:48.92,0:03:51.34,Default,Grace,0,0,0,,All right. Now let's get\Nyou a harpoon pack.
-Dialogue: 0,0:03:51.34,0:03:54.17,Default,Jesse,0,0,0,do not forget to do a thing here,Whaaaaaaat?
+Dialogue: 0,0:03:51.34,0:03:51.54,Default,Jesse,0,0,0,,{\pos(960,1020)}What?!
+Dialogue: 0,0:03:51.54,0:03:51.58,Default,Jesse,0,0,0,,{=0}{\pos(960,1020)}What?!
+Dialogue: 0,0:03:51.58,0:03:51.62,Default,Jesse,0,0,0,,{=0}{\bord3.62\fscx100.64\fscy100.64\shad1.51\pos(962.43,1023.38)}What?!
+Dialogue: 0,0:03:51.62,0:03:51.66,Default,Jesse,0,0,0,,{=0}{\bord3.67\fscx101.93\fscy101.93\shad1.53\pos(967.91,1032.31)}What?!
+Dialogue: 0,0:03:51.66,0:03:51.71,Default,Jesse,0,0,0,,{=0}{\bord3.77\fscx104.65\fscy104.65\shad1.57\pos(978.23,1046.75)}What?!
+Dialogue: 0,0:03:51.71,0:03:51.75,Default,Jesse,0,0,0,,{=0}{\bord3.9\fscx108.41\fscy108.41\shad1.63\pos(992.55,1066.79)}What?!
+Dialogue: 0,0:03:51.75,0:03:51.79,Default,Jesse,0,0,0,,{=0}{\bord4.08\fscx113.34\fscy113.34\shad1.7\pos(1011.25,1092.98)}What?!
+Dialogue: 0,0:03:51.79,0:03:51.83,Default,Jesse,0,0,0,,{=0}{\bord4.3\fscx119.5\fscy119.5\shad1.79\pos(1034.69,1125.81)}What?!
+Dialogue: 0,0:03:53.37,0:03:53.42,Default,Jesse,0,0,0,,{=1}{\pos(1044.92,1124.89)\fscx119.33\fscy119.33\bord4.3\shad1.79}What?!
+Dialogue: 0,0:03:53.42,0:03:53.46,Default,Jesse,0,0,0,,{=1}{\pos(1016.99,1090.41)\fscx112.97\fscy112.97\bord4.07\shad1.69}What?!
+Dialogue: 0,0:03:53.46,0:03:53.50,Default,Jesse,0,0,0,,{=1}{\pos(995.28,1063.58)\fscx108.03\fscy108.03\bord3.89\shad1.62}What?!
+Dialogue: 0,0:03:53.50,0:03:53.54,Default,Jesse,0,0,0,,{=1}{\pos(978.99,1043.46)\fscx104.32\fscy104.32\bord3.76\shad1.56}What?!
+Dialogue: 0,0:03:53.54,0:03:53.58,Default,Jesse,0,0,0,,{=1}{\pos(967.82,1029.65)\fscx101.78\fscy101.78\bord3.66\shad1.53}What?!
+Dialogue: 0,0:03:53.58,0:03:53.62,Default,Jesse,0,0,0,,{=1}{\pos(961.56,1021.92)\fscx100.35\fscy100.35\bord3.61\shad1.51}What?!
+Dialogue: 0,0:03:53.62,0:03:53.67,Default,Jesse,0,0,0,,{=1}{\pos(960,1020)}What?!
+Dialogue: 0,0:03:53.67,0:03:54.17,Default,Jesse,0,0,0,,{\pos(960,1020)}What?!
 Dialogue: 0,0:03:54.17,0:03:54.88,Default,Jesse,0,0,0,,Cool.
 Dialogue: 0,0:03:54.88,0:03:56.88,Default,Grace,0,0,0,,Whoa! Slow down there.
 Dialogue: 0,0:03:56.88,0:03:58.59,Default,Grace,0,0,0,,You don't want to end up like Lucy.
@@ -295,3 +310,7 @@ Dialogue: 0,0:10:43.41,0:10:45.00,Default,MT,0,0,0,,No. No, no, no.
 Comment: 0,0:10:46.25,0:10:47.29,Default,MT,0,0,0,,Oh.
 Dialogue: 0,0:10:57.97,0:10:59.18,Default,MT,0,0,0,,Huh?
 Dialogue: 0,0:10:59.18,0:11:01.93,Default,Mace,0,0,0,,End of the line, sliver.
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"8cf8c727-7301-47e6-af85-08016f364783"#2C"originalText"#3A"What?!"}
+Data: 1,a-mo,e{"uuid"#3A"a6d9d8b4-94ec-448b-a323-77e35c0f39e8"#2C"originalText"#3A"What?!"}
