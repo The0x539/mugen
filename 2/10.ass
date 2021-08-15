@@ -138,11 +138,23 @@ Dialogue: 0,0:05:12.88,0:05:13.52,Default,Jesse,0,0,0,,Wha!
 Dialogue: 0,0:05:13.55,0:05:13.79,Default,MT,0,0,0,,Ah!
 Dialogue: 0,0:05:13.79,0:05:15.41,Default,Jesse,0,0,0,,Ah, ah, ah!
 Dialogue: 0,0:05:15.45,0:05:17.38,Default,Jesse,0,0,0,,Where am I?\NMT!
-Dialogue: 0,0:05:19.35,0:05:21.04,Default,MT,0,0,0,,Jesse, I thought\Nyou were gone!
-Dialogue: 0,0:05:21.07,0:05:22.21,Default,Jesse,0,0,0,,MT, I didn't think\NI would find you so fast!
-Dialogue: 0,0:05:22.25,0:05:25.32,Default,MT,100,960,0,,[ Talking rapidly ]
-Dialogue: 0,0:05:22.25,0:05:25.32,Default,Jesse,960,100,0,,[ Talking rapidly ]
-Dialogue: 0,0:05:27.98,0:05:30.74,Default,Jesse,0,0,0,,AD!
+Dialogue: 0,0:05:18.34,0:05:30.43,Default,,0,0,0,,
+Dialogue: 0,0:05:19.30,0:05:20.01,Default,MT,100,960,0,,Jesse!
+Dialogue: 0,0:05:20.01,0:05:20.97,Default,MT,100,960,0,,I-I thought \Nyou were gone,
+Dialogue: 0,0:05:20.97,0:05:21.80,Default,MT,100,960,0,,and I fought the flecs,
+Dialogue: 0,0:05:21.80,0:05:22.55,Default,MT,100,960,0,,and I jumped in a pod
+Dialogue: 0,0:05:22.55,0:05:24.01,Default,MT,100,960,0,,and found you \Nin a head farm, and...
+Dialogue: 0,0:05:24.01,0:05:24.93,Default,MT,100,960,0,,I watched your memories—
+Dialogue: 0,0:05:24.93,0:05:25.89,Default,MT,100,960,0,,Oh, sorry about that.
+Dialogue: 0,0:05:25.89,0:05:27.56,Default,MT,100,960,0,,I'm so happy \Nyou're back!
+Dialogue: 0,0:05:19.30,0:05:20.01,Default,Jesse,960,100,0,,MT!
+Dialogue: 0,0:05:20.01,0:05:21.47,Default,Jesse,960,100,0,,I didn't think\NI would find you so fast!
+Dialogue: 0,0:05:21.47,0:05:22.55,Default,Jesse,960,100,0,,I was super worried!
+Dialogue: 0,0:05:22.55,0:05:23.47,Default,Jesse,960,100,0,,I didn't know \Nif you were okay,
+Dialogue: 0,0:05:23.47,0:05:24.01,Default,Jesse,960,100,0,,but you are!
+Dialogue: 0,0:05:24.01,0:05:25.89,Default,Jesse,960,100,0,,I just saw my brother \Nand I apologized, but...
+Dialogue: 0,0:05:25.89,0:05:27.56,Default,Jesse,960,100,0,,I got worried \Nabout you again!
+Dialogue: 0,0:05:28.27,0:05:29.31,Default,Jesse,0,0,0,,AD!
 Dialogue: 0,0:05:30.77,0:05:31.95,Default,Sad-One,0,0,0,,Excuse me, young man.
 Dialogue: 0,0:05:31.98,0:05:33.36,Default,Sad-One,0,0,0,,This train is\Nfor fixing problems,
 Dialogue: 0,0:05:33.40,0:05:35.09,Default,Sad-One,0,0,0,,not for hang time\Nwith buds.
