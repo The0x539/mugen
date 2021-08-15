@@ -22,12 +22,12 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:09.32,0:00:10.49,Default,Glad-One,0,0,0,,Do be careful.
-Dialogue: 0,0:00:10.49,0:00:12.74,Default,Glad-One,0,0,0,,I think you accidentally slipped\Nand broke a porter.
-Dialogue: 0,0:00:12.74,0:00:15.16,Default,Sad-One,0,0,0,,Many, many times in a row.
-Dialogue: 0,0:00:20.33,0:00:22.09,Default,Glad-One,0,0,0,,Hey, I know you.
-Dialogue: 0,0:00:22.09,0:00:25.34,Default,Glad-One,0,0,0,,You're the rare foil version\Nof my friend Tulip.
-Dialogue: 0,0:00:25.34,0:00:26.09,Default,MT,0,0,0,,Aghhh!
+Dialogue: 0,0:00:09.32,0:00:10.49,Default,Glad-One,0,0,30,,Do be careful.
+Dialogue: 0,0:00:10.49,0:00:12.74,Default,Glad-One,0,0,30,,I think you accidentally slipped and broke a porter.
+Dialogue: 0,0:00:12.74,0:00:15.16,Default,Sad-One,0,0,30,,Many, many times in a row.
+Dialogue: 0,0:00:20.33,0:00:22.09,Default,Glad-One,0,0,0,,Hey, I know you!
+Dialogue: 0,0:00:22.09,0:00:25.34,Default,Glad-One,0,0,0,,You're the rare foil version\Nof my friend Tulip!
+Comment: 0,0:00:25.34,0:00:26.09,Default,MT,0,0,0,,Aghhh!
 Dialogue: 0,0:00:26.09,0:00:27.76,Default,MT,0,0,0,,I'm not Tulip.
 Dialogue: 0,0:00:27.76,0:00:28.97,Default,MT,0,0,0,,I'm not foil.
 Dialogue: 0,0:00:28.97,0:00:30.34,Default,MT,0,0,0,,I'm not reflection.
@@ -35,28 +35,29 @@ Dialogue: 0,0:00:30.34,0:00:31.43,Default,MT,0,0,0,,I'm not a sliver.
 Dialogue: 0,0:00:31.43,0:00:32.39,Default,MT,0,0,0,,I'm not a null.
 Dialogue: 0,0:00:32.39,0:00:33.93,Default,MT,0,0,0,,I'm not any of the hundreds of names
 Dialogue: 0,0:00:33.93,0:00:35.68,Default,MT,0,0,0,,that everyone wants to give me.
-Dialogue: 0,0:00:35.68,0:00:39.27,Default,MT,0,0,0,,I'm my own person who is\Ngetting off this train,
-Dialogue: 0,0:00:39.27,0:00:43.40,Default,MT,0,0,0,,and whatever gears\Nor reality-bending buttons you've got to press,
+Dialogue: 0,0:00:35.68,0:00:39.27,Default,MT,0,0,0,,I'm my own person \Nwho is getting off this train,
+Dialogue: 0,0:00:39.27,0:00:43.40,Default,MT,0,0,0,,and whatever gears or reality-bending \Nbuttons you've gotta press,
 Dialogue: 0,0:00:43.40,0:00:44.52,Default,MT,0,0,0,,you're gonna do it.
 Dialogue: 0,0:00:44.52,0:00:46.07,Default,Glad-One,0,0,0,,But why would I?
 Dialogue: 0,0:00:46.07,0:00:48.28,Default,Glad-One,0,0,0,,You're exactly where\Nyou're supposed to be.
 Dialogue: 0,0:00:48.99,0:00:49.57,Default,MT,0,0,0,,No.
 Dialogue: 0,0:00:49.57,0:00:50.24,Default,Sad-One,0,0,0,,No?
-Dialogue: 0,0:00:50.24,0:00:51.86,Default,MT,0,0,0,,No.\NGive me my exit.
-Dialogue: 0,0:00:51.86,0:00:54.28,Default,Glad-One,0,0,0,,You can't have an exit.\NYou don't have a number.
-Dialogue: 0,0:00:54.28,0:00:56.70,Default,MT,0,0,0,,Ugh!\NGive me a number then!
+Dialogue: 0,0:00:50.24,0:00:51.86,Default,MT,0,0,0,,No. Give me my exit.
+Dialogue: 0,0:00:51.86,0:00:53.32,Default,Glad-One,0,0,0,,You can't have an exit.
+Dialogue: 0,0:00:53.32,0:00:54.28,Default,Glad-One,0,0,0,,You don't have a number.
+Dialogue: 0,0:00:54.28,0:00:56.70,Default,MT,0,0,0,,Ugh! Give me a number, then!
 Dialogue: 0,0:00:56.70,0:00:58.12,Default,Glad-One,0,0,0,,Numbers are for passengers.
 Dialogue: 0,0:00:58.12,0:01:00.62,Default,Glad-One,0,0,0,,How can I expect someone\Nto grow emotionally
-Dialogue: 0,0:01:00.62,0:01:03.25,Default,Glad-One,0,0,0,,without some\Nnice, juicy math?
-Dialogue: 0,0:01:03.25,0:01:06.92,Default,MT,0,0,0,,Fine. Give me some trials,\Nwhatever.
+Dialogue: 0,0:01:00.62,0:01:03.25,Default,Glad-One,0,0,0,,without some nice, juicy math?
+Dialogue: 0,0:01:03.25,0:01:06.92,Default,MT,0,0,0,,Fine. Give me some trials, whatever.
 Dialogue: 0,0:01:06.92,0:01:08.09,Default,MT,0,0,0,,Take my memories.
-Dialogue: 0,0:01:08.09,0:01:10.22,Default,MT,0,0,0,,Tape me.\NI don't care!
+Dialogue: 0,0:01:08.09,0:01:10.22,Default,MT,0,0,0,,Tape me.\NI-I don't care!
 Dialogue: 0,0:01:10.22,0:01:11.34,Default,MT,0,0,0,,Let's do it!
 Dialogue: 0,0:01:11.34,0:01:13.72,Default,Glad-One,0,0,0,,No, you'll stay\Nand keep helping.
 Dialogue: 0,0:01:13.72,0:01:15.14,Default,Glad-One,0,0,0,,You're so good at it.
 Dialogue: 0,0:01:15.14,0:01:16.26,Default,Glad-One,0,0,0,,I can show you.
 Dialogue: 0,0:01:18.68,0:01:20.31,Default,Sad-One,0,0,0,,Ah, let's see.
-Dialogue: 0,0:01:20.31,0:01:22.19,Default,Sad-One,0,0,0,,What was\Nyour passenger's name?
+Dialogue: 0,0:01:20.31,0:01:22.19,Default,Sad-One,0,0,0,,What was your \Npassenger's name?
 Dialogue: 0,0:01:22.19,0:01:23.40,Default,MT,0,0,0,,Jesse.
 Dialogue: 0,0:01:23.40,0:01:24.36,Default,MT,0,0,0,,His name is Jesse.
 Dialogue: 0,0:01:24.36,0:01:25.86,Default,Glad-One,0,0,0,,Oh, yes, thank you.
@@ -64,73 +65,77 @@ Dialogue: 0,0:01:25.86,0:01:27.53,Default,Glad-One,0,0,0,,See? So helpful.
 Dialogue: 0,0:01:29.53,0:01:31.78,Default,Glad-One,0,0,0,,Here we go.\NHe got down to zero,
 Dialogue: 0,0:01:31.78,0:01:34.24,Default,Glad-One,0,0,0,,all sorted out\Nand off the— hmm?
 Dialogue: 0,0:01:36.95,0:01:39.66,Default,Sad-One,0,0,0,,He can't be at zero\Nbut also in process.
-Dialogue: 0,0:01:39.66,0:01:41.83,Default,Glad-One,0,0,0,,So if he's being\Nprocessed...
-Dialogue: 0,0:01:41.83,0:01:43.21,Default,MT,0,0,0,,Then he's back\Non the train.
-Dialogue: 0,0:01:43.21,0:01:45.84,Default,Glad-One,0,0,0,,Field trip to\Nthe passenger farm!
+Dialogue: 0,0:01:39.66,0:01:41.83,Default,Glad-One,0,0,0,,So if he's being processed...
+Dialogue: 0,0:01:41.83,0:01:43.21,Default,MT,0,0,0,,Then he's back on the train.
+Dialogue: 0,0:01:43.21,0:01:45.84,Default,Glad-One,0,0,0,,Field trip to the passenger farm!
 Dialogue: 0,0:01:53.43,0:01:55.18,Default,MT,0,0,0,,Alan Dracula!
 Comment: 0,0:01:56.47,0:01:57.93,Default,MT,0,0,0,,Oh!
 Dialogue: 0,0:01:57.93,0:01:59.43,Default,MT,0,0,0,,Hey, buddy.
 Dialogue: 0,0:02:04.44,0:02:05.56,Default,MT,0,0,0,,Jesse!
-Dialogue: 0,0:02:05.56,0:02:08.48,Default,Glad-One,0,0,0,,Field trip to\Nthe memory-watching machine!
-Dialogue: 0,0:02:12.86,0:02:15.28,Default,Glad-One,0,0,0,,Well, I don't get it.\NWe fixed him already.
-Dialogue: 0,0:02:15.28,0:02:18.37,Default,Sad-One,0,0,0,,Yet that greedy little\Npiglet is thirsty for more.
-Dialogue: 0,0:02:24.46,0:02:25.63,Default,Glad-One,0,0,0,,Oh, new release!
-Dialogue: 0,0:02:25.63,0:02:27.21,Default,Glad-One,0,0,0,,Gimme, gimme, gimme!
+Dialogue: 0,0:02:05.56,0:02:08.48,Default,Glad-One,0,0,0,,Field trip to the memory-watching machine!
+Dialogue: 0,0:02:12.86,0:02:15.28,Default,Glad-One,0,0,0,,I don't get it.\NWe fixed him already.
+Dialogue: 0,0:02:15.28,0:02:18.37,Default,Sad-One,0,0,0,,Yet that greedy little piglet \Nis thirsty for more.
+Dialogue: 0,0:02:24.46,0:02:25.63,Default,Glad-One,0,0,0,,Hot new release!
+Dialogue: 0,0:02:25.63,0:02:27.21,Default,Glad-One,0,0,0,,Gimme. Gimme, gimme!
 Dialogue: 0,0:02:27.21,0:02:28.50,Default,Glad-One,0,0,0,,Let's take a peek.
 Comment: 0,0:02:31.05,0:02:32.22,Default,MT,0,0,0,,Ahhh!
 Dialogue: 0,0:02:34.68,0:02:38.22,Default,Glad-One,0,0,0,,Ooh, a tape has never\Nstarted on the train before.
-Dialogue: 0,0:02:38.22,0:02:40.56,Default,Glad-One,0,0,0,Tape,Remember,\Nyou can't spell "escape"
-Dialogue: 0,0:02:40.56,0:02:42.64,Default,Glad-One,0,0,0,Tape,without companionship.
-Dialogue: 0,0:02:42.64,0:02:45.98,Default,Glad-One,0,0,0,Tape,Uh, companion-shape?\NCompanion-scape.
+Dialogue: 0,0:02:38.22,0:02:40.56,Default,Glad-One,0,0,0,Tape,Remember, you can't spell "escape"
+Dialogue: 0,0:02:40.56,0:02:42.64,Default,Glad-One,0,0,0,Tape,without "companionship".
+Dialogue: 0,0:02:42.64,0:02:45.02,Default,Glad-One,0,0,0,Tape,Uh, companion... shape?
+Dialogue: 0,0:02:45.02,0:02:45.98,Default,Glad-One,0,0,0,Tape,Companionscape.
 Dialogue: 0,0:02:45.98,0:02:53.44,Default,Sad-One,0,0,0,Tape,{\an7\q2\move(1920,60,-3600,60)}By watching this recording, you've agreed to release the train of any liabilities regarding loss of personal property or bodily injuries, including maiming, death, or transformation.
-Dialogue: 0,0:02:45.98,0:02:47.86,Default,Glad-One,0,0,0,,Com-scape-ionship.
-Dialogue: 0,0:02:47.86,0:02:49.15,Default,Glad-One,0,0,0,,Constipation.
+Dialogue: 0,0:02:45.98,0:02:47.86,Default,Glad-One,0,0,0,,Comscapeionship.
+Dialogue: 0,0:02:47.86,0:02:49.15,Default,Glad-One,0,0,0,,Comscapation.
 Dialogue: 0,0:02:49.15,0:02:50.57,Default,Jesse,0,0,0,Tape,Hey, come back!
-Dialogue: 0,0:02:50.57,0:02:52.40,Default,Jesse,0,0,0,Tape,That didn't\Nexplain anything.
-Dialogue: 0,0:02:54.95,0:02:55.99,Default,Jesse,0,0,0,Tape,Ah!
+Dialogue: 0,0:02:50.57,0:02:52.40,Default,Jesse,0,0,0,Tape,That didn't explain anything.
+Dialogue: 0,0:02:54.95,0:02:55.99,Default,Jesse,0,0,0,Tape,Huh?
 Dialogue: 0,0:02:56.53,0:02:58.83,Default,MT,0,0,0,,I didn't realize\Nhe was so scared.
 Comment: 0,0:02:58.83,0:02:59.78,Default,MT,0,0,0,,Ah!
-Dialogue: 0,0:03:01.37,0:03:02.66,Default,Glad-One,0,0,0,,Oh, look,
-Dialogue: 0,0:03:02.66,0:03:04.62,Default,Glad-One,0,0,0,,you've got\Ncostar billing now.
-Dialogue: 0,0:03:04.62,0:03:06.29,Default,Sad-One,0,0,0,,But you'll probably\Nbe paid less
-Dialogue: 0,0:03:06.29,0:03:08.54,Default,Sad-One,0,0,0,,because Hollywood breeds\Ngender inequality.
-Dialogue: 0,0:03:08.54,0:03:10.42,Default,MT,0,0,0,Tape,You can't even\Nhelp yourself.
-Dialogue: 0,0:03:10.42,0:03:13.01,Default,MT,0,0,0,Tape,That's why passengers get on\Nthis train in the first place!
-Dialogue: 0,0:03:13.01,0:03:14.01,Default,Jesse,0,0,0,Tape,Hey, don't push...
-Dialogue: 0,0:03:14.01,0:03:14.80,Default,MT,0,0,0,Tape,Ah!
+Dialogue: 0,0:03:01.37,0:03:02.66,Default,Glad-One,0,0,0,,Oh, look!
+Dialogue: 0,0:03:02.66,0:03:04.62,Default,Glad-One,0,0,0,,You've got co-star billing now.
+Dialogue: 0,0:03:04.62,0:03:08.54,Default,Sad-One,0,0,0,,But you'll probably be paid less \Nbecause Hollywood breeds gender inequality.
+Dialogue: 0,0:03:08.54,0:03:10.42,Default,MT,0,0,0,Tape,You can't even help yourself.
+Dialogue: 0,0:03:10.42,0:03:12.96,Default,MT,0,0,0,Tape,That's why passengers get on\Nthis train in the first place.
+Dialogue: 0,0:03:12.96,0:03:14.01,Default,Jesse,0,0,0,Tape,Hey, don't pu—
+Comment: 0,0:03:14.01,0:03:14.80,Default,MT,0,0,0,Tape,Ah!
 Dialogue: 0,0:03:19.10,0:03:20.51,Default,MT,0,0,0,Tape,Your friends are bad.
 Dialogue: 0,0:03:21.10,0:03:22.72,Default,MT,0,0,0,Tape,You know that, right?
 Dialogue: 0,0:03:24.14,0:03:25.02,Default,Jesse,0,0,0,Tape,Maybe.
 Dialogue: 0,0:03:25.69,0:03:28.02,Default,Glad-One,0,0,0,,Oh, train does it again.
 Dialogue: 0,0:03:28.02,0:03:29.65,Default,Glad-One,0,0,0,,Look how much he's grown.
 Dialogue: 0,0:03:29.65,0:03:31.48,Default,MT,0,0,0,,I guess I changed, too.
-Dialogue: 0,0:03:34.90,0:03:36.99,Default,Jesse,0,0,0,Tape,I got you.\NWe're getting out of here.
+Dialogue: 0,0:03:34.90,0:03:35.86,Default,Jesse,0,0,0,Tape,I got you.
+Dialogue: 0,0:03:35.86,0:03:36.99,Default,Jesse,0,0,0,Tape,We're getting out of here!
 Dialogue: 0,0:03:42.29,0:03:44.12,Default,Sad-One,0,0,0,,This is my favorite part.
-Dialogue: 0,0:03:44.12,0:03:45.79,Default,MT,0,0,0,,Please don't show me this.
+Dialogue: 0,0:03:44.12,0:03:45.50,Default,MT,0,0,0,,Please don't show me this.
 Comment: 0,0:03:48.21,0:03:49.75,Default,Jesse,0,0,0,Tape,Ah! Ah!
 Dialogue: 0,0:03:49.75,0:03:51.13,Default,Jesse,0,0,0,Tape,MT?
 Dialogue: 0,0:03:51.13,0:03:52.38,Default,Jesse,0,0,0,Tape,Where'd you go?
 Dialogue: 0,0:03:52.38,0:03:53.42,Default,Jesse,0,0,0,Tape,MT!
-Dialogue: 0,0:03:53.42,0:03:54.51,Default,Nate,0,0,0,Tape,Jesse!
+Dialogue: 0,0:03:53.42,0:03:54.51,Default,Nate,0,0,0,Tape,Jesse?
 Dialogue: 0,0:03:55.30,0:03:56.17,Default,Nate,0,0,0,Tape,Jesse!
-Dialogue: 0,0:03:56.17,0:03:58.51,Default,Nate,0,0,0,Tape,Where have you been?
-Dialogue: 0,0:03:58.51,0:03:59.14,Default,Jesse,0,0,0,Tape,Nate. \NAh!
+Dialogue: 0,0:03:56.17,0:03:57.38,Default,Nate,0,0,0,Tape,Where have you been?
+Dialogue: 0,0:03:57.38,0:03:58.51,Default,Jesse,0,0,0,Tape,Nate!
+Comment: 0,0:03:58.51,0:03:59.14,Default,Jesse,0,0,0,Tape,Ah!
 Dialogue: 0,0:03:59.84,0:04:01.93,Default,Jesse,0,0,0,Tape,I wasn't sure\NI'd see you again.
 Dialogue: 0,0:04:01.93,0:04:04.52,Default,Jesse,0,0,0,Tape,I shouldn't have let\Nthose guys hurt you.
-Dialogue: 0,0:04:04.52,0:04:08.02,Default,Jesse,0,0,0,Tape,I— I shouldn't have\Nhurt you.
+Dialogue: 0,0:04:04.52,0:04:05.60,Default,Jesse,0,0,0,Tape,I...
+Dialogue: 0,0:04:05.60,0:04:08.02,Default,Jesse,0,0,0,Tape,{\i1}I{\i0} shouldn't have hurt you.
 Dialogue: 0,0:04:08.02,0:04:09.06,Default,Jesse,0,0,0,Tape,I'm so sorry.
 Dialogue: 0,0:04:09.06,0:04:10.86,Default,Nate,0,0,0,Tape,Ah, i-it's okay.
 Dialogue: 0,0:04:10.86,0:04:12.32,Default,Nate,0,0,0,Tape,Wh-What about you?
 Dialogue: 0,0:04:12.32,0:04:13.32,Default,Nate,0,0,0,Tape,Where did you go?
-Dialogue: 0,0:04:13.32,0:04:15.15,Default,Glad-One,0,0,0,,Yeah, yeah, yeah,\Nwe don't need to hear it.
-Dialogue: 0,0:04:15.15,0:04:16.90,Default,Glad-One,0,0,0,,We just watched\Nthe hi-def version.
+Dialogue: 0,0:04:13.32,0:04:14.23,Default,Glad-One,0,0,0,,Yeah, yeah, yeah.
+Dialogue: 0,0:04:14.23,0:04:15.15,Default,Glad-One,0,0,0,,We don't need to hear it.
+Dialogue: 0,0:04:15.15,0:04:16.90,Default,Glad-One,0,0,0,,We just watched the hi-def version.
 Dialogue: 0,0:04:20.41,0:04:21.45,Default,Jesse,0,0,0,Tape,And now I'm here,
 Dialogue: 0,0:04:21.45,0:04:23.79,Default,Jesse,0,0,0,Tape,and she's still trapped on the train\Nwith those flecs.
 Dialogue: 0,0:04:23.79,0:04:25.16,Default,Nate,0,0,0,Tape,Do you think she's okay?
 Dialogue: 0,0:04:25.58,0:04:27.04,Default,Jesse,0,0,0,Tape,I don't know.
 Dialogue: 0,0:04:27.04,0:04:30.71,Default,Jesse,0,0,0,Tape,I mean, she's MT. She can probably \Ntake care of herself, but...
-Dialogue: 0,0:04:31.21,0:04:32.92,Default,Jesse,0,0,0,Tape,I promised\Nwe'd stay together.
-Dialogue: 0,0:04:34.25,0:04:37.26,Default,Nate,0,0,0,Tape,So...\Nwhat are you gonna do?
+Dialogue: 0,0:04:31.21,0:04:32.92,Default,Jesse,0,0,0,Tape,I promised we'd stay together.
+Dialogue: 0,0:04:34.25,0:04:37.26,Default,Nate,0,0,0,Tape,So... what are you gonna do?
 Dialogue: 0,0:04:37.26,0:04:38.30,Default,Jesse,0,0,0,Tape,I...
 Dialogue: 0,0:04:39.05,0:04:41.93,Default,Jesse,0,0,0,Tape,I just need to sit here\Nand think for a bit.
 Dialogue: 0,0:04:41.93,0:04:42.68,Default,Jesse,0,0,0,Tape,Okay?
@@ -144,13 +149,13 @@ Dialogue: 0,0:05:03.99,0:05:05.20,Default,Glad-One,0,0,0,,Oh, heavens no.
 Dialogue: 0,0:05:05.20,0:05:07.62,Default,Glad-One,0,0,0,,Waking a passenger\Nis a whole process.
 Dialogue: 0,0:05:07.62,0:05:10.96,Default,Glad-One,0,0,0,,It involves robots and coding\Nand juice boxes and—
 Comment: 0,0:05:11.42,0:05:12.04,Default,MT,0,0,0,,Ugh!
-Dialogue: 0,0:05:12.88,0:05:13.46,Default,Jesse,0,0,0,,Wha!
+Comment: 0,0:05:12.88,0:05:13.46,Default,Jesse,0,0,0,,Wha!
 Comment: 0,0:05:13.46,0:05:13.79,Default,MT,0,0,0,,Ah!
 Comment: 0,0:05:13.79,0:05:15.17,Default,Jesse,0,0,0,,Ah, ah, ah!
 Dialogue: 0,0:05:15.17,0:05:15.96,Default,Jesse,0,0,0,,Where am I?
 Dialogue: 0,0:05:15.96,0:05:16.75,Default,Jesse,0,0,0,,MT!
 Dialogue: 0,0:05:19.30,0:05:20.01,Default,MT,100,960,0,,Jesse!
-Dialogue: 0,0:05:20.01,0:05:20.97,Default,MT,100,960,0,,I-I thought \Nyou were gone,
+Dialogue: 0,0:05:20.01,0:05:20.97,Default,MT,100,960,0,,I thought \Nyou were gone,
 Dialogue: 0,0:05:20.97,0:05:21.80,Default,MT,100,960,0,,and I fought the flecs,
 Dialogue: 0,0:05:21.80,0:05:22.55,Default,MT,100,960,0,,and I jumped in a pod
 Dialogue: 0,0:05:22.55,0:05:24.01,Default,MT,100,960,0,,and found you \Nin a head farm, and...
@@ -158,7 +163,7 @@ Dialogue: 0,0:05:24.01,0:05:24.93,Default,MT,100,960,0,,I watched your memories�
 Dialogue: 0,0:05:24.93,0:05:25.89,Default,MT,100,960,0,,Oh, sorry about that.
 Dialogue: 0,0:05:25.89,0:05:27.56,Default,MT,100,960,0,,I'm so happy \Nyou're back!
 Dialogue: 0,0:05:19.30,0:05:20.01,Default,Jesse,960,100,0,,MT!
-Dialogue: 0,0:05:20.01,0:05:21.47,Default,Jesse,960,100,0,,I didn't think\NI would find you so fast!
+Dialogue: 0,0:05:20.01,0:05:21.47,Default,Jesse,960,100,0,,I didn't think\NI'd find you so fast!
 Dialogue: 0,0:05:21.47,0:05:22.55,Default,Jesse,960,100,0,,I was super worried!
 Dialogue: 0,0:05:22.55,0:05:23.47,Default,Jesse,960,100,0,,I didn't know \Nif you were okay,
 Dialogue: 0,0:05:23.47,0:05:24.01,Default,Jesse,960,100,0,,but you are!
@@ -166,89 +171,90 @@ Dialogue: 0,0:05:24.01,0:05:25.89,Default,Jesse,960,100,0,,I just saw my brother
 Dialogue: 0,0:05:25.89,0:05:27.56,Default,Jesse,960,100,0,,I got worried \Nabout you again!
 Dialogue: 0,0:05:28.27,0:05:29.31,Default,Jesse,0,0,0,,AD!
 Dialogue: 0,0:05:30.60,0:05:31.60,Default,Sad-One,0,0,0,,Excuse me, young man.
-Dialogue: 0,0:05:31.60,0:05:33.40,Default,Sad-One,0,0,0,,This train is\Nfor fixing problems,
-Dialogue: 0,0:05:33.40,0:05:34.94,Default,Sad-One,0,0,0,,not for hang time\Nwith buds.
-Dialogue: 0,0:05:34.94,0:05:36.36,Default,Jesse,0,0,0,,Oh, I have a problem.
-Dialogue: 0,0:05:36.36,0:05:38.36,Default,Jesse,0,0,0,,My friend is trapped\Non a train.
-Dialogue: 0,0:05:41.86,0:05:43.95,Default,Glad-One,0,0,0,,Whoo-hoo!\NNumber time!
+Dialogue: 0,0:05:31.60,0:05:33.40,Default,Sad-One,0,0,0,,This train is for fixing problems,
+Dialogue: 0,0:05:33.40,0:05:34.94,Default,Sad-One,0,0,0,,not for hang time with buds.
+Dialogue: 0,0:05:34.94,0:05:36.36,Default,Jesse,0,0,0,,Oh, I have a problem!
+Dialogue: 0,0:05:36.36,0:05:38.36,Default,Jesse,0,0,0,,My friend is trapped on a train.
+Dialogue: 0,0:05:41.86,0:05:43.95,Default,Glad-One,0,0,0,,Woo! Number time!
 Comment: 0,0:05:44.74,0:05:45.70,Default,Jesse,0,0,0,,Ah! Ah!
 Dialogue: 0,0:05:45.70,0:05:47.54,Default,Jesse,0,0,0,,Okay, this is terrifying.
 Dialogue: 0,0:05:47.54,0:05:49.00,Default,Jesse,0,0,0,,Ah! Hey, let go of me!
-Dialogue: 0,0:05:49.00,0:05:49.79,Default,Glad-One,0,0,0,,Oh, stop it.
-Dialogue: 0,0:05:49.79,0:05:51.25,Default,Glad-One,0,0,0,,You'll hurt\Nmy steward's feelings.
+Dialogue: 0,0:05:49.00,0:05:51.25,Default,Glad-One,0,0,0,,Oh, stop it. You'll hurt \Nmy Steward's feelings.
 Comment: 0,0:05:55.17,0:05:57.00,Default,Jesse,0,0,0,,Ah! Ah!
-Dialogue: 0,0:06:02.26,0:06:04.51,Default,Jesse,0,0,0,,Uh, is that\Nsupposed to happen?
+Dialogue: 0,0:06:02.26,0:06:04.51,Default,Jesse,0,0,0,,Uh... Is that supposed to happen?
 Dialogue: 0,0:06:08.18,0:06:10.06,Default,Glad-One,0,0,0,,The train fixes problems,
-Dialogue: 0,0:06:10.06,0:06:12.56,Default,Glad-One,0,0,0,,but his problem is that he needs\Nto rescue his friend.
-Dialogue: 0,0:06:12.56,0:06:14.98,Default,Sad-One,0,0,0,,But his friend is a\Ndenizen who can't get a number.
-Dialogue: 0,0:06:14.98,0:06:17.52,Default,Sad-One,0,0,0,,She can't leave.\NSo his problem is unfixable.
+Dialogue: 0,0:06:10.06,0:06:12.56,Default,Glad-One,0,0,0,,but his problem is that \Nhe needs to rescue his friend.
+Dialogue: 0,0:06:12.56,0:06:14.98,Default,Sad-One,0,0,0,,But his friend is a denizen \Nwho can't get a number.
+Dialogue: 0,0:06:14.98,0:06:17.52,Default,Sad-One,0,0,0,,She can't leave, \Nso his problem is unfixable.
 Dialogue: 0,0:06:17.52,0:06:20.23,Default,Glad-One,0,0,0,,No, no, no, his problem\Nhas to be fixed.
 Dialogue: 0,0:06:20.23,0:06:21.44,Default,Glad-One,0,0,0,,That's what we do.
 Dialogue: 0,0:06:21.44,0:06:23.20,Default,Glad-One,0,0,0,,We're the fixers.\NWe fix.
 Dialogue: 0,0:06:23.20,0:06:26.37,Default,Glad-One,0,0,0,,Oh, I have an idea.\NWhy doesn't she go with?
 Dialogue: 0,0:06:26.37,0:06:27.24,Default,Sad-One,0,0,0,,Good plan.
 Dialogue: 0,0:06:27.24,0:06:29.20,Default,Sad-One,0,0,0,,Oh, but she doesn't\Nhave a number.
-Dialogue: 0,0:06:29.20,0:06:32.37,Default,Glad-One,0,0,0,,She has to get off, but she\Ncan't get off without a number.
+Dialogue: 0,0:06:29.20,0:06:32.37,Default,Glad-One,0,0,0,,She has to get off, but she\Ncan't get off without a number...
 Dialogue: 0,0:06:32.37,0:06:33.96,Default,MT,0,0,0,,He's stuck in a loop.
 Dialogue: 0,0:06:33.96,0:06:35.37,Default,MT,0,0,0,,The train can't process it.
 Dialogue: 0,0:06:35.37,0:06:37.21,Default,Sieve,0,0,0,,There's no escape, sliver!
 Comment: 0,0:06:37.63,0:06:38.54,Default,MT,0,0,0,,Ah!
-Dialogue: 0,0:06:38.54,0:06:40.96,Default,MT,0,0,0,,Oh, leave me alone!
+Dialogue: 0,0:06:38.54,0:06:40.96,Default,MT,0,0,0,,Ugh, leave me alone!
 Dialogue: 0,0:06:40.96,0:06:42.05,Default,MT,0,0,0,,I won't go back!
-Dialogue: 0,0:06:42.47,0:06:44.68,Default,Sieve,0,0,0,,I'm not taking you\Nanywhere.
+Dialogue: 0,0:06:42.47,0:06:44.68,Default,Sieve,0,0,0,,I'm not taking you anywhere.
 Dialogue: 0,0:06:44.68,0:06:46.68,Default,Sieve,0,0,0,,I'm taking you out.
 Dialogue: 0,0:06:46.68,0:06:48.22,Default,Sieve,0,0,0,,You killed Mace.
 Dialogue: 0,0:06:48.93,0:06:50.56,Default,Sieve,0,0,0,,No more badges.
 Dialogue: 0,0:06:50.56,0:06:51.89,Default,Sieve,0,0,0,,No more protocol.
 Dialogue: 0,0:06:51.89,0:06:53.10,Default,Sad-One,0,0,0,,But he can't leave with her.
-Dialogue: 0,0:06:53.10,0:06:55.19,Default,Sad-One,0,0,0,,That won't work, but I guess\Nhe won't get off the train.
+Dialogue: 0,0:06:53.10,0:06:55.19,Default,Sad-One,0,0,0,,That won't work. Then I guess \Nhe won't get off the train.
 Dialogue: 0,0:06:55.19,0:06:56.48,Default,Glad-One,0,0,0,,Number, number,\Nnumber, number, number.
 Dialogue: 0,0:06:56.48,0:06:57.61,Default,Sieve,0,0,0,,Hey, you!
-Dialogue: 0,0:06:57.61,0:06:59.02,Default,Sieve,0,0,0,,It's your lucky day.
+Dialogue: 0,0:06:57.61,0:06:59.02,Default,Sieve,0,0,0,,It's your lucky day!
 Dialogue: 0,0:06:59.02,0:07:00.32,Default,Sieve,0,0,0,,You got a problem?
-Dialogue: 0,0:07:00.32,0:07:01.65,Default,Sieve,0,0,0,,I got a solution.
-Dialogue: 0,0:07:01.65,0:07:04.70,Default,Sieve,0,0,0,,He can't save her\Nif there's nothing to save.
+Dialogue: 0,0:07:00.32,0:07:01.65,Default,Sieve,0,0,0,,I got a solution!
+Dialogue: 0,0:07:01.65,0:07:03.03,Default,Sieve,0,0,0,,He can't save her
+Dialogue: 0,0:07:03.03,0:07:04.70,Default,Sieve,0,0,0,,if there's nothing to save.
 Dialogue: 0,0:07:04.70,0:07:06.53,Default,Sieve,0,0,0,,Just help me sand her.
 Dialogue: 0,0:07:06.53,0:07:07.95,Default,Sieve,0,0,0,,Problem solved!
-Dialogue: 0,0:07:08.74,0:07:11.62,Default,Sad-One,0,0,0,,Yeah,\Nthat would solve things.
+Dialogue: 0,0:07:08.74,0:07:11.62,Default,Sad-One,0,0,0,,Yeah, that would solve things.
 Dialogue: 0,0:07:11.62,0:07:12.62,Default,MT,0,0,0,,No!
-Dialogue: 0,0:07:12.62,0:07:15.25,Default,Jesse,0,0,0,,Wait, um, One-One,\NI'm confused.
+Dialogue: 0,0:07:12.62,0:07:15.25,Default,Jesse,0,0,0,,Wait, uh, One-One! \NI'm confused.
 Dialogue: 0,0:07:15.25,0:07:16.71,Default,Jesse,0,0,0,,What's the purpose\Nof the train again?
-Dialogue: 0,0:07:16.71,0:07:19.00,Default,Glad-One,0,0,0,,Oh, it's to help passengers.
+Dialogue: 0,0:07:16.71,0:07:19.00,Default,Glad-One,0,0,0,,Oh, it's to help passengers!
 Dialogue: 0,0:07:19.00,0:07:21.63,Default,Glad-One,0,0,0,,But wait. Your problem needs us\Nto let a denizen off.
 Dialogue: 0,0:07:21.63,0:07:23.42,Default,Glad-One,0,0,0,,Can't do that\Nwithout a number.
-Dialogue: 0,0:07:23.42,0:07:25.72,Default,Glad-One,0,0,0,,So I guess he can't\Nleave and...
+Dialogue: 0,0:07:23.42,0:07:25.72,Default,Glad-One,0,0,0,,So I guess he can't leave, and...
 Comment: 0,0:07:25.72,0:07:26.26,Default,Both,0,0,0,,Aah!
 Comment: 0,0:07:26.26,0:07:26.72,Default,Sieve,0,0,0,,Aah!
 Dialogue: 0,0:07:30.81,0:07:31.76,Default,Jesse,0,0,0,,Hey!
-Dialogue: 0,0:07:31.76,0:07:32.18,Default,Jesse,0,0,0,,Aah!
-Dialogue: 0,0:07:33.43,0:07:34.23,Default,Jesse,0,0,0,,Ugh.
+Dialogue: 0,0:07:31.76,0:07:32.18,Default,Jesse,0,0,0,,Ahhh!
+Dialogue: 0,0:07:33.43,0:07:34.23,Default,Jesse,0,0,0,,Ugh...
 Dialogue: 0,0:07:34.23,0:07:35.14,Default,MT,0,0,0,,Jesse!
 Comment: 0,0:07:38.69,0:07:41.15,Default,MT,0,0,0,,Agh! Agh! Agh!
 Comment: 0,0:07:45.19,0:07:46.61,Default,MT,0,0,0,,Ugh! Ugh!
-Dialogue: 0,0:07:46.61,0:07:49.70,Default,MT,0,0,0,,I only killed Mace because\Nhe was trying to kill me.
-Dialogue: 0,0:07:49.70,0:07:52.20,Default,Sieve,0,0,0,,And I'm finishing it\Nfor him.
+Dialogue: 0,0:07:46.61,0:07:49.70,Default,MT,0,0,0,,I only killed Mace because\Nhe was trying to kill {}me{}.
+Dialogue: 0,0:07:49.70,0:07:52.20,Default,Sieve,0,0,0,,And I'm finishing it for him!
 Comment: 0,0:07:52.74,0:07:54.62,Default,Sieve,0,0,0,,Ah! Agh!
 Dialogue: 0,0:07:54.62,0:07:55.71,Default,Sieve,0,0,0,,Come on.
-Dialogue: 0,0:08:00.00,0:08:03.09,Default,Sad-One,0,0,0,,Ah, but he needs to get off\Nthe train, too, but if she...
+Dialogue: 0,0:08:00.00,0:08:03.09,Default,Sad-One,0,0,0,,Ah, but he needs to get off\Nthe train too, but if she—
 Comment: 0,0:08:04.67,0:08:06.47,Default,Jesse,0,0,0,,Ugh. Ugh.
 Comment: 0,0:08:09.93,0:08:11.26,Default,Jesse,0,0,0,,Oh.
-Dialogue: 0,0:08:12.76,0:08:14.06,Default,MT,0,0,0,,One-one, look!
-Dialogue: 0,0:08:14.06,0:08:15.35,Default,MT,0,0,0,,I have a number.
-Dialogue: 0,0:08:15.35,0:08:16.68,Default,MT,0,0,0,,So you can give me\Nan exit.
-Dialogue: 0,0:08:16.68,0:08:17.94,Default,MT,0,0,0,,That's how it works,\Nright?
+Dialogue: 0,0:08:12.76,0:08:14.06,Default,MT,0,0,0,,One-One, look!
+Dialogue: 0,0:08:14.06,0:08:15.35,Default,MT,0,0,0,,I have a number!
+Dialogue: 0,0:08:15.35,0:08:16.68,Default,MT,0,0,0,,So you can give me an exit.
+Dialogue: 0,0:08:16.68,0:08:17.94,Default,MT,0,0,0,,That's how it works, right?
 Dialogue: 0,0:08:17.94,0:08:19.48,Default,Glad-One,0,0,0,,He can't leave his friend,
 Dialogue: 0,0:08:19.48,0:08:20.90,Default,Glad-One,0,0,0,,but she's a denizen.
-Dialogue: 0,0:08:20.90,0:08:22.44,Default,Glad-One,0,0,0,,Denizens don't have\Nnumbers.
-Dialogue: 0,0:08:24.69,0:08:28.28,Default,Glad-One,0,0,0,,But you have a number,\Nso...
-Dialogue: 0,0:08:28.28,0:08:30.11,Default,MT,0,0,0,,So we get our exit?
+Dialogue: 0,0:08:20.90,0:08:22.44,Default,Glad-One,0,0,0,,Denizens don't have numbers.
+Dialogue: 0,0:08:24.69,0:08:28.28,Default,Glad-One,0,0,0,,But you have a number, so...
+Dialogue: 0,0:08:28.28,0:08:30.11,Default,MT,0,0,0,,So we get our exits?
 Dialogue: 0,0:08:30.45,0:08:31.82,Default,Glad-One,0,0,0,,Hmm.
 Dialogue: 0,0:08:32.28,0:08:33.53,Default,Sad-One,0,0,0,,Yeah, sure, whatever.
 Comment: 0,0:08:40.42,0:08:41.42,Default,MT,0,0,0,,Ah!
 Dialogue: 0,0:08:41.42,0:08:42.25,Default,Jesse,0,0,0,,Huh?
-Dialogue: 0,0:08:47.84,0:08:50.72,Default,Jesse,0,0,0,,We're leaving together,\Nfor real this time.
-Dialogue: 0,0:08:58.89,0:08:59.69,Default,MT,0,0,0,,Aaah!
-Dialogue: 0,0:08:59.69,0:09:00.52,Default,Jesse,0,0,0,,Oh!
+Dialogue: 0,0:08:47.84,0:08:49.26,Default,Jesse,0,0,0,,We're leaving together.
+Dialogue: 0,0:08:49.26,0:08:50.59,Default,Jesse,0,0,0,,For real this time.
+Dialogue: 0,0:08:58.89,0:08:59.69,Default,MT,0,0,0,,Ahhh!
+Dialogue: 0,0:08:59.69,0:09:00.52,Default,Jesse,0,0,0,,Huh?
 Dialogue: 0,0:09:00.85,0:09:02.35,Default,MT,0,0,0,,No! Ah! Ah!
 Dialogue: 0,0:09:02.35,0:09:04.11,Default,Sieve,0,0,0,,You're done, sliver.
 Dialogue: 0,0:09:04.77,0:09:05.69,Default,Jesse,0,0,0,,Whoa!
@@ -256,26 +262,27 @@ Comment: 0,0:09:05.69,0:09:07.11,Default,MT,0,0,0,,Ah! Ah!
 Comment: 0,0:09:07.11,0:09:09.36,Default,MT,0,0,0,,Ah! Ah!
 Dialogue: 0,0:09:11.49,0:09:12.78,Default,MT,0,0,0,,Alan Dracula!
 Comment: 0,0:09:20.66,0:09:21.92,Default,Sieve,0,0,0,,Aah! Aaaah!
-Dialogue: 0,0:09:31.38,0:09:33.26,Default,Glad-One,0,0,0,,Wow!\NThat was something, huh?
-Dialogue: 0,0:09:33.26,0:09:35.18,Default,Glad-One,0,0,0,,Well, looks like I gotta\Nget you back home.
+Dialogue: 0,0:09:31.38,0:09:33.26,Default,Glad-One,0,0,0,,Wow, that was something, huh?
+Dialogue: 0,0:09:33.26,0:09:35.18,Default,Glad-One,0,0,0,,Well, looks like I've gotta\Nget you back home.
 Dialogue: 0,0:09:44.86,0:09:47.94,Default,Glad-One,0,0,0,,I really broke the mold\Nwith you, Alan Dracula.
 Dialogue: 0,0:10:01.00,0:10:01.96,Default,,0,0,0,,I'm...
 Dialogue: 0,0:10:03.37,0:10:05.46,Default,,0,0,0,,I-I'm off the train.
 Dialogue: 0,0:10:07.34,0:10:08.17,Default,Jesse,0,0,0,,Yeah.
 Dialogue: 0,0:10:09.09,0:10:10.09,Default,Jesse,0,0,0,,You are.
-Dialogue: 0,0:10:11.30,0:10:12.68,Default,Nate,0,0,0,,Jesse,
-Dialogue: 0,0:10:12.68,0:10:14.76,Default,Nate,0,0,0,,you better not\Ndisappear again.
+Dialogue: 0,0:10:11.30,0:10:12.68,Default,Nate,0,0,0,,Jesse!
+Dialogue: 0,0:10:12.68,0:10:14.76,Default,Nate,0,0,0,,You better not disappear again.
 Dialogue: 0,0:10:16.80,0:10:18.76,Default,Nate,0,0,0,,The chrome girl is real.
 Dialogue: 0,0:10:20.14,0:10:22.60,Default,,0,0,0,,Yeah, yeah, get it\Nout of your system.
 Dialogue: 0,0:10:26.11,0:10:27.98,Default,Nate,0,0,0,,Hi. I-I'm Nate.
-Dialogue: 0,0:10:28.44,0:10:31.36,Default,,0,0,0,,Uh, hi, Nate.\NI'm...
+Dialogue: 0,0:10:28.44,0:10:30.15,Default,,0,0,0,,Uh... Hi, Nate.
+Dialogue: 0,0:10:30.15,0:10:31.36,Default,,0,0,0,,I'm...
 Dialogue: 0,0:10:32.36,0:10:33.61,Default,Jesse,0,0,0,,Hmm.
-Dialogue: 0,0:10:33.61,0:10:35.78,Default,Jesse,0,0,0,,Dracula Two?
+Dialogue: 0,0:10:33.61,0:10:35.78,Default,Jesse,0,0,0,,Dracula 2?
 Dialogue: 0,0:10:36.70,0:10:37.62,Default,,0,0,0,,Mm.
 Dialogue: 0,0:10:43.29,0:10:44.29,Default,Lake,0,0,0,,I'm Lake.
 Dialogue: 0,0:10:44.29,0:10:45.58,Default,Nate,0,0,0,,Cool name.
-Dialogue: 0,0:10:46.67,0:10:48.29,Default,Lake,0,0,0,,Your brother's got\Ngood taste.
-Dialogue: 0,0:10:51.80,0:10:52.72,Default,Jesse,0,0,0,,Aah!
-Dialogue: 0,0:10:54.01,0:10:56.47,Default,Jesse,0,0,0,,I wanted to be cool one time,
-Dialogue: 0,0:10:56.47,0:10:57.68,Default,Jesse,0,0,0,,just once.
+Dialogue: 0,0:10:46.67,0:10:48.29,Default,Lake,0,0,0,,Your brother's got good taste.
+Dialogue: 0,0:10:51.80,0:10:52.72,Default,Jesse,0,0,0,,Ah!
+Dialogue: 0,0:10:54.01,0:10:56.47,Default,Jesse,0,0,0,,I wanted to be cool one time!
+Dialogue: 0,0:10:56.47,0:10:57.68,Default,Jesse,0,0,0,,Just once...
 Dialogue: 0,0:10:59.31,0:11:00.31,Default,Lake,0,0,0,,Nerd.
