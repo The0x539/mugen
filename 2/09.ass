@@ -30,7 +30,8 @@ Dialogue: 0,0:00:25.46,0:00:27.26,Default,MT,0,0,0,,we hijack it for ourselves,
 Dialogue: 0,0:00:27.26,0:00:29.51,Default,MT,0,0,0,,ride it back to\Nwherever it came from.
 Dialogue: 0,0:00:29.51,0:00:32.68,Default,MT,0,0,0,,Passengers get a number {\i1}somewhere{\i0} \Nbefore waking up on the train,
 Dialogue: 0,0:00:32.68,0:00:35.18,Default,MT,0,0,0,,and... I'm guessing \Nthe pods will lead us there.
-Dialogue: 0,0:00:35.72,0:00:39.14,Default,MT,0,0,0,,And then... I'll find \Na way to get a number.
+Dialogue: 0,0:00:35.72,0:00:37.31,Default,MT,0,0,0,,And then...
+Dialogue: 0,0:00:37.31,0:00:39.14,Default,MT,0,0,0,,I'll find a way to get a number.
 Dialogue: 0,0:00:41.98,0:00:43.15,Default,MT,0,0,0,,I'm serious.
 Dialogue: 0,0:00:43.15,0:00:44.86,Default,MT,0,0,0,,Now that Jesse is gone...
 Dialogue: 0,0:00:45.32,0:00:47.74,Default,MT,0,0,0,,Look. \NYou're all I've got.
@@ -92,11 +93,12 @@ Dialogue: 0,0:02:58.66,0:03:02.08,Default,Glad-One,0,0,0,,Instead, I'm gonna gue
 Dialogue: 0,0:03:02.08,0:03:02.79,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:03:02.79,0:03:04.37,Default,Glad-One,0,0,0,,One, barking.
 Dialogue: 0,0:03:04.37,0:03:05.96,Default,Glad-One,0,0,0,,Two, rolling over.
-Dialogue: 0,0:03:05.96,0:03:09.96,Default,Sad-One,0,0,0,,Three, he's dead, a pile of dog bones \Non the side of a long-forgotten road.
+Dialogue: 0,0:03:05.96,0:03:07.04,Default,Sad-One,0,0,0,,Three, he's dead,
+Dialogue: 0,0:03:07.04,0:03:09.96,Default,Sad-One,0,0,0,,a pile of dog bones \Non the side of a long-forgotten road.
 Dialogue: 0,0:03:09.96,0:03:11.96,Default,Glad-One,0,0,0,,Four, he's only {\i1}playing{\i0} dead,
 Dialogue: 0,0:03:11.96,0:03:14.80,Default,Glad-One,0,0,0,,a pile of {\i1}not{\i0} bones on a {\i1}not{\i0}-forgotten road!
 Dialogue: 1,0:03:11.96,0:03:14.80,Default,MT,0,0,100,,La, la, la, la, la, la, la, la, la, la, la, la, la, la!
-Dialogue: 0,0:03:29.52,0:03:31.27,Default,Glad-One,0,0,0,,We're here!
+Dialogue: 0,0:03:29.52,0:03:30.77,Default,Glad-One,0,0,0,,We're here!
 Dialogue: 0,0:03:31.27,0:03:31.94,Default,MT,0,0,0,,What?
 Dialogue: 0,0:03:31.94,0:03:34.53,Default,Sad-One,0,0,0,,Don't get excited, \Nit doesn't look very special.
 Comment: 0,0:03:34.53,0:03:35.82,Default,MT,0,0,0,,Ugh...
