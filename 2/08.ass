@@ -22,34 +22,35 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:13.91,0:00:15.62,Default,Grace,0,0,0,,I can't believe\Nhe took the exit.
-Dialogue: 0,0:00:15.62,0:00:16.75,Default,Simon,0,0,0,,He was weak.
-Dialogue: 0,0:00:16.75,0:00:17.87,Default,Grace,0,0,0,,He wasn't weak.
-Dialogue: 0,0:00:17.87,0:00:18.87,Default,Grace,0,0,0,,He was misled.
-Dialogue: 0,0:00:18.87,0:00:19.42,Default,Simon,0,0,0,,But he—
-Dialogue: 0,0:00:19.42,0:00:21.71,Default,Grace,0,0,0,,We just lost\Nanother human, Simon.
-Dialogue: 0,0:00:21.71,0:00:23.09,Default,Grace,0,0,0,,Have some respect.
+Dialogue: 0,0:00:13.91,0:00:15.62,Default,Grace,0,0,30,,I can't believe \Nhe took the exit.
+Dialogue: 0,0:00:15.62,0:00:16.75,Default,Simon,0,0,30,,He was weak.
+Dialogue: 0,0:00:16.75,0:00:17.87,Default,Grace,0,0,30,,He wasn't weak.
+Dialogue: 0,0:00:17.87,0:00:18.87,Default,Grace,0,0,30,,He was misled.
+Dialogue: 0,0:00:18.87,0:00:19.42,Default,Simon,0,0,30,,But he—
+Dialogue: 0,0:00:19.42,0:00:21.71,Default,Grace,0,0,30,,We just lost another human, Simon.
+Dialogue: 0,0:00:21.71,0:00:23.09,Default,Grace,0,0,30,,Have some respect.
 Dialogue: 0,0:00:24.38,0:00:25.51,Default,MT,0,0,0,,Jesse...
 Dialogue: 0,0:00:45.28,0:00:46.11,Default,MT,0,0,0,,Huh?
 Comment: 0,0:00:47.86,0:00:48.82,Default,MT,0,0,0,,Ah!
 Comment: 0,0:00:48.82,0:00:49.82,Default,MT,0,0,0,,Ahh!
-Dialogue: 0,0:00:56.74,0:00:59.00,Default,MT,0,0,0,,No. Oh, no, no,\Nno, no, no, no, no, no.
+Dialogue: 0,0:00:56.74,0:00:57.50,Default,MT,0,0,0,,No.
+Dialogue: 0,0:00:57.50,0:00:59.00,Default,MT,0,0,0,,Oh, no, no, no, no, no, no, no.
 Dialogue: 0,0:01:00.58,0:01:01.46,Default,MT,0,0,0,,Uh...
 Dialogue: 0,0:01:03.92,0:01:04.67,Default,MT,0,0,0,,Huh?
-Dialogue: 0,0:01:06.55,0:01:07.42,Default,MT,0,0,0,,Aaah!
-Comment: 0,0:01:11.01,0:01:12.09,Default,MT,0,0,0,,Ooh.
+Dialogue: 0,0:01:06.55,0:01:07.42,Default,MT,0,0,0,quota,Ahhh!
+Comment: 0,0:01:11.01,0:01:12.09,Default,MT,0,0,0,,Oof!
 Dialogue: 0,0:01:25.11,0:01:25.90,Default,MT,0,0,0,,Huh?
 Dialogue: 0,0:01:27.15,0:01:28.82,Default,MT,0,0,0,,Ah! Ah...
-Dialogue: 0,0:01:30.74,0:01:31.45,Default,MT,0,0,0,,Huh?
-Dialogue: 0,0:01:36.95,0:01:37.70,Default,Sieve,0,0,0,,Eh?
-Dialogue: 0,0:01:38.41,0:01:38.79,Default,Sieve,0,0,0,,Ah!
+Comment: 0,0:01:30.74,0:01:31.45,Default,MT,0,0,0,,Ahh!
+Dialogue: 0,0:01:36.95,0:01:37.70,Default,Sieve,0,0,0,,Huh?
+Dialogue: 0,0:01:38.41,0:01:38.79,Default,Sieve,0,0,0,quota,Ah!
 Dialogue: 0,0:01:38.79,0:01:39.16,Default,Mace,0,0,0,,Huh?
-Comment: 0,0:01:39.16,0:01:40.50,Default,Sieve,0,0,0,,Wha!
+Comment: 0,0:01:39.16,0:01:40.50,Default,Sieve,0,0,0,,Ahhh!
 Dialogue: 0,0:01:46.13,0:01:47.21,Default,MT,0,0,0,,Huh?
-Comment: 0,0:01:47.21,0:01:47.88,Default,MT,0,0,0,,Wha!
+Comment: 0,0:01:47.21,0:01:47.88,Default,MT,0,0,0,,Whoa!
 Dialogue: 0,0:01:52.26,0:01:53.43,Default,MT,0,0,0,,No!
 Dialogue: 0,0:01:56.64,0:01:57.47,Default,MT,0,0,0,,Huh?
-Dialogue: 0,0:02:02.44,0:02:03.35,Default,MT,0,0,0,,Ah!
+Dialogue: 0,0:02:02.44,0:02:03.35,Default,MT,0,0,0,,Ahhh!
 Dialogue: 0,0:02:08.36,0:02:09.44,Default,Sieve,0,0,0,,Mace!
 Comment: 0,0:02:22.54,0:02:23.46,Default,MT,0,0,0,,Ugh.
 Dialogue: 0,0:02:24.21,0:02:25.17,Default,MT,0,0,0,,No.
@@ -60,9 +61,9 @@ Dialogue: 0,0:02:52.61,0:02:53.90,Default,MT,0,0,0,,Hey, buddy.
 Dialogue: 0,0:02:53.90,0:02:54.99,Default,MT,0,0,0,,You okay?
 Dialogue: 0,0:03:08.46,0:03:11.50,Default,Mace,0,0,0,,That's right.\NBack to the train.
 Dialogue: 0,0:03:11.50,0:03:14.88,Default,Mace,0,0,0,,Back to the train\Nlike a good girl.
-Dialogue: 0,0:03:17.89,0:03:20.60,Default,Mace,0,0,0,,{\i1}I saw a train go racing by
+Dialogue: 0,0:03:17.89,0:03:20.60,Default,Mace,0,0,0,,{\i1}I saw a train go racin' by
 Dialogue: 0,0:03:20.60,0:03:23.22,Default,Mace,0,0,0,,{\i1}On exit day, on exit day
-Dialogue: 0,0:03:23.22,0:03:25.89,Default,Mace,0,0,0,,{\i1}I saw a train go racing by
+Dialogue: 0,0:03:23.22,0:03:25.89,Default,Mace,0,0,0,,{\i1}I saw a train go racin' by
 Dialogue: 0,0:03:25.89,0:03:28.56,Default,Mace,0,0,0,,{\i1}It gave a boy an exit
 Dialogue: 0,0:03:28.56,0:03:30.98,Default,Mace,0,0,0,,{\i1}What got left on the train that day
 Dialogue: 0,0:03:30.98,0:03:33.69,Default,Mace,0,0,0,,{\i1}On exit day, on exit day
@@ -70,97 +71,100 @@ Dialogue: 0,0:03:33.69,0:03:37.36,Default,Mace,0,0,0,,{\i1}A lonely little slive
 Dialogue: 0,0:03:37.36,0:03:42.24,Default,Mace,0,0,0,,{\i1}On exit day in the morning
 Dialogue: 0,0:03:42.49,0:03:44.16,Default,Mace,0,0,0,,Or afternoon, maybe.
 Dialogue: 0,0:03:44.16,0:03:47.08,Default,Mace,0,0,0,,Not a lot of clocks\Non the train, are there?
-Dialogue: 0,0:03:48.79,0:03:49.71,Default,MT,0,0,0,,[ Growls ]
-Dialogue: 0,0:03:49.71,0:03:51.21,Default,MT,0,0,0,,Shut it, skin suit.
-Dialogue: 0,0:03:51.21,0:03:52.04,Default,Mace,0,0,0,,So...
-Dialogue: 0,0:03:53.13,0:03:55.63,Default,Mace,0,0,0,,...what's the plan now \Nyour boyfriend's gone,
+Dialogue: 0,0:03:48.79,0:03:49.71,Default,MT,0,0,0,,Ugh!
+Dialogue: 0,0:03:49.71,0:03:51.21,Default,MT,0,0,0,,Shut it, skinsuit.
+Dialogue: 0,0:03:51.21,0:03:52.04,Default,Mace,0,0,0,,So,
+Dialogue: 0,0:03:53.13,0:03:55.63,Default,Mace,0,0,0,,what's the plan now \Nyour boyfriend's gone,
 Dialogue: 0,0:03:55.63,0:03:57.22,Default,Mace,0,0,0,,little sliver girl?
-Dialogue: 0,0:04:24.79,0:04:27.79,Default,Mace,0,0,0,,I didn't see myself\Ngoing out this way.
-Dialogue: 0,0:04:27.79,0:04:29.96,Default,Mace,0,0,0,,How about you,\Nlittle sliver?
+Dialogue: 0,0:04:24.79,0:04:27.79,Default,Mace,0,0,0,,I didn't see m'self goin' out this way.
+Dialogue: 0,0:04:27.79,0:04:29.96,Default,Mace,0,0,0,,How 'bout you, little sliver?
 Dialogue: 0,0:04:29.96,0:04:33.80,Default,Mace,0,0,0,,Was this the way you saw\Nyour glorious escape going?
 Dialogue: 0,0:04:34.38,0:04:37.30,Default,Mace,0,0,0,,Eh, no matter.\NMy job is done.
 Dialogue: 0,0:04:37.30,0:04:39.55,Default,Mace,0,0,0,,You're as good\Nas sanded out here.
 Dialogue: 0,0:04:39.80,0:04:41.22,Default,MT,0,0,0,,I'll see about that.
-Dialogue: 0,0:04:41.22,0:04:43.89,Default,Mace,0,0,0,,This was never gonna\Nend well for you.
-Dialogue: 0,0:04:43.89,0:04:45.72,Default,Mace,0,0,0,,You should have\Nfollowed mirror law
+Dialogue: 0,0:04:41.22,0:04:43.89,Default,Mace,0,0,0,,This was never gonna end well for you.
+Dialogue: 0,0:04:43.89,0:04:45.72,Default,Mace,0,0,0,,You should've followed mirror law,
 Dialogue: 0,0:04:45.72,0:04:47.23,Default,Mace,0,0,0,,and been recycled.
-Dialogue: 0,0:04:47.23,0:04:50.35,Default,MT,0,0,0,ed,Choose to become\Na disgusting flec like you?
+Dialogue: 0,0:04:47.23,0:04:50.35,Default,MT,0,0,0,,Or choose to become\Na disgusting flec like you?
 Dialogue: 0,0:04:50.35,0:04:51.15,Default,MT,0,0,0,,Coward.
 Dialogue: 0,0:04:51.15,0:04:52.31,Default,Mace,0,0,0,,What did you just say?
 Dialogue: 0,0:04:52.31,0:04:53.36,Default,MT,0,0,0,,You're a coward!
 Dialogue: 0,0:04:53.36,0:04:55.69,Default,MT,0,0,0,,When your prime died,\Nyou chose to be a flec
 Dialogue: 0,0:04:55.69,0:04:57.90,Default,MT,0,0,0,,because you were afraid\Nto let go of your identity.
-Dialogue: 0,0:04:57.90,0:05:01.36,Default,Mace,0,0,0,,It wasn't about keeping\Nmy memories or identity.
+Dialogue: 0,0:04:57.90,0:05:01.36,Default,Mace,0,0,0,,It wasn't about keeping\Nmy memories or identity!
 Dialogue: 0,0:05:01.36,0:05:05.41,Default,Mace,0,0,0,,It was about respecting\Nthe balance our kind provides.
 Dialogue: 0,0:05:05.41,0:05:06.54,Default,MT,0,0,0,,Ugh!
-Dialogue: 0,0:05:06.54,0:05:08.08,Default,MT,0,0,0,,Why are you\Nlike this?
+Dialogue: 0,0:05:06.54,0:05:08.08,Default,MT,0,0,0,,Why are you like this?
 Dialogue: 0,0:05:08.08,0:05:10.41,Default,MT,0,0,0,,Was your last prime\Nthis much of a jerk,
 Dialogue: 0,0:05:10.41,0:05:12.04,Default,MT,0,0,0,,or is this pure you?
 Dialogue: 0,0:05:47.24,0:05:48.79,Default,MT,0,0,0,,Why can't I go forward?
 Dialogue: 0,0:05:49.12,0:05:50.00,Default,Mace,0,0,0,,It's...
-Dialogue: 0,0:05:51.12,0:05:53.42,Default,Mace,0,0,0,,It's—\NIt's the train!
+Dialogue: 0,0:05:51.12,0:05:53.42,Default,Mace,0,0,0,,It's— It's the train!
 Dialogue: 0,0:05:55.67,0:05:56.59,Default,MT,0,0,0,,Huh?
-Dialogue: 0,0:06:04.55,0:06:05.30,Default,MT,0,0,0,,Ah!
-Dialogue: 0,0:06:16.11,0:06:16.86,Default,MT,0,0,0,,Ah!
+Dialogue: 0,0:06:04.55,0:06:05.30,Default,MT,0,0,0,,Ahh!
+Dialogue: 0,0:06:16.11,0:06:16.86,Default,MT,0,0,0,,Ahh!
 Dialogue: 0,0:06:20.23,0:06:21.15,Default,MT,0,0,0,,Huh?
 Dialogue: 0,0:06:30.62,0:06:34.92,Default,Mace,0,0,0,,Sliver girl, human boy,\Nand super deer!
-Dialogue: 0,0:06:34.92,0:06:38.54,Default,Mace,0,0,0,,Going from car to car,\Nlearning lessons.
+Dialogue: 0,0:06:34.92,0:06:38.54,Default,Mace,0,0,0,,Goin' from car to car,\Nlearning lessons.
 Dialogue: 0,0:06:38.54,0:06:40.34,Default,Mace,0,0,0,,What an adventure.
 Dialogue: 0,0:06:40.34,0:06:44.09,Default,Mace,0,0,0,,You really fancied yourself \Na regular passenger out there,
 Dialogue: 0,0:06:44.09,0:06:44.84,Default,Mace,0,0,0,,didn't you?
-Dialogue: 0,0:06:44.84,0:06:46.55,Default,MT,0,0,0,,I've been\Nexploring the train,
+Dialogue: 0,0:06:44.84,0:06:46.55,Default,MT,0,0,0,,I've been exploring the train,
 Dialogue: 0,0:06:46.55,0:06:48.01,Default,MT,0,0,0,,same as Tulip or Jesse.
 Dialogue: 0,0:06:48.01,0:06:49.26,Default,Mace,0,0,0,,Oh, sure.
-Dialogue: 0,0:06:49.26,0:06:53.52,Default,Mace,0,0,0,,I mean, that must be why the train \Nis so keen on getting you back,
+Dialogue: 0,0:06:49.26,0:06:53.52,Default,Mace,0,0,0,,I mean, that must be why the train \Nis so keen on gettin' you back,
 Dialogue: 0,0:06:53.52,0:06:57.23,Default,Mace,0,0,0,,so it can help you get\Nyour shiny green number down,
 Dialogue: 0,0:06:57.23,0:06:58.44,Default,Mace,0,0,0,,or— Oh.
-Dialogue: 0,0:06:58.44,0:07:00.32,Default,Mace,0,0,0,,So sorry.\NForgot.
+Dialogue: 0,0:06:58.44,0:07:00.32,Default,Mace,0,0,0,,So sorry. Forgot.
 Dialogue: 0,0:07:00.32,0:07:01.61,Default,Mace,0,0,0,,You don't have one.
-Dialogue: 0,0:07:01.61,0:07:03.11,Default,MT,0,0,0,,You don't\Nknow anything.
-Dialogue: 0,0:07:03.11,0:07:04.36,Default,Mace,0,0,0,,What did you\Nthink would happen
-Dialogue: 0,0:07:04.36,0:07:06.53,Default,Mace,0,0,0,,if you were allowed\Nthrough the exit?
+Dialogue: 0,0:07:01.61,0:07:03.11,Default,MT,0,0,0,,You don't know anything.
+Dialogue: 0,0:07:03.11,0:07:04.36,Default,Mace,0,0,0,,What did you think would happen
+Dialogue: 0,0:07:04.36,0:07:06.53,Default,Mace,0,0,0,,if you were allowed \Nthrough the exit?
 Dialogue: 0,0:07:06.53,0:07:08.95,Default,Mace,0,0,0,,You'd just go out\Ninto the world
 Dialogue: 0,0:07:08.95,0:07:11.49,Default,Mace,0,0,0,,with your metal skin\Nand your magic deer,
 Dialogue: 0,0:07:11.49,0:07:12.41,Default,Mace,0,0,0,,and what?
-Dialogue: 0,0:07:12.41,0:07:15.50,Default,Mace,0,0,0,,High school? Prom?\NCollege? Job?
-Dialogue: 0,0:07:15.50,0:07:18.83,Default,Mace,0,0,0,,You and your prime\Nwith parallel lives?
+Dialogue: 0,0:07:12.41,0:07:13.45,Default,Mace,0,0,0,,High school?
+Dialogue: 0,0:07:13.45,0:07:14.29,Default,Mace,0,0,0,,Prom?
+Dialogue: 0,0:07:14.29,0:07:15.50,Default,Mace,0,0,0,,College? Job?
+Dialogue: 0,0:07:15.50,0:07:18.83,Default,Mace,0,0,0,,You and your prime,\Nwith parallel lives?
 Dialogue: 0,0:07:18.83,0:07:20.04,Default,MT,0,0,0,,I would...
 Dialogue: 0,0:07:20.04,0:07:21.75,Default,MT,0,0,0,,I-I'll figure it out.
-Dialogue: 0,0:07:24.42,0:07:27.01,Default,Mace,0,0,0,,Th— The train isn't gonna\Nlet you exit.
+Dialogue: 0,0:07:24.42,0:07:27.01,Default,Mace,0,0,0,,Th— The train \Nisn't gonna let you exit.
 Dialogue: 0,0:07:27.01,0:07:28.30,Default,MT,0,0,0,,The train can't\Nstop me from—
 Dialogue: 0,0:07:28.30,0:07:31.26,Default,Mace,0,0,0,,Did you ever wonder\Nwhy that car was there?
-Dialogue: 0,0:07:31.26,0:07:32.97,Default,Mace,0,0,0,,The mirrored car,\Nthe chrome car,
-Dialogue: 0,0:07:32.97,0:07:34.52,Default,Mace,0,0,0,,whatever you want\Nto call it?
+Dialogue: 0,0:07:31.26,0:07:32.97,Default,Mace,0,0,0,,The Mirrored Car,\Nthe Chrome Car,
+Dialogue: 0,0:07:32.97,0:07:34.52,Default,Mace,0,0,0,,whatever you want to call it.
 Dialogue: 0,0:07:34.89,0:07:38.35,Default,Mace,0,0,0,,Your prime couldn't have\Ngotten out of the car
 Dialogue: 0,0:07:38.35,0:07:40.65,Default,Mace,0,0,0,,unless you switched.
 Dialogue: 0,0:07:40.65,0:07:42.98,Default,Mace,0,0,0,,No one's prime could have,
 Dialogue: 0,0:07:42.98,0:07:47.82,Default,Mace,0,0,0,,so did the train make the car\Nso you could get out?
-Dialogue: 0,0:07:47.82,0:07:50.41,Default,MT,0,0,0,,You're trying\Nto freak me out.
+Dialogue: 0,0:07:47.82,0:07:50.41,Default,MT,0,0,0,,You're... trying to freak me out.
 Dialogue: 0,0:07:50.41,0:07:51.24,Default,MT,0,0,0,,It won't work.
-Dialogue: 0,0:07:51.24,0:07:53.62,Default,Mace,0,0,0,,Maybe the car was for you.
+Dialogue: 0,0:07:51.24,0:07:53.62,Default,Mace,0,0,0,,Maybe the car was {\i1}for{\i0} you.
 Dialogue: 0,0:07:53.62,0:07:54.33,Default,MT,0,0,0,,Why would—
-Dialogue: 0,0:07:54.33,0:07:57.50,Default,Mace,0,0,0,,To use you\Nto help Tulip learn.
-Dialogue: 0,0:07:57.50,0:08:01.29,Default,Mace,0,0,0,,Just another creation of\Nthe train to help passengers.
-Dialogue: 0,0:08:01.29,0:08:03.67,Default,MT,0,0,0,,No.\NI'm a person.
-Dialogue: 0,0:08:03.67,0:08:05.51,Default,MT,0,0,0,,I-I was making\Nmy own choices.
-Dialogue: 0,0:08:05.51,0:08:07.22,Default,Mace,0,0,0,,Oh, choices,
-Dialogue: 0,0:08:07.22,0:08:10.39,Default,Mace,0,0,0,,and choices\Nlead to lessons.
+Dialogue: 0,0:07:54.33,0:07:57.50,Default,Mace,0,0,0,,To use you to help Tulip learn.
+Dialogue: 0,0:07:57.50,0:08:01.29,Default,Mace,0,0,0,,Just another creation \Nof the train, to help passengers.
+Dialogue: 0,0:08:01.29,0:08:02.34,Default,MT,0,0,0,,No.
+Dialogue: 0,0:08:02.34,0:08:03.67,Default,MT,0,0,0,,I'm a person.
+Dialogue: 0,0:08:03.67,0:08:05.51,Default,MT,0,0,0,,I-I was making my own choices.
+Dialogue: 0,0:08:05.51,0:08:07.22,Default,Mace,0,0,0,,Oh, choices.
+Dialogue: 0,0:08:07.22,0:08:10.39,Default,Mace,0,0,0,,And choices lead to lessons!
 Dialogue: 0,0:08:10.39,0:08:13.31,Default,Mace,0,0,0,,And what were you\Nlearning, exactly?
 Dialogue: 0,0:08:13.31,0:08:16.35,Default,Mace,0,0,0,,How to become what the boy\Nneeded you to be?
 Dialogue: 0,0:08:16.35,0:08:17.81,Default,MT,0,0,0,,It wasn't like that.
-Dialogue: 0,0:08:17.81,0:08:20.10,Default,MT,0,0,0,,We were friends.\NWe are friends.
+Dialogue: 0,0:08:17.81,0:08:20.10,Default,MT,0,0,0,,We were friends.\NWe {\i1}are{\i0} friends.
 Dialogue: 0,0:08:20.10,0:08:23.40,Default,Mace,0,0,0,,But they all make friends,\Nthough, don't they?
 Dialogue: 0,0:08:23.40,0:08:25.44,Default,Mace,0,0,0,,Companions?
 Dialogue: 0,0:08:25.94,0:08:28.24,Default,MT,0,0,0,,Stop it!\NStop laughing!
-Dialogue: 0,0:08:28.24,0:08:31.95,Default,Mace,0,0,0,,You might even say you became\Nhis counterpart,
-Dialogue: 0,0:08:31.95,0:08:34.70,Default,Mace,0,0,0,,might say you became\Nkind of a...
+Dialogue: 0,0:08:28.24,0:08:31.95,Default,Mace,0,0,0,,You might even say \Nyou became his counterpart,
+Dialogue: 0,0:08:31.95,0:08:34.70,Default,Mace,0,0,0,,might say you \Nbecame kind of a...
 Dialogue: 0,0:08:35.54,0:08:36.37,Default,Mace,0,0,0,,reflection.
-Dialogue: 0,0:08:36.37,0:08:38.21,Default,MT,0,0,0,,Ugh!
+Dialogue: 0,0:08:36.37,0:08:37.46,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:08:37.46,0:08:38.21,Default,MT,0,0,0,,I hate you!
-Dialogue: 0,0:08:38.87,0:08:41.08,Default,Mace,0,0,0,,I don't— I don't care.
-Dialogue: 0,0:08:41.96,0:08:43.84,Default,Mace,0,0,0,,What? Did you think\Nyou're free?
-Dialogue: 0,0:08:43.84,0:08:45.96,Default,Mace,0,0,0,,That—\NThat you escaped?
-Dialogue: 0,0:08:45.96,0:08:48.47,Default,Mace,0,0,0,,You're stuck\Non the train now.
+Dialogue: 0,0:08:39.29,0:08:41.08,Default,Mace,0,0,0,,I-I don't care.
+Dialogue: 0,0:08:41.96,0:08:43.84,Default,Mace,0,0,0,,What, did you think you're free?
+Dialogue: 0,0:08:43.84,0:08:45.96,Default,Mace,0,0,0,,That— That you escaped?
+Dialogue: 0,0:08:45.96,0:08:48.47,Default,Mace,0,0,0,,You're just stuck \Non the train now.
 Dialogue: 0,0:08:48.47,0:08:50.76,Default,Mace,0,0,0,,You're just in\Nanother mirror.
 Dialogue: 0,0:08:50.76,0:08:51.84,Default,MT,0,0,0,,No.
 Dialogue: 0,0:08:51.84,0:08:52.97,Default,MT,0,0,0,,It's not like that.
@@ -170,7 +174,8 @@ Dialogue: 0,0:08:58.89,0:09:01.85,Default,MT,0,0,0,,I don't care what the train'
 Dialogue: 0,0:09:01.85,0:09:05.02,Default,MT,0,0,0,,I know who I am, and Jesse\Ndidn't want to leave me.
 Dialogue: 0,0:09:05.02,0:09:07.36,Default,MT,0,0,0,,We're friends,\Nand that's real,
 Dialogue: 0,0:09:07.36,0:09:09.15,Default,MT,0,0,0,,and I'll get off the train\Nand find him!
-Dialogue: 0,0:09:09.15,0:09:11.91,Default,Mace,0,0,0,,Oh, yeah?\NYou and what number?
+Dialogue: 0,0:09:09.15,0:09:10.36,Default,Mace,0,0,0,,Oh yeah?
+Dialogue: 0,0:09:10.36,0:09:11.91,Default,Mace,0,0,0,,You and what number?
 Dialogue: 0,0:09:11.91,0:09:13.32,Default,MT,0,0,0,,I'll get a number.
 Dialogue: 0,0:09:13.32,0:09:14.16,Default,MT,0,0,0,,I'll...
 Dialogue: 0,0:09:15.12,0:09:16.62,Default,MT,0,0,0,,Those pods.
@@ -178,15 +183,15 @@ Dialogue: 0,0:09:16.62,0:09:19.08,Default,MT,0,0,0,,The ones that drop off\Nnew 
 Dialogue: 0,0:09:19.08,0:09:20.54,Default,MT,0,0,0,,I'll find one,
 Dialogue: 0,0:09:20.54,0:09:22.25,Default,MT,0,0,0,,ride it back\Nto wherever it came from,
 Dialogue: 0,0:09:22.25,0:09:24.75,Default,MT,0,0,0,,and I'll make this train\Ngive me a number.
-Dialogue: 0,0:09:25.67,0:09:27.25,Default,MT,0,0,0,,We're going,\NAlan Dracula.
-Dialogue: 0,0:09:44.77,0:09:46.98,Default,MT,0,0,0,,Alan Dracula,\Ncome on!
-Comment: 0,0:10:06.29,0:10:07.13,Default,MT,0,0,0,,Waaah!
+Dialogue: 0,0:09:25.67,0:09:27.25,Default,MT,0,0,0,,We're going, Alan Dracula.
+Dialogue: 0,0:09:44.77,0:09:46.98,Default,MT,0,0,0,,Alan Dracula, come on!
+Comment: 0,0:10:06.29,0:10:07.13,Default,MT,0,0,0,,Ahhh!
 Comment: 0,0:10:08.34,0:10:09.09,Default,MT,0,0,0,,Ah!
 Comment: 0,0:10:09.09,0:10:09.92,Default,MT,0,0,0,,Wah!
 Comment: 0,0:10:11.22,0:10:11.76,Default,MT,0,0,0,,Ah!
-Dialogue: 0,0:10:13.38,0:10:14.43,Default,MT,0,0,0,,What are\Nyou doing?
+Dialogue: 0,0:10:13.38,0:10:14.43,Default,MT,0,0,0,,What are you doing?
 Dialogue: 0,0:10:14.43,0:10:16.18,Default,Mace,0,0,0,,I'm as good as dead,
 Dialogue: 0,0:10:16.18,0:10:19.89,Default,Mace,0,0,0,,and if my last act\Nis to bring you with me, sliver,
 Dialogue: 0,0:10:19.89,0:10:23.14,Default,Mace,0,0,0,,I can't imagine\Na better way to go.
 Dialogue: 0,0:10:23.14,0:10:24.77,Default,MT,0,0,0,,Well, I can!
-Dialogue: 0,0:10:58.05,0:11:01.14,Default,MT,0,0,0,,Now we wait\Nfor a pod.
+Dialogue: 0,0:10:58.05,0:11:01.14,Default,MT,0,0,0,,Now, we wait for a pod.
