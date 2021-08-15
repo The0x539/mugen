@@ -55,13 +55,16 @@ Dialogue: 0,0:01:41.75,0:01:44.86,Default,,0,0,0,,Which is my 16th\Nfavorite kin
 Dialogue: 0,0:01:44.89,0:01:46.14,Default,,0,0,0,,you'll see on the train.
 Dialogue: 0,0:01:46.17,0:01:48.17,Default,,0,0,0,,Necks are kind of\Nweird, right?
 Comment: 0,0:01:48.21,0:01:51.18,Default,,0,0,0,,Ugh! Ugh! Ugh!
-Dialogue: 0,0:01:51.21,0:01:52.49,Default,,0,0,0,split,Ugh!\NHuh?
+Dialogue: 0,0:01:51.21,0:01:51.55,Default,,0,0,0,,Ugh!
+Dialogue: 0,0:01:51.55,0:01:52.49,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:52.52,0:01:54.49,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:01:54.52,0:01:55.90,Default,,0,0,0,split,-Ugh.\N-Aaaaaaaah!
+Dialogue: 0,0:01:54.52,0:01:54.76,Default,,0,0,0,,Ugh.
+Dialogue: 0,0:01:54.76,0:01:55.90,Default,,0,0,0,,Aaaaaaaah!
 Dialogue: 0,0:01:55.94,0:01:57.60,Default,,0,0,0,,Please remain in your pod.
 Dialogue: 0,0:01:57.63,0:01:59.36,Default,,0,0,0,,Uh! Aaah!
 Dialogue: 0,0:02:02.46,0:02:04.91,Default,,0,0,0,,Aaaaah! Aah!
-Dialogue: 0,0:02:04.95,0:02:07.09,Default,,0,0,0,split,-Wait!\N-Aaah!
+Dialogue: 0,0:02:04.95,0:02:05.56,Default,,0,0,0,,Wait!
+Dialogue: 0,0:02:05.56,0:02:07.09,Default,,0,0,0,,Aaah!
 Dialogue: 0,0:02:07.12,0:02:08.92,Default,,0,0,0,,Please return to your pod.
 Dialogue: 0,0:02:08.95,0:02:11.26,Default,,0,0,0,,Come on, Alan Dracula.\NGet comfortable.
 Dialogue: 0,0:02:13.09,0:02:15.41,Default,,0,0,0,,Thank you for returning\Nto your pod.
@@ -89,10 +92,12 @@ Dialogue: 0,0:03:04.59,0:03:06.01,Default,,0,0,0,,Two, rolling over.
 Dialogue: 0,0:03:06.04,0:03:08.11,Default,,0,0,0,,Three, he's dead,\Na pile of dog bones
 Dialogue: 0,0:03:08.15,0:03:09.98,Default,,0,0,0,,on the side\Nof a long-forgotten road.
 Dialogue: 0,0:03:10.01,0:03:11.81,Default,,0,0,0,,Four,\Nhe's only playing dead,
-Dialogue: 0,0:03:11.84,0:03:14.40,Default,,0,0,0,split,a pile of not bones\Non a not-forgotten road.La, la, la, la, la, la,
+Dialogue: 0,0:03:11.84,0:03:14.40,Default,,0,0,0,,a pile of not bones on a not-forgotten road.
+Dialogue: 0,0:03:11.84,0:03:14.40,Default,,0,0,0,,La, la, la, la, la, la,
 Dialogue: 0,0:03:14.43,0:03:16.23,Default,,0,0,0,,la, la, la, la,\Nla, la, la, la!
 Dialogue: 0,0:03:28.24,0:03:31.48,Default,,0,0,0,,We're here!
-Dialogue: 0,0:03:31.52,0:03:32.97,Default,,0,0,0,split,What?Don't get excited.
+Dialogue: 0,0:03:31.52,0:03:31.94,Default,,0,0,0,,What?
+Dialogue: 0,0:03:31.94,0:03:32.97,Default,,0,0,0,,Don't get excited.
 Dialogue: 0,0:03:33.00,0:03:35.00,Default,,0,0,0,,It doesn't look\Nvery special.
 Dialogue: 0,0:03:35.04,0:03:36.31,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:03:42.36,0:03:44.87,Default,,0,0,0,,Fun fact: the Tape Car\Nis the only car
