@@ -22,9 +22,6 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:02.00,0:00:07.59,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:07.62,0:00:13.39,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:13.42,0:00:15.77,Default,,0,0,0,,[ Metal rattling ]
 Dialogue: 0,0:00:18.67,0:00:20.02,Default,,0,0,0,,Here's the plan,\NAlan Dracula.
 Dialogue: 0,0:00:20.05,0:00:22.22,Default,,0,0,0,,We're gonna sit here\Nfor however long it takes,
 Dialogue: 0,0:00:22.26,0:00:24.30,Default,,0,0,0,,wait for one of those\Nweird pod things to fly by,
@@ -33,47 +30,42 @@ Dialogue: 0,0:00:27.30,0:00:29.65,Default,,0,0,0,,ride it back to\Nwherever it c
 Dialogue: 0,0:00:29.68,0:00:31.44,Default,,0,0,0,,Passengers get a number\Nsomewhere
 Dialogue: 0,0:00:31.47,0:00:32.82,Default,,0,0,0,,before waking up\Non the train,
 Dialogue: 0,0:00:32.86,0:00:35.93,Default,,0,0,0,,and I'm guessing the pods\Nwill lead us there.
-Dialogue: 0,0:00:35.96,0:00:39.34,Default,,0,0,0,,And then [sighs] I'll find\Na way to get a number.
-Dialogue: 0,0:00:39.38,0:00:42.28,Default,,0,0,0,,[ Zapping ]
+Dialogue: 0,0:00:35.96,0:00:39.34,Default,,0,0,0,,And then... I'll find\Na way to get a number.
 Dialogue: 0,0:00:42.31,0:00:43.35,Default,,0,0,0,,I'm serious.
 Dialogue: 0,0:00:43.38,0:00:45.49,Default,,0,0,0,,Now that Jesse is gone...
-Dialogue: 0,0:00:45.52,0:00:47.87,Default,,0,0,0,,Look. [Sighs]\NYou're all I've got.
+Dialogue: 0,0:00:45.52,0:00:47.87,Default,,0,0,0,,Look. \NYou're all I've got.
 Dialogue: 0,0:00:47.90,0:00:49.15,Default,,0,0,0,,I need you to be ready.
 Dialogue: 0,0:00:49.18,0:00:50.94,Default,,0,0,0,,No turning into stuff\Nthat'll slow us down,
 Dialogue: 0,0:00:50.98,0:00:54.33,Default,,0,0,0,,like a snail\Nor a broken car or...
 Dialogue: 0,0:00:58.54,0:01:01.33,Default,,0,0,0,,You know,\Nonce I get my number,
-Dialogue: 0,0:01:01.37,0:01:04.85,Default,,0,0,0,,it -- it means I'm eventually\Ngonna leave the train,
+Dialogue: 0,0:01:01.37,0:01:04.85,Default,,0,0,0,,i-it means I'm eventually\Ngonna leave the train,
 Dialogue: 0,0:01:04.89,0:01:07.79,Default,,0,0,0,,and I don't think\NI can take you with me.
-Dialogue: 0,0:01:07.82,0:01:09.20,Default,,0,0,0,,[ Snorts ]
 Dialogue: 0,0:01:09.24,0:01:12.21,Default,,0,0,0,,Even if I could, you wouldn't\Nbe happy out there.
 Dialogue: 0,0:01:12.24,0:01:13.97,Default,,0,0,0,,Getting off the train\Nis my journey.
 Dialogue: 0,0:01:14.00,0:01:16.73,Default,,0,0,0,,It wouldn't be fair\Nto force you to leave.
 Dialogue: 0,0:01:16.76,0:01:18.45,Default,,0,0,0,,This is your home.
-Dialogue: 0,0:01:18.49,0:01:23.84,Default,,0,0,0,,♪♪
 Dialogue: 0,0:01:23.87,0:01:25.32,Default,,0,0,0,,You're not my pet.
 Dialogue: 0,0:01:25.36,0:01:26.81,Default,,0,0,0,,You're my friend.
 Dialogue: 0,0:01:26.84,0:01:29.19,Default,,0,0,0,,You know that, right?
 Dialogue: 0,0:01:29.22,0:01:31.19,Default,,0,0,0,,Aw.
-Dialogue: 0,0:01:31.22,0:01:33.09,Default,,0,0,0,,[ Whirring ]
 Dialogue: 0,0:01:33.12,0:01:34.23,Default,,0,0,0,,Huh?
-Dialogue: 0,0:01:37.71,0:01:40.13,Default,,0,0,0,,Uh! Ugh![ Metal screeching ]
-Dialogue: 0,0:01:40.16,0:01:41.72,Default,,0,0,0,,Aah! Ah!
-Dialogue: 0,0:01:41.75,0:01:44.86,Default,,0,0,0,,Glad-One: Which is my 16th\Nfavorite kind of giraffe
+Comment: 0,0:01:37.71,0:01:40.13,Default,,0,0,0,,Uh! Ugh!
+Comment: 0,0:01:40.16,0:01:41.72,Default,,0,0,0,,Aah! Ah!
+Dialogue: 0,0:01:41.75,0:01:44.86,Default,,0,0,0,,Which is my 16th\Nfavorite kind of giraffe
 Dialogue: 0,0:01:44.89,0:01:46.14,Default,,0,0,0,,you'll see on the train.
-Dialogue: 0,0:01:46.17,0:01:48.17,Default,,0,0,0,,Sad-One: Necks are kind of\Nweird, right?
-Dialogue: 0,0:01:48.21,0:01:51.18,Default,,0,0,0,,Ugh! Ugh! Ugh!
-Dialogue: 0,0:01:51.21,0:01:52.49,Default,,0,0,0,,Ugh!\NHuh?
+Dialogue: 0,0:01:46.17,0:01:48.17,Default,,0,0,0,,Necks are kind of\Nweird, right?
+Comment: 0,0:01:48.21,0:01:51.18,Default,,0,0,0,,Ugh! Ugh! Ugh!
+Dialogue: 0,0:01:51.21,0:01:52.49,Default,,0,0,0,split,Ugh!\NHuh?
 Dialogue: 0,0:01:52.52,0:01:54.49,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:01:54.52,0:01:55.90,Default,,0,0,0,,-Ugh.\N-Aaaaaaaah!
-Dialogue: 0,0:01:55.94,0:01:57.60,Default,,0,0,0,,Glad-One:\NPlease remain in your pod.
+Dialogue: 0,0:01:54.52,0:01:55.90,Default,,0,0,0,split,-Ugh.\N-Aaaaaaaah!
+Dialogue: 0,0:01:55.94,0:01:57.60,Default,,0,0,0,,Please remain in your pod.
 Dialogue: 0,0:01:57.63,0:01:59.36,Default,,0,0,0,,Uh! Aaah!
-Dialogue: 0,0:02:00.60,0:02:02.43,Default,,0,0,0,,[ Roars ]
 Dialogue: 0,0:02:02.46,0:02:04.91,Default,,0,0,0,,Aaaaah! Aah!
-Dialogue: 0,0:02:04.95,0:02:07.09,Default,,0,0,0,,-Wait!\N-Aaah!
-Dialogue: 0,0:02:07.12,0:02:08.92,Default,,0,0,0,,Glad-One:\NPlease return to your pod.
+Dialogue: 0,0:02:04.95,0:02:07.09,Default,,0,0,0,split,-Wait!\N-Aaah!
+Dialogue: 0,0:02:07.12,0:02:08.92,Default,,0,0,0,,Please return to your pod.
 Dialogue: 0,0:02:08.95,0:02:11.26,Default,,0,0,0,,Come on, Alan Dracula.\NGet comfortable.
 Dialogue: 0,0:02:13.09,0:02:15.41,Default,,0,0,0,,Thank you for returning\Nto your pod.
-Dialogue: 0,0:02:19.62,0:02:21.93,Default,,0,0,0,,Ugh.\NUgggggh!
+Comment: 0,0:02:19.62,0:02:21.93,Default,,0,0,0,,Ugh.\NUgggggh!
 Dialogue: 0,0:02:21.96,0:02:23.35,Default,,0,0,0,,Greetings, passenger.
 Dialogue: 0,0:02:23.38,0:02:25.17,Default,,0,0,0,,If you're watching this,\Nit means we've run into
 Dialogue: 0,0:02:25.21,0:02:27.42,Default,,0,0,0,,an unforeseen problem,\Nbut not to worry!
@@ -92,52 +84,38 @@ Dialogue: 0,0:02:54.82,0:02:55.96,Default,,0,0,0,,than anyone else.
 Dialogue: 0,0:02:56.00,0:02:57.48,Default,,0,0,0,,Maybe it's time\NI stopped.
 Dialogue: 0,0:02:57.52,0:02:59.00,Default,,0,0,0,,Yes, do that!
 Dialogue: 0,0:02:59.04,0:03:02.11,Default,,0,0,0,,Instead, I'm gonna guess\Nwhat Atticus is doing right now.
-Dialogue: 0,0:03:02.14,0:03:04.56,Default,,0,0,0,,Ugh!\NOne -- barking.
-Dialogue: 0,0:03:04.59,0:03:06.01,Default,,0,0,0,,Two -- rolling over.
-Dialogue: 0,0:03:06.04,0:03:08.11,Default,,0,0,0,,Three -- he's dead,\Na pile of dog bones
+Dialogue: 0,0:03:02.14,0:03:04.56,Default,,0,0,0,,Ugh!\NOne, barking.
+Dialogue: 0,0:03:04.59,0:03:06.01,Default,,0,0,0,,Two, rolling over.
+Dialogue: 0,0:03:06.04,0:03:08.11,Default,,0,0,0,,Three, he's dead,\Na pile of dog bones
 Dialogue: 0,0:03:08.15,0:03:09.98,Default,,0,0,0,,on the side\Nof a long-forgotten road.
-Dialogue: 0,0:03:10.01,0:03:11.81,Default,,0,0,0,,Four --\Nhe's only playing dead,
-Dialogue: 0,0:03:11.84,0:03:14.40,Default,,0,0,0,,a pile of not bones\Non a not-forgotten road.La, la, la, la, la, la,
+Dialogue: 0,0:03:10.01,0:03:11.81,Default,,0,0,0,,Four,\Nhe's only playing dead,
+Dialogue: 0,0:03:11.84,0:03:14.40,Default,,0,0,0,split,a pile of not bones\Non a not-forgotten road.La, la, la, la, la, la,
 Dialogue: 0,0:03:14.43,0:03:16.23,Default,,0,0,0,,la, la, la, la,\Nla, la, la, la!
-Dialogue: 0,0:03:16.26,0:03:27.17,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:27.20,0:03:28.20,Default,,0,0,0,,[ Snoring ]
-Dialogue: 0,0:03:28.24,0:03:31.48,Default,,0,0,0,,[ Trumpeting ]\NWe're here!
-Dialogue: 0,0:03:31.52,0:03:32.97,Default,,0,0,0,,What?Don't get excited.
+Dialogue: 0,0:03:28.24,0:03:31.48,Default,,0,0,0,,We're here!
+Dialogue: 0,0:03:31.52,0:03:32.97,Default,,0,0,0,split,What?Don't get excited.
 Dialogue: 0,0:03:33.00,0:03:35.00,Default,,0,0,0,,It doesn't look\Nvery special.
 Dialogue: 0,0:03:35.04,0:03:36.31,Default,,0,0,0,,Ugh!
-Dialogue: 0,0:03:36.35,0:03:42.32,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:42.36,0:03:44.87,Default,,0,0,0,,Fun fact -- the Tape Car\Nis the only car
+Dialogue: 0,0:03:42.36,0:03:44.87,Default,,0,0,0,,Fun fact: the Tape Car\Nis the only car
 Dialogue: 0,0:03:44.91,0:03:47.84,Default,,0,0,0,,where the universe\Nis projected on the outside.
 Dialogue: 0,0:03:47.88,0:03:51.16,Default,,0,0,0,,It's what's outside\Nthat counts.
 Dialogue: 0,0:03:51.19,0:03:53.26,Default,,0,0,0,,Ah, the robot's\Nout of his mind.
-Dialogue: 0,0:03:53.30,0:03:58.54,Default,,0,0,0,,♪♪
 Dialogue: 0,0:03:58.58,0:04:00.82,Default,,0,0,0,,What? Uh...
 Dialogue: 0,0:04:00.86,0:04:02.69,Default,,0,0,0,,Um...
-Dialogue: 0,0:04:02.72,0:04:11.35,Default,,0,0,0,,♪♪
 Dialogue: 0,0:04:11.38,0:04:13.21,Default,,0,0,0,,Ah! Aaaah!
 Dialogue: 0,0:04:13.25,0:04:15.11,Default,,0,0,0,,Ooh! Ugh.
-Dialogue: 0,0:04:16.87,0:04:18.91,Default,,0,0,0,,[ Gasps ]\NAh!
+Dialogue: 0,0:04:16.87,0:04:18.91,Default,,0,0,0,,Ah!
 Dialogue: 0,0:04:21.91,0:04:23.53,Default,,0,0,0,,Alan Dracula!
-Dialogue: 0,0:04:23.57,0:04:26.57,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:26.61,0:04:27.81,Default,,0,0,0,,[ Chuckles ]
-Dialogue: 0,0:04:27.85,0:04:37.65,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:37.69,0:04:47.52,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:47.56,0:04:57.36,Default,,0,0,0,,♪♪
 Dialogue: 0,0:04:57.40,0:04:59.22,Default,,0,0,0,,Ah!
-Dialogue: 0,0:05:00.47,0:05:02.09,Default,,0,0,0,,[ Bang! Clang! ]
-Dialogue: 0,0:05:02.12,0:05:03.88,Default,,0,0,0,,[ Snorts ]\NUgh.
+Dialogue: 0,0:05:02.12,0:05:03.88,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:05:03.92,0:05:06.23,Default,,0,0,0,,You okay, Alan Dracula?
 Dialogue: 0,0:05:06.27,0:05:07.72,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:05:07.75,0:05:09.79,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:05:09.82,0:05:11.51,Default,,0,0,0,,What is this place?
-Dialogue: 0,0:05:11.55,0:05:18.87,Default,,0,0,0,,♪♪
-Dialogue: 0,0:05:18.90,0:05:26.36,Default,,0,0,0,,♪♪
 Dialogue: 0,0:05:26.39,0:05:27.46,Default,,0,0,0,,Uh!
 Dialogue: 0,0:05:28.63,0:05:30.33,Default,,0,0,0,,Ah! Ah!
-Dialogue: 0,0:05:34.43,0:05:36.57,Default,,0,0,0,,[ Bleats ]\NShh!
+Dialogue: 0,0:05:34.43,0:05:36.57,Default,,0,0,0,,Shh!
 Dialogue: 0,0:05:37.64,0:05:39.40,Default,,0,0,0,,Hey, don't eat that.
 Dialogue: 0,0:05:43.65,0:05:45.06,Default,,0,0,0,,Hmm?
-Dialogue: 0,0:05:45.10,0:05:46.13,Default,,0,0,0,,[ Indistinct voices ]
 Dialogue: 0,0:05:46.17,0:05:47.58,Default,,0,0,0,,Mom, this one!
 Dialogue: 0,0:05:47.62,0:05:48.83,Default,,0,0,0,,That's a bearded dragon.
 Dialogue: 0,0:05:48.86,0:05:50.14,Default,,0,0,0,,Mom, this one!
@@ -151,58 +129,31 @@ Dialogue: 0,0:05:58.53,0:06:00.18,Default,,0,0,0,,Honey, I told you not to...
 Dialogue: 0,0:06:00.22,0:06:02.01,Default,,0,0,0,,It was an accident.
 Dialogue: 0,0:06:02.05,0:06:03.91,Default,,0,0,0,,Honey, I told you not to...
 Dialogue: 0,0:06:03.94,0:06:06.02,Default,,0,0,0,,What is this?
-Dialogue: 0,0:06:08.98,0:06:10.92,Default,,0,0,0,,Ah!
-Dialogue: 0,0:06:10.95,0:06:12.99,Default,,0,0,0,,[ Beeping ]
-Dialogue: 0,0:06:13.02,0:06:19.75,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:19.79,0:06:25.76,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:25.79,0:06:28.04,Default,,0,0,0,,[ Beep ]Uh?
-Dialogue: 0,0:06:28.52,0:06:30.49,Default,,0,0,0,,[ Beep ]
-Dialogue: 0,0:06:30.52,0:06:35.98,Default,,0,0,0,,♪♪
+Dialogue: 0,0:06:25.79,0:06:28.04,Default,,0,0,0,,Uh?
 Dialogue: 0,0:06:36.01,0:06:38.32,Default,,0,0,0,,They...\Ndon't care about me.
 Dialogue: 0,0:06:40.43,0:06:42.36,Default,,0,0,0,,Hey, weirdo!
 Dialogue: 0,0:06:44.54,0:06:47.85,Default,,0,0,0,,Come on, Alan.\NLet's keep moving.
-Dialogue: 0,0:06:47.89,0:06:50.51,Default,,0,0,0,,Aah!\N[ Gasping ]
-Dialogue: 0,0:06:50.54,0:06:53.13,Default,,0,0,0,,Alan, stay back!\N[ Gasping ]
-Dialogue: 0,0:06:53.17,0:06:55.51,Default,,0,0,0,,Alan?\N[ Gasping ]
-Dialogue: 0,0:06:57.07,0:07:00.59,Default,,0,0,0,,[ Moans ]
+Dialogue: 0,0:06:47.89,0:06:50.51,Default,,0,0,0,,Aah!
+Dialogue: 0,0:06:50.54,0:06:53.13,Default,,0,0,0,,Alan, stay back!
+Dialogue: 0,0:06:53.17,0:06:55.51,Default,,0,0,0,,Alan?
 Dialogue: 0,0:07:02.00,0:07:04.97,Default,,0,0,0,,No!\NAah! Aah!
 Dialogue: 0,0:07:05.01,0:07:06.90,Default,,0,0,0,,Ah, ah, ah, aah!
 Dialogue: 0,0:07:06.94,0:07:08.80,Default,,0,0,0,,Whoa! Oh!\NSorry!
 Dialogue: 0,0:07:08.84,0:07:10.56,Default,,0,0,0,,Aaaaah!
-Dialogue: 0,0:07:10.60,0:07:12.46,Default,,0,0,0,,[ Clang! ]
 Dialogue: 0,0:07:12.50,0:07:13.84,Default,,0,0,0,,Ugh.
-Dialogue: 0,0:07:13.88,0:07:15.46,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:07:15.50,0:07:22.09,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:22.13,0:07:28.89,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:28.93,0:07:35.55,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:35.59,0:07:38.07,Default,,0,0,0,,[ Exhales ]\NWhen all this is over,
+Dialogue: 0,0:07:35.59,0:07:38.07,Default,,0,0,0,,When all this is over,
 Dialogue: 0,0:07:38.11,0:07:40.08,Default,,0,0,0,,you and Jesse are gonna\Nlaugh about this.
 Dialogue: 0,0:07:40.11,0:07:41.42,Default,,0,0,0,,This will be funny.
-Dialogue: 0,0:07:41.46,0:07:43.73,Default,,0,0,0,,[ Whirring ]
-Dialogue: 0,0:07:43.77,0:07:52.71,Default,,0,0,0,,♪♪
 Dialogue: 0,0:07:52.74,0:07:54.02,Default,,0,0,0,,Whoa.
-Dialogue: 0,0:07:54.05,0:08:05.96,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:06.00,0:08:07.14,Default,,0,0,0,,Ah, thanks!\NI can do 8:30.
 Dialogue: 0,0:08:07.17,0:08:08.69,Default,,0,0,0,,This proposal is\Nridiculous.
-Dialogue: 0,0:08:08.72,0:08:12.49,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:12.52,0:08:14.52,Default,,0,0,0,,[ Whirring ]
-Dialogue: 0,0:08:14.56,0:08:22.12,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:22.15,0:08:23.77,Default,,0,0,0,,Yes!\NUff da!
 Dialogue: 0,0:08:23.81,0:08:25.98,Default,,0,0,0,,I better get a smaller number\Nthan that.
-Dialogue: 0,0:08:26.02,0:08:35.89,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:35.92,0:08:45.55,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:45.59,0:08:48.97,Default,,0,0,0,,Ugh. Sorry.\NI need this more than you.
-Dialogue: 0,0:08:49.01,0:08:55.81,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:55.84,0:09:02.61,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:02.64,0:09:09.27,Default,,0,0,0,,♪♪
 Dialogue: 0,0:09:09.30,0:09:12.13,Default,,0,0,0,,[ Indistinct, fast talking ]
 Dialogue: 0,0:09:12.17,0:09:14.03,Default,,0,0,0,,Come on!\NHurry it up!
-Dialogue: 0,0:09:14.07,0:09:21.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:21.04,0:09:27.94,Default,,0,0,0,,♪♪
 Dialogue: 0,0:09:27.98,0:09:29.56,Default,,0,0,0,,Huh?
-Dialogue: 0,0:09:33.98,0:09:35.19,Default,,0,0,0,,[ Gasping ]\NAh!
-Dialogue: 0,0:09:35.22,0:09:40.54,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:40.58,0:09:45.68,Default,,0,0,0,,♪♪
+Dialogue: 0,0:09:33.98,0:09:35.19,Default,,0,0,0,,Ah!
 Dialogue: 0,0:09:45.72,0:09:47.79,Default,,0,0,0,,No!\NI'm here!
 Dialogue: 0,0:09:47.82,0:09:49.72,Default,,0,0,0,,Give me a number!
 Dialogue: 0,0:09:51.72,0:09:53.69,Default,,0,0,0,,Ugh!
@@ -217,22 +168,16 @@ Dialogue: 0,0:10:08.53,0:10:11.02,Default,,0,0,0,,Ughhhh!\NLook at me!
 Dialogue: 0,0:10:11.05,0:10:13.19,Default,,0,0,0,,I am a person!
 Dialogue: 0,0:10:13.23,0:10:15.64,Default,,0,0,0,,I deserve a number!
 Dialogue: 0,0:10:15.68,0:10:17.68,Default,,0,0,0,,Aaaaah!
-Dialogue: 0,0:10:17.72,0:10:19.72,Default,,0,0,0,,[ Banging ]
 Dialogue: 0,0:10:21.75,0:10:23.69,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:10:23.72,0:10:26.24,Default,,0,0,0,,Aaaah!
 Dialogue: 0,0:10:26.28,0:10:27.69,Default,,0,0,0,,Aaaaaah!
-Dialogue: 0,0:10:27.73,0:10:29.04,Default,,0,0,0,,[ Panting ]
 Dialogue: 0,0:10:29.07,0:10:31.28,Default,,0,0,0,,Aaaaah! Ugh!\NAgh!
-Dialogue: 0,0:10:31.32,0:10:33.87,Default,,0,0,0,,[ Panting ]
-Dialogue: 0,0:10:33.90,0:10:39.94,Default,,0,0,0,,♪♪
 Dialogue: 0,0:10:39.98,0:10:41.64,Default,,0,0,0,,Aaaaah!
 Dialogue: 0,0:10:44.16,0:10:45.47,Default,,0,0,0,,Huh?
-Dialogue: 0,0:10:45.50,0:10:47.57,Default,,0,0,0,,[ Gasping ]\NAaaah!
+Dialogue: 0,0:10:45.50,0:10:47.57,Default,,0,0,0,,Aaaah!
 Dialogue: 0,0:10:47.61,0:10:49.95,Default,,0,0,0,,Oof.
 Dialogue: 0,0:10:49.99,0:10:51.44,Default,,0,0,0,,Ah, ah!
 Dialogue: 0,0:10:53.30,0:10:54.93,Default,,0,0,0,,Aaaaah!
-Dialogue: 0,0:10:54.96,0:10:56.44,Default,,0,0,0,,Glad-One: Hello!
+Dialogue: 0,0:10:54.96,0:10:56.44,Default,,0,0,0,,Hello!
 Dialogue: 0,0:10:56.48,0:10:58.58,Default,,0,0,0,,I'd appreciate it if you'd stop\Nbreaking everything.
-Dialogue: 0,0:10:58.62,0:11:01.62,Default,,0,0,0,,Sad-One: Unless you want me to\Nstart writing your obituary.
-Dialogue: 0,0:11:03.62,0:11:15.15,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:15.19,0:11:17.60,Default,,0,0,0,,[ Clanging ]
+Dialogue: 0,0:10:58.62,0:11:01.62,Default,,0,0,0,,Unless you want me to\Nstart writing your obituary.
