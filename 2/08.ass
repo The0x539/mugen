@@ -23,8 +23,10 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:13.80,0:00:15.60,Default,,0,0,0,,I can't believe\Nhe took the exit.
-Dialogue: 0,0:00:15.63,0:00:17.60,Default,,0,0,0,split,He was weak.He wasn't weak.
-Dialogue: 0,0:00:17.63,0:00:19.46,Default,,0,0,0,split,He was misled.But he—
+Dialogue: 0,0:00:15.63,0:00:16.75,Default,,0,0,0,,He was weak.
+Dialogue: 0,0:00:16.75,0:00:17.60,Default,,0,0,0,,He wasn't weak.
+Dialogue: 0,0:00:17.63,0:00:18.87,Default,,0,0,0,,He was misled.
+Dialogue: 0,0:00:18.87,0:00:19.46,Default,,0,0,0,,But he—
 Dialogue: 0,0:00:19.50,0:00:21.53,Default,,0,0,0,,We just lost\Nanother human, Simon.
 Dialogue: 0,0:00:21.57,0:00:24.30,Default,,0,0,0,,Have some respect.
 Dialogue: 0,0:00:24.33,0:00:25.43,Default,,0,0,0,,Jesse...
@@ -39,7 +41,8 @@ Dialogue: 0,0:01:24.94,0:01:25.91,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:27.15,0:01:28.88,Default,,0,0,0,,Ah! Ah...
 Dialogue: 0,0:01:30.36,0:01:31.60,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:36.23,0:01:37.26,Default,,0,0,0,,Eh?
-Dialogue: 0,0:01:38.30,0:01:39.30,Default,,0,0,0,split,Ah!\NHuh?
+Dialogue: 0,0:01:38.41,0:01:38.79,Default,,0,0,0,,Ah!
+Dialogue: 0,0:01:38.79,0:01:39.16,Default,,0,0,0,,Huh?
 Dialogue: 0,0:01:39.34,0:01:40.44,Default,,0,0,0,,Wha!
 Dialogue: 0,0:01:46.27,0:01:47.41,Default,,0,0,0,,Huh? Wha!
 Dialogue: 0,0:01:52.25,0:01:53.52,Default,,0,0,0,,No!
@@ -80,7 +83,8 @@ Dialogue: 0,0:04:40.83,0:04:43.66,Default,,0,0,0,,This was never gonna\Nend well
 Dialogue: 0,0:04:43.69,0:04:45.45,Default,,0,0,0,,You should have\Nfollowed mirror law
 Dialogue: 0,0:04:45.49,0:04:46.80,Default,,0,0,0,,and been recycled.
 Dialogue: 0,0:04:46.83,0:04:49.87,Default,,0,0,0,,Choose to become\Na disgusting flec like you?
-Dialogue: 0,0:04:49.91,0:04:51.98,Default,,0,0,0,split,Coward.What did you just say?
+Dialogue: 0,0:04:49.91,0:04:51.15,Default,,0,0,0,,Coward.
+Dialogue: 0,0:04:51.15,0:04:51.98,Default,,0,0,0,,What did you just say?
 Dialogue: 0,0:04:52.01,0:04:52.98,Default,,0,0,0,,You're a coward!
 Dialogue: 0,0:04:53.01,0:04:55.32,Default,,0,0,0,,When your prime died,\Nyou chose to be a flec
 Dialogue: 0,0:04:55.36,0:04:57.64,Default,,0,0,0,,because you were afraid\Nto let go of your identity.
@@ -132,8 +136,9 @@ Dialogue: 0,0:07:40.18,0:07:42.49,Default,,0,0,0,,No one's prime could have,
 Dialogue: 0,0:07:42.53,0:07:47.50,Default,,0,0,0,,so did the train make the car\Nso you could get out?
 Dialogue: 0,0:07:47.53,0:07:49.64,Default,,0,0,0,,You're trying\Nto freak me out.
 Dialogue: 0,0:07:49.67,0:07:50.91,Default,,0,0,0,,It won't work.
-Dialogue: 0,0:07:50.95,0:07:53.85,Default,,0,0,0,split,Maybe the car\Nwas for you.\NWhy would—
-Dialogue: 0,0:07:53.88,0:07:56.92,Default,,0,0,0,,To use you\Nto help Tulip learn.
+Dialogue: 0,0:07:50.95,0:07:53.62,Default,,0,0,0,,Maybe the car was for you.
+Dialogue: 0,0:07:53.62,0:07:54.33,Default,,0,0,0,,Why would—
+Dialogue: 0,0:07:54.33,0:07:56.92,Default,,0,0,0,,To use you\Nto help Tulip learn.
 Dialogue: 0,0:07:56.95,0:08:00.72,Default,,0,0,0,,Just another creation of\Nthe train to help passengers.
 Dialogue: 0,0:08:00.75,0:08:02.96,Default,,0,0,0,,No.\NI'm a person.
 Dialogue: 0,0:08:02.99,0:08:05.13,Default,,0,0,0,,I-I was making\Nmy own choices.
