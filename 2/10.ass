@@ -37,7 +37,8 @@ Dialogue: 0,0:00:39.55,0:00:42.07,Default,,0,0,0,,and whatever gears\Nor reality
 Dialogue: 0,0:00:42.11,0:00:44.69,Default,,0,0,0,,you've got to press,\Nyou're gonna do it.
 Dialogue: 0,0:00:44.73,0:00:46.08,Default,,0,0,0,,But why would I?
 Dialogue: 0,0:00:46.11,0:00:49.18,Default,,0,0,0,,You're exactly where\Nyou're supposed to be.
-Dialogue: 0,0:00:49.22,0:00:50.42,Default,,0,0,0,split,-No.\N-No?
+Dialogue: 0,0:00:49.22,0:00:49.57,Default,,0,0,0,,No.
+Dialogue: 0,0:00:49.57,0:00:50.42,Default,,0,0,0,,No?
 Dialogue: 0,0:00:50.46,0:00:52.01,Default,,0,0,0,,No.\NGive me my exit.
 Dialogue: 0,0:00:52.05,0:00:54.36,Default,,0,0,0,,You can't have an exit.\NYou don't have a number.
 Dialogue: 0,0:00:54.39,0:00:56.71,Default,,0,0,0,,Ugh!\NGive me a number then!
@@ -122,7 +123,8 @@ Dialogue: 0,0:04:28.23,0:04:29.99,Default,,0,0,0,,She can probably\Ntake care of
 Dialogue: 0,0:04:30.02,0:04:34.48,Default,,0,0,0,,but I promised\Nwe'd stay together.
 Dialogue: 0,0:04:34.51,0:04:37.48,Default,,0,0,0,,So...\Nwhat are you gonna do?
 Dialogue: 0,0:04:37.51,0:04:42.24,Default,,0,0,0,,I— I just need to sit here\Nand think for a bit.
-Dialogue: 0,0:04:42.28,0:04:44.00,Default,,0,0,0,split,Okay?\NOkay.
+Dialogue: 0,0:04:42.28,0:04:42.68,Default,,0,0,0,,Okay?
+Dialogue: 0,0:04:42.68,0:04:44.00,Default,,0,0,0,,Okay.
 Dialogue: 0,0:04:44.04,0:04:45.90,Default,,0,0,0,,Uh, I'll go get some food\Nor something.
 Dialogue: 0,0:04:45.94,0:04:47.87,Default,,0,0,0,,Be right back.
 Dialogue: 0,0:04:50.98,0:04:52.56,Default,,0,0,0,,I can't leave her there.
@@ -131,8 +133,10 @@ Dialogue: 0,0:05:02.71,0:05:04.02,Default,,0,0,0,,Now will you wake him up?
 Dialogue: 0,0:05:04.06,0:05:05.30,Default,,0,0,0,,Oh, heavens no.
 Dialogue: 0,0:05:05.33,0:05:07.68,Default,,0,0,0,,Waking a passenger\Nis a whole process.
 Dialogue: 0,0:05:07.72,0:05:11.69,Default,,0,0,0,,It involves robots and coding\Nand juice boxes and—
-Dialogue: 0,0:05:11.72,0:05:13.52,Default,,0,0,0,split,-Ugh!\N-Wha!
-Dialogue: 0,0:05:13.55,0:05:15.41,Default,,0,0,0,split,-Ah!\N-Ah, ah, ah!
+Dialogue: 0,0:05:11.72,0:05:12.04,Default,,0,0,0,,Ugh!
+Dialogue: 0,0:05:12.88,0:05:13.52,Default,,0,0,0,,Wha!
+Dialogue: 0,0:05:13.55,0:05:13.79,Default,,0,0,0,,Ah!
+Dialogue: 0,0:05:13.79,0:05:15.41,Default,,0,0,0,,Ah, ah, ah!
 Dialogue: 0,0:05:15.45,0:05:17.38,Default,,0,0,0,,Where am I?\NMT!
 Dialogue: 0,0:05:19.35,0:05:21.04,Default,,0,0,0,,Jesse, I thought\Nyou were gone!
 Dialogue: 0,0:05:21.07,0:05:22.21,Default,,0,0,0,,MT, I didn't think\NI would find you so fast!
@@ -145,7 +149,8 @@ Dialogue: 0,0:05:35.12,0:05:36.37,Default,,0,0,0,,Oh, I have a problem.
 Dialogue: 0,0:05:36.40,0:05:39.16,Default,,0,0,0,,My friend is trapped\Non a train.
 Dialogue: 0,0:05:41.92,0:05:44.93,Default,,0,0,0,,Whoo-hoo!\NNumber time!
 Dialogue: 0,0:05:44.96,0:05:47.72,Default,,0,0,0,,Ah! Ah!\NOkay, this is terrifying.
-Dialogue: 0,0:05:47.76,0:05:49.83,Default,,0,0,0,split,Ah! Hey, let go of me!Oh, stop it.
+Dialogue: 0,0:05:47.76,0:05:49.00,Default,,0,0,0,,Ah! Hey, let go of me!
+Dialogue: 0,0:05:49.00,0:05:49.83,Default,,0,0,0,,Oh, stop it.
 Dialogue: 0,0:05:49.86,0:05:51.79,Default,,0,0,0,,You'll hurt\Nmy steward's feelings.
 Dialogue: 0,0:05:55.42,0:05:57.49,Default,,0,0,0,,Ah! Ah!
 Dialogue: 0,0:06:02.43,0:06:04.91,Default,,0,0,0,,Uh, is that\Nsupposed to happen?
@@ -177,14 +182,17 @@ Dialogue: 0,0:06:59.17,0:07:01.66,Default,,0,0,0,,You got a problem?\NI got a so
 Dialogue: 0,0:07:01.69,0:07:04.87,Default,,0,0,0,,He can't save her\Nif there's nothing to save.
 Dialogue: 0,0:07:04.90,0:07:08.39,Default,,0,0,0,,Just help me sand her.\NProblem solved!
 Dialogue: 0,0:07:09.01,0:07:11.70,Default,,0,0,0,,Yeah,\Nthat would solve things.
-Dialogue: 0,0:07:11.74,0:07:15.26,Default,,0,0,0,split,No!Wait, um, One-One,\NI'm confused.
+Dialogue: 0,0:07:11.74,0:07:12.62,Default,,0,0,0,,No!
+Dialogue: 0,0:07:12.62,0:07:15.26,Default,,0,0,0,,Wait, um, One-One,\NI'm confused.
 Dialogue: 0,0:07:15.29,0:07:16.91,Default,,0,0,0,,What's the purpose\Nof the train again?
 Dialogue: 0,0:07:16.95,0:07:18.85,Default,,0,0,0,,Oh, it's to help passengers.
 Dialogue: 0,0:07:18.88,0:07:21.82,Default,,0,0,0,,But wait. Your problem needs us\Nto let a denizen off.
 Dialogue: 0,0:07:21.85,0:07:23.40,Default,,0,0,0,,Can't do that\Nwithout a number.
 Dialogue: 0,0:07:23.44,0:07:25.85,Default,,0,0,0,,So I guess he can't\Nleave and...
-Dialogue: 0,0:07:25.89,0:07:27.48,Default,,0,0,0,split,-Aah!\N-Aah!
-Dialogue: 0,0:07:31.03,0:07:34.48,Default,,0,0,0,split,Hey! Aah!\NUgh.
+Dialogue: 0,0:07:25.89,0:07:27.48,Default,,0,0,0,,Aah!
+Dialogue: 0,0:07:25.89,0:07:27.48,Default,,0,0,0,,Aah!
+Dialogue: 0,0:07:31.03,0:07:33.43,Default,,0,0,0,,Hey! Aah!
+Dialogue: 0,0:07:33.43,0:07:34.48,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:07:34.52,0:07:36.52,Default,,0,0,0,,Jesse! Ah!
 Dialogue: 0,0:07:38.80,0:07:41.70,Default,,0,0,0,,Agh! Agh! Agh!
 Dialogue: 0,0:07:44.60,0:07:46.50,Default,,0,0,0,,Ugh! Ugh!
@@ -204,9 +212,11 @@ Dialogue: 0,0:08:24.91,0:08:28.57,Default,,0,0,0,,But you have a number,\Nso...
 Dialogue: 0,0:08:28.61,0:08:30.64,Default,,0,0,0,,So we get our exit?
 Dialogue: 0,0:08:30.68,0:08:32.33,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:08:32.37,0:08:33.96,Default,,0,0,0,,Yeah, sure, whatever.
-Dialogue: 0,0:08:40.76,0:08:42.41,Default,,0,0,0,split,Ah!\NHuh?
+Dialogue: 0,0:08:40.76,0:08:41.38,Default,,0,0,0,,Ah!
+Dialogue: 0,0:08:41.38,0:08:42.41,Default,,0,0,0,,Huh?
 Dialogue: 0,0:08:47.83,0:08:50.90,Default,,0,0,0,,We're leaving together,\Nfor real this time.
-Dialogue: 0,0:08:59.12,0:09:01.09,Default,,0,0,0,split,Aaah!\NOh!
+Dialogue: 0,0:08:59.12,0:08:59.69,Default,,0,0,0,,Aaah!
+Dialogue: 0,0:08:59.69,0:09:01.09,Default,,0,0,0,,Oh!
 Dialogue: 0,0:09:01.12,0:09:02.64,Default,,0,0,0,,No! Ah! Ah!
 Dialogue: 0,0:09:02.68,0:09:04.57,Default,,0,0,0,,You're done, sliver.
 Dialogue: 0,0:09:04.61,0:09:06.09,Default,,0,0,0,,Whoa!
