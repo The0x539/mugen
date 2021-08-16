@@ -90,7 +90,8 @@ Dialogue: 0,0:03:03.00,0:03:04.01,Default,,0,0,0,,Ooh!
 Dialogue: 0,0:03:04.01,0:03:09.00,Default,,0,0,0,,You're just jealous I know how\Nto make practical look good.
 Dialogue: 0,0:03:09.00,0:03:11.01,Default,,0,0,0,kara,No!\NWhat are you doing?
 Dialogue: 0,0:03:11.01,0:03:13.02,Default,,0,0,0,kara,Help!
-Dialogue: 0,0:03:17.00,0:03:19.00,Default,,0,0,0,split,Time to go?\NTime to go.
+Dialogue: 0,0:03:17.05,0:03:18.30,Default,,0,0,0,,Time to go?
+Dialogue: 0,0:03:18.30,0:03:19.14,Default,,0,0,0,,Time to go.
 Dialogue: 0,0:03:28.01,0:03:29.01,Default,,0,0,0,,It's locked.
 Dialogue: 0,0:03:29.02,0:03:34.01,Default,,0,0,0,,[ Sighs ]\NAnother dumb train puzzle?
 Dialogue: 0,0:03:34.01,0:03:35.02,Default,,0,0,0,,Barely.
@@ -124,8 +125,9 @@ Dialogue: 0,0:05:14.01,0:05:16.00,Default,,0,0,0,,So I can keep\Nthe light perso
 Dialogue: 0,0:05:16.01,0:05:18.01,Default,,0,0,0,kara,N-No! Wait!
 Dialogue: 0,0:05:18.01,0:05:20.01,Default,,0,0,0,,Aw, that's cute.
 Dialogue: 0,0:05:20.01,0:05:24.00,Default,,0,0,0,,Lucy thinks\Nit's a person.
-Dialogue: 0,0:05:24.00,0:05:27.00,Default,,0,0,0,split,Simon, do you see a person?\NMnh-mnh.
-Dialogue: 0,0:05:27.00,0:05:31.00,Default,,0,0,0,,All I see is another toy\Nthe train made to amuse us.
+Dialogue: 0,0:05:24.00,0:05:26.72,Default,,0,0,0,,Simon, do you see a person?
+Dialogue: 0,0:05:26.72,0:05:27.39,Default,,0,0,0,,Mnh-mnh.
+Dialogue: 0,0:05:27.39,0:05:31.00,Default,,0,0,0,,All I see is another toy\Nthe train made to amuse us.
 Dialogue: 0,0:05:31.00,0:05:33.00,Default,,0,0,0,,See, Lucy?\NIt's nothing.
 Dialogue: 0,0:05:33.01,0:05:36.01,Default,,0,0,0,,Just something to play with\Nwhen we're bored.
 Dialogue: 0,0:05:36.01,0:05:37.98,Default,,0,0,0,,And honestly?
@@ -202,8 +204,9 @@ Dialogue: 0,0:10:04.01,0:10:05.01,Default,,0,0,0,,Phew.
 Dialogue: 0,0:10:05.01,0:10:06.01,Default,,0,0,0,,I owe you one.
 Dialogue: 0,0:10:06.01,0:10:08.00,Default,,0,0,0,,Dude,\Nyou owe me a million.
 Dialogue: 0,0:10:08.00,0:10:09.01,Default,,0,0,0,,Also, a new raid mask.
-Dialogue: 0,0:10:09.01,0:10:11.00,Default,,0,0,0,,Also a harpoon pack.
-Dialogue: 0,0:10:11.00,0:10:12.02,Default,,0,0,0,split,Yours is broken?\NUgh.
+Dialogue: 0,0:10:09.01,0:10:11.34,Default,,0,0,0,,Also a harpoon pack.
+Dialogue: 0,0:10:11.34,0:10:12.17,Default,,0,0,0,,Yours is broken?
+Dialogue: 0,0:10:12.17,0:10:13.01,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:10:13.00,0:10:15.00,Default,,0,0,0,,Beyond broken.
 Dialogue: 0,0:10:15.00,0:10:16.00,Default,,0,0,0,,We'll swap it out back\Nat the mall.
 Dialogue: 0,0:10:16.01,0:10:19.00,Default,,0,0,0,,Can't be that far.
