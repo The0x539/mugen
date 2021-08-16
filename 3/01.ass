@@ -116,7 +116,7 @@ Dialogue: 0,0:04:39.68,0:04:42.51,Default,Grace,0,0,0,,things... in my personal 
 Dialogue: 0,0:04:46.02,0:04:47.02,Default,Grace,0,0,0,,Wow.
 Comment: 0,0:04:50.56,0:04:52.02,Default,Spotlight,0,0,0,kara,{\k12}{\k29}Please {\k58}help{\k0}!{\k47}
 Comment: 0,0:04:52.02,0:04:54.65,Default,Spotlight,0,0,0,kara,{\k34}Oh{\k0}, {\k41}no{\k0}!{\k34} {\k57}You're {\k23}one {\k23}of {\k51\-strong}them{\k0}!
-Dialogue: 0,0:04:54.65,0:04:56.32,Default,Grace,0,0,0,,Lucy, hold that Null.
+Dialogue: 0,0:04:54.65,0:04:56.32,Default,Grace,0,0,0,,Lucy, hold that null.
 Comment: 0,0:04:57.28,0:05:00.78,Default,Spotlight,0,0,0,kara,{\k23}{\k21}Wh{\k0}-{\k58}What{\k28} {\k39}are {\k41}you {\k91}do{\k49}ing{\k0}?
 Dialogue: 0,0:05:00.78,0:05:02.16,Default,Grace,0,0,0,,Shhh...
 Dialogue: 0,0:05:02.16,0:05:03.57,Default,Grace,0,0,0,,Hmm.
