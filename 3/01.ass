@@ -65,21 +65,17 @@ Dialogue: 0,0:01:37.87,0:01:43.17,Default,Song,0,0,0,,{\an8\i1}You'll like it
 Dialogue: 0,0:01:43.17,0:01:49.05,Default,Song,0,0,0,,{\an8\i1}too!
 Dialogue: 0,0:01:53.01,0:01:55.00,Default,,0,0,0,,Take what you want, Apex!
 Dialogue: 0,0:01:55.00,0:01:58.00,Default,,0,0,0,,Highest number gets\Nthe pick of the raid!
-Dialogue: 0,0:01:58.00,0:02:05.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:02:05.01,0:02:06.01,Default,,0,0,0,,oh!
-Dialogue: 0,0:02:06.01,0:02:08.01,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:02:08.01,0:02:16.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:02:16.02,0:02:19.00,Default,,0,0,0,,[ Laughs, grunts ]
+Dialogue: 0,0:02:05.01,0:02:06.01,Default,,0,0,0,,Oh!
 Dialogue: 0,0:02:19.00,0:02:20.00,Default,,0,0,0,,Ya!
-Dialogue: 0,0:02:20.00,0:02:22.00,Default,,0,0,0,,[ Laughs ] Ha!
-Dialogue: 0,0:02:22.01,0:02:24.02,Default,,0,0,0,,[ Chuckles ]\NSimon: You see that, Grace?
+Dialogue: 0,0:02:20.00,0:02:22.00,Default,,0,0,0,,Ha!
+Dialogue: 0,0:02:22.01,0:02:24.02,Default,,0,0,0,,You see that, Grace?
 Dialogue: 0,0:02:24.02,0:02:26.01,Default,,0,0,0,,Already up 14!
-Dialogue: 0,0:02:26.01,0:02:29.00,Default,,0,0,0,,Not bad, Simon! [ Grunts ]
+Dialogue: 0,0:02:26.01,0:02:29.00,Default,,0,0,0,,Not bad, Simon!
 Dialogue: 0,0:02:29.00,0:02:30.00,Default,,0,0,0,,Not bad?
 Dialogue: 0,0:02:30.00,0:02:31.00,Default,,0,0,0,,Think you can beat it?
 Dialogue: 0,0:02:31.01,0:02:34.00,Default,,0,0,0,,Already have,\Nsocks n' sandals.
 Dialogue: 0,0:02:34.00,0:02:38.00,Default,,0,0,0,,Ahh!
-Dialogue: 0,0:02:38.00,0:02:40.01,Default,,0,0,0,,Oh, come on,\Ngive me a new nickname --
+Dialogue: 0,0:02:38.00,0:02:40.01,Default,,0,0,0,,Oh, come on,\Ngive me a new nickname—
 Dialogue: 0,0:02:40.01,0:02:43.00,Default,,0,0,0,,I was 10. My mom thought\Nthey were practical.
 Dialogue: 0,0:02:43.00,0:02:45.01,Default,,0,0,0,,Ha!\NNever trust an adult!
 Dialogue: 0,0:02:45.01,0:02:47.01,Default,,0,0,0,,She ever heard of shoes?
@@ -89,27 +85,18 @@ Dialogue: 0,0:02:51.00,0:02:54.01,Default,,0,0,0,,What are these "shoe-ez"\Nyou 
 Dialogue: 0,0:02:56.01,0:02:58.02,Default,,0,0,0,,Wow.\NNice combo.
 Dialogue: 0,0:02:59.00,0:03:00.00,Default,,0,0,0,,Guess you win again...
 Dialogue: 0,0:03:00.00,0:03:01.01,Default,,0,0,0,,kneepads.
-Dialogue: 0,0:03:01.01,0:03:03.00,Default,,0,0,0,,[ Gasps ] Oh!
+Dialogue: 0,0:03:01.01,0:03:03.00,Default,,0,0,0,,Oh!
 Dialogue: 0,0:03:03.00,0:03:04.01,Default,,0,0,0,,Ooh!
 Dialogue: 0,0:03:04.01,0:03:09.00,Default,,0,0,0,,You're just jealous I know how\Nto make practical look good.
-Dialogue: 0,0:03:09.00,0:03:11.01,Default,,0,0,0,,No!\NWhat are you doing?
-Dialogue: 0,0:03:11.01,0:03:13.02,Default,,0,0,0,,Help!
-Dialogue: 0,0:03:15.02,0:03:16.02,Default,,0,0,0,,[ Cheering ]
-Dialogue: 0,0:03:17.00,0:03:19.00,Default,,0,0,0,,Time to go?\NTime to go.
-Dialogue: 0,0:03:19.00,0:03:25.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:25.01,0:03:26.01,Default,,0,0,0,,[ Whistles ]
-Dialogue: 0,0:03:26.02,0:03:28.01,Default,,0,0,0,,[ Grunting ]
+Dialogue: 0,0:03:09.00,0:03:11.01,Default,,0,0,0,kara,No!\NWhat are you doing?
+Dialogue: 0,0:03:11.01,0:03:13.02,Default,,0,0,0,kara,Help!
+Dialogue: 0,0:03:17.00,0:03:19.00,Default,,0,0,0,split,Time to go?\NTime to go.
 Dialogue: 0,0:03:28.01,0:03:29.01,Default,,0,0,0,,It's locked.
 Dialogue: 0,0:03:29.02,0:03:34.01,Default,,0,0,0,,[ Sighs ]\NAnother dumb train puzzle?
 Dialogue: 0,0:03:34.01,0:03:35.02,Default,,0,0,0,,Barely.
 Dialogue: 0,0:03:35.02,0:03:39.00,Default,,0,0,0,,Apex!
 Dialogue: 0,0:03:39.00,0:03:40.01,Default,,0,0,0,,Take a bow!
-Dialogue: 0,0:03:40.02,0:03:43.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:43.01,0:03:45.02,Default,,0,0,0,,[ Indistinct conversations ]
-Dialogue: 0,0:03:45.02,0:03:53.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:53.00,0:03:58.01,Default,,0,0,0,,♪ When I look at you,\NI see me ♪
-Dialogue: 0,0:03:58.01,0:04:06.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:06.00,0:04:10.00,Default,,0,0,0,,♪♪
+Dialogue: 0,0:03:53.00,0:03:58.01,Default,Tragedy,0,0,0,,{\i1}When I look at you, I see me...
 Dialogue: 0,0:04:14.00,0:04:17.00,Default,,0,0,0,,Lindsay, this is amazing!
 Dialogue: 0,0:04:17.00,0:04:19.01,Default,,0,0,0,,This is going in\Nmy personal stash
 Dialogue: 0,0:04:19.01,0:04:22.00,Default,,0,0,0,,where only\Nmy favorite gifts go.
@@ -119,12 +106,12 @@ Dialogue: 0,0:04:26.00,0:04:27.01,Default,,0,0,0,,Mm-hmm.
 Dialogue: 0,0:04:32.01,0:04:33.02,Default,,0,0,0,,Wow, Alex!
 Dialogue: 0,0:04:33.02,0:04:35.01,Default,,0,0,0,,You're so good\Nat presents.
 Dialogue: 0,0:04:35.01,0:04:39.01,Default,,0,0,0,,Don't tell anybody, but I'm\Ngoing to put only these...
-Dialogue: 0,0:04:39.01,0:04:43.00,Default,,0,0,0,,things...in my personal stash\Nof favorites.
+Dialogue: 0,0:04:39.01,0:04:43.00,Default,,0,0,0,,things... in my personal stash\Nof favorites.
 Dialogue: 0,0:04:46.00,0:04:47.01,Default,,0,0,0,,Wow.
-Dialogue: 0,0:04:50.01,0:04:51.01,Default,,0,0,0,,Spotlight: Please help!
-Dialogue: 0,0:04:51.02,0:04:54.01,Default,,0,0,0,,♪ Oh, no,\Ny-you're one of them! ♪
+Dialogue: 0,0:04:50.01,0:04:51.01,Default,,0,0,0,kara,Please help!
+Dialogue: 0,0:04:51.02,0:04:54.01,Default,,0,0,0,kara,Oh, no,\Ny-you're one of them!
 Dialogue: 0,0:04:54.01,0:04:57.00,Default,,0,0,0,,Lucy, hold that Null.
-Dialogue: 0,0:04:57.00,0:05:00.01,Default,,0,0,0,,♪ Wh-What are you doing? ♪
+Dialogue: 0,0:04:57.00,0:05:00.01,Default,,0,0,0,kara,Wh-What are you doing?
 Dialogue: 0,0:05:00.01,0:05:02.00,Default,,0,0,0,,Shhh...
 Dialogue: 0,0:05:02.00,0:05:03.01,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:05:03.01,0:05:04.02,Default,,0,0,0,,Oh.
@@ -134,20 +121,21 @@ Dialogue: 0,0:05:09.00,0:05:10.01,Default,,0,0,0,,[ Sighs ]\NOne of these days,
 Dialogue: 0,0:05:10.01,0:05:12.01,Default,,0,0,0,,I'll make crushed velvet\Nwork for me.
 Dialogue: 0,0:05:12.01,0:05:14.01,Default,,0,0,0,,Wheel it or whatever.
 Dialogue: 0,0:05:14.01,0:05:16.00,Default,,0,0,0,,So I can keep\Nthe light person?
-Dialogue: 0,0:05:16.01,0:05:18.01,Default,,0,0,0,,N-No! Wait!
+Dialogue: 0,0:05:16.01,0:05:18.01,Default,,0,0,0,kara,N-No! Wait!
 Dialogue: 0,0:05:18.01,0:05:20.01,Default,,0,0,0,,Aw, that's cute.
 Dialogue: 0,0:05:20.01,0:05:24.00,Default,,0,0,0,,Lucy thinks\Nit's a person.
-Dialogue: 0,0:05:24.00,0:05:27.00,Default,,0,0,0,,Simon, do you see a person?\NMnh-mnh.
+Dialogue: 0,0:05:24.00,0:05:27.00,Default,,0,0,0,split,Simon, do you see a person?\NMnh-mnh.
 Dialogue: 0,0:05:27.00,0:05:31.00,Default,,0,0,0,,All I see is another toy\Nthe train made to amuse us.
 Dialogue: 0,0:05:31.00,0:05:33.00,Default,,0,0,0,,See, Lucy?\NIt's nothing.
 Dialogue: 0,0:05:33.01,0:05:36.01,Default,,0,0,0,,Just something to play with\Nwhen we're bored.
-Dialogue: 0,0:05:36.01,0:05:38.01,Default,,0,0,0,,And honestly?\NAhh!
-Dialogue: 0,0:05:38.01,0:05:40.00,Default,,0,0,0,,You're boring me.
+Dialogue: 0,0:05:36.01,0:05:37.98,Default,,0,0,0,,And honestly?
+Comment: 0,0:05:36.94,0:05:38.61,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:05:38.61,0:05:40.00,Default,,0,0,0,,You're boring me.
 Dialogue: 0,0:05:40.00,0:05:42.02,Default,,0,0,0,,Yes, Grace,\Nunderstood, Grace!
 Dialogue: 0,0:05:43.00,0:05:44.00,Default,,0,0,0,,Wait!
 Dialogue: 0,0:05:44.00,0:05:46.01,Default,,0,0,0,,I want it!\NPut it in my room.
-Dialogue: 0,0:05:46.01,0:05:48.01,Default,,0,0,0,,Yes, Simon.\N♪ Let me go ♪
-Dialogue: 0,0:05:48.01,0:05:51.01,Default,,0,0,0,,♪ I'm not a toy ♪
+Dialogue: 0,0:05:46.01,0:05:47.70,Default,,0,0,0,,Yes, Simon.
+Dialogue: 0,0:05:47.70,0:05:50.45,Default,,0,0,0,kara,Let me go, I'm not a toy
 Dialogue: 0,0:05:51.01,0:05:54.00,Default,,0,0,0,,What? I'm building a diorama\Nfor my soldiers.
 Dialogue: 0,0:05:54.00,0:05:56.00,Default,,0,0,0,,I need a big light\Nto emulate dawn before
 Dialogue: 0,0:05:56.00,0:05:57.01,Default,,0,0,0,,The Battle of Esmoroth.
@@ -158,27 +146,21 @@ Dialogue: 0,0:06:04.00,0:06:06.00,Default,,0,0,0,,I'm still\Non the foreword!
 Dialogue: 0,0:06:06.00,0:06:07.01,Default,,0,0,0,,You wrote the foreword!
 Dialogue: 0,0:06:07.01,0:06:10.00,Default,,0,0,0,,I know, isn't it great?
 Dialogue: 0,0:06:12.01,0:06:15.01,Default,,0,0,0,,Apex!\NMay our spirits be high!
-Dialogue: 0,0:06:15.01,0:06:17.00,Default,,0,0,0,,Together:\NAnd our numbers higher!
+Dialogue: 0,0:06:15.01,0:06:17.00,Default,,0,0,0,,And our numbers higher!
 Dialogue: 0,0:06:17.01,0:06:19.00,Default,,0,0,0,,Down with\Nthe false Conductor!
 Dialogue: 0,0:06:19.01,0:06:21.01,Default,,0,0,0,,The Apex reveals the truth!
-Dialogue: 0,0:06:21.01,0:06:24.01,Default,,0,0,0,,[ Trills tongue ]
 Dialogue: 0,0:06:24.02,0:06:25.02,Default,,0,0,0,,Let's raid another car!
 Dialogue: 0,0:06:26.00,0:06:27.01,Default,,0,0,0,,I'm feeling it, yeah!
 Dialogue: 0,0:06:27.01,0:06:30.01,Default,,0,0,0,,Who wants\Nto raid one more car?
-Dialogue: 0,0:06:30.01,0:06:33.02,Default,,0,0,0,,[ All chanting "One more car!\NOne more car!" ]
+Dialogue: 0,0:06:30.01,0:06:33.02,Default,,0,0,0,,One more car! One more car!
 Dialogue: 0,0:06:33.02,0:06:37.00,Default,,0,0,0,,No sign of any passengers\Nin the next car, should be easy.
 Dialogue: 0,0:06:37.00,0:06:39.02,Default,,0,0,0,,One more car!\NOne more car!
-Dialogue: 0,0:06:40.00,0:06:42.01,Default,,0,0,0,,[ All chanting "One more car!\NOne more car!" ]
-Dialogue: 0,0:06:42.02,0:06:47.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:47.01,0:06:49.00,Default,,0,0,0,,[ Cheering ]
-Dialogue: 0,0:06:52.02,0:06:54.00,Default,,0,0,0,,[ Laughter ]
+Dialogue: 0,0:06:40.00,0:06:42.01,Default,,0,0,0,,One more car!\NOne more car!
 Dialogue: 0,0:06:54.00,0:06:55.01,Default,,0,0,0,,Kevin: Ah, yeah, Chief,\NI'm just making
-Dialogue: 0,0:06:55.01,0:06:56.02,Default,,0,0,0,,the ol' {\i1}desayuno{\i\i1}for the family.{\i}
+Dialogue: 0,0:06:55.01,0:06:56.02,Default,,0,0,0,,the ol' {\i1}desayuno{\i0} for the family.
 Dialogue: 0,0:06:57.00,0:06:59.02,Default,,0,0,0,,Slow-cooked lettuce\Nwith a side of turtle juice!
 Dialogue: 0,0:06:59.02,0:07:02.00,Default,,0,0,0,,It's like regular juice,\Nbut for turtles.
-Dialogue: 0,0:07:04.01,0:07:06.01,Default,,0,0,0,,[ Crashing ]
 Dialogue: 0,0:07:06.01,0:07:08.01,Default,,0,0,0,,I don't know, Chief,\Nwhat's going on?
-Dialogue: 0,0:07:08.02,0:07:12.01,Default,,0,0,0,,[ Indistinct conversations,\Nlaughter ]
 Dialogue: 0,0:07:12.01,0:07:14.00,Default,,0,0,0,,What's happening, Daddy?
 Dialogue: 0,0:07:14.00,0:07:16.01,Default,,0,0,0,,That's right, now I'm\Nreassuring my kid Kevin Jr.
 Dialogue: 0,0:07:16.01,0:07:18.01,Default,,0,0,0,,not to worry\Nand telling him it'll be okay.
@@ -193,66 +175,39 @@ Dialogue: 0,0:07:36.00,0:07:37.02,Default,,0,0,0,,No, no, sensei,\Nwas yelling a
 Dialogue: 0,0:07:37.02,0:07:39.01,Default,,0,0,0,,Would never dream\Nof yelling at you.
 Dialogue: 0,0:07:39.01,0:07:40.02,Default,,0,0,0,,You're golden, sensei.
 Dialogue: 0,0:07:40.02,0:07:41.02,Default,,0,0,0,,Golden!
-Dialogue: 0,0:07:41.02,0:07:47.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:47.01,0:07:49.00,Default,,0,0,0,,[ Laughs ]
-Dialogue: 0,0:07:49.00,0:07:50.02,Default,,0,0,0,,♪♪
 Dialogue: 0,0:07:50.02,0:07:53.02,Default,,0,0,0,,Looks like someone wants\Na new nickname, Chef's hat!
 Dialogue: 0,0:07:53.02,0:07:55.01,Default,,0,0,0,,Oh, man,\Nam I wearing one?
 Dialogue: 0,0:07:55.01,0:07:59.00,Default,,0,0,0,,It's so subtle,\NI hadn't noticed.
 Dialogue: 0,0:07:59.00,0:08:01.01,Default,,0,0,0,,Stop!\NIn the name of King Aloysius!
 Dialogue: 0,0:08:01.01,0:08:02.01,Default,,0,0,0,,Blah-blah-blah.
-Dialogue: 0,0:08:02.01,0:08:04.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:08:04.00,0:08:11.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:11.01,0:08:14.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:14.00,0:08:17.00,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:08:21.00,0:08:24.00,Default,,0,0,0,,[ Rumbling ]
-Dialogue: 0,0:08:24.00,0:08:26.01,Default,,0,0,0,,[ Indistinct speaking ]
 Dialogue: 0,0:08:26.01,0:08:27.02,Default,,0,0,0,,This car's a shifter.
 Dialogue: 0,0:08:27.02,0:08:30.00,Default,,0,0,0,,Back to the mall, Apex!
-Dialogue: 0,0:08:30.00,0:08:33.01,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:33.01,0:08:34.01,Default,,0,0,0,,Simon!
 Dialogue: 0,0:08:34.01,0:08:36.01,Default,,0,0,0,,Ahhh!
-Dialogue: 0,0:08:36.01,0:08:43.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:43.00,0:08:45.00,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:08:45.00,0:08:46.01,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:08:46.02,0:08:50.01,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:50.01,0:08:52.01,Default,,0,0,0,,Ahh!
-Dialogue: 0,0:08:52.01,0:08:58.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:08:58.01,0:09:01.00,Default,,0,0,0,,Sorry, Madam Secretary,\Ngonna be late {\i1}again.{\i}
+Dialogue: 0,0:08:58.01,0:09:01.00,Default,,0,0,0,,Sorry, Madam Secretary,\Ngonna be late {\i1}again{\i}.
 Dialogue: 0,0:09:01.00,0:09:02.01,Default,,0,0,0,,First my breakfast\Nis ruined,
 Dialogue: 0,0:09:02.01,0:09:04.01,Default,,0,0,0,,now the whole world\Nis flying away!
-Dialogue: 0,0:09:04.01,0:09:07.00,Default,,0,0,0,,It's been a bad, bad,\Nbad, bad {\i1}year!{\i}
-Dialogue: 0,0:09:07.00,0:09:09.00,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:09:09.00,0:09:14.00,Default,,0,0,0,,♪♪
+Dialogue: 0,0:09:04.01,0:09:07.00,Default,,0,0,0,,It's been a bad, bad,\Nbad, bad {\i1}year{\i}!
 Dialogue: 0,0:09:14.00,0:09:15.02,Default,,0,0,0,,Hey.
-Dialogue: 0,0:09:17.00,0:09:18.01,Default,,0,0,0,,[ Groans ]
 Dialogue: 0,0:09:18.01,0:09:20.00,Default,,0,0,0,,Think I bruised a rib.
 Dialogue: 0,0:09:20.00,0:09:23.00,Default,,0,0,0,,Don't worry, I gotcha.
-Dialogue: 0,0:09:23.00,0:09:25.01,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:09:27.01,0:09:29.01,Default,,0,0,0,,Alright, Simon,\Nhang on tight.
+Dialogue: 0,0:09:27.01,0:09:29.01,Default,,0,0,0,,All right, Simon,\Nhang on tight.
 Dialogue: 0,0:09:29.02,0:09:31.01,Default,,0,0,0,,You sure\Nyou can carry us both?
 Dialogue: 0,0:09:31.01,0:09:33.00,Default,,0,0,0,,Wanna find out?
-Dialogue: 0,0:09:33.00,0:09:35.00,Default,,0,0,0,,[ Chuckles ]
-Dialogue: 0,0:09:35.00,0:09:42.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:42.00,0:09:47.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:47.01,0:09:49.00,Default,,0,0,0,,Both: Whoa!
-Dialogue: 0,0:09:49.00,0:09:52.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:09:52.01,0:09:53.01,Default,,0,0,0,,[ Both screaming ]
-Dialogue: 0,0:09:55.00,0:09:56.00,Default,,0,0,0,,[ Groans ]
+Dialogue: 0,0:09:47.01,0:09:49.00,Default,,0,0,0,,Whoa!
 Dialogue: 0,0:09:56.01,0:09:57.01,Default,,0,0,0,,Simon?
-Dialogue: 0,0:09:57.01,0:09:59.02,Default,,0,0,0,,[ Gasps ] Simon?!
-Dialogue: 0,0:10:00.00,0:10:02.02,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:10:02.02,0:10:04.00,Default,,0,0,0,,[ Grunting ]
+Dialogue: 0,0:09:57.01,0:09:59.02,Default,,0,0,0,,Simon?!
 Dialogue: 0,0:10:04.01,0:10:05.01,Default,,0,0,0,,Phew.
 Dialogue: 0,0:10:05.01,0:10:06.01,Default,,0,0,0,,I owe you one.
 Dialogue: 0,0:10:06.01,0:10:08.00,Default,,0,0,0,,Dude,\Nyou owe me a million.
 Dialogue: 0,0:10:08.00,0:10:09.01,Default,,0,0,0,,Also, a new raid mask.
 Dialogue: 0,0:10:09.01,0:10:11.00,Default,,0,0,0,,Also a harpoon pack.
-Dialogue: 0,0:10:11.00,0:10:12.02,Default,,0,0,0,,Yours is broken?\NUgh.
+Dialogue: 0,0:10:11.00,0:10:12.02,Default,,0,0,0,split,Yours is broken?\NUgh.
 Dialogue: 0,0:10:13.00,0:10:15.00,Default,,0,0,0,,Beyond broken.
 Dialogue: 0,0:10:15.00,0:10:16.00,Default,,0,0,0,,We'll swap it out back\Nat the mall.
 Dialogue: 0,0:10:16.01,0:10:19.00,Default,,0,0,0,,Can't be that far.
-Dialogue: 0,0:10:19.01,0:10:20.02,Default,,0,0,0,,[ Sighs ] What happened?
+Dialogue: 0,0:10:19.01,0:10:20.02,Default,,0,0,0,,What happened?
 Dialogue: 0,0:10:20.02,0:10:25.00,Default,,0,0,0,,Cars aren't supposed to move\Nif people are inside.
 Dialogue: 0,0:10:25.00,0:10:27.00,Default,,0,0,0,,Well, you know\Nwho can do that...
 Dialogue: 0,0:10:27.00,0:10:29.00,Default,,0,0,0,,That horrible little robot.
@@ -266,11 +221,4 @@ Dialogue: 0,0:10:41.00,0:10:43.01,Default,,0,0,0,,47 cars away...
 Dialogue: 0,0:10:45.00,0:10:47.00,Default,,0,0,0,,Hey,\Nthat's not all bad!
 Dialogue: 0,0:10:47.00,0:10:48.01,Default,,0,0,0,,It'll be like old times.
 Dialogue: 0,0:10:48.01,0:10:50.00,Default,,0,0,0,,Just me and you.
-Dialogue: 0,0:10:50.00,0:10:51.00,Default,,0,0,0,,[ Sighs ]
 Dialogue: 0,0:10:51.00,0:10:53.01,Default,,0,0,0,,Yeah, old times...
-Dialogue: 0,0:10:53.01,0:10:56.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:56.02,0:10:58.01,Default,,0,0,0,,[ Both gasp ]
-Dialogue: 0,0:10:58.01,0:10:59.02,Default,,0,0,0,,[ Both chuckle ]
-Dialogue: 0,0:10:59.02,0:11:04.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:06.00,0:11:12.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:12.01,0:11:19.00,Default,,0,0,0,,♪♪
