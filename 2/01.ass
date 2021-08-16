@@ -50,7 +50,7 @@ Dialogue: 0,0:02:04.10,0:02:09.11,Default,Glad-One,0,0,0,,But always remember th
 Dialogue: 0,0:02:09.11,0:02:10.86,Default,Glad-One,0,0,0,,Don’t be afraid to reach out.
 Dialogue: 0,0:02:10.86,0:02:14.61,Default,Sad-One,0,0,0,,Unless the denizen is one of those monsters \Nwith more teeth than body.
 Dialogue: 0,0:02:14.61,0:02:16.91,Default,Glad-One,0,0,0,,Remember,\Nyou can’t spell “escape”
-Dialogue: 0,0:02:16.91,0:02:18.99,Default,Glad-One,0,0,0,,without “companionship.”
+Dialogue: 0,0:02:16.91,0:02:18.99,Default,Glad-One,0,0,0,,without “companionship{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:02:18.99,0:02:21.37,Default,Glad-One,0,0,0,,Uh, companion... shape?
 Dialogue: 0,0:02:21.37,0:02:22.21,Default,Glad-One,0,0,0,,Companionscape.
 Dialogue: 0,0:02:22.21,0:02:25.12,Default,Sad-One,0,0,0,,{\q2\an1\move(1920,1020,-260,1020}By watching this recording, you’ve agreed to release the train of any liabilities—
@@ -127,7 +127,7 @@ Dialogue: 0,0:06:49.14,0:06:50.72,Default,,0,0,0,,I hear that.
 Dialogue: 0,0:06:50.72,0:06:52.52,Default,,0,0,0,,You from around here?
 Dialogue: 0,0:06:53.64,0:06:55.27,Default,,0,0,0,,Huh, glad you asked.
 Dialogue: 0,0:06:55.27,0:06:56.77,Default,,0,0,0,,Nope, I’m not.
-Dialogue: 0,0:06:56.77,0:06:59.86,Default,,0,0,0,,I’m from a place called\N“the Chrome Car.”
+Dialogue: 0,0:06:56.77,0:06:59.86,Default,,0,0,0,,I’m from a place called\N“the Chrome Car{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:07:00.61,0:07:03.86,Default,,0,0,0,,Well, that’s what Tulip,\Nmy prime, called it.
 Dialogue: 0,0:07:03.86,0:07:06.20,Default,,0,0,0,,It’s actually called the mirror world.
 Dialogue: 0,0:07:08.32,0:07:10.87,Default,,0,0,0,,Yeah, don’t go there, it sucks.

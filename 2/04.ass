@@ -101,7 +101,7 @@ Dialogue: 0,0:02:56.28,0:02:57.95,Default,Jesse,0,0,0,,Kicking a defenseless toa
 Dialogue: 0,0:02:57.95,0:02:58.78,Default,Toad,0,0,0,,A-thank you very much.
 Dialogue: 0,0:02:58.78,0:03:00.87,Default,Jesse,0,0,0,,That proves you’re a criminal.
 Dialogue: 0,0:03:00.87,0:03:02.29,Default,MT,0,0,0,,I am not a criminal.
-Dialogue: 0,0:03:02.29,0:03:05.04,Default,Toad,0,0,0,,Oh me, oh my! \NAll this anger and arguin’.
+Dialogue: 0,0:03:02.29,0:03:05.04,Default,Toad,0,0,0,,Oh me, oh my! \NAll this anger and arguin{\fsp-16.5}.{\fsp}’
 Dialogue: 0,0:03:05.04,0:03:06.29,Default,Toad,0,0,0,,I know where this leads—
 Dialogue: 0,0:03:06.29,0:03:08.54,Default,Toad,0,0,0,,to kickin’ poor\Nol’ chub-a-lubby me!
 Dialogue: 0,0:03:08.54,0:03:10.88,Default,MT,0,0,0,,Fine! You don’t want me to kick him?
@@ -159,7 +159,7 @@ Comment: 0,0:05:34.56,0:05:35.23,Phone,Nate,0,0,0,,{\frz0.25\pos(1005,970)}Oh!
 Dialogue: 0,0:05:35.23,0:05:36.36,Phone,Bully,0,0,0,,{\frz0.25\pos(1005,970)}Oh, dang!
 Dialogue: 0,0:05:36.77,0:05:38.32,Phone,Bully,0,0,0,,{\frz0.25\pos(1005,970)}Oh, epic fail!
 Dialogue: 0,0:05:39.49,0:05:41.20,Phone,Nate,0,0,0,,{\frz0.25\pos(1005,970)}It-It really hurts.
-Dialogue: 0,0:05:41.99,0:05:43.45,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}“It weally hurts.”
+Dialogue: 0,0:05:41.99,0:05:43.45,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}“It weally hurts{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:05:44.24,0:05:45.37,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}You failed!
 Comment: 0,0:05:44.57,0:05:45.37,Phone,Nate,0,0,0,,{\frz0.25\pos(1005,970)}Ah!
 Dialogue: 0,0:05:45.78,0:05:47.16,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}Jesse, tell him he failed!
@@ -225,7 +225,7 @@ Dialogue: 0,0:08:07.51,0:08:08.43,Default,Jesse,0,0,0,,Maybe.
 Dialogue: 0,0:08:10.34,0:08:11.85,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:08:13.60,0:08:16.02,Default,MT,0,0,0,,I probably should’ve told you\Nwhat was going on earlier.
 Dialogue: 0,0:08:19.06,0:08:21.40,Default,MT,0,0,0,,It’s true, what those flecs said.
-Dialogue: 0,0:08:21.40,0:08:24.28,Default,MT,0,0,0,,Technically, I am a “criminal,”
+Dialogue: 0,0:08:21.40,0:08:24.28,Default,MT,0,0,0,,Technically, I am a “criminal{\fsp-16.5},{\fsp}”
 Dialogue: 0,0:08:24.28,0:08:25.94,Default,MT,0,0,0,,but I didn’t do anything wrong.
 Dialogue: 0,0:08:25.94,0:08:29.41,Default,Jesse,0,0,0,,So you {\i1}are{\i0} a reflection?
 Dialogue: 0,0:08:29.41,0:08:31.03,Default,Jesse,0,0,0,,Who are you a reflection of?

@@ -58,7 +58,7 @@ Dialogue: 0,0:01:14.51,0:01:16.97,Default,Jesse,0,0,0,,Do you... reflect her bod
 Dialogue: 0,0:01:16.97,0:01:19.31,Default,MT,0,0,0,,Mmm, no.
 Dialogue: 0,0:01:19.31,0:01:22.40,Default,MT,0,0,0,,Once a prime dies,\Nthe flecs make you choose
 Dialogue: 0,0:01:22.40,0:01:26.27,Default,MT,0,0,0,,if you want to have your memories erased \Nand reflect a new prime,
-Dialogue: 0,0:01:26.27,0:01:31.86,Default,MT,0,0,0,,or keep your memories but become a flec \Nto “protect and enforce the barrier.”
+Dialogue: 0,0:01:26.27,0:01:31.86,Default,MT,0,0,0,,or keep your memories but become a flec \Nto “protect and enforce the barrier{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:01:31.86,0:01:33.82,Default,Jesse,0,0,0,,But you’re not doing either.
 Dialogue: 0,0:01:33.82,0:01:35.74,Default,MT,0,0,0,,No. Both options are stupid.
 Dialogue: 0,0:01:35.74,0:01:38.20,Default,Jesse,0,0,0,,Hmm. Yeah.
