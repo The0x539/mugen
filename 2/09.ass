@@ -22,43 +22,43 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:18.54,0:00:19.79,Default,MT,0,0,0,,Here's the plan,\NAlan Dracula.
-Dialogue: 0,0:00:19.79,0:00:22.25,Default,MT,0,0,30,,We're gonna sit here for however long it takes,
+Dialogue: 0,0:00:18.54,0:00:19.79,Default,MT,0,0,0,,Here’s the plan,\NAlan Dracula.
+Dialogue: 0,0:00:19.79,0:00:22.25,Default,MT,0,0,30,,We’re gonna sit here for however long it takes,
 Dialogue: 0,0:00:22.25,0:00:24.46,Default,MT,0,0,30,,wait for one of those weird pod things to fly by,
 Dialogue: 0,0:00:24.46,0:00:25.46,Default,MT,0,0,30,,and as soon as it does,
 Dialogue: 0,0:00:25.46,0:00:27.26,Default,MT,0,0,0,,we hijack it for ourselves,
 Dialogue: 0,0:00:27.26,0:00:29.51,Default,MT,0,0,0,,ride it back to\Nwherever it came from.
 Dialogue: 0,0:00:29.51,0:00:32.68,Default,MT,0,0,0,,Passengers get a number {\i1}somewhere{\i0} \Nbefore waking up on the train,
-Dialogue: 0,0:00:32.68,0:00:35.18,Default,MT,0,0,0,,and... I'm guessing \Nthe pods will lead us there.
+Dialogue: 0,0:00:32.68,0:00:35.18,Default,MT,0,0,0,,and... I’m guessing \Nthe pods will lead us there.
 Dialogue: 0,0:00:35.72,0:00:37.31,Default,MT,0,0,0,,And then...
-Dialogue: 0,0:00:37.31,0:00:39.14,Default,MT,0,0,0,,I'll find a way to get a number.
-Dialogue: 0,0:00:41.98,0:00:43.15,Default,MT,0,0,0,,I'm serious.
+Dialogue: 0,0:00:37.31,0:00:39.14,Default,MT,0,0,0,,I’ll find a way to get a number.
+Dialogue: 0,0:00:41.98,0:00:43.15,Default,MT,0,0,0,,I’m serious.
 Dialogue: 0,0:00:43.15,0:00:44.86,Default,MT,0,0,0,,Now that Jesse is gone...
-Dialogue: 0,0:00:45.32,0:00:47.74,Default,MT,0,0,0,,Look. \NYou're all I've got.
+Dialogue: 0,0:00:45.32,0:00:47.74,Default,MT,0,0,0,,Look. \NYou’re all I’ve got.
 Dialogue: 0,0:00:47.74,0:00:48.99,Default,MT,0,0,0,,I need you to be ready.
-Dialogue: 0,0:00:48.99,0:00:50.82,Default,MT,0,0,0,,No turning into stuff\Nthat'll slow us down,
+Dialogue: 0,0:00:48.99,0:00:50.82,Default,MT,0,0,0,,No turning into stuff\Nthat’ll slow us down,
 Dialogue: 0,0:00:50.82,0:00:54.08,Default,MT,0,0,0,,like a snail or a broken car or...
 Dialogue: 0,0:00:58.33,0:01:01.37,Default,MT,0,0,0,,You know, once I get my number,
-Dialogue: 0,0:01:01.37,0:01:04.17,Default,MT,0,0,0,,i-it means I'm eventually\Ngonna leave the train,
-Dialogue: 0,0:01:04.75,0:01:07.34,Default,MT,0,0,0,,and... I don't think\NI can take you with me.
-Dialogue: 0,0:01:08.92,0:01:12.22,Default,MT,0,0,0,,Even if I could, you wouldn't\Nbe happy out there.
+Dialogue: 0,0:01:01.37,0:01:04.17,Default,MT,0,0,0,,i-it means I’m eventually\Ngonna leave the train,
+Dialogue: 0,0:01:04.75,0:01:07.34,Default,MT,0,0,0,,and... I don’t think\NI can take you with me.
+Dialogue: 0,0:01:08.92,0:01:12.22,Default,MT,0,0,0,,Even if I could, you wouldn’t\Nbe happy out there.
 Dialogue: 0,0:01:12.22,0:01:13.68,Default,MT,0,0,0,,Getting off the train\Nis my journey.
-Dialogue: 0,0:01:13.68,0:01:16.43,Default,MT,0,0,0,,I-It wouldn't be fair\Nto force you to leave.
+Dialogue: 0,0:01:13.68,0:01:16.43,Default,MT,0,0,0,,I-It wouldn’t be fair\Nto force you to leave.
 Dialogue: 0,0:01:16.68,0:01:18.06,Default,MT,0,0,0,,This is your home.
-Dialogue: 0,0:01:23.65,0:01:25.06,Default,MT,0,0,0,,You're not my pet.
-Dialogue: 0,0:01:25.06,0:01:26.57,Default,MT,0,0,0,,You're my friend.
+Dialogue: 0,0:01:23.65,0:01:25.06,Default,MT,0,0,0,,You’re not my pet.
+Dialogue: 0,0:01:25.06,0:01:26.57,Default,MT,0,0,0,,You’re my friend.
 Dialogue: 0,0:01:26.57,0:01:28.03,Default,MT,0,0,0,,You know that, right?
 Dialogue: 0,0:01:28.94,0:01:30.28,Default,MT,0,0,0,,Aw.
 Comment: 0,0:01:32.57,0:01:33.49,Default,MT,0,0,0,,Hup.
 Comment: 0,0:01:37.49,0:01:38.91,Default,MT,0,0,0,,Uh! Ugh!
 Comment: 0,0:01:39.33,0:01:41.58,Default,MT,0,0,0,,Aah! Ah!
 Dialogue: 0,0:01:41.58,0:01:44.75,Default,Glad-One,0,0,0,,Which is my 16th\Nfavorite kind of giraffe
-Dialogue: 0,0:01:44.75,0:01:45.92,Default,Glad-One,0,0,0,,you'll see on the train.
+Dialogue: 0,0:01:44.75,0:01:45.92,Default,Glad-One,0,0,0,,you’ll see on the train.
 Dialogue: 0,0:01:45.92,0:01:47.80,Default,Sad-One,0,0,0,,Necks are kinda weird, right?
 Comment: 0,0:01:47.80,0:01:50.59,Default,MT,0,0,0,,Ugh! Ugh! Ugh!
 Comment: 0,0:01:50.59,0:01:51.55,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:01:51.55,0:01:52.26,Default,Passenger,0,0,0,,Huh?
-Dialogue: 0,0:01:52.26,0:01:53.59,Default,Passenger,0,0,0,,What's going on?
+Dialogue: 0,0:01:52.26,0:01:53.59,Default,Passenger,0,0,0,,What’s going on?
 Comment: 0,0:01:54.76,0:01:55.68,Default,MT,0,0,0,,Ugh.
 Comment: 0,0:01:54.76,0:01:55.68,Default,Passenger,0,0,0,,Aaaaaaaah!
 Dialogue: 0,0:01:55.68,0:01:57.26,Default,Glad-One,0,0,0,,Please remain in your pod.
@@ -69,42 +69,42 @@ Dialogue: 0,0:02:03.94,0:02:04.69,Default,Passenger,0,0,0,,Ahhh!
 Comment: 0,0:02:04.69,0:02:05.56,Default,MT,0,0,0,,Hua—
 Dialogue: 0,0:02:05.56,0:02:07.02,Default,Passenger,0,0,0,,Ahhhh!
 Dialogue: 0,0:02:07.02,0:02:08.82,Default,Glad-One,0,0,0,,Please return to your pod.
-Dialogue: 0,0:02:08.82,0:02:10.86,Default,MT,0,0,0,,C'mon, Alan Dracula.\NGet comfortable.
+Dialogue: 0,0:02:08.82,0:02:10.86,Default,MT,0,0,0,,C’mon, Alan Dracula.\NGet comfortable.
 Dialogue: 0,0:02:12.95,0:02:15.11,Default,Glad-One,0,0,0,,Thank you for returning\Nto your pod.
 Comment: 0,0:02:19.16,0:02:21.91,Default,MT,0,0,0,,Ugh.\NUgggggh!
 Dialogue: 0,0:02:21.91,0:02:23.08,Default,Glad-One,0,0,0,,Greetings, passenger.
-Dialogue: 0,0:02:23.08,0:02:26.58,Default,Glad-One,0,0,0,,If you're watching this, it means \Nwe've run into an unforeseen problem,
+Dialogue: 0,0:02:23.08,0:02:26.58,Default,Glad-One,0,0,0,,If you’re watching this, it means \Nwe’ve run into an unforeseen problem,
 Dialogue: 0,0:02:26.58,0:02:27.59,Default,Glad-One,0,0,0,,but not to worry!
 Dialogue: 0,0:02:27.59,0:02:29.21,Default,Glad-One,0,0,0,,For every problem, there is a
 Dialogue: 0,0:02:29.21,0:02:30.42,Default,Glad-One,0,0,0,,documentary!
 Dialogue: 0,0:02:30.42,0:02:31.76,Default,MT,0,0,0,,Ugh!\NGimme a break.
-Dialogue: 0,0:02:31.76,0:02:34.26,Default,Glad-One,0,0,0,,We're now en route\Nto the Tape Car.
+Dialogue: 0,0:02:31.76,0:02:34.26,Default,Glad-One,0,0,0,,We’re now en route\Nto the Tape Car.
 Dialogue: 0,0:02:34.26,0:02:35.09,Default,MT,0,0,0,,Off, please.
 Dialogue: 0,0:02:35.09,0:02:37.43,Default,Glad-One,0,0,0,,This is where\Nall the magic happens.
 Dialogue: 0,0:02:37.97,0:02:41.22,Default,Sad-One,0,0,0,,And by magic, I mean\Nnumerical algorithmic judgment.
 Dialogue: 0,0:02:41.22,0:02:45.06,Default,Glad-One,0,0,0,,Oh! Just saying it makes me\Nwarm and fuzzy inside,
-Dialogue: 0,0:02:45.06,0:02:47.77,Default,Glad-One,0,0,0,,because very soon,\Nyour pod's gonna get fixed,
-Dialogue: 0,0:02:47.77,0:02:49.48,Default,Glad-One,0,0,0,,and you'll be sent \Nback on your way.
-Dialogue: 0,0:02:49.48,0:02:51.98,Default,Sad-One,0,0,0,,Too bad you're asleep\Nand you'll never hear this.
+Dialogue: 0,0:02:45.06,0:02:47.77,Default,Glad-One,0,0,0,,because very soon,\Nyour pod’s gonna get fixed,
+Dialogue: 0,0:02:47.77,0:02:49.48,Default,Glad-One,0,0,0,,and you’ll be sent \Nback on your way.
+Dialogue: 0,0:02:49.48,0:02:51.98,Default,Sad-One,0,0,0,,Too bad you’re asleep\Nand you’ll never hear this.
 Dialogue: 0,0:02:51.98,0:02:55.86,Default,Glad-One,0,0,0,,Hmm. I suppose this documentary \Nis more for me than anyone else.
-Dialogue: 0,0:02:55.86,0:02:57.20,Default,Glad-One,0,0,0,,Maybe it's time I stopped.
+Dialogue: 0,0:02:55.86,0:02:57.20,Default,Glad-One,0,0,0,,Maybe it’s time I stopped.
 Dialogue: 0,0:02:57.20,0:02:58.66,Default,MT,0,0,0,,Yes, do that!
-Dialogue: 0,0:02:58.66,0:03:02.08,Default,Glad-One,0,0,0,,Instead, I'm gonna guess\Nwhat Atticus is doing right now!
+Dialogue: 0,0:02:58.66,0:03:02.08,Default,Glad-One,0,0,0,,Instead, I’m gonna guess\Nwhat Atticus is doing right now!
 Dialogue: 0,0:03:02.08,0:03:02.79,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:03:02.79,0:03:04.37,Default,Glad-One,0,0,0,,One, barking.
 Dialogue: 0,0:03:04.37,0:03:05.96,Default,Glad-One,0,0,0,,Two, rolling over.
-Dialogue: 0,0:03:05.96,0:03:07.04,Default,Sad-One,0,0,0,,Three, he's dead,
+Dialogue: 0,0:03:05.96,0:03:07.04,Default,Sad-One,0,0,0,,Three, he’s dead,
 Dialogue: 0,0:03:07.04,0:03:09.96,Default,Sad-One,0,0,0,,a pile of dog bones \Non the side of a long-forgotten road.
-Dialogue: 0,0:03:09.96,0:03:11.96,Default,Glad-One,0,0,0,,Four, he's only {\i1}playing{\i0} dead,
+Dialogue: 0,0:03:09.96,0:03:11.96,Default,Glad-One,0,0,0,,Four, he’s only {\i1}playing{\i0} dead,
 Dialogue: 0,0:03:11.96,0:03:14.80,Default,Glad-One,0,0,0,,a pile of {\i1}not{\i0} bones on a {\i1}not{\i0}-forgotten road!
 Dialogue: 1,0:03:11.96,0:03:14.80,Default,MT,0,0,100,,La, la, la, la, la, la, la, la, la, la, la, la, la, la!
-Dialogue: 0,0:03:29.52,0:03:30.77,Default,Glad-One,0,0,0,,We're here!
+Dialogue: 0,0:03:29.52,0:03:30.77,Default,Glad-One,0,0,0,,We’re here!
 Dialogue: 0,0:03:31.27,0:03:31.94,Default,MT,0,0,0,,What?
-Dialogue: 0,0:03:31.94,0:03:34.53,Default,Sad-One,0,0,0,,Don't get excited, \Nit doesn't look very special.
+Dialogue: 0,0:03:31.94,0:03:34.53,Default,Sad-One,0,0,0,,Don’t get excited, \Nit doesn’t look very special.
 Comment: 0,0:03:34.53,0:03:35.82,Default,MT,0,0,0,,Ugh...
 Dialogue: 0,0:03:42.29,0:03:47.71,Default,Glad-One,0,0,0,,Fun fact: the Tape Car is the only car \Nwhere the universe is projected on the outside.
-Dialogue: 0,0:03:47.71,0:03:49.83,Default,Sad-One,0,0,0,,It's what's outside that counts.
-Dialogue: 0,0:03:51.21,0:03:53.05,Default,MT,0,0,0,,Ah, the robot's\Nout of his mind.
+Dialogue: 0,0:03:47.71,0:03:49.83,Default,Sad-One,0,0,0,,It’s what’s outside that counts.
+Dialogue: 0,0:03:51.21,0:03:53.05,Default,MT,0,0,0,,Ah, the robot’s\Nout of his mind.
 Dialogue: 0,0:03:58.38,0:04:00.30,Default,MT,0,0,0,,What? Uh...
 Dialogue: 0,0:04:00.85,0:04:01.85,Default,MT,0,0,0,,Uh...
 Dialogue: 0,0:04:11.27,0:04:12.82,Default,MT,0,0,0,,Ah! Ahhhh!
@@ -121,12 +121,12 @@ Dialogue: 0,0:05:09.66,0:05:11.42,Default,MT,0,0,0,,What is this place?
 Comment: 0,0:05:26.18,0:05:26.89,Default,MT,0,0,0,,Uh!
 Comment: 0,0:05:28.64,0:05:29.81,Default,MT,0,0,0,,Ah! Ah!
 Dialogue: 0,0:05:35.19,0:05:36.32,Default,MT,0,0,0,,Shh!
-Dialogue: 0,0:05:37.40,0:05:39.03,Default,MT,0,0,0,,Hey. Don't eat that.
+Dialogue: 0,0:05:37.40,0:05:39.03,Default,MT,0,0,0,,Hey. Don’t eat that.
 Dialogue: 0,0:05:43.49,0:05:44.49,Default,MT,0,0,0,,Hmm?
 Dialogue: 0,0:05:45.99,0:05:47.41,Default,Girl,0,0,0,,Mom, this one!
-Dialogue: 0,0:05:47.41,0:05:48.58,Default,Mom,0,0,0,,That's a bearded dragon.
+Dialogue: 0,0:05:47.41,0:05:48.58,Default,Mom,0,0,0,,That’s a bearded dragon.
 Dialogue: 0,0:05:48.74,0:05:50.04,Default,Girl,0,0,0,,Mom, this one!
-Dialogue: 0,0:05:50.04,0:05:51.16,Default,Mom,0,0,0,,That's a bearded dragon.
+Dialogue: 0,0:05:50.04,0:05:51.16,Default,Mom,0,0,0,,That’s a bearded dragon.
 Dialogue: 0,0:05:51.37,0:05:52.29,Default,Mom,0,0,0,,Do you need some help?
 Dialogue: 0,0:05:52.29,0:05:53.71,Default,Girl,0,0,0,,No, I can do it.
 Dialogue: 0,0:05:53.88,0:05:54.79,Default,Mom,0,0,0,,Do you need some help?
@@ -137,10 +137,10 @@ Dialogue: 0,0:06:00.17,0:06:01.76,Default,Girl,0,0,0,,It was an accident.
 Dialogue: 0,0:06:01.76,0:06:03.59,Default,Mom,0,0,0,,Honey, I told you not to—
 Dialogue: 0,0:06:03.59,0:06:06.01,Default,MT,0,0,0,,What is this?
 Dialogue: 0,0:06:26.12,0:06:27.07,Default,MT,0,0,0,,Huh?
-Dialogue: 0,0:06:35.83,0:06:38.09,Default,MT,0,0,0,,They... don't care about me.
+Dialogue: 0,0:06:35.83,0:06:38.09,Default,MT,0,0,0,,They... don’t care about me.
 Dialogue: 0,0:06:40.05,0:06:41.63,Default,MT,0,0,0,,Hey, weirdo!
 Dialogue: 0,0:06:44.51,0:06:45.59,Default,MT,0,0,0,,Come on, Alan.
-Dialogue: 0,0:06:45.59,0:06:46.89,Default,MT,0,0,0,,Let's keep moving.
+Dialogue: 0,0:06:45.59,0:06:46.89,Default,MT,0,0,0,,Let’s keep moving.
 Dialogue: 0,0:06:47.85,0:06:48.47,Default,MT,0,0,0,,Ahh!
 Dialogue: 0,0:06:50.47,0:06:51.60,Default,MT,0,0,0,,Alan, stay back!
 Dialogue: 0,0:06:52.89,0:06:53.81,Default,MT,0,0,0,,Alan?
@@ -152,7 +152,7 @@ Comment: 0,0:07:10.33,0:07:11.12,Default,,0,0,0,,[CLANG]
 Comment: 0,0:07:12.29,0:07:13.54,Default,MT,0,0,0,,Ugh.
 Dialogue: 0,0:07:36.44,0:07:37.85,Default,MT,0,0,0,,When all of this is over,
 Dialogue: 0,0:07:37.85,0:07:39.98,Default,MT,0,0,0,,you and Jesse are \Ngonna laugh about this.
-Dialogue: 0,0:07:39.98,0:07:41.07,Default,MT,0,0,0,,This'll be funny.
+Dialogue: 0,0:07:39.98,0:07:41.07,Default,MT,0,0,0,,This’ll be funny.
 Dialogue: 0,0:07:52.49,0:07:53.37,Default,MT,0,0,0,,Whoa.
 Dialogue: 0,0:08:05.72,0:08:06.13,Default,Danny,0,0,200,,{\bord2.4\fs-1\iclip(m 159 -134 1117.17 927.63 b 1126.03 844.85 1138.78 840.35 1135.5 799.3 l 1203.53 773.35 b 1216.53 787.1 1201.28 852.85 1205.53 920.1)}Ah, thanks!
 Dialogue: 0,0:08:06.13,0:08:06.88,Default,Danny,0,0,200,,{\bord2.4\fs-1\iclip(m 159 -134 1117.17 927.63 b 1126.03 844.85 1138.78 840.35 1135.5 799.3 l 1203.53 773.35 b 1216.53 787.1 1201.28 852.85 1205.53 920.1)}I can do 8:30.
@@ -162,19 +162,19 @@ Dialogue: 0,0:08:22.86,0:08:23.90,Default,MT,0,0,0,,Uff da!
 Dialogue: 0,0:08:23.90,0:08:25.86,Default,MT,0,0,0,,I better get a smaller number than that.
 Dialogue: 0,0:08:46.38,0:08:48.76,Default,MT,0,0,0,,Sorry. I need this more than you.
 Dialogue: 0,0:09:09.07,0:09:09.61,Default,Girl,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}Mom, this one!
-Dialogue: 0,0:09:09.61,0:09:09.90,Default,Mom,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}That's a bearded dragon.
+Dialogue: 0,0:09:09.61,0:09:09.90,Default,Mom,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}That’s a bearded dragon.
 Dialogue: 0,0:09:09.90,0:09:10.32,Default,Girl,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}Do you need some help?
 Dialogue: 0,0:09:10.32,0:09:10.82,Default,Mom,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}No, I can do it.
 Dialogue: 0,0:09:10.82,0:09:11.32,Default,Girl,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}It was an accident!
 Dialogue: 0,0:09:11.32,0:09:11.99,Default,Mom,0,115,160,,{\bord2.4\fs-1\iclip(m 779.78 960.85 b 778.78 892.6 757.03 830.35 773.03 799.85 l 849.53 819.6 b 849.53 852.6 860.53 905.85 872.28 948.85)}Honey, I told you not to—
-Dialogue: 0,0:09:11.99,0:09:13.82,Default,MT,0,0,0,,C'mon! Hurry it up!
+Dialogue: 0,0:09:11.99,0:09:13.82,Default,MT,0,0,0,,C’mon! Hurry it up!
 Dialogue: 0,0:09:27.71,0:09:28.76,Default,MT,0,0,0,,Huh?
 Comment: 0,0:09:34.39,0:09:35.30,Default,MT,0,0,0,,Ah!
-Dialogue: 0,0:09:45.44,0:09:47.57,Default,MT,0,0,0,,No! I'm here!
+Dialogue: 0,0:09:45.44,0:09:47.57,Default,MT,0,0,0,,No! I’m here!
 Dialogue: 0,0:09:47.57,0:09:48.94,Default,MT,0,0,0,,Give me a number!
 Dialogue: 0,0:09:51.49,0:09:52.61,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:09:53.53,0:09:54.53,Default,MT,0,0,0,,Listen to me!
-Dialogue: 0,0:09:54.53,0:09:57.03,Default,MT,0,0,0,,You don't think I deserve\Na number, do you?
+Dialogue: 0,0:09:54.53,0:09:57.03,Default,MT,0,0,0,,You don’t think I deserve\Na number, do you?
 Dialogue: 0,0:09:57.03,0:09:58.54,Default,MT,0,0,0,,Well, you gave \Na number to some lady
 Dialogue: 0,0:09:58.54,0:10:00.50,Default,MT,0,0,0,,who was sad\Nabout her dead lizard!
 Dialogue: 0,0:10:00.50,0:10:02.12,Default,MT,0,0,0,,How is {\i1}that{\i0} fair?!
@@ -196,5 +196,5 @@ Comment: 0,0:10:47.08,0:10:47.88,Default,MT,0,0,0,,Oof.
 Comment: 0,0:10:49.75,0:10:50.88,Default,MT,0,0,0,,Ah, ah!
 Comment: 0,0:10:52.84,0:10:53.88,Default,MT,0,0,0,,Aaaaah!
 Dialogue: 0,0:10:54.72,0:10:55.93,Default,Glad-One,0,0,0,,Hello!
-Dialogue: 0,0:10:55.93,0:10:58.39,Default,Glad-One,0,0,0,,I'd appreciate it if you'd stop\Nbreaking everything.
+Dialogue: 0,0:10:55.93,0:10:58.39,Default,Glad-One,0,0,0,,I’d appreciate it if you’d stop\Nbreaking everything.
 Dialogue: 0,0:10:58.39,0:11:01.43,Default,Sad-One,0,0,0,,Unless you want me to\Nstart writing your obituary.

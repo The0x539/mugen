@@ -22,51 +22,51 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.08,0:00:18.37,Default,Jesse,0,0,30,,Hi. I'm Jesse.
-Dialogue: 0,0:00:18.37,0:00:20.08,Default,MT,0,0,30,,It's not alive, ding-dong.
-Dialogue: 0,0:00:20.08,0:00:20.96,Default,Jesse,0,0,30,,We don't know that.
+Dialogue: 0,0:00:17.08,0:00:18.37,Default,Jesse,0,0,30,,Hi. I’m Jesse.
+Dialogue: 0,0:00:18.37,0:00:20.08,Default,MT,0,0,30,,It’s not alive, ding-dong.
+Dialogue: 0,0:00:20.08,0:00:20.96,Default,Jesse,0,0,30,,We don’t know that.
 Dialogue: 0,0:00:20.96,0:00:22.25,Default,MT,0,0,30,,Eh, fair point.
-Dialogue: 0,0:00:25.26,0:00:26.09,Default,MT,0,0,0,,C'mon.
+Dialogue: 0,0:00:25.26,0:00:26.09,Default,MT,0,0,0,,C’mon.
 Dialogue: 0,0:00:26.09,0:00:26.55,Default,Jesse,0,0,0,,Huh?
 Dialogue: 0,0:00:33.30,0:00:34.72,Default,Man,0,0,0,,{\an8}Oh, look what I got here!
 Dialogue: 0,0:00:35.60,0:00:36.77,Default,Man,0,0,0,,{\an8}Hey, look what I got.
 Dialogue: 0,0:00:40.23,0:00:41.40,Default,Jesse,0,0,0,,Nice!
 Dialogue: 0,0:00:41.40,0:00:43.94,Default,Jesse,0,0,0,,My family goes to powwow\Nat our county fair every year.
 Dialogue: 0,0:00:43.94,0:00:46.86,Default,Jesse,0,0,0,,One time, Nate wrapped his whole\Nhead in cotton candy and—
-Dialogue: 0,0:00:48.49,0:00:50.99,Default,MT,0,0,0,,Hey, you'll make things right\Nwith him when you get home.
+Dialogue: 0,0:00:48.49,0:00:50.99,Default,MT,0,0,0,,Hey, you’ll make things right\Nwith him when you get home.
 Dialogue: 0,0:00:50.99,0:00:53.41,Default,Jesse,0,0,0,,Yeah. Totally.
 Dialogue: 0,0:00:53.41,0:00:55.66,Default,MT,0,0,0,,Tulip went to the carnival\Nevery year too.
 Dialogue: 0,0:00:55.66,0:00:58.71,Default,MT,0,0,0,,The only part I ever got to experience \Nwas the house of mirrors,
-Dialogue: 0,0:00:58.71,0:01:02.29,Default,MT,0,0,0,,but with the flec situation,\Nlet's not tempt fate.
+Dialogue: 0,0:00:58.71,0:01:02.29,Default,MT,0,0,0,,but with the flec situation,\Nlet’s not tempt fate.
 Dialogue: 0,0:01:02.29,0:01:04.96,Default,Jesse,0,0,0,,Hey, when you go into\Na house of mirrors,
-Dialogue: 0,0:01:04.96,0:01:06.84,Default,Jesse,0,0,0,,there's a {\i1}bunch{\i0} of reflections.
+Dialogue: 0,0:01:04.96,0:01:06.84,Default,Jesse,0,0,0,,there’s a {\i1}bunch{\i0} of reflections.
 Dialogue: 0,0:01:06.84,0:01:09.80,Default,Jesse,0,0,0,,Does that mean you have a bunch \Nof reflections stuck in the mirror world?
 Dialogue: 0,0:01:09.80,0:01:11.63,Default,MT,0,0,0,,No. All the reflections are me.
 Dialogue: 0,0:01:11.63,0:01:13.22,Default,Jesse,0,0,0,,Whoa. How does {\i1}that{\i0} work?
-Dialogue: 0,0:01:13.22,0:01:15.60,Default,MT,0,0,0,,I don't know. It's like...
-Dialogue: 0,0:01:15.60,0:01:16.97,Default,MT,0,0,0,,I-I don't know!
+Dialogue: 0,0:01:13.22,0:01:15.60,Default,MT,0,0,0,,I don’t know. It’s like...
+Dialogue: 0,0:01:15.60,0:01:16.97,Default,MT,0,0,0,,I-I don’t know!
 Dialogue: 0,0:01:16.97,0:01:19.10,Default,MT,0,0,0,,Do you know how every part\Nof {\i1}your{\i0} body works?
 Dialogue: 0,0:01:19.10,0:01:21.44,Default,MT,0,0,0,,Like, why do your blood cells\Nlook like tiny inner tubes?
-Dialogue: 0,0:01:21.44,0:01:23.86,Default,Jesse,0,0,0,,Because they're in a liquid,\Nand that's how they float?
-Dialogue: 0,0:01:23.86,0:01:25.02,Default,MT,0,0,0,,They don't—
+Dialogue: 0,0:01:21.44,0:01:23.86,Default,Jesse,0,0,0,,Because they’re in a liquid,\Nand that’s how they float?
+Dialogue: 0,0:01:23.86,0:01:25.02,Default,MT,0,0,0,,They don’t—
 Dialogue: 0,0:01:25.02,0:01:26.23,Default,MT,0,0,0,,Wait, is that true?
-Dialogue: 0,0:01:26.23,0:01:28.28,Default,Jesse,0,0,0,,Yeah. Wait, isn't it?
+Dialogue: 0,0:01:26.23,0:01:28.28,Default,Jesse,0,0,0,,Yeah. Wait, isn’t it?
 Dialogue: 0,0:01:32.57,0:01:33.99,Default,MT,0,0,0,,AD, what are you—
-Dialogue: 0,0:01:35.58,0:01:38.16,Default,MT,0,0,0,,Oh, that's not\Nreal grass, buddy.
+Dialogue: 0,0:01:35.58,0:01:38.16,Default,MT,0,0,0,,Oh, that’s not\Nreal grass, buddy.
 Dialogue: 0,0:01:40.08,0:01:41.83,Default,Jesse,0,0,0,,So, how do we play the games?
 Dialogue: 0,0:01:41.83,0:01:43.67,Default,Jesse,0,0,0,,What do they use\Nfor money around here?
 Dialogue: 0,0:01:43.67,0:01:44.17,Default,Terrance,0,0,0,,Points.
-Dialogue: 0,0:01:44.17,0:01:46.00,Default,Terrance,0,0,0,,You gotta use 'em\Nto win 'em, friends.
-Dialogue: 0,0:01:49.26,0:01:50.34,Default,MT,0,0,0,,Hey, it's you.
-Dialogue: 0,0:01:50.34,0:01:52.26,Default,MT,0,0,0,,And you're getting kicked again?
-Dialogue: 0,0:01:52.26,0:01:53.97,Default,Terrance,0,0,0,,Oh, it's not like that.
-Dialogue: 0,0:01:53.97,0:01:55.85,Default,Terrance,0,0,0,,I operate this booth m'self.
+Dialogue: 0,0:01:44.17,0:01:46.00,Default,Terrance,0,0,0,,You gotta use ’em\Nto win ’em, friends.
+Dialogue: 0,0:01:49.26,0:01:50.34,Default,MT,0,0,0,,Hey, it’s you.
+Dialogue: 0,0:01:50.34,0:01:52.26,Default,MT,0,0,0,,And you’re getting kicked again?
+Dialogue: 0,0:01:52.26,0:01:53.97,Default,Terrance,0,0,0,,Oh, it’s not like that.
+Dialogue: 0,0:01:53.97,0:01:55.85,Default,Terrance,0,0,0,,I operate this booth m’self.
 Dialogue: 0,0:01:55.85,0:01:57.26,Default,Terrance,0,0,0,,Now people pay to kick me.
 Dialogue: 0,0:01:58.26,0:01:59.27,Default,Terrance,0,0,0,,Please pay to kick me.
 Dialogue: 0,0:01:59.27,0:02:00.43,Default,Jesse,0,0,0,,Oh.
 Dialogue: 0,0:02:00.43,0:02:01.27,Default,Jesse,0,0,0,,Congratulations?
-Dialogue: 0,0:02:01.27,0:02:04.19,Default,Terrance,0,0,0,,Let me give you young'uns \Na couple of game cards to get you started.
-Dialogue: 0,0:02:05.44,0:02:06.86,Default,Terrance,0,0,0,,Y'all get two points each.
+Dialogue: 0,0:02:01.27,0:02:04.19,Default,Terrance,0,0,0,,Let me give you young’uns \Na couple of game cards to get you started.
+Dialogue: 0,0:02:05.44,0:02:06.86,Default,Terrance,0,0,0,,Y’all get two points each.
 Dialogue: 0,0:02:06.86,0:02:09.53,Default,Terrance,0,0,0,,Now go take a gander at the prize booth \Nin the center of the carnival.
 Dialogue: 0,0:02:09.82,0:02:10.53,Default,MT,0,0,0,,Thanks, Toad.
 Dialogue: 0,0:02:10.53,0:02:11.94,Default,Terrance,0,0,0,,Oh, please, call me Terrance.
@@ -78,103 +78,103 @@ Dialogue: 0,0:02:32.80,0:02:34.63,Default,The Cat,0,0,0,,Anything here that catc
 Dialogue: 0,0:02:35.01,0:02:38.05,Default,The Cat,0,0,0,,Maybe one of these\Nunusual musical instruments?
 Dialogue: 0,0:02:38.05,0:02:40.35,Default,The Cat,0,0,0,,I call it a buzzle-toot.
 Dialogue: 0,0:02:44.23,0:02:47.15,Default,The Cat,0,0,0,,Tulip, what are you\Nstill doing on the train?
-Dialogue: 0,0:02:47.15,0:02:49.40,Default,The Cat,0,0,0,,You've given yourself\Nquite the makeover, kitten.
+Dialogue: 0,0:02:47.15,0:02:49.40,Default,The Cat,0,0,0,,You’ve given yourself\Nquite the makeover, kitten.
 Dialogue: 0,0:02:49.40,0:02:50.98,Default,MT,0,0,0,,Oh, no, I-I...
-Dialogue: 0,0:02:50.98,0:02:51.94,Default,MT,0,0,0,,I'm not Tulip.
-Dialogue: 0,0:02:51.94,0:02:52.82,Default,MT,0,0,0,,I'm...
+Dialogue: 0,0:02:50.98,0:02:51.94,Default,MT,0,0,0,,I’m not Tulip.
+Dialogue: 0,0:02:51.94,0:02:52.82,Default,MT,0,0,0,,I’m...
 Dialogue: 0,0:02:52.82,0:02:54.15,Default,MT,0,0,0,,not Tulip.
-Dialogue: 0,0:02:54.86,0:02:56.36,Default,The Cat,0,0,0,,C'est merveilleux!
+Dialogue: 0,0:02:54.86,0:02:56.36,Default,The Cat,0,0,0,,C’est merveilleux!
 Dialogue: 0,0:02:56.36,0:02:57.66,Default,The Cat,0,0,0,,A reflection!
-Dialogue: 0,0:02:57.66,0:03:00.58,Default,The Cat,0,0,0,,I've never seen one of your kind \Nin the prime world.
+Dialogue: 0,0:02:57.66,0:03:00.58,Default,The Cat,0,0,0,,I’ve never seen one of your kind \Nin the prime world.
 Dialogue: 0,0:03:00.87,0:03:01.99,Default,MT,0,0,0,,How did you know that I—
 Dialogue: 0,0:03:01.99,0:03:02.91,Default,The Cat,0,0,0,,Tsk, tsk, tsk, tsk.
 Dialogue: 0,0:03:02.91,0:03:05.75,Default,The Cat,0,0,0,,Now, who is this\Ntomcat you have with you?
-Dialogue: 0,0:03:05.75,0:03:06.92,Default,Jesse,0,0,0,,Hi. I'm Jesse.
+Dialogue: 0,0:03:05.75,0:03:06.92,Default,Jesse,0,0,0,,Hi. I’m Jesse.
 Dialogue: 0,0:03:06.92,0:03:08.58,Default,MT,0,0,0,,Jesse, meet The Cat.
 Dialogue: 0,0:03:08.58,0:03:11.13,Default,MT,0,0,0,,I got to know her when I was\Nstill attached to Tulip.
-Dialogue: 0,0:03:11.13,0:03:13.42,Default,MT,0,0,0,,She's a world-class con artist.
+Dialogue: 0,0:03:11.13,0:03:13.42,Default,MT,0,0,0,,She’s a world-class con artist.
 Dialogue: 0,0:03:13.42,0:03:16.18,Default,The Cat,0,0,0,,World-class {\i1}entrepreneur{\i0}, thank you.
-Dialogue: 0,0:03:16.18,0:03:18.85,Default,The Cat,0,0,0,,Now let's cut the chitchat.\NHow many points do you have?
+Dialogue: 0,0:03:16.18,0:03:18.85,Default,The Cat,0,0,0,,Now let’s cut the chitchat.\NHow many points do you have?
 Dialogue: 0,0:03:18.85,0:03:20.60,Default,Jesse,0,0,0,,We each have two points.
-Dialogue: 0,0:03:22.01,0:03:24.81,Default,MT,0,0,0,,Doesn't matter how many points\Nwe have if the prizes are trash.
+Dialogue: 0,0:03:22.01,0:03:24.81,Default,MT,0,0,0,,Doesn’t matter how many points\Nwe have if the prizes are trash.
 Dialogue: 0,0:03:24.81,0:03:29.02,Default,The Cat,0,0,0,,Well, I think I know what a handsome \Nyoung passenger like Jesse might need.
 Dialogue: 0,0:03:32.61,0:03:34.90,Default,The Cat,0,0,0,,Want to exit?\NHave to win.
 Dialogue: 0,0:03:34.90,0:03:37.86,Default,The Cat,0,0,0,,Only those with 1,000 points\Nare allowed access,
 Dialogue: 0,0:03:37.86,0:03:39.03,Default,The Cat,0,0,0,,and I must warn you:
 Dialogue: 0,0:03:39.03,0:03:40.37,Default,The Cat,0,0,0,,you have a competitor.
 Dialogue: 0,0:03:42.58,0:03:45.37,Default,The Cat,0,0,0,,And she looks like she plays to win.
-Dialogue: 0,0:03:46.75,0:03:50.67,Default,MT,0,0,0,,So? If she wins, we'll just keep playing \Nand go through the exit later.
+Dialogue: 0,0:03:46.75,0:03:50.67,Default,MT,0,0,0,,So? If she wins, we’ll just keep playing \Nand go through the exit later.
 Dialogue: 0,0:03:52.00,0:03:55.17,Default,The Cat,0,0,0,,Oh, silly me.\NI forgot to mention:
 Dialogue: 0,0:03:55.17,0:03:57.84,Default,The Cat,0,0,0,,There can be only one\Nexit winner a month.
 Dialogue: 0,0:03:58.13,0:03:59.01,Default,Jesse,0,0,0,,Who made that rule?
-Dialogue: 0,0:03:59.01,0:04:01.76,Default,The Cat,0,0,0,,Wouldn't be a game without stakes,
-Dialogue: 0,0:04:01.76,0:04:02.93,Default,The Cat,0,0,0,,but I'll tell you what.
+Dialogue: 0,0:03:59.01,0:04:01.76,Default,The Cat,0,0,0,,Wouldn’t be a game without stakes,
+Dialogue: 0,0:04:01.76,0:04:02.93,Default,The Cat,0,0,0,,but I’ll tell you what.
 Dialogue: 0,0:04:02.93,0:04:06.43,Default,The Cat,0,0,0,,If you two can win a combined\Nscore of 1,000 points,
-Dialogue: 0,0:04:06.43,0:04:08.39,Default,The Cat,0,0,0,,I'll give you both access.
+Dialogue: 0,0:04:06.43,0:04:08.39,Default,The Cat,0,0,0,,I’ll give you both access.
 Dialogue: 0,0:04:08.39,0:04:10.52,Default,The Cat,0,0,0,,Noblesse oblige and all that.
 Dialogue: 0,0:04:12.11,0:04:14.86,Default,The Cat,0,0,0,,{\an8\i1}Attention, patrons of the Lucky Cat,
 Dialogue: 0,0:04:14.86,0:04:17.36,Default,The Cat,0,0,0,,{\an8\i1}we have two new competitors for the door.
 Dialogue: 0,0:04:20.87,0:04:23.28,Default,The Cat,0,0,0,,{\an8\i1}Let the Exit Games begin.
 Dialogue: 0,0:04:23.28,0:04:24.87,Default,The Cat,0,0,0,,Better get a move on.
-Dialogue: 0,0:04:34.05,0:04:35.80,Default,MT,0,0,0,,Why didn't we get\Nthe same points?
+Dialogue: 0,0:04:34.05,0:04:35.80,Default,MT,0,0,0,,Why didn’t we get\Nthe same points?
 Comment: 0,0:04:35.80,0:04:36.46,Default,Goblin,0,0,0,,Guh!
 Comment: 0,0:04:37.01,0:04:38.01,Default,Goblin,0,0,0,,Guh!
 Comment: 0,0:04:38.51,0:04:40.34,Default,Goblin,0,0,0,,Guh...
 Comment: 0,0:04:42.93,0:04:43.55,Default,Goblin,0,0,0,,Guh!
 Comment: 0,0:04:43.55,0:04:44.64,Default,Goblin,0,0,0,,Guh...
 Dialogue: 0,0:04:47.60,0:04:49.52,Default,The Cat,0,0,0,,{\an8\i1}The Exit Games are heating up.
-Dialogue: 0,0:04:49.52,0:04:51.81,Default,The Cat,0,0,0,,{\an8\i1}If you'd like to place bets on the contenders,
+Dialogue: 0,0:04:49.52,0:04:51.81,Default,The Cat,0,0,0,,{\an8\i1}If you’d like to place bets on the contenders,
 Dialogue: 0,0:04:51.81,0:04:53.69,Default,The Cat,0,0,0,,{\an8\i1}please see the betting booth.
-Dialogue: 0,0:04:53.69,0:04:55.32,Default,Jesse,0,0,0,,I don't think that was a real bow.
+Dialogue: 0,0:04:53.69,0:04:55.32,Default,Jesse,0,0,0,,I don’t think that was a real bow.
 Dialogue: 0,0:04:55.32,0:04:57.28,Default,Jesse,0,0,0,,I think that was a sarcastic bow!
-Dialogue: 0,0:04:57.28,0:04:58.86,Default,MT,0,0,0,,Where'd Alan Dracula go?
-Dialogue: 0,0:04:59.40,0:05:01.91,Default,MT,0,0,0,,It's not real grass!
-Dialogue: 0,0:05:01.91,0:05:01.95,Default,MT,0,0,0,,{\clip(877,0,1920,1080)}It's not real grass!
-Dialogue: 0,0:05:01.95,0:05:01.99,Default,MT,0,0,0,,{\clip(1053,0,1920,1080)}It's not real grass!
+Dialogue: 0,0:04:57.28,0:04:58.86,Default,MT,0,0,0,,Where’d Alan Dracula go?
+Dialogue: 0,0:04:59.40,0:05:01.91,Default,MT,0,0,0,,It’s not real grass!
+Dialogue: 0,0:05:01.91,0:05:01.95,Default,MT,0,0,0,,{\clip(877,0,1920,1080)}It’s not real grass!
+Dialogue: 0,0:05:01.95,0:05:01.99,Default,MT,0,0,0,,{\clip(1053,0,1920,1080)}It’s not real grass!
 Dialogue: 0,0:05:06.08,0:05:07.45,Default,Randall,0,0,0,,We have a winner!
 Dialogue: 0,0:05:07.45,0:05:08.25,Default,MT,0,0,0,,Yes!
 Dialogue: 0,0:05:10.75,0:05:14.29,Default,MT,0,0,0,,Gah! Water guy, I {\i1}know{\i0}\NI just won that game.
-Dialogue: 0,0:05:14.29,0:05:17.00,Default,Randall,0,0,0,,Ah, hmm, uh, I don't know.
+Dialogue: 0,0:05:14.29,0:05:17.00,Default,Randall,0,0,0,,Ah, hmm, uh, I don’t know.
 Dialogue: 0,0:05:17.00,0:05:18.84,Default,Randall,0,0,0,,He must have actually won.
 Dialogue: 0,0:05:19.22,0:05:21.51,Default,Randall,0,0,0,,I have to give more points\Nto anyone with a number.
 Dialogue: 0,0:05:21.51,0:05:25.72,Default,Randall,0,0,0,,Passengers get preferential treatment \Nbecause they have a greater need to exit the car.
-Dialogue: 0,0:05:25.72,0:05:27.97,Default,Randall,0,0,0,,Personally, I'd run\Nmy business differently.
-Dialogue: 0,0:05:27.97,0:05:30.06,Default,Randall,0,0,0,,Ooh, while we're on\Nthe subject of commerce,
+Dialogue: 0,0:05:25.72,0:05:27.97,Default,Randall,0,0,0,,Personally, I’d run\Nmy business differently.
+Dialogue: 0,0:05:27.97,0:05:30.06,Default,Randall,0,0,0,,Ooh, while we’re on\Nthe subject of commerce,
 Dialogue: 0,0:05:30.06,0:05:31.44,Default,Randall,0,0,0,,want to buy a Donut-Holer?
 Dialogue: 0,0:05:31.44,0:05:32.27,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:05:33.10,0:05:34.15,Default,Jesse,0,0,0,,MT!
 Dialogue: 0,0:05:35.36,0:05:36.40,Default,Randall,0,0,0,,Guess not.
 Dialogue: 0,0:05:36.40,0:05:38.61,Default,Balloon Randall,0,0,0,,Came on a bit strongly, mate,\Nto be honest.
 Dialogue: 0,0:05:39.36,0:05:40.86,Default,Jesse,0,0,0,,MT, slow down.
-Dialogue: 0,0:05:40.86,0:05:41.82,Default,Jesse,0,0,0,,C'mon, where are you going?
-Dialogue: 0,0:05:41.82,0:05:43.07,Default,MT,0,0,0,,I don't know.
-Dialogue: 0,0:05:43.07,0:05:44.82,Default,MT,0,0,0,,I'm just... {\i1}going{\i0}.
-Dialogue: 0,0:05:45.20,0:05:47.29,Default,MT,0,0,0,,What's wrong with this place?
-Dialogue: 0,0:05:47.66,0:05:49.54,Default,Jesse,0,0,0,,Hey, it's okay.
-Dialogue: 0,0:05:49.54,0:05:51.46,Default,Jesse,0,0,0,,It's still two to one in our favor.
-Dialogue: 0,0:05:51.46,0:05:52.75,Default,MT,0,0,0,,That's not the point, Jesse.
+Dialogue: 0,0:05:40.86,0:05:41.82,Default,Jesse,0,0,0,,C’mon, where are you going?
+Dialogue: 0,0:05:41.82,0:05:43.07,Default,MT,0,0,0,,I don’t know.
+Dialogue: 0,0:05:43.07,0:05:44.82,Default,MT,0,0,0,,I’m just... {\i1}going{\i0}.
+Dialogue: 0,0:05:45.20,0:05:47.29,Default,MT,0,0,0,,What’s wrong with this place?
+Dialogue: 0,0:05:47.66,0:05:49.54,Default,Jesse,0,0,0,,Hey, it’s okay.
+Dialogue: 0,0:05:49.54,0:05:51.46,Default,Jesse,0,0,0,,It’s still two to one in our favor.
+Dialogue: 0,0:05:51.46,0:05:52.75,Default,MT,0,0,0,,That’s not the point, Jesse.
 Dialogue: 0,0:05:52.75,0:05:56.63,Default,MT,0,0,0,,The point is that everything\Nand everyone on this train
 Dialogue: 0,0:05:56.63,0:05:57.80,Default,MT,0,0,0,,wants me to fail.
-Dialogue: 0,0:05:58.55,0:06:01.72,Default,Jesse,0,0,0,,Hey, I don't want you to fail,\Nand I'm on the train.
+Dialogue: 0,0:05:58.55,0:06:01.72,Default,Jesse,0,0,0,,Hey, I don’t want you to fail,\Nand I’m on the train.
 Dialogue: 0,0:06:02.13,0:06:03.84,Default,Jesse,0,0,0,,And who cares about them?
-Dialogue: 0,0:06:03.84,0:06:06.22,Default,Jesse,0,0,0,,Once my number gets to zero,\Nwe're all leaving anyway.
+Dialogue: 0,0:06:03.84,0:06:06.22,Default,Jesse,0,0,0,,Once my number gets to zero,\Nwe’re all leaving anyway.
 Dialogue: 0,0:06:06.22,0:06:07.05,Default,MT,0,0,0,,What?
 Dialogue: 0,0:06:07.05,0:06:07.97,Default,Jesse,0,0,0,,What what?
-Dialogue: 0,0:06:07.97,0:06:09.68,Default,MT,0,0,0,,I-I don't—
-Dialogue: 0,0:06:09.68,0:06:11.77,Default,MT,0,0,0,,I mean, I-I-I didn't think...
+Dialogue: 0,0:06:07.97,0:06:09.68,Default,MT,0,0,0,,I-I don’t—
+Dialogue: 0,0:06:09.68,0:06:11.77,Default,MT,0,0,0,,I mean, I-I-I didn’t think...
 Dialogue: 0,0:06:12.73,0:06:14.52,Default,MT,0,0,0,,You want us to come with you?
 Dialogue: 0,0:06:15.02,0:06:16.65,Default,MT,0,0,0,,You want {\i1}me{\i0} to come with you?
-Dialogue: 0,0:06:16.65,0:06:18.82,Default,Jesse,0,0,0,,Yeah.\NYou're my friend.
-Dialogue: 0,0:06:18.82,0:06:21.57,Default,Jesse,0,0,0,,I'm not gonna leave you here \Nwith the flecs chasing after you.
+Dialogue: 0,0:06:16.65,0:06:18.82,Default,Jesse,0,0,0,,Yeah.\NYou’re my friend.
+Dialogue: 0,0:06:18.82,0:06:21.57,Default,Jesse,0,0,0,,I’m not gonna leave you here \Nwith the flecs chasing after you.
 Dialogue: 0,0:06:22.99,0:06:23.65,Default,Jesse,0,0,0,,Whoa.
 Dialogue: 0,0:06:26.32,0:06:27.24,Default,Jesse,0,0,0,,See?
 Dialogue: 0,0:06:27.24,0:06:29.49,Default,Jesse,0,0,0,,Even my number knows\Nyou should come back with me.
-Dialogue: 0,0:06:29.49,0:06:31.87,Default,Jesse,0,0,0,,It wouldn't have gone down \Nif it wasn't the right thing to do.
+Dialogue: 0,0:06:29.49,0:06:31.87,Default,Jesse,0,0,0,,It wouldn’t have gone down \Nif it wasn’t the right thing to do.
 Dialogue: 0,0:06:33.12,0:06:37.08,Default,MT,0,0,0,,Well, if your number thinks so,\NI guess I should.
 Dialogue: 0,0:06:37.08,0:06:40.42,Default,Jesse,0,0,0,,Duh! So who cares if they give\Npassengers more tickets?
-Dialogue: 0,0:06:40.76,0:06:43.38,Default,Jesse,0,0,0,,There's still two of us,\Nand we can still get that door.
-Dialogue: 0,0:06:43.38,0:06:45.68,Default,MT,0,0,0,,If we could get Alan Dracula\Nto play, then there'd be...
-Dialogue: 0,0:06:47.35,0:06:50.10,Default,MT,0,0,0,,I'm gonna smash that\Ncrane game to the ground.
+Dialogue: 0,0:06:40.76,0:06:43.38,Default,Jesse,0,0,0,,There’s still two of us,\Nand we can still get that door.
+Dialogue: 0,0:06:43.38,0:06:45.68,Default,MT,0,0,0,,If we could get Alan Dracula\Nto play, then there’d be...
+Dialogue: 0,0:06:47.35,0:06:50.10,Default,MT,0,0,0,,I’m gonna smash that\Ncrane game to the ground.
 Dialogue: 0,0:06:56.73,0:06:57.61,Default,Jesse,0,0,0,,Ha ha!
 Dialogue: 0,0:06:58.52,0:06:59.19,Default,MT,0,0,0,,Hm!
 Comment: 0,0:07:05.74,0:07:05.78,Default,MT,0,0,0,,{\clip(0,0,956,1080)}Ugh!
@@ -194,13 +194,13 @@ Comment: 0,0:07:32.18,0:07:32.81,Default,MT,0,0,0,,Aw!
 Dialogue: 0,0:07:35.89,0:07:38.06,Default,The Cat,0,0,0,,{\an8\i1}We have a winning pair.
 Dialogue: 0,0:07:38.06,0:07:40.90,Default,The Cat,0,0,0,,{\an8\i1}With a combined score of 1,084,
 Dialogue: 0,0:07:40.90,0:07:43.28,Default,The Cat,0,0,0,,{\an8\i1}if you placed a bet in their favor, then—
-Dialogue: 0,0:07:44.32,0:07:46.65,Default,The Cat,0,0,0,,{\an8\i1}I'm being told that no one bet\Nthat they would win,
-Dialogue: 0,0:07:46.65,0:07:50.28,Default,The Cat,0,0,0,,{\an8\i1}so all losers, please report\Nto the debtor's prison booth.
+Dialogue: 0,0:07:44.32,0:07:46.65,Default,The Cat,0,0,0,,{\an8\i1}I’m being told that no one bet\Nthat they would win,
+Dialogue: 0,0:07:46.65,0:07:50.28,Default,The Cat,0,0,0,,{\an8\i1}so all losers, please report\Nto the debtor’s prison booth.
 Dialogue: 0,0:07:50.28,0:07:51.33,Default,MT,0,0,0,,How do you like that?
-Dialogue: 0,0:07:51.66,0:07:54.00,Default,Grace,0,0,0,,So, you're just gonna leave\Nwithout your deer, then?
+Dialogue: 0,0:07:51.66,0:07:54.00,Default,Grace,0,0,0,,So, you’re just gonna leave\Nwithout your deer, then?
 Dialogue: 0,0:07:55.04,0:07:57.00,Default,Jesse,0,0,0,,Ughhh, Alan Dracula!
 Dialogue: 0,0:07:58.42,0:07:59.71,Default,Jesse,0,0,0,,Where is he? Where is he?
-Dialogue: 0,0:07:59.71,0:08:01.13,Default,MT,0,0,0,,Uh, I don't know.
+Dialogue: 0,0:07:59.71,0:08:01.13,Default,MT,0,0,0,,Uh, I don’t know.
 Dialogue: 0,0:08:01.13,0:08:03.71,Default,MT,0,0,0,,Is there some green\Ncotton candy around?
 Dialogue: 0,0:08:03.71,0:08:06.51,Default,MT,0,0,0,,Ugh, what other dumb thing \Nwould Alan Dracula think is grass?
 Dialogue: 0,0:08:06.51,0:08:08.88,Default,Arnold,0,0,0,,Oh, look, Mummy!\NThat toy is moving.
@@ -208,9 +208,9 @@ Dialogue: 0,0:08:08.88,0:08:10.55,Default,Arnold,0,0,0,,I want him. I want him. 
 Dialogue: 0,0:08:12.22,0:08:13.14,Default,MT,0,0,0,,Ahh!
 Dialogue: 0,0:08:13.68,0:08:14.43,Default,Jesse,0,0,0,,Ahh...
 Dialogue: 0,0:08:14.43,0:08:17.69,Default,The Cat,0,0,0,,{\an8\i1}And our mystery competitor \Nhas reached 1,000 points.
-Dialogue: 0,0:08:17.69,0:08:19.81,Default,The Cat,0,0,0,,{\an8\i1}It's a race to the finish line!
+Dialogue: 0,0:08:17.69,0:08:19.81,Default,The Cat,0,0,0,,{\an8\i1}It’s a race to the finish line!
 Dialogue: 0,0:08:19.81,0:08:23.23,Default,The Cat,0,0,0,,{\an8\i1}Patrons who reported to the prison booth \Nmay now return to the carnival.
-Dialogue: 0,0:08:23.23,0:08:27.45,Default,The Cat,0,0,0,,{\q2\an8\i1}The Lucky Cat is not obligated to return any valuables \Nalready surrendered at the debtor's prison booth.
+Dialogue: 0,0:08:23.23,0:08:27.45,Default,The Cat,0,0,0,,{\q2\an8\i1}The Lucky Cat is not obligated to return any valuables \Nalready surrendered at the debtor’s prison booth.
 Dialogue: 0,0:08:27.45,0:08:29.24,Default,Jesse,0,0,0,,No, no, no, no, no!
 Dialogue: 0,0:08:29.24,0:08:31.28,Default,MT,0,0,0,,We need both our cards\Nto win the exit.
 Dialogue: 0,0:08:31.28,0:08:32.45,Default,MT,0,0,0,,Play the crane game!
@@ -231,11 +231,11 @@ Dialogue: 0,0:09:05.57,0:09:06.94,Default,The Cat,0,0,0,,A win is a win.
 Dialogue: 0,0:09:14.58,0:09:15.87,Default,The Cat,0,0,0,,Well played, madame.
 Dialogue: 0,0:09:15.87,0:09:18.33,Default,The Cat,0,0,0,,Thank you for patronizing The Lucky Cat.
 Dialogue: 0,0:09:18.33,0:09:20.37,Default,Grace,0,0,0,,Might not want to thank me just yet.
-Dialogue: 0,0:09:23.08,0:09:24.42,Default,Apex,0,0,0,,Let's wreck this place!
+Dialogue: 0,0:09:23.08,0:09:24.42,Default,Apex,0,0,0,,Let’s wreck this place!
 Dialogue: 0,0:09:24.96,0:09:26.00,Default,The Cat,0,0,0,,No!
 Dialogue: 0,0:09:27.09,0:09:28.80,Default,The Cat,0,0,0,,You little Apex brats.
 Dialogue: 0,0:09:29.13,0:09:31.05,Default,Grace,0,0,0,,Sorry for the disguise, but...
-Dialogue: 0,0:09:31.59,0:09:34.64,Default,Grace,0,0,0,,I didn't think you'd give me \Naccess to the door if you knew who I was.
+Dialogue: 0,0:09:31.59,0:09:34.64,Default,Grace,0,0,0,,I didn’t think you’d give me \Naccess to the door if you knew who I was.
 Dialogue: 0,0:09:34.64,0:09:36.64,Default,The Cat,0,0,0,,You horrid little...
 Dialogue: 0,0:09:36.64,0:09:37.97,Default,Grace,0,0,0,,Wah, wah, wah.
 Comment: 0,0:09:41.06,0:09:41.89,Default,Apex,0,0,0,,Ha ha!
@@ -244,25 +244,25 @@ Dialogue: 0,0:09:48.32,0:09:49.36,Default,Jesse,0,0,0,,Uh...
 Dialogue: 0,0:09:50.57,0:09:51.24,Default,Jesse,0,0,0,,Huh?
 Dialogue: 0,0:09:52.20,0:09:55.57,Default,MT,0,0,0,,So you won the door \Njust to let in a bunch of rabid kids?
 Dialogue: 0,0:09:55.57,0:09:57.24,Default,Grace,0,0,0,,Ugh, sorry.
-Dialogue: 0,0:09:57.24,0:10:00.33,Default,Grace,0,0,0,,Didn't realize you were, like,\N{\i1}super{\i0} precious about this car.
-Dialogue: 0,0:10:00.62,0:10:02.58,Default,MT,0,0,0,,D'ah! I'm not.
-Dialogue: 0,0:10:02.58,0:10:03.96,Default,Grace,0,0,0,,We're passengers.
+Dialogue: 0,0:09:57.24,0:10:00.33,Default,Grace,0,0,0,,Didn’t realize you were, like,\N{\i1}super{\i0} precious about this car.
+Dialogue: 0,0:10:00.62,0:10:02.58,Default,MT,0,0,0,,D’ah! I’m not.
+Dialogue: 0,0:10:02.58,0:10:03.96,Default,Grace,0,0,0,,We’re passengers.
 Dialogue: 0,0:10:03.96,0:10:06.46,Default,Grace,0,0,0,,We do what we have to to survive.
 Dialogue: 0,0:10:06.46,0:10:08.30,Default,Grace,0,0,0,,Plus, I wanted a corn dog.
-Dialogue: 0,0:10:09.05,0:10:11.01,Default,Grace,0,0,0,,Hey, kid. What's your number at?
+Dialogue: 0,0:10:09.05,0:10:11.01,Default,Grace,0,0,0,,Hey, kid. What’s your number at?
 Dialogue: 0,0:10:11.38,0:10:12.38,Default,Grace,0,0,0,,Four?
-Dialogue: 0,0:10:12.38,0:10:14.80,Default,Grace,0,0,0,,Pff. We'll have to fix that back at my base.
+Dialogue: 0,0:10:12.38,0:10:14.80,Default,Grace,0,0,0,,Pff. We’ll have to fix that back at my base.
 Dialogue: 0,0:10:14.80,0:10:15.34,Default,Grace,0,0,0,,Come on.
-Dialogue: 0,0:10:15.34,0:10:17.18,Default,MT,0,0,0,,We're not just gonna\Nfollow you wherever—
-Dialogue: 0,0:10:17.18,0:10:20.56,Default,Grace,0,0,0,,Look. I {\i1}really{\i0} don't care\None way or the other,
+Dialogue: 0,0:10:15.34,0:10:17.18,Default,MT,0,0,0,,We’re not just gonna\Nfollow you wherever—
+Dialogue: 0,0:10:17.18,0:10:20.56,Default,Grace,0,0,0,,Look. I {\i1}really{\i0} don’t care\None way or the other,
 Dialogue: 0,0:10:20.56,0:10:22.81,Default,Grace,0,0,0,,but {\i1}you{\i0} were trying \Nto win the door, so...
 Dialogue: 0,0:10:22.81,0:10:24.60,Default,Grace,0,0,0,,Ta-da! Door.
 Dialogue: 0,0:10:25.77,0:10:27.57,Default,Jesse,0,0,0,,This car {\i1}was{\i0} cheating you.
-Dialogue: 0,0:10:27.57,0:10:28.77,Default,Jesse,0,0,0,,I think she's okay.
-Dialogue: 0,0:10:28.77,0:10:31.61,Default,Jesse,0,0,0,,She's letting us use the exit\Nwhen she doesn't really have to.
+Dialogue: 0,0:10:27.57,0:10:28.77,Default,Jesse,0,0,0,,I think she’s okay.
+Dialogue: 0,0:10:28.77,0:10:31.61,Default,Jesse,0,0,0,,She’s letting us use the exit\Nwhen she doesn’t really have to.
 Dialogue: 0,0:10:31.61,0:10:32.78,Default,MT,0,0,0,,Fine.
-Dialogue: 0,0:10:32.78,0:10:34.03,Default,MT,0,0,0,,Let's just get out of here.
-Dialogue: 0,0:10:35.45,0:10:37.37,Default,The Cat,0,0,0,,This isn't over, Grace.
+Dialogue: 0,0:10:32.78,0:10:34.03,Default,MT,0,0,0,,Let’s just get out of here.
+Dialogue: 0,0:10:35.45,0:10:37.37,Default,The Cat,0,0,0,,This isn’t over, Grace.
 Dialogue: 0,0:10:37.37,0:10:39.87,Default,Grace,0,0,0,,Try me, The Cat.
 Dialogue: 0,0:10:41.87,0:10:42.96,Default,Both,0,0,0,,Ah!
 Dialogue: 0,0:10:45.88,0:10:47.59,Default,Grace,0,0,0,,One, take this corn dog.
