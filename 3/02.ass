@@ -24,7 +24,8 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:24.00,0:00:25.00,Default,,0,0,0,,You okay?
 Dialogue: 0,0:00:25.00,0:00:27.00,Default,,0,0,0,,This isn't going to be\Na normal procedure.
-Dialogue: 0,0:00:27.00,0:00:29.01,Default,,0,0,0,split,You're right.\NWe're supposed to have backup.
+Dialogue: 0,0:00:27.00,0:00:27.92,Default,,0,0,0,,You're right.
+Dialogue: 0,0:00:27.92,0:00:29.01,Default,,0,0,0,,We're supposed to have backup.
 Dialogue: 0,0:00:29.02,0:00:32.00,Default,,0,0,0,,We're supposed to have two\Nworking harpoon packs.
 Dialogue: 0,0:00:32.01,0:00:33.01,Default,,0,0,0,,I don't think we've even been\Nthis far out
 Dialogue: 0,0:00:33.01,0:00:34.02,Default,,0,0,0,,on the train before.
@@ -51,8 +52,9 @@ Dialogue: 0,0:01:35.00,0:01:37.01,Default,,0,0,0,,Threats seem minimal.
 Dialogue: 0,0:01:37.01,0:01:41.00,Default,,0,0,0,,But Simon presence\Nremains aloof and dorky.
 Dialogue: 0,0:01:42.02,0:01:44.01,Default,,0,0,0,,Dude, we are the Apex,
 Dialogue: 0,0:01:44.01,0:01:47.01,Default,,0,0,0,,but, also, we're Grace\Nand Simon, remember?
-Dialogue: 0,0:01:47.01,0:01:49.01,Default,,0,0,0,split,Yeah.\N[ Mockingly ] "Yeah."
-Dialogue: 0,0:01:49.01,0:01:51.00,Default,,0,0,0,,"Yeah," what?
+Dialogue: 0,0:01:47.01,0:01:49.01,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:01:49.01,0:01:49.96,Default,,0,0,0,,"Yeah."
+Dialogue: 0,0:01:49.96,0:01:51.00,Default,,0,0,0,,"Yeah," what?
 Dialogue: 0,0:01:51.01,0:01:53.01,Default,,0,0,0,,I've seen you lead\Nan army of kids,
 Dialogue: 0,0:01:53.01,0:01:56.00,Default,,0,0,0,,but I've also seen you\Nplay sock ball.
 Dialogue: 0,0:01:56.00,0:01:59.00,Default,,0,0,0,,You can play super serious\Ngeneral guy when we get back.
@@ -65,8 +67,9 @@ Dialogue: 0,0:02:22.01,0:02:24.00,Default,,0,0,0,,Hmm-hmm.
 Dialogue: 0,0:02:27.00,0:02:28.01,Default,,0,0,0,,Hmm-hmm.
 Dialogue: 0,0:02:39.01,0:02:43.00,Default,,0,0,0,,See? Isn't this a nice\Nchange of pace?
 Dialogue: 0,0:02:43.00,0:02:44.01,Default,,0,0,0,,Yeah, it is.
-Dialogue: 0,0:02:57.00,0:02:58.02,Default,,0,0,0,split,Whoa.\NWhoa.
-Dialogue: 0,0:02:58.02,0:03:00.01,Default,,0,0,0,split,Whoa!\NOhh!
+Dialogue: 0,0:02:57.41,0:02:58.74,Default,,0,0,0,,Huh?{I have no idea what this vocalization actually is}
+Dialogue: 0,0:03:00.03,0:03:00.74,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:03:00.03,0:03:00.74,Default,,0,0,0,,Ohh!
 Dialogue: 0,0:03:02.00,0:03:04.01,Default,,0,0,0,,Aaah!
 Dialogue: 0,0:03:07.01,0:03:09.01,Default,,0,0,0,,Looks like\Nwe got Null problems.
 Dialogue: 0,0:03:12.00,0:03:14.01,Default,,0,0,0,,Can't look for\Nthreats down here.
@@ -91,7 +94,7 @@ Dialogue: 0,0:04:51.02,0:04:52.02,Default,,0,0,0,,right here?
 Dialogue: 0,0:04:53.00,0:04:54.01,Default,,0,0,0,,I maintain that I am still\Nthe champion.
 Dialogue: 0,0:04:54.01,0:04:56.02,Default,,0,0,0,,They did not fly out\Nuntil after I said it.
 Dialogue: 0,0:04:57.00,0:04:58.01,Default,,0,0,0,,Still counts.
-Dialogue: 0,0:04:58.01,0:05:01.01,Default,,0,0,0,split,Huh?\NHuh?
+Dialogue: 0,0:04:59.07,0:05:00.49,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:08.01,0:05:09.02,Default,,0,0,0,,I-It's fine.
 Dialogue: 0,0:05:09.02,0:05:12.00,Default,,0,0,0,,The— The trap\Nlet us know it's here.
 Dialogue: 0,0:05:12.00,0:05:15.00,Default,,0,0,0,,Now we can team up\Nand take it down together.
@@ -104,7 +107,8 @@ Dialogue: 0,0:05:48.00,0:05:49.01,Default,,0,0,0,,Huh?
 Dialogue: 0,0:06:03.02,0:06:06.00,Default,,0,0,0,,As punishment for being sneaky,
 Dialogue: 0,0:06:06.01,0:06:11.02,Default,,0,0,0,,the trespassers are given\Nas food to the mighty Tuba!
 Dialogue: 0,0:06:12.00,0:06:13.01,Default,,0,0,0,,Aaaaaaaaaah!
-Dialogue: 0,0:06:16.01,0:06:21.00,Default,,0,0,0,split,Please! Please!\NOh, stop it!
+Dialogue: 0,0:06:16.01,0:06:21.00,Default,,0,0,0,,Please! Please!
+Dialogue: 0,0:06:16.01,0:06:21.00,Default,,0,0,0,,Oh, stop it!
 Dialogue: 0,0:06:23.02,0:06:25.01,Default,,0,0,0,,"Oh, no! Please!
 Dialogue: 0,0:06:25.01,0:06:27.01,Default,,0,0,0,,Ha ha ha! Oh, no!"
 Dialogue: 0,0:06:30.00,0:06:31.01,Default,,0,0,0,,That's you two!
@@ -121,7 +125,6 @@ Dialogue: 0,0:06:57.01,0:06:59.01,Default,,0,0,0,,you're entitled\Nto from the t
 Dialogue: 0,0:06:59.01,0:07:01.01,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:07:01.01,0:07:04.01,Default,,0,0,0,,As a passenger,\Nthe true conductor gives us—
 Dialogue: 0,0:07:04.01,0:07:06.02,Default,,0,0,0,,Pbbbbbbt!
-Dialogue: 0,0:07:09.01,0:07:11.01,Default,,0,0,0,split,Hmph.\NAhem.
 Dialogue: 0,0:07:11.02,0:07:13.01,Default,,0,0,0,,You aren't getting this.\NYou see—
 Dialogue: 0,0:07:19.01,0:07:21.00,Default,,0,0,0,,No!
 Dialogue: 0,0:07:21.00,0:07:24.00,Default,,0,0,0,,Hmph!\NYou told me we don't hit!
@@ -134,8 +137,9 @@ Dialogue: 0,0:07:42.00,0:07:43.02,Default,,0,0,0,,This is Tuba.
 Dialogue: 0,0:07:43.02,0:07:45.00,Default,,0,0,0,,She's kinda shy.
 Dialogue: 0,0:07:45.01,0:07:48.02,Default,,0,0,0,,Mm. I can get shy, too.\NHi, Tuba!
 Dialogue: 0,0:07:48.02,0:07:51.00,Default,,0,0,0,,Hello.
-Dialogue: 0,0:07:51.00,0:07:52.01,Default,,0,0,0,split,And what's your name?\NHazel.
-Dialogue: 0,0:07:52.02,0:07:56.00,Default,,0,0,0,,That's a very pretty name,\NHazel.
+Dialogue: 0,0:07:51.00,0:07:52.49,Default,,0,0,0,,And what's your name?
+Dialogue: 0,0:07:52.49,0:07:53.24,Default,,0,0,0,,Hazel.
+Dialogue: 0,0:07:53.24,0:07:56.00,Default,,0,0,0,,That's a very pretty name,\NHazel.
 Dialogue: 0,0:07:56.00,0:07:58.00,Default,,0,0,0,,I'm looking for passengers\Nto help.
 Dialogue: 0,0:07:58.01,0:07:59.02,Default,,0,0,0,,That's what I do.
 Dialogue: 0,0:08:00.00,0:08:04.01,Default,,0,0,0,,Do you mind if I talk to Hazel\Nalone, just for a little bit?
@@ -173,8 +177,9 @@ Dialogue: 0,0:09:23.01,0:09:25.00,Default,,0,0,0,,Am I kid?!
 Dialogue: 0,0:09:25.00,0:09:27.00,Default,,0,0,0,,Mm-hmm.
 Dialogue: 0,0:09:27.00,0:09:29.02,Default,,0,0,0,,Yes!\NI'll tell Tuba to pack up.
 Dialogue: 0,0:09:30.00,0:09:31.00,Default,,0,0,0,,Tuba can't come with.
-Dialogue: 0,0:09:31.00,0:09:33.00,Default,,0,0,0,split,What?\NYou can't—
-Dialogue: 0,0:09:33.00,0:09:38.01,Default,,0,0,0,,What he's trying to say is\Nthat numbers are for passengers.
+Dialogue: 0,0:09:32.26,0:09:33.01,Default,,0,0,0,,What?
+Dialogue: 0,0:09:33.01,0:09:33.68,Default,,0,0,0,,You can't—
+Dialogue: 0,0:09:33.68,0:09:38.01,Default,,0,0,0,,What he's trying to say is\Nthat numbers are for passengers.
 Dialogue: 0,0:09:38.01,0:09:41.00,Default,,0,0,0,,This kind of stuff\Ndoesn't affect her.
 Dialogue: 0,0:09:41.00,0:09:44.00,Default,,0,0,0,,Tuba probably wants to stay\Nin this jungle car.
 Dialogue: 0,0:09:44.00,0:09:47.01,Default,,0,0,0,,Don't be daft!\NI'm not leaving Tuba.
