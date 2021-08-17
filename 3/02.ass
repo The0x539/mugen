@@ -22,14 +22,9 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:04.01,0:00:10.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:10.01,0:00:12.00,Default,,0,0,0,,[ Rattling ]
-Dialogue: 0,0:00:12.00,0:00:15.01,Default,,0,0,0,,[ Birds chirping ]
-Dialogue: 0,0:00:15.01,0:00:20.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:20.00,0:00:24.00,Default,,0,0,0,,[ Pops lips ]
 Dialogue: 0,0:00:24.00,0:00:25.00,Default,,0,0,0,,You okay?
 Dialogue: 0,0:00:25.00,0:00:27.00,Default,,0,0,0,,This isn't going to be\Na normal procedure.
-Dialogue: 0,0:00:27.00,0:00:29.01,Default,,0,0,0,,You're right.\NWe're supposed to have backup.
+Dialogue: 0,0:00:27.00,0:00:29.01,Default,,0,0,0,split,You're right.\NWe're supposed to have backup.
 Dialogue: 0,0:00:29.02,0:00:32.00,Default,,0,0,0,,We're supposed to have two\Nworking harpoon packs.
 Dialogue: 0,0:00:32.01,0:00:33.01,Default,,0,0,0,,I don't think we've even been\Nthis far out
 Dialogue: 0,0:00:33.01,0:00:34.02,Default,,0,0,0,,on the train before.
@@ -45,7 +40,6 @@ Dialogue: 0,0:00:54.01,0:00:55.02,Default,,0,0,0,,Baggie of gorp,
 Dialogue: 0,0:00:55.02,0:01:00.00,Default,,0,0,0,,Arctic Cowboy brand deodorant\Nfor summer sports perspiration.
 Dialogue: 0,0:01:00.00,0:01:01.01,Default,,0,0,0,,That's good,\Nbecause I don't need
 Dialogue: 0,0:01:01.01,0:01:03.01,Default,,0,0,0,,your ripeness\Ngiving away our position.
-Dialogue: 0,0:01:03.02,0:01:05.01,Default,,0,0,0,,[ Laughs ]
 Dialogue: 0,0:01:07.01,0:01:10.02,Default,,0,0,0,,Aww!\NYou think I'm joking!
 Dialogue: 0,0:01:14.00,0:01:16.00,Default,,0,0,0,,Okay. First impressions.
 Dialogue: 0,0:01:16.00,0:01:18.00,Default,,0,0,0,,Looks to be\Na moderately sized car,
@@ -53,64 +47,33 @@ Dialogue: 0,0:01:18.00,0:01:21.00,Default,,0,0,0,,jungle-themed...
 Dialogue: 0,0:01:21.00,0:01:24.01,Default,,0,0,0,,but with a little extra...
 Dialogue: 0,0:01:24.01,0:01:26.01,Default,,0,0,0,,Flair?
 Dialogue: 0,0:01:27.01,0:01:31.02,Default,,0,0,0,,Hmm?
-Dialogue: 0,0:01:31.02,0:01:35.00,Default,,0,0,0,,[ Whistling melody ]
 Dialogue: 0,0:01:35.00,0:01:37.01,Default,,0,0,0,,Threats seem minimal.
 Dialogue: 0,0:01:37.01,0:01:41.00,Default,,0,0,0,,But Simon presence\Nremains aloof and dorky.
-Dialogue: 0,0:01:41.00,0:01:42.01,Default,,0,0,0,,[ Whistle! ]
 Dialogue: 0,0:01:42.02,0:01:44.01,Default,,0,0,0,,Dude, we are the Apex,
 Dialogue: 0,0:01:44.01,0:01:47.01,Default,,0,0,0,,but, also, we're Grace\Nand Simon, remember?
-Dialogue: 0,0:01:47.01,0:01:49.01,Default,,0,0,0,,Yeah.\N[ Mockingly ] "Yeah."
-Dialogue: 0,0:01:49.01,0:01:51.00,Default,,0,0,0,,[ Normal voice ]\N"Yeah," what?
+Dialogue: 0,0:01:47.01,0:01:49.01,Default,,0,0,0,split,Yeah.\N[ Mockingly ] "Yeah."
+Dialogue: 0,0:01:49.01,0:01:51.00,Default,,0,0,0,,"Yeah," what?
 Dialogue: 0,0:01:51.01,0:01:53.01,Default,,0,0,0,,I've seen you lead\Nan army of kids,
 Dialogue: 0,0:01:53.01,0:01:56.00,Default,,0,0,0,,but I've also seen you\Nplay sock ball.
-Dialogue: 0,0:01:56.00,0:01:59.00,Default,,0,0,0,,You can play superserious\Ngeneral guy when we get back.
+Dialogue: 0,0:01:56.00,0:01:59.00,Default,,0,0,0,,You can play super serious\Ngeneral guy when we get back.
 Dialogue: 0,0:01:59.01,0:02:00.00,Default,,0,0,0,,Until then,
 Dialogue: 0,0:02:00.01,0:02:03.00,Default,,0,0,0,,lo-o-o-osen u-u-u-u-p!
 Dialogue: 0,0:02:03.00,0:02:05.01,Default,,0,0,0,,Think of it as us\Nbeing on leave.
-Dialogue: 0,0:02:05.01,0:02:07.01,Default,,0,0,0,,[ Inhales deeply ]
-Dialogue: 0,0:02:09.02,0:02:13.01,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:02:13.01,0:02:15.00,Default,,0,0,0,,[ Grunting ]
 Dialogue: 0,0:02:15.00,0:02:17.01,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:02:17.02,0:02:19.02,Default,,0,0,0,,[ Grunts ]
 Dialogue: 0,0:02:20.00,0:02:20.02,Default,,0,0,0,,Okay.
-Dialogue: 0,0:02:21.00,0:02:22.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:02:22.01,0:02:24.00,Default,,0,0,0,,Hmm-hmm.\N[ Chuckles ]
-Dialogue: 0,0:02:24.00,0:02:27.00,Default,,0,0,0,,[ Laughs ]
+Dialogue: 0,0:02:22.01,0:02:24.00,Default,,0,0,0,,Hmm-hmm.
 Dialogue: 0,0:02:27.00,0:02:28.01,Default,,0,0,0,,Hmm-hmm.
-Dialogue: 0,0:02:28.02,0:02:29.02,Default,,0,0,0,,[ Laughs ]
-Dialogue: 0,0:02:30.00,0:02:33.00,Default,,0,0,0,,[ Both snoring softly ]
-Dialogue: 0,0:02:33.00,0:02:36.02,Default,,0,0,0,,♪♪
 Dialogue: 0,0:02:39.01,0:02:43.00,Default,,0,0,0,,See? Isn't this a nice\Nchange of pace?
 Dialogue: 0,0:02:43.00,0:02:44.01,Default,,0,0,0,,Yeah, it is.
-Dialogue: 0,0:02:44.02,0:02:46.01,Default,,0,0,0,,[ Growling ]\N[ Gasps ]
-Dialogue: 0,0:02:46.01,0:02:49.02,Default,,0,0,0,,[ Rumbling ]
-Dialogue: 0,0:02:49.02,0:02:53.00,Default,,0,0,0,,[ Chattering ]
-Dialogue: 0,0:02:53.00,0:02:57.00,Default,,0,0,0,,[ Birds cawing ]
-Dialogue: 0,0:02:57.00,0:02:58.02,Default,,0,0,0,,Whoa.\NWhoa.
-Dialogue: 0,0:02:58.02,0:03:00.01,Default,,0,0,0,,[ Roars ]\NWhoa!\NOhh!
-Dialogue: 0,0:03:00.01,0:03:02.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:03:02.00,0:03:04.01,Default,,0,0,0,,Aaah!\N[ Grunts ]
-Dialogue: 0,0:03:04.01,0:03:07.00,Default,,0,0,0,,[ Grunts ]
+Dialogue: 0,0:02:57.00,0:02:58.02,Default,,0,0,0,split,Whoa.\NWhoa.
+Dialogue: 0,0:02:58.02,0:03:00.01,Default,,0,0,0,split,Whoa!\NOhh!
+Dialogue: 0,0:03:02.00,0:03:04.01,Default,,0,0,0,,Aaah!
 Dialogue: 0,0:03:07.01,0:03:09.01,Default,,0,0,0,,Looks like\Nwe got Null problems.
-Dialogue: 0,0:03:10.01,0:03:12.00,Default,,0,0,0,,[ Chuckles ]
 Dialogue: 0,0:03:12.00,0:03:14.01,Default,,0,0,0,,Can't look for\Nthreats down here.
-Dialogue: 0,0:03:14.02,0:03:16.00,Default,,0,0,0,,[ Breathing heavily ]
-Dialogue: 0,0:03:16.01,0:03:19.00,Default,,0,0,0,,[ Grunting ]
-Dialogue: 0,0:03:19.00,0:03:22.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:22.00,0:03:24.02,Default,,0,0,0,,[ Breathing heavily ]
-Dialogue: 0,0:03:25.00,0:03:28.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:28.01,0:03:32.00,Default,,0,0,0,,[ Grunts ]
 Dialogue: 0,0:03:32.00,0:03:33.01,Default,,0,0,0,,See anything?!
-Dialogue: 0,0:03:33.01,0:03:36.00,Default,,0,0,0,,Yeah -- the tops of other trees!
-Dialogue: 0,0:03:36.01,0:03:39.01,Default,,0,0,0,,[ Warbling ]
-Dialogue: 0,0:03:39.01,0:03:42.01,Default,,0,0,0,,♪♪
+Dialogue: 0,0:03:33.01,0:03:36.00,Default,,0,0,0,,Yeah— the tops of other trees!
 Dialogue: 0,0:03:42.02,0:03:45.00,Default,,0,0,0,,I think I found something!
-Dialogue: 0,0:03:45.00,0:03:48.01,Default,,0,0,0,,[ Rumbling ]
-Dialogue: 0,0:03:48.01,0:03:51.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:03:51.00,0:03:55.00,Default,,0,0,0,,[ Grunts ]\NClear a way -- now, now, now!
-Dialogue: 0,0:03:55.00,0:03:58.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:58.01,0:04:01.01,Default,,0,0,0,,[ Crash ]
-Dialogue: 0,0:04:01.02,0:04:04.01,Default,,0,0,0,,[ Birds chirping ]
+Dialogue: 0,0:03:51.00,0:03:55.00,Default,,0,0,0,,Clear a way— now, now, now!
 Dialogue: 0,0:04:04.01,0:04:07.00,Default,,0,0,0,,Whatever it is,\Nwe can't ignore it.
 Dialogue: 0,0:04:07.00,0:04:08.02,Default,,0,0,0,,I know you told me\Nto loosen up,
 Dialogue: 0,0:04:09.00,0:04:12.00,Default,,0,0,0,,but we do have Apex procedures\Nfor something like this.
@@ -119,77 +82,50 @@ Dialogue: 0,0:04:14.01,0:04:16.01,Default,,0,0,0,,When encountering a Null\Nthat
 Dialogue: 0,0:04:16.01,0:04:19.00,Default,,0,0,0,,with force,\Nnor avoided in its entirety,
 Dialogue: 0,0:04:19.00,0:04:21.02,Default,,0,0,0,,the Null in question\Nmust be incapacitated.
 Dialogue: 0,0:04:21.02,0:04:25.00,Default,,0,0,0,,Hmm. Now, who could have\Nwritten that one?
-Dialogue: 0,0:04:25.01,0:04:26.01,Default,,0,0,0,,[ Chuckles ]
 Dialogue: 0,0:04:26.01,0:04:28.02,Default,,0,0,0,,You know I don't like\Nto take credit for things.
-Dialogue: 0,0:04:28.02,0:04:30.02,Default,,0,0,0,,[ Sputters lips ]
 Dialogue: 0,0:04:30.02,0:04:32.01,Default,,0,0,0,,Let's trap it.
-Dialogue: 0,0:04:32.01,0:04:40.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:40.00,0:04:41.02,Default,,0,0,0,,[ Warbles, whistles ]
-Dialogue: 0,0:04:41.02,0:04:46.00,Default,,0,0,0,,♪♪
 Dialogue: 0,0:04:46.00,0:04:47.01,Default,,0,0,0,,Did we have marshmallows?
 Dialogue: 0,0:04:47.01,0:04:49.00,Default,,0,0,0,,I'm sorry. What?
-Dialogue: 0,0:04:49.00,0:04:51.01,Default,,0,0,0,,This is where you want to redeem\Nyour loss at chubby bunny --
+Dialogue: 0,0:04:49.00,0:04:51.01,Default,,0,0,0,,This is where you want to redeem\Nyour loss at chubby bunny—
 Dialogue: 0,0:04:51.02,0:04:52.02,Default,,0,0,0,,right here?
 Dialogue: 0,0:04:53.00,0:04:54.01,Default,,0,0,0,,I maintain that I am still\Nthe champion.
 Dialogue: 0,0:04:54.01,0:04:56.02,Default,,0,0,0,,They did not fly out\Nuntil after I said it.
 Dialogue: 0,0:04:57.00,0:04:58.01,Default,,0,0,0,,Still counts.
-Dialogue: 0,0:04:58.01,0:05:01.01,Default,,0,0,0,,[ Whistling ]\NHuh?\NHuh?
-Dialogue: 0,0:05:01.01,0:05:05.00,Default,,0,0,0,,[ Groans ]
-Dialogue: 0,0:05:05.00,0:05:08.01,Default,,0,0,0,,♪♪
+Dialogue: 0,0:04:58.01,0:05:01.01,Default,,0,0,0,split,Huh?\NHuh?
 Dialogue: 0,0:05:08.01,0:05:09.02,Default,,0,0,0,,I-It's fine.
-Dialogue: 0,0:05:09.02,0:05:12.00,Default,,0,0,0,,The -- The trap\Nlet us know it's here.
+Dialogue: 0,0:05:09.02,0:05:12.00,Default,,0,0,0,,The— The trap\Nlet us know it's here.
 Dialogue: 0,0:05:12.00,0:05:15.00,Default,,0,0,0,,Now we can team up\Nand take it down together.
-Dialogue: 0,0:05:15.00,0:05:17.01,Default,,0,0,0,,[ Grunts softly ]\NHuh?
+Dialogue: 0,0:05:15.00,0:05:17.01,Default,,0,0,0,,Huh?
 Dialogue: 0,0:05:17.01,0:05:20.00,Default,,0,0,0,,Simon?\NSimon, where are you?!
 Dialogue: 0,0:05:20.01,0:05:24.00,Default,,0,0,0,,Make some noise\Nso I can try to follow!
 Dialogue: 0,0:05:24.00,0:05:25.01,Default,,0,0,0,,Simon!
 Dialogue: 0,0:05:25.01,0:05:27.02,Default,,0,0,0,,Simon!
-Dialogue: 0,0:05:27.02,0:05:29.01,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:05:35.00,0:05:38.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:05:39.00,0:05:41.01,Default,,0,0,0,,[ Groaning softly ]
-Dialogue: 0,0:05:41.02,0:05:43.01,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:05:43.01,0:05:45.00,Default,,0,0,0,,[ Groans softly ]
-Dialogue: 0,0:05:45.00,0:05:47.02,Default,,0,0,0,,[ Groaning ]
 Dialogue: 0,0:05:48.00,0:05:49.01,Default,,0,0,0,,Huh?
-Dialogue: 0,0:05:49.01,0:05:52.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:05:52.01,0:05:55.01,Default,,0,0,0,,[ Gasps ]
-Dialogue: 0,0:05:55.01,0:05:57.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:05:57.02,0:06:00.00,Default,,0,0,0,,[ Rumble! ]\N[ Both gasp ]
-Dialogue: 0,0:06:00.00,0:06:02.01,Default,,0,0,0,,[ Rumble! ]
-Dialogue: 0,0:06:02.01,0:06:03.01,Default,,0,0,0,,[ Rumble! ]
-Dialogue: 0,0:06:03.02,0:06:06.00,Default,,0,0,0,,Hazel:\NAs punishment for being sneaky,
+Dialogue: 0,0:06:03.02,0:06:06.00,Default,,0,0,0,,As punishment for being sneaky,
 Dialogue: 0,0:06:06.01,0:06:11.02,Default,,0,0,0,,the trespassers are given\Nas food to the mighty Tuba!
 Dialogue: 0,0:06:12.00,0:06:13.01,Default,,0,0,0,,Aaaaaaaaaah!
-Dialogue: 0,0:06:13.02,0:06:16.00,Default,,0,0,0,,[ Laughs ]
-Dialogue: 0,0:06:16.01,0:06:21.00,Default,,0,0,0,,[ Laughing ] Please! Please!\N[ Laughing ] Oh, stop it!
-Dialogue: 0,0:06:21.00,0:06:23.01,Default,,0,0,0,,[ Breathes deeply ]
-Dialogue: 0,0:06:23.02,0:06:25.01,Default,,0,0,0,,[ Mockingly ]\N"Oh, no! Please!
+Dialogue: 0,0:06:16.01,0:06:21.00,Default,,0,0,0,split,Please! Please!\NOh, stop it!
+Dialogue: 0,0:06:23.02,0:06:25.01,Default,,0,0,0,,"Oh, no! Please!
 Dialogue: 0,0:06:25.01,0:06:27.01,Default,,0,0,0,,Ha ha ha! Oh, no!"
-Dialogue: 0,0:06:27.01,0:06:30.00,Default,,0,0,0,,[ Both laugh ]
-Dialogue: 0,0:06:30.00,0:06:31.01,Default,,0,0,0,,[ Normal voice ]\NThat's you two!
+Dialogue: 0,0:06:30.00,0:06:31.01,Default,,0,0,0,,That's you two!
 Dialogue: 0,0:06:31.01,0:06:33.01,Default,,0,0,0,,That's what you two\Nsound like!
 Dialogue: 0,0:06:33.01,0:06:35.01,Default,,0,0,0,,I thought you said\Nthere weren't any passengers
 Dialogue: 0,0:06:35.01,0:06:37.00,Default,,0,0,0,,for at least 47 cars.
 Dialogue: 0,0:06:37.00,0:06:40.00,Default,,0,0,0,,I don't know. That's what\Nthe number tracker said.
-Dialogue: 0,0:06:40.00,0:06:44.00,Default,,0,0,0,,[ Laughter continues ]
 Dialogue: 0,0:06:44.00,0:06:47.00,Default,,0,0,0,,Uh, hi...over there.
 Dialogue: 0,0:06:47.00,0:06:49.01,Default,,0,0,0,,We're with the Apex.
-Dialogue: 0,0:06:52.01,0:06:53.01,Default,,0,0,0,,You might have heard of us --
+Dialogue: 0,0:06:52.01,0:06:53.01,Default,,0,0,0,,You might have heard of us—
 Dialogue: 0,0:06:53.02,0:06:55.00,Default,,0,0,0,,seen this wave symbol?
 Dialogue: 0,0:06:55.00,0:06:57.01,Default,,0,0,0,,We want to make sure\Nyou're getting everything
 Dialogue: 0,0:06:57.01,0:06:59.01,Default,,0,0,0,,you're entitled\Nto from the train.
 Dialogue: 0,0:06:59.01,0:07:01.01,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:07:01.01,0:07:04.01,Default,,0,0,0,,As a passenger,\Nthe true conductor gives us --
+Dialogue: 0,0:07:01.01,0:07:04.01,Default,,0,0,0,,As a passenger,\Nthe true conductor gives us—
 Dialogue: 0,0:07:04.01,0:07:06.02,Default,,0,0,0,,Pbbbbbbt!
-Dialogue: 0,0:07:07.00,0:07:09.01,Default,,0,0,0,,[ Both laugh ]
-Dialogue: 0,0:07:09.01,0:07:11.01,Default,,0,0,0,,Hmph.\NAhem.
-Dialogue: 0,0:07:11.02,0:07:13.01,Default,,0,0,0,,You aren't getting this.\NYou see --
-Dialogue: 0,0:07:13.01,0:07:15.01,Default,,0,0,0,,[ Growls ]
-Dialogue: 0,0:07:15.01,0:07:19.00,Default,,0,0,0,,[ Roars loudly ]
-Dialogue: 0,0:07:19.01,0:07:21.00,Default,,0,0,0,,[ Grunts ]\NHazel: No!
+Dialogue: 0,0:07:09.01,0:07:11.01,Default,,0,0,0,split,Hmph.\NAhem.
+Dialogue: 0,0:07:11.02,0:07:13.01,Default,,0,0,0,,You aren't getting this.\NYou see—
+Dialogue: 0,0:07:19.01,0:07:21.00,Default,,0,0,0,,No!
 Dialogue: 0,0:07:21.00,0:07:24.00,Default,,0,0,0,,Hmph!\NYou told me we don't hit!
-Dialogue: 0,0:07:24.00,0:07:26.01,Default,,0,0,0,,[ Sighs ]
-Dialogue: 0,0:07:31.00,0:07:34.01,Default,,0,0,0,,[ Chuckles softly ]\NSorry.
+Dialogue: 0,0:07:31.00,0:07:34.01,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:07:34.01,0:07:36.00,Default,,0,0,0,,He can get\Na little excited.
 Dialogue: 0,0:07:36.00,0:07:38.02,Default,,0,0,0,,My name's Grace.
 Dialogue: 0,0:07:39.00,0:07:40.01,Default,,0,0,0,,Simon is my friend.
@@ -198,7 +134,7 @@ Dialogue: 0,0:07:42.00,0:07:43.02,Default,,0,0,0,,This is Tuba.
 Dialogue: 0,0:07:43.02,0:07:45.00,Default,,0,0,0,,She's kinda shy.
 Dialogue: 0,0:07:45.01,0:07:48.02,Default,,0,0,0,,Mm. I can get shy, too.\NHi, Tuba!
 Dialogue: 0,0:07:48.02,0:07:51.00,Default,,0,0,0,,Hello.
-Dialogue: 0,0:07:51.00,0:07:52.01,Default,,0,0,0,,And what's your name?\NHazel.
+Dialogue: 0,0:07:51.00,0:07:52.01,Default,,0,0,0,split,And what's your name?\NHazel.
 Dialogue: 0,0:07:52.02,0:07:56.00,Default,,0,0,0,,That's a very pretty name,\NHazel.
 Dialogue: 0,0:07:56.00,0:07:58.00,Default,,0,0,0,,I'm looking for passengers\Nto help.
 Dialogue: 0,0:07:58.01,0:07:59.02,Default,,0,0,0,,That's what I do.
@@ -208,11 +144,9 @@ Dialogue: 0,0:08:06.01,0:08:08.01,Default,,0,0,0,,Tuba, I'll be okay.
 Dialogue: 0,0:08:08.02,0:08:10.01,Default,,0,0,0,,I promise.
 Dialogue: 0,0:08:10.01,0:08:12.01,Default,,0,0,0,,I will be
 Dialogue: 0,0:08:12.01,0:08:14.00,Default,,0,0,0,,over here...
-Dialogue: 0,0:08:17.00,0:08:18.01,Default,,0,0,0,,[ Chomp! ]
 Dialogue: 0,0:08:18.01,0:08:21.00,Default,,0,0,0,,...eating a pineapple.
 Dialogue: 0,0:08:21.00,0:08:22.01,Default,,0,0,0,,Thank you, Hazel.
 Dialogue: 0,0:08:22.01,0:08:24.01,Default,,0,0,0,,Do you want to see\Nsomething cool?
-Dialogue: 0,0:08:26.00,0:08:27.01,Default,,0,0,0,,[ Gasps ]
 Dialogue: 0,0:08:27.02,0:08:30.02,Default,,0,0,0,,This is my number.\NDo you have a number?
 Dialogue: 0,0:08:31.00,0:08:33.00,Default,,0,0,0,,I do!
 Dialogue: 0,0:08:33.01,0:08:35.00,Default,,0,0,0,,But yours glows!
@@ -221,11 +155,11 @@ Dialogue: 0,0:08:36.02,0:08:39.00,Default,,0,0,0,,That's probably why\Nshe didn'
 Dialogue: 0,0:08:39.00,0:08:41.01,Default,,0,0,0,,The fake conductor was trying\Nto hide her from us,
 Dialogue: 0,0:08:41.01,0:08:43.00,Default,,0,0,0,,turning off her number.
 Dialogue: 0,0:08:43.00,0:08:45.01,Default,,0,0,0,,We need to get her\Nto the Apex right away.
-Dialogue: 0,0:08:45.01,0:08:47.00,Default,,0,0,0,,What's a con-- conductor?
+Dialogue: 0,0:08:45.01,0:08:47.00,Default,,0,0,0,,What's a con— conductor?
 Dialogue: 0,0:08:47.01,0:08:50.00,Default,,0,0,0,,Well, that's what I was trying\Nto tell you about before.
 Dialogue: 0,0:08:50.00,0:08:51.02,Default,,0,0,0,,Let's focus on numbers.
-Dialogue: 0,0:08:52.00,0:08:55.01,Default,,0,0,0,,We all have them --\Nme, you, and Simon.
-Dialogue: 0,0:08:55.01,0:08:59.01,Default,,0,0,0,,But yours should be glowing --\Nlike mine. See?
+Dialogue: 0,0:08:52.00,0:08:55.01,Default,,0,0,0,,We all have them—\Nme, you, and Simon.
+Dialogue: 0,0:08:55.01,0:08:59.01,Default,,0,0,0,,But yours should be glowing—\Nlike mine. See?
 Dialogue: 0,0:08:59.01,0:09:01.00,Default,,0,0,0,,Hmm.
 Dialogue: 0,0:09:01.00,0:09:04.00,Default,,0,0,0,,How could we fix...
 Dialogue: 0,0:09:04.00,0:09:05.02,Default,,0,0,0,,Oh, I know!
@@ -239,7 +173,7 @@ Dialogue: 0,0:09:23.01,0:09:25.00,Default,,0,0,0,,Am I kid?!
 Dialogue: 0,0:09:25.00,0:09:27.00,Default,,0,0,0,,Mm-hmm.
 Dialogue: 0,0:09:27.00,0:09:29.02,Default,,0,0,0,,Yes!\NI'll tell Tuba to pack up.
 Dialogue: 0,0:09:30.00,0:09:31.00,Default,,0,0,0,,Tuba can't come with.
-Dialogue: 0,0:09:31.00,0:09:33.00,Default,,0,0,0,,What?\NYou can't --
+Dialogue: 0,0:09:31.00,0:09:33.00,Default,,0,0,0,split,What?\NYou can't—
 Dialogue: 0,0:09:33.00,0:09:38.01,Default,,0,0,0,,What he's trying to say is\Nthat numbers are for passengers.
 Dialogue: 0,0:09:38.01,0:09:41.00,Default,,0,0,0,,This kind of stuff\Ndoesn't affect her.
 Dialogue: 0,0:09:41.00,0:09:44.00,Default,,0,0,0,,Tuba probably wants to stay\Nin this jungle car.
@@ -247,7 +181,6 @@ Dialogue: 0,0:09:44.00,0:09:47.01,Default,,0,0,0,,Don't be daft!\NI'm not leavin
 Dialogue: 0,0:09:48.01,0:09:50.02,Default,,0,0,0,,We can't bring that Null\Nwith us back to the Apex.
 Dialogue: 0,0:09:51.00,0:09:52.00,Default,,0,0,0,,Oh, okay.\NDo you think
 Dialogue: 0,0:09:52.00,0:09:55.00,Default,,0,0,0,,we can just grab Hazel\Nand run past that thing?
-Dialogue: 0,0:09:55.00,0:09:58.00,Default,,0,0,0,,[ Chomp! ]
 Dialogue: 0,0:09:58.00,0:09:59.01,Default,,0,0,0,,Okay, Simon, listen.
 Dialogue: 0,0:09:59.01,0:10:01.00,Default,,0,0,0,,We'll take them both for now.
 Dialogue: 0,0:10:01.00,0:10:02.00,Default,,0,0,0,,Once we wean Hazel off it,
@@ -257,12 +190,12 @@ Dialogue: 0,0:10:07.00,0:10:08.01,Default,,0,0,0,,Hazel!
 Dialogue: 0,0:10:08.01,0:10:10.01,Default,,0,0,0,,I had to give Simon\Na talking-to.
 Dialogue: 0,0:10:10.01,0:10:13.00,Default,,0,0,0,,He was a little confused.
 Dialogue: 0,0:10:13.00,0:10:16.00,Default,,0,0,0,,Of course we want both of you\Nto come with.
-Dialogue: 0,0:10:16.00,0:10:17.00,Default,,0,0,0,,But you were the one\Nthat said --
+Dialogue: 0,0:10:16.00,0:10:17.00,Default,,0,0,0,,But you were the one\Nthat said—
 Dialogue: 0,0:10:17.01,0:10:19.01,Default,,0,0,0,,That was Simon,\Nand he was confused.
 Dialogue: 0,0:10:19.01,0:10:20.02,Default,,0,0,0,,But now I fixed it.
 Dialogue: 0,0:10:21.00,0:10:23.00,Default,,0,0,0,,We're all going to the Apex\Ntogether!
 Dialogue: 0,0:10:23.00,0:10:24.01,Default,,0,0,0,,Isn't that exciting?
-Dialogue: 0,0:10:24.01,0:10:26.02,Default,,0,0,0,,[ Giggles ] Tuba!
+Dialogue: 0,0:10:24.01,0:10:26.02,Default,,0,0,0,,Tuba!
 Dialogue: 0,0:10:27.00,0:10:28.01,Default,,0,0,0,,Tuba!
 Dialogue: 0,0:10:28.01,0:10:30.01,Default,,0,0,0,,We're going with Grace\Nand that guy!
 Dialogue: 0,0:10:30.01,0:10:32.00,Default,,0,0,0,,I'm gonna see more kids!
@@ -271,11 +204,7 @@ Dialogue: 0,0:10:33.01,0:10:36.00,Default,,0,0,0,,Are you sure this is\Nwhat you
 Dialogue: 0,0:10:36.00,0:10:38.01,Default,,0,0,0,,We were setting up\Na home here.
 Dialogue: 0,0:10:38.01,0:10:42.00,Default,,0,0,0,,It's the moment\NI've dreamed of my whole life.
 Dialogue: 0,0:10:45.00,0:10:47.00,Default,,0,0,0,,Okay.
-Dialogue: 0,0:10:50.00,0:10:51.01,Default,,0,0,0,,[ Groans ]
-Dialogue: 0,0:10:51.01,0:10:54.01,Default,,0,0,0,,[ Shudders, gulps ]
 Dialogue: 0,0:10:54.01,0:10:56.00,Default,,0,0,0,,We got to bring the couch!
 Dialogue: 0,0:10:56.00,0:10:58.00,Default,,0,0,0,,That is a rock.
 Dialogue: 0,0:10:58.00,0:11:00.02,Default,,0,0,0,,Oh. We need to take the TV,\Nfor sure.
 Dialogue: 0,0:11:00.02,0:11:04.00,Default,,0,0,0,,That is also a rock.
-Dialogue: 0,0:11:06.00,0:11:13.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:13.00,0:11:20.01,Default,,0,0,0,,♪♪
