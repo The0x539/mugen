@@ -170,7 +170,7 @@ Dialogue: 0,0:05:50.33,0:05:51.50,Default,Nate,0,0,0,,{\i1}Jesse...
 Dialogue: 0,0:05:51.83,0:05:53.08,Phone,Bully,0,0,0,,{\pos(1035,960)\frz0.25}Is he crying?
 Dialogue: 0,0:05:53.08,0:05:54.54,Phone,Bully,0,0,0,,{\pos(1035,960)\frz0.25}Aw, man!
 Dialogue: 0,0:05:53.46,0:05:55.21,Phone,Jesse,0,0,0,,{\frz0.25\pos(1035,885)}You better not tell Mom!
-Dialogue: 0,0:05:56.46,0:05:57.59,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}Did you get all that?
+Dialogue: 0,0:05:56.46,0:05:57.59,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}You get all that?
 Dialogue: 0,0:05:57.59,0:05:58.92,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}It was epic!
 Dialogue: 0,0:05:59.51,0:06:01.34,Phone,Troy,0,0,0,,{\pos(1035,960)\frz0.25}Your brother beefed it.
 Dialogue: 0,0:06:05.39,0:06:06.35,Default,MT,0,0,0,,Whatcha watching?
