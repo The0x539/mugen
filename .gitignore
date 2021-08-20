@@ -1,7 +1,11 @@
 *.mkv
+*.mks
 *.srt
 *.mp4
 *.wav
 *.jpg
 *.png
 *.mocha
+
+.gradle
+build
