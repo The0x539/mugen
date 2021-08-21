@@ -6,6 +6,7 @@
 *.jpg
 *.png
 *.mocha
+*.torrent
 
 .gradle
 build
