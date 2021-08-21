@@ -11,32 +11,32 @@ plugins {
 }
 
 subs {
+	fun Task.season(): String {
+		if (propertyExists("season")) {
+			return get("season").get()
+		} else {
+			return batch.substringAfter("book")
+		}
+	}
+
+	fun Task.ep(): String {
+		return get("ep").get()
+	}
+
 	readProperties("sub.properties")
 	episodes(getList("episodes"))
 	batches(getMap("seasons", "episodes"))
 
-	fun Task.getSeason(): String {
-		return episode.substringBefore('x')
+	fun Task.episodeTitle(tags: String): String {
+		return "Infinity Train S0${season()}E${ep()} - ${getRaw("title")} (${tags}) [0x539]"
 	}
 
-	fun Task.getBatchSeason(): String {
-		return batch.substringAfter("book")
-	}
-
-	fun Task.getEp(): String {
-		return episode.substringAfter('x')
-	}
-
-	fun Task.formatEpisode(tags: String): String {
-		return "Infinity Train S0${getSeason()}E${getEp()} - ${getRaw("title")} (${tags}) [0x539]"
-	}
-
-	fun Task.formatSeason(tags: String): String {
-		return "Infinity Train Book ${getRaw("numeral")} - ${getRaw("title")} (S0${getBatchSeason()}) ($tags) [0x539]"
+	fun Task.seasonTitle(tags: String): String {
+		return "Infinity Train Book ${getRaw("numeral")} - ${getRaw("title")} (S0${season()}) ($tags) [0x539]"
 	}
 
 	val mks by task<Mux> {
-		from("${getSeason()}/${getEp()}.ass")
+		from("${season()}/${ep()}.ass")
 
 		attach("fonts", "fonts/${episode}") {
 			includeExtensions("ttf", "otf")
@@ -44,13 +44,12 @@ subs {
 
 		onFaux(ErrorMode.FAIL)
 
-		val name = formatEpisode("SUBS")
-		out("${getSeason()}/mux/${name}.mks")
+		val name = episodeTitle("SUBS")
+		out("${season()}/mux/${name}.mks")
 	}
 
 	val mkv by task<Mux> {
-		val season = getSeason()
-		from("${getSeason()}/raw/${getEp()}.mkv") {
+		from("${season()}/raw/${ep()}.mkv") {
 			tracks {
 				include(track.type != TrackType.SUBTITLES)
 			}
@@ -58,21 +57,21 @@ subs {
 
 		from(mks.item())
 
-		val name = formatEpisode(getRaw("book${getSeason()}.src") + " 1080p")
-		out("${getSeason()}/mux/${name}.mkv")
+		val name = episodeTitle(getRaw("book${season()}.src") + " 1080p")
+		out("${season()}/mux/${name}.mkv")
 	}
 
 	batchtasks {
 		val mks_torrent by task<Torrent> {
 			from(mks.batchItems())
-			val name = formatSeason("SUBS")
+			val name = seasonTitle("SUBS")
 			into(name)
 			out(name + ".torrent")
 		}
 
 		val mkv_torrent by task<Torrent> {
 			from(mkv.batchItems())
-			val name = formatSeason(getRaw("src") + " 1080p")
+			val name = seasonTitle(getRaw("src") + " 1080p")
 			into(name)
 			out(name + ".torrent")
 		}
