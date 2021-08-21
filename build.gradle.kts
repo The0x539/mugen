@@ -1,4 +1,3 @@
-
 import myaa.subkt.ass.*
 import myaa.subkt.tasks.*
 import myaa.subkt.tasks.Mux.*
@@ -10,33 +9,61 @@ plugins {
 	id("myaa.subkt")
 }
 
+fun readLinesFromFile(path: String): List<String> = File(path).readLines()
+
 subs {
-	fun Task.season(): String {
-		if (propertyExists("season")) {
-			return get("season").get()
-		} else {
-			return batch.substringAfter("book")
-		}
+	fun SubTask.season(): String = if (isBatch) {
+		batch.substringAfter("book")
+	} else {
+		episode.substringBefore('x')
 	}
 
-	fun Task.ep(): String {
-		return get("ep").get()
-	}
+	val numerals = listOf("Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight")
+	fun SubTask.numeral(): String = numerals[season().toInt()]
+
+	fun Task.ep(): String = episode.substringAfter('x')
 
 	readProperties("sub.properties")
 	episodes(getList("episodes"))
 	batches(getMap("seasons", "episodes"))
 
-	fun Task.episodeTitle(tags: String): String {
-		return "Infinity Train S0${season()}E${ep()} - ${getRaw("title")} (${tags}) [0x539]"
+	fun SubTask.episodeTitle(tags: String? = null): String {
+		val tagBlock = tags?.let { "($it) " } ?: ""
+		return "Infinity Train S0${season()}E${ep()} - ${getRaw("title")} ${tagBlock}[0x539]"
 	}
 
-	fun Task.seasonTitle(tags: String): String {
-		return "Infinity Train Book ${getRaw("numeral")} - ${getRaw("title")} (S0${season()}) ($tags) [0x539]"
+	fun SubTask.seasonTitle(tags: String): String {
+		// For batch tasks, `entry` or `batch` would work.
+		// For episode tasks, this is necessary.
+		val book = "book${season()}"
+
+		val title = get("${book}.title").get()
+		val seasonNum = "S0" + season()
+
+		return "Infinity Train Book ${numeral()} - ${title} (${seasonNum}) ($tags) [0x539]"
+	}
+
+	merge {
+		from("${season()}/${ep()}.ass") {
+			scriptInfo {
+				title = episodeTitle()
+				timing = "The0x539"
+			}
+			includeExtraData(true)
+			includeProjectGarbage(false)
+			removeComments(false)
+		}
 	}
 
 	val mks by task<Mux> {
-		from("${season()}/${ep()}.ass")
+		from(merge.item()) {
+			tracks {
+				name(episodeTitle())
+				lang("eng")
+				default(true)
+				forced(false)
+			}
+		}
 
 		attach("fonts", "fonts/${episode}") {
 			includeExtensions("ttf", "otf")
@@ -44,8 +71,8 @@ subs {
 
 		onFaux(ErrorMode.FAIL)
 
-		val name = episodeTitle("SUBS")
-		out("${season()}/mux/${name}.mks")
+		title(episodeTitle())
+		out("${season()}/mux/${seasonTitle("SUBS")}/${episodeTitle("SUBS")}.mks")
 	}
 
 	val mkv by task<Mux> {
@@ -57,23 +84,29 @@ subs {
 
 		from(mks.item())
 
-		val name = episodeTitle(getRaw("book${season()}.src") + " 1080p")
-		out("${season()}/mux/${name}.mkv")
+		title(episodeTitle())
+		val tags = getRaw("book${season()}.src") + " 1080p"
+		out("${season()}/mux/${seasonTitle(tags)}/${episodeTitle(tags)}.mkv")
 	}
 
 	batchtasks {
-		val mks_torrent by task<Torrent> {
-			from(mks.batchItems())
-			val name = seasonTitle("SUBS")
+		fun Torrent.configure(group: TaskGroup<Mux>, tags: String) {
+			from(group.batchItems())
+			val name = seasonTitle(tags)
 			into(name)
+			createdBy("SubKt")
 			out(name + ".torrent")
+			trackers(readLinesFromFile("../trackers.txt"))
+		}
+
+		val mks_torrent by task<Torrent> {
+			configure(mks, "SUBS")
+			pieceLength(64 * 1024)
 		}
 
 		val mkv_torrent by task<Torrent> {
-			from(mkv.batchItems())
-			val name = seasonTitle(getRaw("src") + " 1080p")
-			into(name)
-			out(name + ".torrent")
+			configure(mkv, getRaw("src") + " 1080p")
+			pieceLength(4 * 1024 * 1024)
 		}
 	}
 }
