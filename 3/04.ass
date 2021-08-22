@@ -24,7 +24,8 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:20.63,0:00:21.88,Default,Tuba,0,0,0,,Mm.
 Dialogue: 0,0:00:25.55,0:00:27.59,Default,Simon,0,0,30,,Everyone, keep your bodies moving.
-Dialogue: 0,0:00:27.59,0:00:30.30,Default,Simon,0,0,30,,It may not be flashy, but frostbite is just as deadly
+Dialogue: 0,0:00:27.59,0:00:28.72,Default,Simon,0,0,30,,It may not be flashy,
+Dialogue: 0,0:00:28.72,0:00:30.30,Default,Simon,0,0,30,,but frostbite is just as deadly
 Dialogue: 0,0:00:30.30,0:00:32.39,Default,Simon,0,0,30,,as lava moles or bottomless pits.
 Dialogue: 0,0:00:32.39,0:00:37.02,Default,Simon,0,0,30,,And the best way to keep the circulation going is...
 Comment: 0,0:00:40.52,0:00:41.19,Default,Grace,0,0,0,,Oh!
@@ -43,7 +44,7 @@ Dialogue: 0,0:01:11.84,0:01:12.93,Default,Grace,0,0,0,,What would I do\Nwithout 
 Dialogue: 0,0:01:12.93,0:01:15.97,Default,Hazel,0,0,0,,You would die,\Nuntil you're dead.
 Dialogue: 0,0:01:22.52,0:01:23.56,Default,Grace,0,0,0,,Watch this!
 Dialogue: 0,0:01:28.61,0:01:29.69,Default,Grace,0,0,0,,Huh?
-Dialogue: 0,0:01:33.78,0:01:34.62,Default,Grace,0,0,0,,Ah!
+Dialogue: 0,0:01:33.78,0:01:34.62,Default,Grace,0,0,0,,Ahh!
 Comment: 0,0:01:35.70,0:01:36.37,Default,Hazel,0,0,0,,Uh...
 Dialogue: 0,0:01:42.67,0:01:43.67,Default,Hazel,0,0,0,,Tuba!
 Dialogue: 0,0:01:44.75,0:01:46.63,Default,Hazel,0,0,0,,We need the big one!
@@ -84,7 +85,7 @@ Dialogue: 0,0:03:29.90,0:03:30.48,Default,Simon,0,0,0,,Figure what—
 Dialogue: 0,0:03:30.48,0:03:32.61,Default,Grace,0,0,0,,I'm gonna go look for supplies.
 Dialogue: 0,0:03:36.78,0:03:37.74,Default,Frank,0,0,0,,Hm?
 Dialogue: 0,0:03:37.74,0:03:38.49,Default,Grace,0,0,0,,Huh?
-Dialogue: 0,0:03:51.92,0:03:53.09,Default,Hazel,0,0,0,,Whoo!
+Comment: 0,0:03:51.92,0:03:53.09,Default,Hazel,0,0,0,,Whoo!
 Dialogue: 0,0:03:55.55,0:03:56.84,Default,Hazel,0,0,0,,It's laughing water!
 Dialogue: 0,0:03:56.84,0:03:58.55,Default,Randall,0,0,0,,It's a laughing girl!
 Dialogue: 0,0:03:58.55,0:03:59.47,Default,Hazel,0,0,0,,I am!
@@ -92,11 +93,12 @@ Dialogue: 0,0:03:59.47,0:04:00.60,Default,The Cat,0,0,0,,Randall.
 Dialogue: 0,0:04:00.60,0:04:04.22,Default,The Cat,0,0,0,,You were brought here\Nfor ambiance, not conversation.
 Dialogue: 0,0:04:04.22,0:04:06.10,Default,Randall,0,0,0,,Oh, right.\NNot a peep.
 Dialogue: 0,0:04:07.19,0:04:10.44,Default,The Cat,0,0,0,,You don't look like\Nthe normal Apex riff-raff.
-Dialogue: 0,0:04:10.44,0:04:12.69,Default,Hazel,0,0,0,,I'm Hazel.\NThis is Tuba.
+Dialogue: 0,0:04:10.44,0:04:11.69,Default,Hazel,0,0,0,,I'm Hazel.
+Dialogue: 0,0:04:11.69,0:04:12.69,Default,Hazel,0,0,0,,This is Tuba.
 Dialogue: 0,0:04:12.69,0:04:13.61,Default,Tuba,0,0,0,,Mm.
 Dialogue: 0,0:04:15.99,0:04:17.53,Default,Hazel,0,0,0,,She's a tough customer.
 Dialogue: 0,0:04:17.53,0:04:18.70,Default,The Cat,0,0,0,,Clearly.
-Dialogue: 0,0:04:19.61,0:04:20.87,Default,The Cat,0,0,0,,Oh, my.
+Dialogue: 0,0:04:19.61,0:04:20.87,Default,The Cat,0,0,0,,Oh my!
 Dialogue: 0,0:04:20.87,0:04:22.45,Default,The Cat,0,0,0,,What happened\Nto your number?
 Dialogue: 0,0:04:22.45,0:04:25.50,Default,Hazel,0,0,0,,Grace and Simon said\NOne-One turned it off.
 Dialogue: 0,0:04:25.50,0:04:26.95,Default,Hazel,0,0,0,,We hate him!
@@ -129,7 +131,8 @@ Dialogue: 0,0:05:30.60,0:05:32.44,Default,Grace,0,0,0,,It's a {\i1}blizzard{\i0}
 Dialogue: 0,0:05:32.44,0:05:33.48,Default,Simon,0,0,0,,So what am I supposed to—
 Dialogue: 0,0:05:33.48,0:05:34.86,Default,Grace,0,0,0,,I don't know, Simon!
 Dialogue: 0,0:05:34.86,0:05:38.11,Default,Grace,0,0,0,,Do I need to make\Nevery decision for you?
-Dialogue: 0,0:05:38.11,0:05:41.11,Default,Grace,0,0,0,,Go... look for something.
+Dialogue: 0,0:05:38.11,0:05:39.78,Default,Grace,0,0,0,,Go...
+Dialogue: 0,0:05:39.78,0:05:41.11,Default,Grace,0,0,0,,look for something.
 Dialogue: 0,0:05:41.11,0:05:41.90,Default,Simon,0,0,0,,Uh...
 Dialogue: 0,0:06:01.34,0:06:02.01,Default,Simon,0,0,0,,Huh?
 Dialogue: 0,0:06:30.37,0:06:32.46,Default,The Cat,0,0,0,,Flavor is all about timing.
@@ -147,7 +150,7 @@ Dialogue: 0,0:06:59.11,0:07:01.03,Default,Simon,0,0,0,,She was there\Nin my firs
 Dialogue: 0,0:07:01.03,0:07:04.45,Default,Simon,0,0,0,,before I even knew\Nthere {\i1}were{\i0} train cars.
 Dialogue: 0,0:07:05.86,0:07:07.57,Default,Simon,0,0,0,,She was my Tuba.
 Dialogue: 0,0:07:09.37,0:07:12.12,Default,Simon,0,0,0,,And after a few months\Nof "helping" me,
-Dialogue: 0,0:07:12.12,0:07:14.12,Default,Simon,0,0,0,,she left me\Nleft me alone to die.
+Dialogue: 0,0:07:12.12,0:07:14.12,Default,Simon,0,0,0,,she left me alone to die.
 Dialogue: 0,0:07:14.12,0:07:15.12,Default,The Cat,0,0,0,,Simon...
 Dialogue: 0,0:07:15.12,0:07:16.29,Default,Simon,0,0,0,,Am I wrong?
 Dialogue: 0,0:07:16.29,0:07:17.88,Default,Simon,0,0,0,,Did you leave me or not?
@@ -183,7 +186,7 @@ Dialogue: 0,0:08:54.89,0:08:56.56,Default,Grace,0,0,0,,Is all the water here Ran
 Dialogue: 0,0:08:56.97,0:08:59.06,Default,The Cat,0,0,0,,While the view here {\i1}is{\i0} magnificent,
 Dialogue: 0,0:08:59.06,0:09:01.65,Default,The Cat,0,0,0,,it's been bone dry\Nfor centuries.
 Dialogue: 0,0:09:03.81,0:09:05.02,Default,Simon,0,0,0,,The snow.
-Dialogue: 0,0:09:05.02,0:09:05.94,Default,Hazel,0,0,0,,Hmm.
+Dialogue: 0,0:09:05.02,0:09:05.94,Default,Grace,0,0,0,,Hm.
 Dialogue: 0,0:09:23.42,0:09:24.92,Default,Randall,0,0,0,,D'aw, you got me.
 Dialogue: 0,0:09:24.92,0:09:28.42,Default,The Cat,0,0,0,,It took a lot of effort\Nto import that much Randall.
 Dialogue: 0,0:09:28.42,0:09:31.55,Default,The Cat,0,0,0,,You don't find paradise: you make it.
