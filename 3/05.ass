@@ -141,8 +141,9 @@ Dialogue: 0,0:07:15.02,0:07:17.01,Default,,0,0,0,,Red and green\Nlook the same t
 Dialogue: 0,0:07:17.01,0:07:19.00,Default,,0,0,0,,Hm?
 Dialogue: 0,0:07:22.00,0:07:25.00,Default,,0,0,0,,Tuba, get that key.\NI can help with the maze.
 Dialogue: 0,0:07:30.01,0:07:32.00,Default,,0,0,0,,Got it.
-Dialogue: 0,0:08:04.01,0:08:06.01,Default,,0,0,0,split?,-Yeah! All right!\N-Whoo-hoo!
-Dialogue: 0,0:08:06.01,0:08:07.02,Default,,0,0,0,,Hip-hip.
+Comment: 0,0:08:05.01,0:08:06.01,Default,Grace,0,0,0,,Yeah! All right!
+Comment: 0,0:08:05.01,0:08:06.01,Default,Hazel,0,0,0,,Whoo-hoo!
+Comment: 0,0:08:06.01,0:08:07.02,Default,Tuba,0,0,0,,Hip-hip-hip.
 Dialogue: 0,0:08:07.02,0:08:09.02,Default,,0,0,0,,You did it.
 Dialogue: 0,0:08:09.02,0:08:11.01,Default,,0,0,0,,Hooray for teamwork.
 Dialogue: 0,0:08:11.01,0:08:15.00,Default,,0,0,0,,Also, hi, I'm Roy, I'm your boy,\Nand I don't believe we've met.
@@ -169,7 +170,8 @@ Dialogue: 0,0:10:12.00,0:10:14.01,Default,,0,0,0,,You never have to worry about\
 Dialogue: 0,0:10:14.02,0:10:17.00,Default,,0,0,0,,I-I-Is she...?
 Dialogue: 0,0:10:17.00,0:10:19.01,Default,,0,0,0,,Yeah, I wheeled her.
 Dialogue: 0,0:10:19.01,0:10:23.00,Default,,0,0,0,,I know you might not\Nunderstand now, but trust me—
-Dialogue: 0,0:10:28.02,0:10:32.01,Default,,0,0,0,split,Hazel—\NAh, told ya\NI could take her solo.
+Dialogue: 0,0:10:28.02,0:10:30.11,Default,,0,0,0,,Hazel—
+Dialogue: 0,0:10:30.11,0:10:32.01,Default,,0,0,0,,Ah, told ya\NI could take her solo.
 Dialogue: 0,0:10:32.01,0:10:34.02,Default,,0,0,0,,Let's see how high\Nour numbers got.
 Dialogue: 0,0:10:37.01,0:10:40.00,Default,,0,0,0,,Ugh!
 Dialogue: 0,0:10:42.02,0:10:45.01,Default,,0,0,0,,I thought\Nyou'd be happy!
