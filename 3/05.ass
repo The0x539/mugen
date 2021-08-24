@@ -71,7 +71,7 @@ Dialogue: 0,0:02:48.65,0:02:50.23,Default,Roy,0,0,0,,Wowie wow wow!
 Dialogue: 0,0:02:50.23,0:02:51.73,Default,Roy,0,0,0,,A team of four?!
 Dialogue: 0,0:02:51.73,0:02:54.24,Default,Both,0,0,0,,We're {\i1}not{\i0} a team.
 Dialogue: 0,0:02:54.24,0:02:55.45,Default,Roy,0,0,0,,Word to the wise:
-Dialogue: 0,0:02:55.45,0:02:58.99,Default,Roy,0,0,0,,Teamwork begins with two \Npeople trusting each other.
+Dialogue: 0,0:02:55.45,0:02:58.99,Default,Roy,0,0,0,,Teamwork begins with \Ntwo people trusting each other.
 Dialogue: 0,0:02:58.99,0:03:01.08,Default,Roy,0,0,0,,Ope! Spoiler!\NAh! I've said too much!
 Dialogue: 0,0:03:01.08,0:03:03.20,Default,Roy,0,0,0,,Hee-hee-hee-hee-hee-hee!
 Dialogue: 0,0:03:07.83,0:03:08.46,Default,Grace,0,0,0,,All right.
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:40.70,0:05:42.53,Default,Roy,0,0,0,,It's blurple o'clock!
 Dialogue: 0,0:05:45.62,0:05:47.29,Default,Tuba,0,0,0,,Step aside.
 Dialogue: 0,0:05:47.29,0:05:49.95,Default,Tuba,0,0,0,,And please, cover your ears.
 Dialogue: 0,0:06:04.09,0:06:05.01,Default,Roy,0,0,0,,See?
-Dialogue: 0,0:06:05.01,0:06:08.76,Default,Roy,0,0,0,,Teamwork begins with two \Npeople trusting each other.
+Dialogue: 0,0:06:05.01,0:06:08.76,Default,Roy,0,0,0,,Teamwork begins with \Ntwo people trusting each other.
 Dialogue: 0,0:06:10.35,0:06:12.85,Default,Tuba,0,0,0,,Roy is at a 10,
 Dialogue: 0,0:06:12.85,0:06:15.90,Default,Tuba,0,0,0,,and I need him\Nto be at about a 6.
 Dialogue: 0,0:06:21.49,0:06:23.15,Default,Simon,0,0,0,,Uh, so, uh...
@@ -159,10 +159,11 @@ Dialogue: 0,0:08:42.75,0:08:45.21,Default,Grace,0,0,0,,We've got you, Hazel, I p
 Dialogue: 0,0:08:46.96,0:08:48.59,Default,Tuba,0,0,0,,Shh.
 Dialogue: 0,0:08:53.43,0:08:56.93,Default,Tuba,0,0,0,,Just take it easy-peasy...
 Dialogue: 0,0:08:56.93,0:08:59.77,Default,Hazel,0,0,0,,M-My little lemon...
-Dialogue: 0,0:09:00.81,0:09:02.44,Default,Hazel,0,0,0,,...squeezy!
+Dialogue: 0,0:09:00.81,0:09:02.44,Default,Hazel,0,0,0,,squeezy!
 Dialogue: 0,0:09:11.70,0:09:12.87,Default,Hazel,0,0,0,,Tuba!
-Dialogue: 0,0:09:12.87,0:09:15.66,Default,Simon,0,0,0,,Get to the next car.\NI'll go back for Tuba.
-Dialogue: 0,0:09:25.17,0:09:28.51,Default,Simon,0,0,0,,Teamwork begins with two \Npeople trusting each other.
+Dialogue: 0,0:09:12.87,0:09:14.03,Default,Simon,0,0,0,,Get to the next car.
+Dialogue: 0,0:09:14.03,0:09:15.66,Default,Simon,0,0,0,,I'll go back for Tuba.
+Dialogue: 0,0:09:25.17,0:09:28.51,Default,Simon,0,0,0,,Teamwork begins with \Ntwo people trusting each other.
 Comment: 0,0:09:32.59,0:09:35.85,Default,Tuba,0,0,0,,Ahhhhhhhhhhhh!
 Dialogue: 0,0:09:36.18,0:09:37.18,Default,Simon,0,0,0,,But you?
 Dialogue: 0,0:09:38.68,0:09:40.48,Default,Simon,0,0,0,,You're no person.
