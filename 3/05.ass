@@ -22,158 +22,157 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:14.00,0:00:17.00,Default,,0,0,0,,My legs are tired!
-Dialogue: 0,0:00:17.00,0:00:18.01,Default,,0,0,0,,Yeah,\Nlet's all take a nap
-Dialogue: 0,0:00:18.02,0:00:21.01,Default,,0,0,0,,on a rusty outdoor bridge\Nwhen we're almost home.
-Dialogue: 0,0:00:21.01,0:00:24.01,Default,,0,0,0,,Okay.
-Dialogue: 0,0:00:24.01,0:00:26.01,Default,,0,0,0,,No, Hazel, get up.
-Dialogue: 0,0:00:26.01,0:00:29.00,Default,,0,0,0,,Hazel is tired.
-Dialogue: 0,0:00:29.00,0:00:31.01,Default,,0,0,0,,It is nap time.
-Dialogue: 0,0:00:35.00,0:00:35.02,Default,,0,0,0,,Move...
-Dialogue: 0,0:00:36.00,0:00:38.00,Default,,0,0,0,,before\NI make you move.
-Dialogue: 0,0:00:41.01,0:00:43.00,Default,,0,0,0,,Okay!\NHey, hey, hey!
-Dialogue: 0,0:00:43.00,0:00:44.01,Default,,0,0,0,,Simon is right.
-Dialogue: 0,0:00:44.01,0:00:47.01,Default,,0,0,0,,We are too close to The Apex\Nto slow down now.
-Dialogue: 0,0:00:47.01,0:00:49.00,Default,,0,0,0,,But Tuba's got a point.
-Dialogue: 0,0:00:49.00,0:00:53.00,Default,,0,0,0,,We've been going hard for days,\Nand Hazel's just a little girl.
-Dialogue: 0,0:00:54.01,0:00:56.01,Default,,0,0,0,,So we'll do both.
-Dialogue: 0,0:00:56.02,0:00:59.00,Default,,0,0,0,,Tuba, you carry Hazel\Nwhile she naps.
-Dialogue: 0,0:00:59.01,0:01:00.01,Default,,0,0,0,,But we press on.
-Dialogue: 0,0:01:00.01,0:01:02.01,Default,,0,0,0,,No stopping.\NAll right?
-Dialogue: 0,0:01:22.01,0:01:24.01,Default,,0,0,0,,The null's more hindrance\Nthan help.
-Dialogue: 0,0:01:24.01,0:01:25.02,Default,,0,0,0,,Let's get\Nrid of her now.
-Dialogue: 0,0:01:26.00,0:01:28.00,Default,,0,0,0,,No.\NShe's too strong.
-Dialogue: 0,0:01:30.01,0:01:34.01,Default,,0,0,0,,We'll have the rest of The Apex\Nto help soon enough.
-Dialogue: 0,0:01:36.01,0:01:39.01,Default,,0,0,0,,Bet ya I can take her solo.
-Dialogue: 0,0:01:39.01,0:01:41.01,Default,,0,0,0,,No, Simon.
-Dialogue: 0,0:01:41.01,0:01:44.00,Default,,0,0,0,,Is that a dare?
-Dialogue: 0,0:01:44.00,0:01:46.00,Default,,0,0,0,,No.
-Dialogue: 0,0:01:56.00,0:01:58.01,Default,,0,0,0,,It's Red O'Clock!
-Dialogue: 0,0:01:58.01,0:01:59.02,Default,,0,0,0,,[ Ticking ]
-Dialogue: 0,0:01:59.02,0:02:02.00,Default,,0,0,0,,Welcome,\Nfriends and future friends,
-Dialogue: 0,0:02:02.00,0:02:03.00,Default,,0,0,0,,to the Color Clock!
-Dialogue: 0,0:02:03.01,0:02:04.02,Default,,0,0,0,,You can call me Roy,\N'cause I'm your boy!
-Dialogue: 0,0:02:07.01,0:02:09.00,Default,,0,0,0,,I've got this.
-Dialogue: 0,0:02:10.01,0:02:12.00,Default,,0,0,0,,That sounds fun, Roy.
-Dialogue: 0,0:02:12.00,0:02:13.02,Default,,0,0,0,,What's the deal\Nwith the exit?
-Dialogue: 0,0:02:13.02,0:02:15.01,Default,,0,0,0,,Oh, I can't\Ntell you.
-Dialogue: 0,0:02:15.01,0:02:18.02,Default,,0,0,0,,See, it's my job to\Nkeep the way out a secret.
-Dialogue: 0,0:02:21.00,0:02:23.00,Default,,0,0,0,,You'll have to use teamwork\Nif you want to solve the puzzle!
-Dialogue: 0,0:02:23.01,0:02:25.01,Default,,0,0,0,,Ah!\NOops, I've said too much!
-Dialogue: 0,0:02:27.00,0:02:29.02,Default,,0,0,0,,Ugh, we got\Nanother key car.
-Dialogue: 0,0:02:36.01,0:02:38.01,Default,,0,0,0,,It's Orange O'Clock!
-Dialogue: 0,0:02:38.01,0:02:40.01,Default,,0,0,0,,Hello, and welcome to\Nthe Color Clock!
-Dialogue: 0,0:02:40.01,0:02:41.02,Default,,0,0,0,,You can call me Roy,\N'cause—
-Dialogue: 0,0:02:41.02,0:02:44.01,Default,,0,0,0,,You are our boy.
-Dialogue: 0,0:02:44.01,0:02:46.01,Default,,0,0,0,,Huh. Guess word\Ngets around fast.
-Dialogue: 0,0:02:48.00,0:02:51.01,Default,,0,0,0,,Wowee! Wow! Wow!\NA team of four?!
-Dialogue: 0,0:02:51.01,0:02:53.02,Default,,0,0,0,,We're not a team.
-Dialogue: 0,0:02:53.02,0:02:55.00,Default,,0,0,0,,Word to the wise?
-Dialogue: 0,0:02:55.01,0:02:58.01,Default,,0,0,0,,Teamwork begins with\Ntwo people trusting each other.
-Dialogue: 0,0:02:58.01,0:03:00.01,Default,,0,0,0,,Oh! Spoiler!\NAh! I've said too much!
-Dialogue: 0,0:03:00.02,0:03:02.01,Default,,0,0,0,,Hee-hee-hee-hee-hee!
-Dialogue: 0,0:03:06.01,0:03:08.00,Default,,0,0,0,,All right.
-Dialogue: 0,0:03:08.00,0:03:09.01,Default,,0,0,0,,Looks like we're\Ngonna have to deal with
-Dialogue: 0,0:03:09.01,0:03:12.01,Default,,0,0,0,,some grade-A denizen garbage\Nto get out of here,
-Dialogue: 0,0:03:12.01,0:03:14.01,Default,,0,0,0,,so let's split up\Nand make it quick.
-Dialogue: 0,0:03:14.01,0:03:16.01,Default,,0,0,0,,Simon,\Nyou're with me.
-Dialogue: 0,0:03:16.01,0:03:18.01,Default,,0,0,0,,But I wanna be\Nwith you.
-Dialogue: 0,0:03:18.01,0:03:21.01,Default,,0,0,0,,So Simon and Tuba\Ncan be...
-Dialogue: 0,0:03:22.01,0:03:25.01,Default,,0,0,0,,So Simon\Nand Tuba can be friends.
-Dialogue: 0,0:03:26.01,0:03:29.02,Default,,0,0,0,,Uh, all right.\NHazel's with me.
-Dialogue: 0,0:03:30.00,0:03:32.02,Default,,0,0,0,,Ughhhh!\NSo I'm stuck with Tuba?
-Dialogue: 0,0:03:32.02,0:03:36.00,Default,,0,0,0,,No, I'm stuck with {\i1}you{\i}.
-Dialogue: 0,0:03:36.00,0:03:38.01,Default,,0,0,0,,It's a good kind\Nof stuck.
-Dialogue: 0,0:03:47.00,0:03:48.00,Default,,0,0,0,,Huh.
-Dialogue: 0,0:03:48.00,0:03:49.02,Default,,0,0,0,,Why don't\Nyou like Roy?
-Dialogue: 0,0:03:51.01,0:03:53.01,Default,,0,0,0,,Well,\Nbecause Roy's a null.
-Dialogue: 0,0:03:53.01,0:03:54.02,Default,,0,0,0,,What does that mean?
-Dialogue: 0,0:03:55.00,0:03:56.02,Default,,0,0,0,,Null.\NIt means nothing.
-Dialogue: 0,0:03:57.00,0:03:58.00,Default,,0,0,0,,Not even a zero.
-Dialogue: 0,0:04:05.00,0:04:06.01,Default,,0,0,0,,Is it different\Nthan a denizen?
-Dialogue: 0,0:04:06.02,0:04:10.00,Default,,0,0,0,,Eh, null, denizen—\Nsame thing.
-Dialogue: 0,0:04:10.00,0:04:12.01,Default,,0,0,0,,Whoop-a-doop-a-doo!
-Dialogue: 0,0:04:12.01,0:04:14.01,Default,,0,0,0,,What's wrong with nulls?
-Dialogue: 0,0:04:14.01,0:04:16.01,Default,,0,0,0,,You can't trust them.
-Dialogue: 0,0:04:16.01,0:04:18.00,Default,,0,0,0,,You never know\Nwhat they'll do.
-Dialogue: 0,0:04:18.00,0:04:22.00,Default,,0,0,0,,But... have you ever\Ngotten to know one?
-Dialogue: 0,0:04:22.00,0:04:25.01,Default,,0,0,0,,I don't need to, Hazel.\NI can just tell, okay?
-Dialogue: 0,0:04:25.01,0:04:30.00,Default,,0,0,0,,But Tuba is good.
-Dialogue: 0,0:04:30.02,0:04:33.01,Default,,0,0,0,,Oh, well, Tuba is\None of the good ones.
-Dialogue: 0,0:04:36.01,0:04:38.00,Default,,0,0,0,,Now,\Nhow about some fun?
-Dialogue: 0,0:04:53.00,0:04:54.01,Default,,0,0,0,,It's Green O'Clock!
-Dialogue: 0,0:04:54.01,0:04:57.01,Default,,0,0,0,,Excited to meet you all\Nfor the first time!
-Dialogue: 0,0:04:57.01,0:04:59.02,Default,,0,0,0,,Will you move?
-Dialogue: 0,0:05:06.02,0:05:07.01,Default,,0,0,0,,Hm?
-Dialogue: 0,0:05:12.00,0:05:14.01,Default,,0,0,0,,Why not\Ntake the ramp?
-Dialogue: 0,0:05:14.01,0:05:16.00,Default,,0,0,0,,What are you\Neven talking about?
-Dialogue: 0,0:05:16.00,0:05:17.00,Default,,0,0,0,,There's no ramp.
-Dialogue: 0,0:05:17.00,0:05:18.00,Default,,0,0,0,,Ugh, just let me lead.
-Dialogue: 0,0:05:18.00,0:05:20.02,Default,,0,0,0,,You are a child.
-Dialogue: 0,0:05:21.00,0:05:24.01,Default,,0,0,0,,Even Bugle was more mature\Nthan you.
-Dialogue: 0,0:05:26.02,0:05:28.01,Default,,0,0,0,,Yes!
-Dialogue: 0,0:05:28.01,0:05:30.00,Default,,0,0,0,,Got it!
-Dialogue: 0,0:05:30.00,0:05:31.00,Default,,0,0,0,,Ugh!
-Dialogue: 0,0:05:31.00,0:05:33.00,Default,,0,0,0,,The key is green.
-Dialogue: 0,0:05:33.00,0:05:36.00,Default,,0,0,0,,How are we supposed to\Nget this to the red door?
-Dialogue: 0,0:05:40.01,0:05:42.00,Default,,0,0,0,,It's Blurple O'Clock!
-Dialogue: 0,0:05:45.00,0:05:46.02,Default,,0,0,0,,Step aside.
-Dialogue: 0,0:05:46.02,0:05:49.01,Default,,0,0,0,,And, please,\Ncover your ears.
-Dialogue: 0,0:06:03.00,0:06:04.01,Default,,0,0,0,,See?
-Dialogue: 0,0:06:04.01,0:06:08.00,Default,,0,0,0,,Teamwork begins with\Ntwo people trusting each other.
-Dialogue: 0,0:06:09.00,0:06:12.01,Default,,0,0,0,,Roy is at a 10,
-Dialogue: 0,0:06:12.01,0:06:16.00,Default,,0,0,0,,and I need him\Nto be at about a 6.
-Dialogue: 0,0:06:21.00,0:06:23.02,Default,,0,0,0,,Uh, so,\Nuh... who's Bugle?
-Dialogue: 0,0:06:24.00,0:06:27.01,Default,,0,0,0,,Bugle is— w-was...
-Dialogue: 0,0:06:27.02,0:06:30.01,Default,,0,0,0,,my daughter.
-Dialogue: 0,0:06:30.01,0:06:36.02,Default,,0,0,0,,I'm, uh, lucky\NHazel came into my life.
-Dialogue: 0,0:06:41.01,0:06:43.02,Default,,0,0,0,,It's Red O'Clock!
-Dialogue: 0,0:06:43.02,0:06:45.02,Default,,0,0,0,,Door's back!\NAny luck with a key?
-Dialogue: 0,0:06:46.00,0:06:47.00,Default,,0,0,0,,Yes and no.
-Dialogue: 0,0:06:47.00,0:06:49.00,Default,,0,0,0,,We need the clock\Nto be green.
-Dialogue: 0,0:06:49.00,0:06:51.01,Default,,0,0,0,,Hazel: I went down a slide,\Nand it was fun!
-Dialogue: 0,0:06:51.01,0:06:54.00,Default,,0,0,0,,Come on, Tuba.\NUh...
-Dialogue: 0,0:06:56.02,0:07:01.01,Default,,0,0,0,,Let it be known,\NI do not enjoy mazes.
-Dialogue: 0,0:07:01.01,0:07:02.02,Default,,0,0,0,,Maze?
-Dialogue: 0,0:07:02.02,0:07:05.00,Default,,0,0,0,,But the only maze\Nwas green.
-Dialogue: 0,0:07:13.02,0:07:15.01,Default,,0,0,0,,You're color blind.
-Dialogue: 0,0:07:15.02,0:07:17.01,Default,,0,0,0,,Red and green\Nlook the same to you.
-Dialogue: 0,0:07:17.01,0:07:19.00,Default,,0,0,0,,Hm?
-Dialogue: 0,0:07:22.00,0:07:25.00,Default,,0,0,0,,Tuba, get that key.\NI can help with the maze.
-Dialogue: 0,0:07:30.01,0:07:32.00,Default,,0,0,0,,Got it.
+Dialogue: 0,0:00:14.00,0:00:17.00,Default,Hazel,0,0,0,,My legs are tired!
+Dialogue: 0,0:00:17.00,0:00:18.01,Default,Simon,0,0,0,,Yeah,\Nlet's all take a nap
+Dialogue: 0,0:00:18.02,0:00:21.01,Default,Simon,0,0,0,,on a rusty outdoor bridge\Nwhen we're almost home.
+Dialogue: 0,0:00:21.01,0:00:24.01,Default,Hazel,0,0,0,,Okay.
+Dialogue: 0,0:00:24.01,0:00:26.01,Default,Simon,0,0,0,,No, Hazel, get up.
+Dialogue: 0,0:00:26.01,0:00:29.00,Default,Tuba,0,0,0,,Hazel is tired.
+Dialogue: 0,0:00:29.00,0:00:31.01,Default,Tuba,0,0,0,,It is nap time.
+Dialogue: 0,0:00:35.00,0:00:35.02,Default,Simon,0,0,0,,Move...
+Dialogue: 0,0:00:36.00,0:00:38.00,Default,Simon,0,0,0,,before\NI make you move.
+Dialogue: 0,0:00:41.01,0:00:43.00,Default,Grace,0,0,0,,Okay!\NHey, hey, hey!
+Dialogue: 0,0:00:43.00,0:00:44.01,Default,Grace,0,0,0,,Simon is right.
+Dialogue: 0,0:00:44.01,0:00:47.01,Default,Grace,0,0,0,,We are too close to The Apex\Nto slow down now.
+Dialogue: 0,0:00:47.01,0:00:49.00,Default,Grace,0,0,0,,But Tuba's got a point.
+Dialogue: 0,0:00:49.00,0:00:53.00,Default,Grace,0,0,0,,We've been going hard for days,\Nand Hazel's just a little girl.
+Dialogue: 0,0:00:54.01,0:00:56.01,Default,Grace,0,0,0,,So we'll do both.
+Dialogue: 0,0:00:56.02,0:00:59.00,Default,Grace,0,0,0,,Tuba, you carry Hazel\Nwhile she naps.
+Dialogue: 0,0:00:59.01,0:01:00.01,Default,Grace,0,0,0,,But we press on.
+Dialogue: 0,0:01:00.01,0:01:02.01,Default,Grace,0,0,0,,No stopping.\NAll right?
+Dialogue: 0,0:01:22.01,0:01:24.01,Default,Simon,0,0,0,,The null's more hindrance\Nthan help.
+Dialogue: 0,0:01:24.01,0:01:25.02,Default,Simon,0,0,0,,Let's get\Nrid of her now.
+Dialogue: 0,0:01:26.00,0:01:28.00,Default,Grace,0,0,0,,No.\NShe's too strong.
+Dialogue: 0,0:01:30.01,0:01:34.01,Default,Grace,0,0,0,,We'll have the rest of The Apex\Nto help soon enough.
+Dialogue: 0,0:01:36.01,0:01:39.01,Default,Simon,0,0,0,,Bet ya I can take her solo.
+Dialogue: 0,0:01:39.01,0:01:41.01,Default,Grace,0,0,0,,No, Simon.
+Dialogue: 0,0:01:41.01,0:01:44.00,Default,Simon,0,0,0,,Is that a dare?
+Dialogue: 0,0:01:44.00,0:01:46.00,Default,Grace,0,0,0,,No.
+Dialogue: 0,0:01:56.00,0:01:58.01,Default,Roy,0,0,0,,It's Red O'Clock!
+Dialogue: 0,0:01:59.02,0:02:02.00,Default,Roy,0,0,0,,Welcome,\Nfriends and future friends,
+Dialogue: 0,0:02:02.00,0:02:03.00,Default,Roy,0,0,0,,to the Color Clock!
+Dialogue: 0,0:02:03.01,0:02:04.02,Default,Roy,0,0,0,,You can call me Roy,\N'cause I'm your boy!
+Dialogue: 0,0:02:07.01,0:02:09.00,Default,Grace,0,0,0,,I've got this.
+Dialogue: 0,0:02:10.01,0:02:12.00,Default,Grace,0,0,0,,That sounds fun, Roy.
+Dialogue: 0,0:02:12.00,0:02:13.02,Default,Grace,0,0,0,,What's the deal\Nwith the exit?
+Dialogue: 0,0:02:13.02,0:02:15.01,Default,Roy,0,0,0,,Oh, I can't\Ntell you.
+Dialogue: 0,0:02:15.01,0:02:18.02,Default,Roy,0,0,0,,See, it's my job to\Nkeep the way out a secret.
+Dialogue: 0,0:02:21.00,0:02:23.00,Default,Roy,0,0,0,,You'll have to use teamwork\Nif you want to solve the puzzle!
+Dialogue: 0,0:02:23.01,0:02:25.01,Default,Roy,0,0,0,,Ah!\NOops, I've said too much!
+Dialogue: 0,0:02:27.00,0:02:29.02,Default,Grace,0,0,0,,Ugh, we got\Nanother key car.
+Dialogue: 0,0:02:36.01,0:02:38.01,Default,Roy,0,0,0,,It's Orange O'Clock!
+Dialogue: 0,0:02:38.01,0:02:40.01,Default,Roy,0,0,0,,Hello, and welcome to\Nthe Color Clock!
+Dialogue: 0,0:02:40.01,0:02:41.02,Default,Roy,0,0,0,,You can call me Roy,\N'cause—
+Dialogue: 0,0:02:41.02,0:02:44.01,Default,Tuba,0,0,0,,You are our boy.
+Dialogue: 0,0:02:44.01,0:02:46.01,Default,Roy,0,0,0,,Huh. Guess word\Ngets around fast.
+Dialogue: 0,0:02:48.00,0:02:51.01,Default,Roy,0,0,0,,Wowee! Wow! Wow!\NA team of four?!
+Dialogue: 0,0:02:51.01,0:02:53.02,Default,All,0,0,0,,We're not a team.
+Dialogue: 0,0:02:53.02,0:02:55.00,Default,Roy,0,0,0,,Word to the wise?
+Dialogue: 0,0:02:55.01,0:02:58.01,Default,Roy,0,0,0,,Teamwork begins with\Ntwo people trusting each other.
+Dialogue: 0,0:02:58.01,0:03:00.01,Default,Roy,0,0,0,,Oh! Spoiler!\NAh! I've said too much!
+Dialogue: 0,0:03:00.02,0:03:02.01,Default,Roy,0,0,0,,Hee-hee-hee-hee-hee!
+Dialogue: 0,0:03:06.01,0:03:08.00,Default,Grace,0,0,0,,All right.
+Dialogue: 0,0:03:08.00,0:03:09.01,Default,Grace,0,0,0,,Looks like we're\Ngonna have to deal with
+Dialogue: 0,0:03:09.01,0:03:12.01,Default,Grace,0,0,0,,some grade-A denizen garbage\Nto get out of here,
+Dialogue: 0,0:03:12.01,0:03:14.01,Default,Grace,0,0,0,,so let's split up\Nand make it quick.
+Dialogue: 0,0:03:14.01,0:03:16.01,Default,Grace,0,0,0,,Simon,\Nyou're with me.
+Dialogue: 0,0:03:16.01,0:03:18.01,Default,Hazel,0,0,0,,But I wanna be\Nwith you.
+Dialogue: 0,0:03:18.01,0:03:21.01,Default,Hazel,0,0,0,,So Simon and Tuba\Ncan be...
+Dialogue: 0,0:03:22.01,0:03:25.01,Default,Hazel,0,0,0,,So Simon\Nand Tuba can be friends.
+Dialogue: 0,0:03:26.01,0:03:29.02,Default,Grace,0,0,0,,Uh, all right.\NHazel's with me.
+Dialogue: 0,0:03:30.00,0:03:32.02,Default,Simon,0,0,0,,Ughhhh!\NSo I'm stuck with Tuba?
+Dialogue: 0,0:03:32.02,0:03:36.00,Default,Tuba,0,0,0,,No, I'm stuck with {\i1}you{\i}.
+Dialogue: 0,0:03:36.00,0:03:38.01,Default,Hazel,0,0,0,,It's a good kind\Nof stuck.
+Dialogue: 0,0:03:47.00,0:03:48.00,Default,Roy,0,0,0,,Huh.
+Dialogue: 0,0:03:48.00,0:03:49.02,Default,Hazel,0,0,0,,Why don't\Nyou like Roy?
+Dialogue: 0,0:03:51.01,0:03:53.01,Default,Grace,0,0,0,,Well,\Nbecause Roy's a null.
+Dialogue: 0,0:03:53.01,0:03:54.02,Default,Hazel,0,0,0,,What does that mean?
+Dialogue: 0,0:03:55.00,0:03:56.02,Default,Grace,0,0,0,,Null.\NIt means nothing.
+Dialogue: 0,0:03:57.00,0:03:58.00,Default,Grace,0,0,0,,Not even a zero.
+Dialogue: 0,0:04:05.00,0:04:06.01,Default,Hazel,0,0,0,,Is it different\Nthan a denizen?
+Dialogue: 0,0:04:06.02,0:04:10.00,Default,Grace,0,0,0,,Eh, null, denizen—\Nsame thing.
+Dialogue: 0,0:04:10.00,0:04:12.01,Default,Roy,0,0,0,,Whoop-a-doop-a-doo!
+Dialogue: 0,0:04:12.01,0:04:14.01,Default,Hazel,0,0,0,,What's wrong with nulls?
+Dialogue: 0,0:04:14.01,0:04:16.01,Default,Grace,0,0,0,,You can't trust them.
+Dialogue: 0,0:04:16.01,0:04:18.00,Default,Grace,0,0,0,,You never know\Nwhat they'll do.
+Dialogue: 0,0:04:18.00,0:04:22.00,Default,Hazel,0,0,0,,But... have you ever\Ngotten to know one?
+Dialogue: 0,0:04:22.00,0:04:25.01,Default,Grace,0,0,0,,I don't need to, Hazel.\NI can just tell, okay?
+Dialogue: 0,0:04:25.01,0:04:30.00,Default,Hazel,0,0,0,,But Tuba is good.
+Dialogue: 0,0:04:30.02,0:04:33.01,Default,Grace,0,0,0,,Oh, well, Tuba is\None of the good ones.
+Dialogue: 0,0:04:36.01,0:04:38.00,Default,Grace,0,0,0,,Now,\Nhow about some fun?
+Dialogue: 0,0:04:53.00,0:04:54.01,Default,Roy,0,0,0,,It's Green O'Clock!
+Dialogue: 0,0:04:54.01,0:04:57.01,Default,Roy,0,0,0,,Excited to meet you all\Nfor the first time!
+Dialogue: 0,0:04:57.01,0:04:59.02,Default,Simon,0,0,0,,Will you move?
+Dialogue: 0,0:05:06.02,0:05:07.01,Default,Tuba,0,0,0,,Hm?
+Dialogue: 0,0:05:12.00,0:05:14.01,Default,Tuba,0,0,0,,Why not\Ntake the ramp?
+Dialogue: 0,0:05:14.01,0:05:16.00,Default,Simon,0,0,0,,What are you\Neven talking about?
+Dialogue: 0,0:05:16.00,0:05:17.00,Default,Simon,0,0,0,,There's no ramp.
+Dialogue: 0,0:05:17.00,0:05:18.00,Default,Simon,0,0,0,,Ugh, just let me lead.
+Dialogue: 0,0:05:18.00,0:05:20.02,Default,Tuba,0,0,0,,You are a child.
+Dialogue: 0,0:05:21.00,0:05:24.01,Default,Tuba,0,0,0,,Even Bugle was more mature\Nthan you.
+Dialogue: 0,0:05:26.02,0:05:28.01,Default,Simon,0,0,0,,Yes!
+Dialogue: 0,0:05:28.01,0:05:30.00,Default,Simon,0,0,0,,Got it!
+Dialogue: 0,0:05:30.00,0:05:31.00,Default,Simon,0,0,0,,Ugh!
+Dialogue: 0,0:05:31.00,0:05:33.00,Default,Simon,0,0,0,,The key is green.
+Dialogue: 0,0:05:33.00,0:05:36.00,Default,Simon,0,0,0,,How are we supposed to\Nget this to the red door?
+Dialogue: 0,0:05:40.01,0:05:42.00,Default,Roy,0,0,0,,It's Blurple O'Clock!
+Dialogue: 0,0:05:45.00,0:05:46.02,Default,Tuba,0,0,0,,Step aside.
+Dialogue: 0,0:05:46.02,0:05:49.01,Default,Tuba,0,0,0,,And, please,\Ncover your ears.
+Dialogue: 0,0:06:03.00,0:06:04.01,Default,Roy,0,0,0,,See?
+Dialogue: 0,0:06:04.01,0:06:08.00,Default,Roy,0,0,0,,Teamwork begins with\Ntwo people trusting each other.
+Dialogue: 0,0:06:09.00,0:06:12.01,Default,Tuba,0,0,0,,Roy is at a 10,
+Dialogue: 0,0:06:12.01,0:06:16.00,Default,Tuba,0,0,0,,and I need him\Nto be at about a 6.
+Dialogue: 0,0:06:21.00,0:06:23.02,Default,Simon,0,0,0,,Uh, so,\Nuh... who's Bugle?
+Dialogue: 0,0:06:24.00,0:06:27.01,Default,Tuba,0,0,0,,Bugle is— w-was...
+Dialogue: 0,0:06:27.02,0:06:30.01,Default,Tuba,0,0,0,,my daughter.
+Dialogue: 0,0:06:30.01,0:06:36.02,Default,Tuba,0,0,0,,I'm, uh, lucky\NHazel came into my life.
+Dialogue: 0,0:06:41.01,0:06:43.02,Default,Roy,0,0,0,,It's Red O'Clock!
+Dialogue: 0,0:06:43.02,0:06:45.02,Default,Grace,0,0,0,,Door's back!\NAny luck with a key?
+Dialogue: 0,0:06:46.00,0:06:47.00,Default,Simon,0,0,0,,Yes and no.
+Dialogue: 0,0:06:47.00,0:06:49.00,Default,Simon,0,0,0,,We need the clock\Nto be green.
+Dialogue: 0,0:06:49.00,0:06:51.01,Default,Hazel,0,0,0,,I went down a slide,\Nand it was fun!
+Dialogue: 0,0:06:51.01,0:06:54.00,Default,Simon,0,0,0,,Come on, Tuba.\NUh...
+Dialogue: 0,0:06:56.02,0:07:01.01,Default,Tuba,0,0,0,,Let it be known,\NI do not enjoy mazes.
+Dialogue: 0,0:07:01.01,0:07:02.02,Default,Simon,0,0,0,,Maze?
+Dialogue: 0,0:07:02.02,0:07:05.00,Default,Simon,0,0,0,,But the only maze\Nwas green.
+Dialogue: 0,0:07:13.02,0:07:15.01,Default,Simon,0,0,0,,You're color blind.
+Dialogue: 0,0:07:15.02,0:07:17.01,Default,Simon,0,0,0,,Red and green\Nlook the same to you.
+Dialogue: 0,0:07:17.01,0:07:19.00,Default,Tuba,0,0,0,,Hm?
+Dialogue: 0,0:07:22.00,0:07:25.00,Default,Simon,0,0,0,,Tuba, get that key.\NI can help with the maze.
+Dialogue: 0,0:07:30.01,0:07:32.00,Default,Tuba,0,0,0,,Got it.
 Comment: 0,0:08:05.01,0:08:06.01,Default,Grace,0,0,0,,Yeah! All right!
 Comment: 0,0:08:05.01,0:08:06.01,Default,Hazel,0,0,0,,Whoo-hoo!
 Comment: 0,0:08:06.01,0:08:07.02,Default,Tuba,0,0,0,,Hip-hip-hip.
-Dialogue: 0,0:08:07.02,0:08:09.02,Default,,0,0,0,,You did it.
-Dialogue: 0,0:08:09.02,0:08:11.01,Default,,0,0,0,,Hooray for teamwork.
-Dialogue: 0,0:08:11.01,0:08:15.00,Default,,0,0,0,,Also, hi, I'm Roy, I'm your boy,\Nand I don't believe we've met.
-Dialogue: 0,0:08:15.00,0:08:17.01,Default,,0,0,0,,Whoa!
-Dialogue: 0,0:08:17.01,0:08:19.00,Default,,0,0,0,,One-One found us!
-Dialogue: 0,0:08:34.02,0:08:36.01,Default,,0,0,0,,Throw Hazel across!
-Dialogue: 0,0:08:38.01,0:08:40.00,Default,,0,0,0,,No, wait!
-Dialogue: 0,0:08:42.00,0:08:44.02,Default,,0,0,0,,We've got you, Hazel!\NI promise!
-Dialogue: 0,0:08:46.02,0:08:48.01,Default,,0,0,0,,Shh.
-Dialogue: 0,0:08:53.00,0:08:56.01,Default,,0,0,0,,Just take it easy-peasy.
-Dialogue: 0,0:08:56.01,0:08:59.01,Default,,0,0,0,,My little lemon...
-Dialogue: 0,0:09:00.02,0:09:02.00,Default,,0,0,0,,...squeeeeezy!
-Dialogue: 0,0:09:11.00,0:09:12.00,Default,,0,0,0,,Tuba!
-Dialogue: 0,0:09:12.01,0:09:15.01,Default,,0,0,0,,Get to the next car.\NI'll go back for Tuba.
-Dialogue: 0,0:09:24.01,0:09:28.00,Default,,0,0,0,,Teamwork begins with\Ntwo people trusting each other.
-Comment: 0,0:09:32.01,0:09:35.01,Default,,0,0,0,,Aaaaaaaaaaaah!
-Dialogue: 0,0:09:35.01,0:09:37.02,Default,,0,0,0,,But you?
-Dialogue: 0,0:09:38.00,0:09:40.01,Default,,0,0,0,,You're no person.
-Dialogue: 0,0:09:57.00,0:09:59.01,Default,,0,0,0,,It's fine.\NThey'll be okay.
-Dialogue: 0,0:10:05.01,0:10:07.00,Default,,0,0,0,,Where's Tuba?
-Dialogue: 0,0:10:07.00,0:10:10.00,Default,,0,0,0,,Where's Tuba?\NWhere is she?
-Dialogue: 0,0:10:10.00,0:10:12.00,Default,,0,0,0,,Hazel, you're safe.
-Dialogue: 0,0:10:12.00,0:10:14.01,Default,,0,0,0,,You never have to worry about\Nthat null again.
-Dialogue: 0,0:10:14.02,0:10:17.00,Default,,0,0,0,,I-I-Is she...?
-Dialogue: 0,0:10:17.00,0:10:19.01,Default,,0,0,0,,Yeah, I wheeled her.
-Dialogue: 0,0:10:19.01,0:10:23.00,Default,,0,0,0,,I know you might not\Nunderstand now, but trust me—
-Dialogue: 0,0:10:28.02,0:10:30.11,Default,,0,0,0,,Hazel—
-Dialogue: 0,0:10:30.11,0:10:32.01,Default,,0,0,0,,Ah, told ya\NI could take her solo.
-Dialogue: 0,0:10:32.01,0:10:34.02,Default,,0,0,0,,Let's see how high\Nour numbers got.
-Dialogue: 0,0:10:37.01,0:10:40.00,Default,,0,0,0,,Ugh!
-Dialogue: 0,0:10:42.02,0:10:45.01,Default,,0,0,0,,I thought\Nyou'd be happy!
-Dialogue: 0,0:10:47.01,0:10:48.01,Default,,0,0,0,,Hazel?
-Dialogue: 0,0:10:54.01,0:10:56.00,Default,,0,0,0,,Hazel...
+Dialogue: 0,0:08:07.02,0:08:09.02,Default,Roy,0,0,0,,You did it.
+Dialogue: 0,0:08:09.02,0:08:11.01,Default,Roy,0,0,0,,Hooray for teamwork.
+Dialogue: 0,0:08:11.01,0:08:15.00,Default,Roy,0,0,0,,Also, hi, I'm Roy, I'm your boy,\Nand I don't believe we've met.
+Dialogue: 0,0:08:15.00,0:08:17.01,Default,Roy,0,0,0,,Whoa!
+Dialogue: 0,0:08:17.01,0:08:19.00,Default,Grace,0,0,0,,One-One found us!
+Dialogue: 0,0:08:34.02,0:08:36.01,Default,Simon,0,0,0,,Throw Hazel across!
+Dialogue: 0,0:08:38.01,0:08:40.00,Default,Hazel,0,0,0,,No, wait!
+Dialogue: 0,0:08:42.00,0:08:44.02,Default,Grace,0,0,0,,We've got you, Hazel!\NI promise!
+Dialogue: 0,0:08:46.02,0:08:48.01,Default,Tuba,0,0,0,,Shh.
+Dialogue: 0,0:08:53.00,0:08:56.01,Default,Tuba,0,0,0,,Just take it easy-peasy.
+Dialogue: 0,0:08:56.01,0:08:59.01,Default,Hazel,0,0,0,,My little lemon...
+Dialogue: 0,0:09:00.02,0:09:02.00,Default,Hazel,0,0,0,,...squeeeeezy!
+Dialogue: 0,0:09:11.00,0:09:12.00,Default,Hazel,0,0,0,,Tuba!
+Dialogue: 0,0:09:12.01,0:09:15.01,Default,Simon,0,0,0,,Get to the next car.\NI'll go back for Tuba.
+Dialogue: 0,0:09:24.01,0:09:28.00,Default,Simon,0,0,0,,Teamwork begins with\Ntwo people trusting each other.
+Comment: 0,0:09:32.01,0:09:35.01,Default,Tuba,0,0,0,,Aaaaaaaaaaaah!
+Dialogue: 0,0:09:35.01,0:09:37.02,Default,Simon,0,0,0,,But you?
+Dialogue: 0,0:09:38.00,0:09:40.01,Default,Simon,0,0,0,,You're no person.
+Dialogue: 0,0:09:57.00,0:09:59.01,Default,Grace,0,0,0,,It's fine.\NThey'll be okay.
+Dialogue: 0,0:10:05.01,0:10:07.00,Default,Hazel,0,0,0,,Where's Tuba?
+Dialogue: 0,0:10:07.00,0:10:10.00,Default,Hazel,0,0,0,,Where's Tuba?\NWhere is she?
+Dialogue: 0,0:10:10.00,0:10:12.00,Default,Simon,0,0,0,,Hazel, you're safe.
+Dialogue: 0,0:10:12.00,0:10:14.01,Default,Simon,0,0,0,,You never have to worry about\Nthat null again.
+Dialogue: 0,0:10:14.02,0:10:17.00,Default,Hazel,0,0,0,,I-I-Is she...?
+Dialogue: 0,0:10:17.00,0:10:19.01,Default,Simon,0,0,0,,Yeah, I wheeled her.
+Dialogue: 0,0:10:19.01,0:10:23.00,Default,Simon,0,0,0,,I know you might not\Nunderstand now, but trust me—
+Dialogue: 0,0:10:28.02,0:10:30.11,Default,Grace,0,0,0,,Hazel—
+Dialogue: 0,0:10:30.11,0:10:32.01,Default,Simon,0,0,0,,Ah, told ya\NI could take her solo.
+Dialogue: 0,0:10:32.01,0:10:34.02,Default,Simon,0,0,0,,Let's see how high\Nour numbers got.
+Dialogue: 0,0:10:37.01,0:10:40.00,Default,Grace,0,0,0,,Ugh!
+Dialogue: 0,0:10:42.02,0:10:45.01,Default,Simon,0,0,0,,I thought\Nyou'd be happy!
+Dialogue: 0,0:10:47.01,0:10:48.01,Default,Grace,0,0,0,,Hazel?
+Dialogue: 0,0:10:54.01,0:10:56.00,Default,Grace,0,0,0,,Hazel...
