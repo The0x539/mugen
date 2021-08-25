@@ -46,8 +46,9 @@ Dialogue: 0,0:01:08.02,0:01:12.00,Default,,0,0,0,,I'm a train person?
 Dialogue: 0,0:01:13.02,0:01:16.00,Default,,0,0,0,,Maybe?\NI don't know.
 Dialogue: 0,0:01:16.00,0:01:17.01,Default,,0,0,0,,Do you hate me?
 Dialogue: 0,0:01:17.01,0:01:19.02,Default,,0,0,0,,No, Hazel,\Nwhy would you say that?
-Dialogue: 0,0:01:20.00,0:01:23.01,Default,,0,0,0,split,You hated Tuba.\NNo.
-Dialogue: 0,0:01:23.02,0:01:26.01,Default,,0,0,0,,I didn't hate Tuba.
+Dialogue: 0,0:01:20.00,0:01:23.02,Default,,0,0,0,,You hated Tuba.
+Dialogue: 0,0:01:23.02,0:01:23.94,Default,,0,0,0,,No.
+Dialogue: 0,0:01:23.94,0:01:26.01,Default,,0,0,0,,I didn't hate Tuba.
 Dialogue: 0,0:01:26.01,0:01:29.02,Default,,0,0,0,,But Simon did.
 Dialogue: 0,0:01:29.02,0:01:31.02,Default,,0,0,0,,Simon's going to kill me too!
 Dialogue: 0,0:01:31.02,0:01:34.01,Default,,0,0,0,,Grace,\NI'm afraid of the wheels!
