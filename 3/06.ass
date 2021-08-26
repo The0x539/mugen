@@ -22,21 +22,23 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:15.25,0:00:17.66,Default,Hazel,0,0,0,,What's going on?
+Dialogue: 0,0:00:15.25,0:00:17.66,Default,Hazel,0,0,0,,Wh-What's going on?
 Dialogue: 0,0:00:17.66,0:00:19.50,Default,Hazel,0,0,0,,What's on me?
 Dialogue: 0,0:00:20.33,0:00:21.54,Default,Hazel,0,0,0,,It's stuck on me!
 Dialogue: 0,0:00:23.71,0:00:24.80,Default,Hazel,0,0,0,,It's my skin!
 Dialogue: 0,0:00:26.13,0:00:27.97,Default,Hazel,0,0,0,,Why is it my skin?
-Dialogue: 0,0:00:27.97,0:00:30.30,Default,Grace,0,0,0,,I— I— I don't know!
-Dialogue: 0,0:00:30.30,0:00:32.72,Default,Hazel,0,0,0,,I want Tuba.
-Dialogue: 0,0:00:32.72,0:00:36.06,Default,Grace,0,0,0,,She's... gone, Hazel.
+Dialogue: 0,0:00:27.97,0:00:30.30,Default,Grace,0,0,0,,I... I-I-I don't know!
+Dialogue: 0,0:00:30.30,0:00:32.72,Default,Hazel,0,0,0,,I want Tuba!
+Dialogue: 0,0:00:32.72,0:00:34.39,Default,Grace,0,0,0,,She's...
+Dialogue: 0,0:00:34.39,0:00:36.06,Default,Grace,0,0,0,,gone, Hazel.
 Dialogue: 0,0:00:36.06,0:00:37.48,Default,Hazel,0,0,0,,N-No!
 Dialogue: 0,0:00:37.48,0:00:38.89,Default,Hazel,0,0,0,,Let's go get her!
-Dialogue: 0,0:00:38.89,0:00:43.48,Default,Grace,0,0,0,,Hazel, she's not just gone.
+Dialogue: 0,0:00:38.89,0:00:40.77,Default,Grace,0,0,0,,Hazel...
+Dialogue: 0,0:00:40.77,0:00:43.48,Default,Grace,0,0,0,,She's not just gone.
 Dialogue: 0,0:00:43.48,0:00:44.57,Default,Grace,0,0,0,,She died.
-Dialogue: 0,0:00:44.57,0:00:46.90,Default,Hazel,0,0,0,,What if I'm really,\Nreally good?
+Dialogue: 0,0:00:44.57,0:00:46.90,Default,Hazel,0,0,0,,What if I'm really, really good?
 Dialogue: 0,0:00:46.90,0:00:48.07,Default,Hazel,0,0,0,,I promise!
-Dialogue: 0,0:00:48.07,0:00:50.99,Default,Hazel,0,0,0,,I won't do anything bad,\Never!
+Dialogue: 0,0:00:48.07,0:00:50.99,Default,Hazel,0,0,0,,I won't do {\i1}anything{\i0} bad, ever!
 Dialogue: 0,0:00:50.99,0:00:52.07,Default,Hazel,0,0,0,,Please, Grace!
 Dialogue: 0,0:00:52.07,0:00:53.66,Default,Hazel,0,0,0,,Please!
 Dialogue: 0,0:00:56.70,0:00:57.87,Default,Grace,0,0,0,,No, Hazel!
@@ -50,53 +52,53 @@ Dialogue: 0,0:01:16.43,0:01:17.77,Default,Hazel,0,0,0,,Do you hate me?
 Dialogue: 0,0:01:17.77,0:01:19.93,Default,Grace,0,0,0,,No, Hazel,\Nwhy would you say that?
 Dialogue: 0,0:01:19.93,0:01:22.15,Default,Hazel,0,0,0,,You hated Tuba.
 Dialogue: 0,0:01:23.02,0:01:23.94,Default,Grace,0,0,0,,No.
-Dialogue: 0,0:01:23.94,0:01:26.61,Default,Grace,0,0,0,,I didn't hate Tuba.
+Dialogue: 0,0:01:23.94,0:01:26.61,Default,Grace,0,0,0,,I... didn't {\i1}hate{\i0} Tuba.
 Dialogue: 0,0:01:26.61,0:01:28.53,Default,Grace,0,0,0,,But Simon did.
-Dialogue: 0,0:01:29.94,0:01:31.03,Default,Hazel,0,0,0,,Simon's going to kill me too!
-Dialogue: 0,0:01:32.20,0:01:34.62,Default,Hazel,0,0,0,,Grace,\NI'm afraid of the wheels!
+Dialogue: 0,0:01:29.94,0:01:31.03,Default,Hazel,0,0,0,,Simon's gonna kill me too!
+Dialogue: 0,0:01:32.20,0:01:34.62,Default,Hazel,0,0,0,,Grace, I'm afraid of the wheels!
 Dialogue: 0,0:01:34.62,0:01:35.28,Default,Grace,0,0,0,,No!
 Dialogue: 0,0:01:35.62,0:01:36.53,Default,Grace,0,0,0,,No!
 Dialogue: 0,0:01:36.53,0:01:37.66,Default,Grace,0,0,0,,He won't!
-Dialogue: 0,0:01:38.12,0:01:42.00,Default,Grace,0,0,0,,We just—\Nwon't tell Simon, okay?
+Dialogue: 0,0:01:38.12,0:01:42.00,Default,Grace,0,0,0,,We just... won't tell Simon, okay?
 Dialogue: 0,0:01:42.00,0:01:43.54,Default,Grace,0,0,0,,He doesn't need to know.
-Dialogue: 0,0:01:43.54,0:01:46.25,Default,Grace,0,0,0,,So we can't let him see\Nthe shell, okay?
-Dialogue: 0,0:01:46.25,0:01:50.34,Default,Grace,0,0,0,,You have to stay calm and\Ntake big breaths, in...
-Dialogue: 0,0:01:51.55,0:01:52.43,Default,Grace,0,0,0,,And out.
-Dialogue: 0,0:02:10.94,0:02:12.86,Default,Simon,0,0,0,,You guys were out there\Nfor a while.
+Dialogue: 0,0:01:43.54,0:01:46.25,Default,Grace,0,0,0,,So we can't let him \Nsee the shell, okay?
+Dialogue: 0,0:01:46.25,0:01:50.34,Default,Grace,0,0,0,,You have to stay calm \Nand take big breaths, in...
+Dialogue: 0,0:01:51.55,0:01:52.43,Default,Grace,0,0,0,,and out.
+Dialogue: 0,0:02:10.94,0:02:12.86,Default,Simon,0,0,0,,You guys were out there for a while.
 Dialogue: 0,0:02:12.86,0:02:17.91,Default,Grace,0,0,0,,Don't you {\i1}ever{\i0} take action like that again \Nif I haven't given you explicit orders!
 Dialogue: 0,0:02:17.91,0:02:20.16,Default,Simon,0,0,0,,Are you pulling rank on me?
 Dialogue: 0,0:02:20.62,0:02:21.70,Default,Grace,0,0,0,,Yes.
 Dialogue: 0,0:02:23.29,0:02:24.54,Default,Simon,0,0,0,,Yes, ma'am.
-Dialogue: 0,0:02:29.75,0:02:30.71,Default,Grace,0,0,0,,Hazel,
-Dialogue: 0,0:02:31.13,0:02:32.22,Default,Grace,0,0,0,,let's go.
+Dialogue: 0,0:02:29.75,0:02:30.71,Default,Grace,0,0,0,,Hazel?
+Dialogue: 0,0:02:31.13,0:02:32.22,Default,Grace,0,0,0,,Let's go.
 Dialogue: 0,0:03:11.30,0:03:12.30,Default,Grace,0,0,0,,Hazel?
 Dialogue: 0,0:03:13.92,0:03:17.26,Default,Hazel,0,0,0,,I wanna do something\Nbefore we leave.
 Dialogue: 0,0:03:17.26,0:03:18.09,Default,Simon,0,0,0,,What?
 Dialogue: 0,0:03:18.09,0:03:19.64,Default,Hazel,0,0,0,,I...
-Dialogue: 0,0:03:19.64,0:03:21.76,Default,Hazel,0,0,0,,wanna have a funeral\Nfor Tuba.
+Dialogue: 0,0:03:19.64,0:03:21.76,Default,Hazel,0,0,0,,wanna have a funeral for Tuba.
 Dialogue: 0,0:03:21.76,0:03:23.22,Default,Simon,0,0,0,,A funeral?!
 Dialogue: 0,0:03:23.22,0:03:26.23,Default,Grace,0,0,0,,Hazel, Tuba isn't... here.
-Dialogue: 0,0:03:26.23,0:03:28.06,Default,Grace,0,0,0,,So it would be hard\Nto have...
-Dialogue: 0,0:03:28.06,0:03:29.94,Default,Simon,0,0,0,,There's no body left\Nto bury, kid.
-Dialogue: 0,0:03:29.94,0:03:30.44,Default,Grace,0,0,0,,Simon!
-Dialogue: 0,0:03:30.44,0:03:32.61,Default,Simon,0,0,0,,The train is ours,\Nnot theirs.
-Dialogue: 0,0:03:32.61,0:03:34.82,Default,Simon,0,0,0,,That's how we do things,\NHazel.
+Dialogue: 0,0:03:26.23,0:03:28.06,Default,Grace,0,0,0,,So it would be hard to ha—
+Dialogue: 0,0:03:28.06,0:03:29.69,Default,Simon,0,0,0,,There's no body left to bury, kid.
+Dialogue: 0,0:03:29.69,0:03:30.44,Default,Grace,0,0,0,,Simon!
+Dialogue: 0,0:03:30.44,0:03:32.61,Default,Simon,0,0,0,,The train is ours, not theirs!
+Dialogue: 0,0:03:32.61,0:03:34.82,Default,Simon,0,0,0,,That's how we do things, Hazel.
 Dialogue: 0,0:03:38.45,0:03:39.99,Default,Hazel,0,0,0,,I'm being good.
 Dialogue: 0,0:03:39.99,0:03:41.45,Default,Hazel,0,0,0,,I'm being calm.
 Dialogue: 0,0:03:41.74,0:03:42.70,Default,Simon,0,0,0,,What?
 Dialogue: 0,0:03:42.70,0:03:45.33,Default,Hazel,0,0,0,,It would be good for me to go!
 Dialogue: 0,0:03:45.33,0:03:47.21,Default,Hazel,0,0,0,,To a funeral.
 Dialogue: 0,0:03:47.58,0:03:49.96,Default,Hazel,0,0,0,,It helps to say goodbye.
-Dialogue: 0,0:03:49.96,0:03:52.75,Default,Simon,0,0,0,,But the Apex are just\Na car away.
+Dialogue: 0,0:03:49.96,0:03:52.75,Default,Simon,0,0,0,,But the Apex \Nare just a car away.
 Dialogue: 0,0:03:54.76,0:03:56.38,Default,Grace,0,0,0,,Let's let her do this.
 Dialogue: 0,0:03:56.38,0:03:59.26,Default,Grace,0,0,0,,I mean, do you really want \Nto throw her in with the Apex
 Dialogue: 0,0:03:59.26,0:04:01.72,Default,Grace,0,0,0,,when she's still crying over a null?
-Dialogue: 0,0:04:01.72,0:04:02.64,Default,Simon,0,0,0,,I—
+Dialogue: 0,0:04:01.72,0:04:03.22,Default,Simon,0,0,0,,I...
 Dialogue: 0,0:04:03.97,0:04:05.64,Default,Simon,0,0,0,,I guess that makes sense.
-Dialogue: 0,0:04:05.64,0:04:07.73,Default,Grace,0,0,0,,Yeah! Of course it does. \NEverything I do makes sense.
-Dialogue: 0,0:04:07.73,0:04:11.27,Default,Grace,0,0,0,,Okay, Hazel, Simon thinks this\Nis a great idea.
-Dialogue: 0,0:04:13.61,0:04:16.49,Default,Hazel,0,0,0,,I want to find a spot that\NTuba would like.
-Dialogue: 0,0:04:16.49,0:04:19.91,Default,Simon,0,0,0,,Sorry to be the voice of reason\Nagain, but there's no body.
+Dialogue: 0,0:04:05.64,0:04:07.73,Default,Grace,0,0,0,,Yeah, of course it does! \NEverything I do makes sense.
+Dialogue: 0,0:04:07.73,0:04:11.27,Default,Grace,0,0,0,,Okay, Hazel, Simon thinks \Nthis is a great idea.
+Dialogue: 0,0:04:13.61,0:04:16.49,Default,Hazel,0,0,0,,I want to find a spot \Nthat Tuba would like.
+Dialogue: 0,0:04:16.49,0:04:19.91,Default,Simon,0,0,0,,Sorry to be the voice of reason again, \Nbut there's no body!
 Dialogue: 0,0:04:19.91,0:04:21.20,Default,Simon,0,0,0,,Just say something about her
 Dialogue: 0,0:04:21.20,0:04:23.74,Default,Simon,0,0,0,,and we'll pretend a bunch \Nof annoying neighbors brought casseroles
 Dialogue: 0,0:04:23.74,0:04:24.66,Default,Simon,0,0,0,,and be done with it.
@@ -109,17 +111,17 @@ Dialogue: 0,0:04:43.51,0:04:44.81,Default,Lantern,0,0,0,,Bright out tonight, eh?
 Dialogue: 0,0:04:44.81,0:04:46.68,Default,Lantern,0,0,0,,Or is it just me?
 Dialogue: 0,0:04:48.60,0:04:49.89,Default,Lantern,0,0,0,,Take 'er easy!
 Dialogue: 0,0:04:54.19,0:04:55.11,Default,Grace,0,0,0,,Here?
-Dialogue: 0,0:04:56.23,0:04:58.82,Default,Rock #1,0,0,0,,Well, if you didn't want to come\Nhere, you should have said so!
-Dialogue: 0,0:04:58.82,0:05:02.74,Default,Rock #2,0,0,0,,Oh, and I'm sure you wouldn't have complained \Nabout whatever choice {\i1}I{\i0} made?
-Dialogue: 0,0:05:02.74,0:05:04.20,Default,Rock #1,0,0,0,,Where would you have\Npicked then?
-Dialogue: 0,0:05:04.20,0:05:04.95,Default,Rock #2,0,0,0,,The lake.
+Dialogue: 0,0:04:56.23,0:04:58.82,Default,Rock #1,0,0,0,,Well, if you didn't want to come here, \Nyou should've said so!
+Dialogue: 0,0:04:58.82,0:05:02.74,Default,Rock #2,0,0,0,,Oh, and I'm {\i1}sure{\i0} you wouldn't've complained \Nabout whatever choice {\i1}I{\i0} made.
+Dialogue: 0,0:05:02.74,0:05:04.20,Default,Rock #1,0,0,0,,Where would {\i1}you{\i0} have picked, then?
+Dialogue: 0,0:05:04.20,0:05:04.95,Default,Rock #2,0,0,0,,The lake!
 Dialogue: 0,0:05:04.95,0:05:08.12,Default,Rock #1,0,0,0,,Ugh, we're rocks, Martin!\NWe can't swim!
-Dialogue: 0,0:05:08.12,0:05:10.41,Default,Rock #2,0,0,0,,I love it\Nwhen you get angry.
+Dialogue: 0,0:05:08.12,0:05:10.41,Default,Rock #2,0,0,0,,I love it when you get angry.
 Dialogue: 0,0:05:10.41,0:05:11.75,Default,Hazel,0,0,0,,No.
 Comment: 0,0:05:12.83,0:05:14.34,Default,Rocks,0,0,0,,Mwah!
-Dialogue: 0,0:05:14.67,0:05:18.59,Default,Pinecone,0,0,0,,And then the squirrel\Nscratched again.
+Dialogue: 0,0:05:14.67,0:05:18.59,Default,Pinecone,0,0,0,,And then, the squirrel scratched again.
 Dialogue: 0,0:05:18.59,0:05:21.68,Default,Pinecone,0,0,0,,"Where are my little seeds?"
-Dialogue: 0,0:05:21.68,0:05:26.01,Default,Pinecone,0,0,0,,Then louder, "Where are\Nmy little seeds?!"
+Dialogue: 0,0:05:21.68,0:05:26.01,Default,Pinecone,0,0,0,,Then louder: \N"Where are my little seeds?!"
 Dialogue: 0,0:05:26.01,0:05:26.51,Default,Pinecone,0,0,0,,Boo!
 Dialogue: 0,0:05:29.60,0:05:30.81,Default,Grace,0,0,0,,Here?
 Dialogue: 0,0:05:30.81,0:05:32.10,Default,Hazel,0,0,0,,No.
@@ -129,93 +131,96 @@ Dialogue: 0,0:05:37.61,0:05:38.36,Default,Simon,0,0,0,,Ugh!
 Dialogue: 0,0:05:38.36,0:05:40.53,Default,Simon,0,0,0,,Just choose a spot!
 Dialogue: 0,0:05:40.53,0:05:41.74,Default,Hazel,0,0,0,,Stop it!
 Dialogue: 0,0:05:41.74,0:05:43.20,Default,Hazel,0,0,0,,You did this!
-Dialogue: 0,0:05:43.20,0:05:46.45,Default,Hazel,0,0,0,,This is forever\Nand I'm going to do it right!
+Dialogue: 0,0:05:43.20,0:05:46.45,Default,Hazel,0,0,0,,This is forever, \Nand I'm gonna do it right!
 Dialogue: 0,0:05:50.37,0:05:51.21,Default,Grace,0,0,0,,Hazel!
 Dialogue: 0,0:05:54.38,0:05:55.33,Default,Grace,0,0,0,,Ugh!
 Dialogue: 0,0:05:55.33,0:05:57.13,Default,Grace,0,0,0,,She's six, Simon!
 Dialogue: 0,0:05:57.13,0:05:59.46,Default,Grace,0,0,0,,Can't you take even one second
-Dialogue: 0,0:05:59.46,0:06:02.13,Default,Grace,0,0,0,,to remember how you felt\Nwhen The Cat left you?
+Dialogue: 0,0:05:59.46,0:06:02.13,Default,Grace,0,0,0,,to remember how {\i1}you{\i0} felt\Nwhen The Cat left {\i1}you{\i0}?
 Dialogue: 0,0:06:02.55,0:06:03.72,Default,Simon,0,0,0,,Fine.
 Dialogue: 0,0:06:03.72,0:06:07.18,Default,Simon,0,0,0,,Have the pretend funeral\Nfor the pretend person.
 Dialogue: 0,0:06:07.18,0:06:09.14,Default,Simon,0,0,0,,But I'm waiting by the exit.
 Dialogue: 0,0:06:14.44,0:06:15.69,Default,Grace,0,0,0,,Hazel?
 Dialogue: 0,0:06:16.48,0:06:17.94,Default,Grace,0,0,0,,Hazel!
-Dialogue: 0,0:06:17.94,0:06:19.32,Default,Grace,0,0,0,,Hazel!!
+Dialogue: 0,0:06:17.94,0:06:19.32,Default,Grace,0,0,0,,Hazel?!
 Dialogue: 0,0:06:19.32,0:06:20.82,Default,Grace,0,0,0,,Where are you?
 Dialogue: 0,0:06:21.69,0:06:23.61,Default,Hazel,0,0,0,,I'm in the tree!
 Comment: 0,0:06:28.33,0:06:29.45,Default,Grace,0,0,0,,Ahh...
 Dialogue: 0,0:06:31.41,0:06:32.83,Default,Hazel,0,0,0,,It's here.
-Dialogue: 0,0:06:32.83,0:06:36.75,Default,Hazel,0,0,0,,Tuba wants to be high up\Nwhere she can see the sky
+Dialogue: 0,0:06:32.83,0:06:36.75,Default,Hazel,0,0,0,,Tuba wants to be high up, \Nwhere she can see the sky,
 Dialogue: 0,0:06:36.75,0:06:41.09,Default,Hazel,0,0,0,,and be protected from rain\Nand animals and kissing rocks.
-Dialogue: 0,0:06:42.84,0:06:45.64,Default,Hazel,0,0,0,,Tuba was really nice\Nand protected me
-Dialogue: 0,0:06:45.64,0:06:47.51,Default,Hazel,0,0,0,,and gave me good hugs.
+Dialogue: 0,0:06:42.84,0:06:44.43,Default,Hazel,0,0,0,,Tuba was really nice,
+Dialogue: 0,0:06:44.43,0:06:47.51,Default,Hazel,0,0,0,,and protected me \Nand gave me good hugs.
 Dialogue: 0,0:06:47.51,0:06:50.81,Default,Hazel,0,0,0,,She made me feel like\NI was warm all the time.
-Dialogue: 0,0:06:50.81,0:06:54.69,Default,Hazel,0,0,0,,But not the kind of warm \Nthat's outside and makes you sweaty,
+Dialogue: 0,0:06:50.81,0:06:54.69,Default,Hazel,0,0,0,,But not that kind of warm \Nthat's outside and makes you sweaty,
 Dialogue: 0,0:06:54.69,0:06:57.27,Default,Hazel,0,0,0,,but, like, inside and comfy.
-Dialogue: 0,0:07:00.19,0:07:04.74,Default,Hazel,0,0,0,,Oh, and thank you to her kids\Nfor letting me have Tuba
-Dialogue: 0,0:07:04.74,0:07:08.70,Default,Hazel,0,0,0,,because they were gone\Nand I needed her.
-Dialogue: 0,0:07:08.70,0:07:11.45,Default,Hazel,0,0,0,,And maybe now Tuba\Ncan be with them again
-Dialogue: 0,0:07:11.45,0:07:13.96,Default,Hazel,0,0,0,,since she can't be with me,
+Dialogue: 0,0:07:00.19,0:07:04.74,Default,Hazel,0,0,0,,Oh, and thank you to her kids\Nfor letting me have Tuba,
+Dialogue: 0,0:07:04.74,0:07:08.70,Default,Hazel,0,0,0,,because they were gone,\Nand I needed her.
+Comment: 0,0:07:08.70,0:07:11.45,Default,Hazel,0,0,0,,And maybe now Tuba\Ncan be with them again
+Comment: 0,0:07:11.45,0:07:13.96,Default,Hazel,0,0,0,,since she can't be with me,
+Dialogue: 0,0:07:08.70,0:07:13.96,Default,Hazel,0,0,0,,And maybe now Tuba can be with them again \Nsince she can't be with me,
 Dialogue: 0,0:07:13.96,0:07:15.83,Default,Hazel,0,0,0,,and I hope she likes that.
 Dialogue: 0,0:07:18.04,0:07:20.42,Default,Hazel,0,0,0,,Grace, would you like\Nto say something?
 Dialogue: 0,0:07:20.42,0:07:21.38,Default,Grace,0,0,0,,Oh.
-Dialogue: 0,0:07:21.38,0:07:23.76,Default,Grace,0,0,0,,Umm, I don't—
+Dialogue: 0,0:07:21.38,0:07:23.76,Default,Grace,0,0,0,,Um, I-I don't...
 Dialogue: 0,0:07:23.76,0:07:25.30,Default,Grace,0,0,0,,I don't think I should.
 Dialogue: 0,0:07:25.30,0:07:26.72,Default,Hazel,0,0,0,,Please?
-Dialogue: 0,0:07:26.72,0:07:29.55,Default,Hazel,0,0,0,,Funerals have people\Ntalk at them!
+Dialogue: 0,0:07:26.72,0:07:29.55,Default,Hazel,0,0,0,,Funerals have people talk at them.
 Dialogue: 0,0:07:33.52,0:07:35.73,Default,Grace,0,0,0,,Okay, uh...
 Comment: 0,0:07:35.73,0:07:37.02,Default,Grace,0,0,0,,Pbht...
 Dialogue: 0,0:07:37.65,0:07:40.52,Default,Grace,0,0,0,,I didn't know Tuba well,
-Dialogue: 0,0:07:40.98,0:07:45.07,Default,Grace,0,0,0,,but she was very important\Nto Hazel.
+Dialogue: 0,0:07:40.98,0:07:45.07,Default,Grace,0,0,0,,but she was very important to Hazel?
 Dialogue: 0,0:07:50.37,0:07:52.99,Default,Grace,0,0,0,,Tuba was nice to me, too.
 Dialogue: 0,0:07:53.95,0:07:55.54,Default,Grace,0,0,0,,She was quiet,
 Dialogue: 0,0:07:55.54,0:07:57.25,Default,Grace,0,0,0,,but not in a bad way.
-Dialogue: 0,0:07:58.17,0:07:59.71,Default,Grace,0,0,0,,And she helped us
+Dialogue: 0,0:07:58.17,0:07:59.71,Default,Grace,0,0,0,,And she helped us,
 Dialogue: 0,0:07:59.71,0:08:01.25,Default,Grace,0,0,0,,and was pretty brave,
 Dialogue: 0,0:08:01.25,0:08:02.21,Default,Grace,0,0,0,,and...
-Dialogue: 0,0:08:04.26,0:08:05.76,Default,Hazel,0,0,0,,It's okay,
-Dialogue: 0,0:08:05.76,0:08:07.30,Default,Hazel,0,0,0,,that was good.
-Dialogue: 0,0:08:07.76,0:08:11.55,Default,Hazel,0,0,0,,Now I'm gonna sing a lullaby\Nthat Tuba made up for her kids
-Dialogue: 0,0:08:11.55,0:08:13.72,Default,Hazel,0,0,0,,and said it was\Nfor me too.
+Dialogue: 0,0:08:04.26,0:08:05.76,Default,Hazel,0,0,0,,It's okay.
+Dialogue: 0,0:08:05.76,0:08:07.30,Default,Hazel,0,0,0,,That was good!
+Dialogue: 0,0:08:07.76,0:08:09.80,Default,Hazel,0,0,0,,Now, I'm gonna sing a lullaby
+Dialogue: 0,0:08:09.80,0:08:13.72,Default,Hazel,0,0,0,,that Tuba made up for her kids \Nand said it was for me too.
 Dialogue: 0,0:08:15.56,0:08:18.94,Default,Hazel,0,0,0,,{\i1}Don't be a worry baby
 Dialogue: 0,0:08:18.94,0:08:21.61,Default,Hazel,0,0,0,,{\i1}No need to hurry, baby
 Dialogue: 0,0:08:21.61,0:08:24.44,Default,Hazel,0,0,0,,{\i1}When you're with me
 Dialogue: 0,0:08:26.15,0:08:29.20,Default,Hazel,0,0,0,,{\i1}Don't run way up ahead
 Dialogue: 0,0:08:29.20,0:08:31.74,Default,Hazel,0,0,0,,{\i1}Take the long way instead
 Dialogue: 0,0:08:31.74,0:08:34.49,Default,Hazel,0,0,0,,{\i1}There's lots to see
-Dialogue: 0,0:08:35.58,0:08:38.83,Default,Hazel,0,0,0,,{\i1}When you slow down\Nto listen
-Dialogue: 0,0:08:38.83,0:08:44.09,Default,Hazel,0,0,0,,{\i1}Then you won't go a-missin'\Nchances to play
+Dialogue: 0,0:08:35.58,0:08:38.83,Default,Hazel,0,0,0,,{\i1}When you slow down to listen
+Dialogue: 0,0:08:38.83,0:08:44.09,Default,Hazel,0,0,0,,{\i1}Then you won't go a-missin' chances to play
 Dialogue: 0,0:08:44.80,0:08:48.13,Default,Hazel,0,0,0,,{\i1}We'll always have tomorrow
 Dialogue: 0,0:08:48.13,0:08:53.05,Default,Hazel,0,0,0,,{\i1}No need to let it borrow time from today
 Dialogue: 0,0:08:53.85,0:08:58.18,Default,Hazel,0,0,0,,{\i1}So don't be a worry baby
 Dialogue: 0,0:08:58.18,0:09:00.85,Default,Hazel,0,0,0,,{\i1}No need to hurry, baby
 Dialogue: 0,0:09:00.85,0:09:03.61,Default,Hazel,0,0,0,,{\i1}When you're with me
 Dialogue: 0,0:09:04.90,0:09:08.74,Default,Hazel,0,0,0,,{\i1}Just take it easy-peasy
-Dialogue: 0,0:09:08.74,0:09:12.45,Default,Hazel,0,0,0,,{\i1}My little lemon squeezy
+Dialogue: 0,0:09:08.74,0:09:12.45,Default,Hazel,0,0,0,,{\i1}My little lemon-squeezy
 Dialogue: 0,0:09:13.28,0:09:16.99,Default,Hazel,0,0,0,,{\i1}You're always with me
-Dialogue: 0,0:09:17.87,0:09:20.16,Default,Hazel,0,0,0,,Thank you for being with me,\NTuba.
+Dialogue: 0,0:09:17.87,0:09:20.16,Default,Hazel,0,0,0,,Thank you for being with me, Tuba.
 Dialogue: 0,0:09:20.16,0:09:23.58,Default,Hazel,0,0,0,,I'm going to keep loving you\Nlike you're still here.
 Dialogue: 0,0:09:38.22,0:09:39.18,Default,Hazel,0,0,0,,Grace?
 Dialogue: 0,0:09:40.52,0:09:41.60,Default,Grace,0,0,0,,Yeah?
 Dialogue: 0,0:09:41.60,0:09:43.98,Default,Hazel,0,0,0,,I have to go to the bathroom.
 Dialogue: 0,0:09:50.32,0:09:51.53,Default,Simon,0,0,0,,Done?
-Dialogue: 0,0:09:51.53,0:09:53.24,Default,Simon,0,0,0,,Great!\NLet's go.
-Dialogue: 0,0:09:53.24,0:09:55.16,Default,Simon,0,0,0,,The Apex are still\Nin the next car.
-Dialogue: 0,0:09:55.16,0:09:56.95,Default,Simon,0,0,0,,We'll finally figure\Nyour number out,
+Dialogue: 0,0:09:51.53,0:09:52.40,Default,Simon,0,0,0,,Great!
+Dialogue: 0,0:09:52.40,0:09:53.24,Default,Simon,0,0,0,,Let's go.
+Dialogue: 0,0:09:53.24,0:09:55.16,Default,Simon,0,0,0,,The Apex are still in the next car.
+Dialogue: 0,0:09:55.16,0:09:56.95,Default,Simon,0,0,0,,We'll finally figure your number out,
 Dialogue: 0,0:09:56.95,0:09:59.62,Default,Simon,0,0,0,,Hazel will assimilate,\Nwe won't need to babysit her,
-Dialogue: 0,0:09:59.62,0:10:02.16,Default,Simon,0,0,0,,everything will be back\Nto normal.
-Dialogue: 0,0:10:02.16,0:10:05.25,Default,Simon,0,0,0,,Now you'll see how much better\Nit is to live with passengers.
-Dialogue: 0,0:10:05.71,0:10:08.42,Default,Simon,0,0,0,,And I'll even name a character\Nin my book after you.
+Dialogue: 0,0:09:59.62,0:10:02.16,Default,Simon,0,0,0,,everything will be back to normal.
+Dialogue: 0,0:10:02.16,0:10:05.25,Default,Simon,0,0,0,,Now you'll see how much better it is \Nto live with passengers.
+Dialogue: 0,0:10:05.71,0:10:08.42,Default,Simon,0,0,0,,And I'll even name \Na character in my book after you.
 Dialogue: 0,0:10:08.42,0:10:10.26,Default,Simon,0,0,0,,A really brave one.
-Dialogue: 0,0:10:10.26,0:10:11.59,Default,Simon,0,0,0,,Would you like that?
+Dialogue: 0,0:10:10.26,0:10:11.59,Default,Simon,0,0,0,,Would ya like that?
 Dialogue: 0,0:10:13.63,0:10:14.84,Default,Grace,0,0,0,,Wow!
 Dialogue: 0,0:10:14.84,0:10:17.18,Default,Grace,0,0,0,,How cool is that, Hazel?
 Dialogue: 0,0:10:18.85,0:10:20.18,Default,Hazel,0,0,0,,Wow.
 Dialogue: 0,0:10:20.18,0:10:22.02,Default,Hazel,0,0,0,,Thank you, Simon.
-Dialogue: 0,0:10:42.75,0:10:43.66,Default,Simon,0,0,0,,Hmmm.
+Dialogue: 0,0:10:42.75,0:10:43.66,Default,Simon,0,0,0,,Huh.
 Dialogue: 0,0:10:44.21,0:10:45.46,Default,Simon,0,0,0,,No sign.
-Dialogue: 0,0:10:45.88,0:10:47.92,Default,Simon,0,0,0,,Well, they're probably\Nfurther in.
+Dialogue: 0,0:10:45.88,0:10:47.92,Default,Simon,0,0,0,,Well, they're probably further in.
 Dialogue: 0,0:10:47.92,0:10:51.09,Default,Simon,0,0,0,,How they've even survived\Nwithout us is just—
-Dialogue: 0,0:10:55.55,0:10:57.76,Default,Simon,0,0,0,,What?!\NBut it showed them in here.
-Dialogue: 0,0:10:57.76,0:10:59.51,Default,Simon,0,0,0,,It's not like\Nwe passed them.
-Dialogue: 0,0:11:01.97,0:11:05.64,Default,Amelia,0,0,0,,What have you kids been doing\Nto the train cars?
+Dialogue: 0,0:10:55.55,0:10:56.59,Default,Simon,0,0,0,,What?
+Dialogue: 0,0:10:56.59,0:10:57.76,Default,Simon,0,0,0,,But it showed them in here!
+Dialogue: 0,0:10:57.76,0:10:59.51,Default,Simon,0,0,0,,I-It's not like we passed them!
+Dialogue: 0,0:11:01.97,0:11:05.64,Default,Amelia,0,0,0,,What have you kids been doing\Nto the train cars?!
