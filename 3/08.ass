@@ -63,7 +63,7 @@ Dialogue: 0,0:02:19.02,0:02:23.01,Default,Hazel,0,0,0,,Nuh-uh, you make\Nthe bes
 Dialogue: 0,0:02:23.01,0:02:26.01,Default,Amelia,0,0,0,,It pains me to turn down\Nmy first compliment in 33 years,
 Dialogue: 0,0:02:26.01,0:02:28.01,Default,Amelia,0,0,0,,but we just met yesterday.
 Dialogue: 0,0:02:28.02,0:02:30.01,Default,Amelia,0,0,0,,You've never had them.
-Dialogue: 0,0:02:30.01,0:02:31.02,Default,,0,0,0,,I just know.
+Dialogue: 0,0:02:30.01,0:02:31.02,Default,Hazel,0,0,0,,I just know.
 Dialogue: 0,0:02:32.00,0:02:33.02,Default,Amelia,0,0,0,,You and Alrick both.
 Dialogue: 0,0:02:33.02,0:02:35.00,Default,Hazel,0,0,0,,What's an Alrick?
 Dialogue: 0,0:02:35.00,0:02:37.01,Default,Amelia,0,0,0,,{\i1}He{\i0} was a person.
