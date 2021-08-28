@@ -77,7 +77,7 @@ Dialogue: 0,0:02:21.37,0:02:22.79,Default,Amelia,0,0,0,,A lot of turtles?
 Dialogue: 0,0:02:22.79,0:02:24.29,Default,Amelia,0,0,0,,Too many turtles?
 Dialogue: 0,0:02:24.29,0:02:26.33,Default,Amelia,0,0,0,,A number of turtles \Nthat makes you think,
 Dialogue: 0,0:02:26.33,0:02:28.34,Default,Amelia,0,0,0,,"Why? Why turtles again?"
-Dialogue: 0,0:02:30.51,0:02:31.42,Default,Hazel,0,0,0,,Grace!
+Dialogue: 0,0:02:30.51,0:02:31.42,Default,Hazel,0,0,0,,Grace{!}...
 Dialogue: 0,0:02:31.76,0:02:33.01,Default,Simon,0,0,0,,That first shifter!
 Dialogue: 0,0:02:33.01,0:02:34.26,Default,Simon,0,0,0,,It had turtles.
 Dialogue: 0,0:02:34.26,0:02:35.39,Default,Grace,0,0,0,,Simon?
@@ -99,7 +99,7 @@ Dialogue: 0,0:03:06.17,0:03:07.21,Default,Grace,0,0,0,,Right.
 Dialogue: 0,0:03:07.21,0:03:08.75,Default,Grace,0,0,0,,Is she looking at us?
 Dialogue: 0,0:03:11.13,0:03:12.26,Default,Amelia,0,0,0,,What?
 Dialogue: 0,0:03:16.55,0:03:17.97,Default,Amelia,0,0,0,,Where are you going?
-Dialogue: 0,0:03:18.68,0:03:20.60,Default,Amelia,0,0,0,,Ugh! I hate children.
+Dialogue: 0,0:03:18.68,0:03:20.60,Default,Amelia,0,0,0,,Oh,{Ugh!} I {\i1}hate{\i0} children.
 Comment: 0,0:03:42.45,0:03:43.20,Default,Amelia,0,0,0,,Aah!
 Dialogue: 0,0:03:52.67,0:03:55.72,Default,Amelia,0,0,0,,This car is marked for ejection!
 Dialogue: 0,0:03:56.55,0:03:59.05,Default,Amelia,0,0,0,,You know, I can tell\Nyou children are in the car.
@@ -117,10 +117,11 @@ Dialogue: 0,0:04:39.80,0:04:41.39,Default,Grace,0,0,0,,Ugh! Don't!
 Dialogue: 0,0:04:41.39,0:04:42.93,Default,Hazel,0,0,0,,Yeah, don't!
 Dialogue: 0,0:04:42.93,0:04:43.68,Default,Simon,0,0,0,,Why?!
 Dialogue: 0,0:04:43.68,0:04:45.18,Default,Grace,0,0,0,,Because I don't\Nwant to know yet!
-Dialogue: 0,0:04:45.18,0:04:46.93,Default,Simon,0,0,0,,I have to know, \Nso when we go back, w—
+Dialogue: 0,0:04:45.18,0:04:46.10,Default,Simon,0,0,0,,I {\i1}have{\i0} to know,
+Dialogue: 0,0:04:46.10,0:04:46.93,Default,Simon,0,0,0,,so when we go back, w—
 Dialogue: 0,0:04:46.93,0:04:48.39,Default,Grace,0,0,0,,Simon, enough!
-Dialogue: 0,0:04:48.39,0:04:50.02,Default,Grace,0,0,0,,This is happening to me!
-Dialogue: 0,0:04:50.02,0:04:52.27,Default,Grace,0,0,0,,Quit making it all about you!
+Dialogue: 0,0:04:48.39,0:04:50.02,Default,Grace,0,0,0,,This is happening to {\i1}me{\i0}!
+Dialogue: 0,0:04:50.02,0:04:52.27,Default,Grace,0,0,0,,Quit making it all about {\i1}you{\i0}!
 Dialogue: 0,0:04:52.27,0:04:53.56,Default,Grace,0,0,0,,I say when I look at it.
 Dialogue: 0,0:04:53.56,0:04:55.23,Default,Grace,0,0,0,,I say what I do about it.
 Dialogue: 0,0:04:55.23,0:04:58.69,Default,Grace,0,0,0,,You need to back off\Nand give me some space!
@@ -171,7 +172,8 @@ Dialogue: 0,0:07:26.18,0:07:28.22,Default,The Cat,0,0,0,,I didn't realize you we
 Dialogue: 0,0:07:28.22,0:07:29.68,Default,The Cat,0,0,0,,until the next car.
 Dialogue: 0,0:07:30.10,0:07:31.64,Default,Simon,0,0,0,,But you never came back.
 Dialogue: 0,0:07:31.64,0:07:32.52,Default,The Cat,0,0,0,,I...
-Dialogue: 0,0:07:33.52,0:07:34.23,Default,The Cat,0,0,0,,No.
+Comment: 0,0:07:33.52,0:07:34.23,Default,The Cat,0,0,0,,No.
+Dialogue: 0,0:07:33.52,0:07:34.23,Default,The Cat,0,0,0,,know.
 Dialogue: 0,0:07:37.98,0:07:39.90,Default,The Cat,0,0,0,,I am who I am, Simon.
 Dialogue: 0,0:07:40.48,0:07:42.57,Default,The Cat,0,0,0,,I can't give you more than that.
 Dialogue: 0,0:07:57.58,0:07:59.75,Default,The Cat,0,0,0,,Could you give me\Na few more details?
