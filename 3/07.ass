@@ -22,17 +22,15 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.01,0:00:03.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:05.00,0:00:11.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:00:14.01,0:00:17.00,Default,,0,0,0,,Simon: Wh-- What?
-Dialogue: 0,0:00:17.00,0:00:18.01,Default,,0,0,0,,Amelia: The train cars,\Ngenius.
+Dialogue: 0,0:00:14.01,0:00:17.00,Default,,0,0,0,,Wh— What?
+Dialogue: 0,0:00:17.00,0:00:18.01,Default,,0,0,0,,The train cars,\Ngenius.
 Dialogue: 0,0:00:18.01,0:00:20.00,Default,,0,0,0,,I scanned this car\Nfor aberrations
 Dialogue: 0,0:00:20.00,0:00:21.01,Default,,0,0,0,,and found nothing.
 Dialogue: 0,0:00:21.01,0:00:22.02,Default,,0,0,0,,Then you're here\Nfor all of one minute,
 Dialogue: 0,0:00:22.02,0:00:24.00,Default,,0,0,0,,and I get an alert\Nthat there are lines of code
 Dialogue: 0,0:00:24.01,0:00:26.01,Default,,0,0,0,,that don't match\Nthe reality of the car.
 Dialogue: 0,0:00:26.01,0:00:28.02,Default,,0,0,0,,We've barely escaped\Nthe ejecting train cars!
-Dialogue: 0,0:00:29.00,0:00:30.01,Default,,0,0,0,,{\i1}We're{\i\i1}the victims here.{\i}
+Dialogue: 0,0:00:29.00,0:00:30.01,Default,,0,0,0,,{\i1}We're{\i0} the victims here.
 Dialogue: 0,0:00:30.01,0:00:32.00,Default,,0,0,0,,There are no victims.
 Dialogue: 0,0:00:32.00,0:00:33.02,Default,,0,0,0,,There's a glitch\Non the train.
 Dialogue: 0,0:00:34.00,0:00:36.01,Default,,0,0,0,,One sent me out from the Engine\Nto resolve it.
@@ -41,20 +39,18 @@ Dialogue: 0,0:00:38.01,0:00:40.01,Default,,0,0,0,,One-One-One.
 Dialogue: 0,0:00:40.01,0:00:42.00,Default,,0,0,0,,The False Conductor!
 Dialogue: 0,0:00:42.00,0:00:43.02,Default,,0,0,0,,He's been trying\Nto kill us ever since
 Dialogue: 0,0:00:44.00,0:00:46.01,Default,,0,0,0,,he took over the train\Nfrom the True Conductor!
-Dialogue: 0,0:00:46.01,0:00:47.01,Default,,0,0,0,,The true --
-Dialogue: 0,0:00:47.02,0:00:50.02,Default,,0,0,0,,[ Chuckles ]
+Dialogue: 0,0:00:46.01,0:00:47.01,Default,,0,0,0,,The true—
 Dialogue: 0,0:00:51.00,0:00:53.02,Default,,0,0,0,,One has no idea you exist,\Nshort pants.
 Dialogue: 0,0:00:54.00,0:00:56.00,Default,,0,0,0,,At least no more so\Nthan any of the passengers.
 Dialogue: 0,0:00:56.00,0:01:00.00,Default,,0,0,0,,In a very real sense,\Nwe're just numbers to him.
 Dialogue: 0,0:01:00.00,0:01:01.02,Default,,0,0,0,,Ugh. Hang on.
-Dialogue: 0,0:01:02.00,0:01:04.00,Default,,0,0,0,,[ Sighs ]
 Dialogue: 0,0:01:04.00,0:01:06.00,Default,,0,0,0,,Every passenger\Nis important.
 Dialogue: 0,0:01:06.00,0:01:09.02,Default,,0,0,0,,Their well-being and progress\Nis what the train is all about.
 Dialogue: 0,0:01:09.02,0:01:12.02,Default,,0,0,0,,All aboard the growth train,\Ntoot toot, wheeeee!
 Dialogue: 0,0:01:12.02,0:01:14.01,Default,,0,0,0,,Sincerely, Your Conductor,
 Dialogue: 0,0:01:14.02,0:01:16.00,Default,,0,0,0,,One...
 Dialogue: 0,0:01:16.00,0:01:17.02,Default,,0,0,0,,One.
-Dialogue: 0,0:01:17.02,0:01:20.00,Default,,0,0,0,,[ Laughs ]\NYou're weird.
+Dialogue: 0,0:01:17.02,0:01:20.00,Default,,0,0,0,,You're weird.
 Dialogue: 0,0:01:20.01,0:01:22.00,Default,,0,0,0,,Yes! I am!
 Dialogue: 0,0:01:22.00,0:01:25.00,Default,,0,0,0,,Good heavens,\Nyou three really have no idea
 Dialogue: 0,0:01:25.00,0:01:26.00,Default,,0,0,0,,what's been happening?
@@ -70,8 +66,9 @@ Dialogue: 0,0:01:43.02,0:01:45.00,Default,,0,0,0,,as to what's gone wrong.
 Dialogue: 0,0:01:45.00,0:01:46.02,Default,,0,0,0,,So start talking.
 Dialogue: 0,0:01:47.00,0:01:50.01,Default,,0,0,0,,You're the number cluster\Nwe've been tracking!
 Dialogue: 0,0:01:50.01,0:01:52.00,Default,,0,0,0,,You've been tracking me?
-Dialogue: 0,0:01:52.00,0:01:54.02,Default,,0,0,0,,It hasn't been the Apex!\NThe what?
-Dialogue: 0,0:01:54.02,0:01:56.01,Default,,0,0,0,,It was just a single\Nhigh number.
+Dialogue: 0,0:01:52.00,0:01:54.47,Default,,0,0,0,,It hasn't been the Apex!
+Dialogue: 0,0:01:54.47,0:01:55.26,Default,,0,0,0,,The what?
+Dialogue: 0,0:01:55.26,0:01:56.01,Default,,0,0,0,,It was just a single\Nhigh number.
 Dialogue: 0,0:01:56.02,0:01:58.00,Default,,0,0,0,,The highest\Nwe've ever seen.
 Dialogue: 0,0:01:58.01,0:02:00.00,Default,,0,0,0,,Maybe the highest\Nthere's ever been.
 Dialogue: 0,0:02:00.00,0:02:01.00,Default,,0,0,0,,Rude.
@@ -80,8 +77,6 @@ Dialogue: 0,0:02:02.02,0:02:06.02,Default,,0,0,0,,of anyone on the train,\Nexcep
 Dialogue: 0,0:02:06.02,0:02:09.00,Default,,0,0,0,,I don't care.\NThis isn't about my number.
 Dialogue: 0,0:02:09.00,0:02:10.01,Default,,0,0,0,,It's about my cars.
 Dialogue: 0,0:02:10.01,0:02:12.00,Default,,0,0,0,,I need information.
-Dialogue: 0,0:02:12.00,0:02:13.00,Default,,0,0,0,,[ Beeping ]
-Dialogue: 0,0:02:13.01,0:02:15.00,Default,,0,0,0,,[ Warbling ]
 Dialogue: 0,0:02:15.01,0:02:17.00,Default,,0,0,0,,The ejected cars,\Nhave there been objects
 Dialogue: 0,0:02:17.00,0:02:19.00,Default,,0,0,0,,that didn't match\Nthe environment?
 Dialogue: 0,0:02:19.00,0:02:21.00,Default,,0,0,0,,Phone booths?\NCollege campuses?
@@ -89,61 +84,46 @@ Dialogue: 0,0:02:21.00,0:02:22.01,Default,,0,0,0,,A lot of turtles?
 Dialogue: 0,0:02:22.01,0:02:24.00,Default,,0,0,0,,Too many turtles?
 Dialogue: 0,0:02:24.00,0:02:26.01,Default,,0,0,0,,A number of turtles\Nthat makes you think, "Why?
 Dialogue: 0,0:02:26.01,0:02:29.00,Default,,0,0,0,,Why turtles again?"
-Dialogue: 0,0:02:29.00,0:02:31.00,Default,,0,0,0,,[ Gasps ] Grace!
+Dialogue: 0,0:02:29.00,0:02:31.00,Default,,0,0,0,,Grace!
 Dialogue: 0,0:02:31.00,0:02:32.01,Default,,0,0,0,,That first shifter!
 Dialogue: 0,0:02:32.01,0:02:34.00,Default,,0,0,0,,It had turtles.
-Dialogue: 0,0:02:34.00,0:02:37.00,Default,,0,0,0,,Simon, here -- now.
-Dialogue: 0,0:02:37.00,0:02:39.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:02:39.02,0:02:42.00,Default,,0,0,0,,We have to get away from her.\NWhat?!
+Dialogue: 0,0:02:34.00,0:02:37.00,Default,,0,0,0,,Simon, here— now.
+Dialogue: 0,0:02:39.02,0:02:41.68,Default,,0,0,0,,We have to get away from her.
+Dialogue: 0,0:02:41.68,0:02:42.00,Default,,0,0,0,,What?!
 Dialogue: 0,0:02:42.01,0:02:43.01,Default,,0,0,0,,She probably knows\Nmore about numbers
 Dialogue: 0,0:02:43.02,0:02:45.00,Default,,0,0,0,,than anyone\Non the train.
 Dialogue: 0,0:02:45.00,0:02:47.01,Default,,0,0,0,,She might know\Nwhat's wrong with yours.
-Dialogue: 0,0:02:47.01,0:02:49.01,Default,,0,0,0,,Well...exactly!
+Dialogue: 0,0:02:47.01,0:02:49.01,Default,,0,0,0,,Well... exactly!
 Dialogue: 0,0:02:49.01,0:02:51.02,Default,,0,0,0,,She might not\Njust know something.
 Dialogue: 0,0:02:52.00,0:02:54.00,Default,,0,0,0,,She might have something\Nto do with it.
 Dialogue: 0,0:02:54.01,0:02:55.01,Default,,0,0,0,,She's working\Nwith One-One,
-Dialogue: 0,0:02:55.01,0:02:58.00,Default,,0,0,0,,and -- and, um...
-Dialogue: 0,0:02:58.00,0:03:00.00,Default,,0,0,0,,Code A17 of the Apex --
+Dialogue: 0,0:02:55.01,0:02:58.00,Default,,0,0,0,,and— and, um...
+Dialogue: 0,0:02:58.00,0:03:00.00,Default,,0,0,0,,Code A17 of the Apex—
 Dialogue: 0,0:03:00.00,0:03:02.01,Default,,0,0,0,,never trust\Nadult passengers.
-Dialogue: 0,0:03:02.02,0:03:04.01,Default,,0,0,0,,[ Sighs ]
 Dialogue: 0,0:03:04.01,0:03:05.02,Default,,0,0,0,,Okay. Okay.
 Dialogue: 0,0:03:06.00,0:03:06.02,Default,,0,0,0,,Right.
 Dialogue: 0,0:03:06.02,0:03:08.01,Default,,0,0,0,,Is she looking at us?
-Dialogue: 0,0:03:08.01,0:03:10.01,Default,,0,0,0,,[ Device beeps ]
 Dialogue: 0,0:03:10.01,0:03:12.00,Default,,0,0,0,,What?
-Dialogue: 0,0:03:14.01,0:03:16.00,Default,,0,0,0,,♪♪
 Dialogue: 0,0:03:16.00,0:03:18.00,Default,,0,0,0,,Where are you going?!
 Dialogue: 0,0:03:18.00,0:03:20.01,Default,,0,0,0,,Ugh! I hate children.
-Dialogue: 0,0:03:20.02,0:03:23.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:23.01,0:03:24.02,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:03:25.00,0:03:27.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:03:27.00,0:03:30.00,Default,,0,0,0,,[ Breathing heavily ]
-Dialogue: 0,0:03:30.00,0:03:31.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:32.00,0:03:34.01,Default,,0,0,0,,[ All panting ]
-Dialogue: 0,0:03:34.01,0:03:42.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:03:42.00,0:03:43.02,Default,,0,0,0,,Aah!
-Dialogue: 0,0:03:43.02,0:03:52.00,Default,,0,0,0,,♪♪
+Comment: 0,0:03:42.00,0:03:43.02,Default,,0,0,0,,Aah!
 Dialogue: 0,0:03:52.00,0:03:55.01,Default,,0,0,0,,This car\Nis marked for ejection!
 Dialogue: 0,0:03:55.02,0:03:58.01,Default,,0,0,0,,You know I can tell\Nyou children are in the car.
 Dialogue: 0,0:03:58.02,0:04:01.00,Default,,0,0,0,,I can see your numbers\Non the screen.
 Dialogue: 0,0:04:01.00,0:04:03.01,Default,,0,0,0,,Ugh!\NThis interface is garbage.
-Dialogue: 0,0:04:03.01,0:04:05.01,Default,,0,0,0,,[ Sighs ] Phew!
-Dialogue: 0,0:04:05.01,0:04:12.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:12.00,0:04:18.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:18.01,0:04:19.02,Default,,0,0,0,,Aah!
-Dialogue: 0,0:04:19.02,0:04:21.01,Default,,0,0,0,,[ Grunts ]\NThere!
+Dialogue: 0,0:04:03.01,0:04:05.01,Default,,0,0,0,,Phew!
+Comment: 0,0:04:18.01,0:04:19.02,Default,,0,0,0,,Aah!
+Dialogue: 0,0:04:19.02,0:04:21.01,Default,,0,0,0,,There!
 Dialogue: 0,0:04:21.01,0:04:23.01,Default,,0,0,0,,We can camp\Nfor the night.
-Dialogue: 0,0:04:23.01,0:04:26.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:04:26.01,0:04:27.02,Default,,0,0,0,,[ Groans ]
-Dialogue: 0,0:04:27.02,0:04:30.01,Default,,0,0,0,,♪♪
 Dialogue: 0,0:04:30.01,0:04:32.01,Default,,0,0,0,,Let's check\Nour numbers.
 Dialogue: 0,0:04:32.01,0:04:34.00,Default,,0,0,0,,No change.
 Dialogue: 0,0:04:37.01,0:04:38.01,Default,,0,0,0,,Let me see yours.
-Dialogue: 0,0:04:38.02,0:04:39.01,Default,,0,0,0,,Argh!
+Comment: 0,0:04:38.02,0:04:39.01,Default,,0,0,0,,Argh!
 Dialogue: 0,0:04:39.01,0:04:40.02,Default,,0,0,0,,Ugh! Don't!
-Dialogue: 0,0:04:41.00,0:04:43.00,Default,,0,0,0,,Yeah, don't!\NWhy?!
+Dialogue: 0,0:04:41.00,0:04:42.93,Default,,0,0,0,,Yeah, don't!
+Dialogue: 0,0:04:42.93,0:04:43.00,Default,,0,0,0,,Why?!
 Dialogue: 0,0:04:43.01,0:04:44.02,Default,,0,0,0,,Because I don't\Nwant to know yet!
-Dialogue: 0,0:04:44.02,0:04:46.01,Default,,0,0,0,,I have to know\Nso when we go back --
+Dialogue: 0,0:04:44.02,0:04:46.01,Default,,0,0,0,,I have to know\Nso when we go back—
 Dialogue: 0,0:04:46.01,0:04:48.00,Default,,0,0,0,,Simon, enough!
 Dialogue: 0,0:04:48.00,0:04:49.01,Default,,0,0,0,,This is happening to me!
 Dialogue: 0,0:04:49.01,0:04:51.02,Default,,0,0,0,,Quit making it\Nall about you!
@@ -153,49 +133,27 @@ Dialogue: 0,0:05:01.00,0:05:02.00,Default,,0,0,0,,Okay.
 Dialogue: 0,0:05:02.00,0:05:06.00,Default,,0,0,0,,I, um...
 Dialogue: 0,0:05:06.00,0:05:08.00,Default,,0,0,0,,I'll keep watch outside.
 Dialogue: 0,0:05:08.00,0:05:10.00,Default,,0,0,0,,You guys rest.
-Dialogue: 0,0:05:10.01,0:05:12.00,Default,,0,0,0,,♪♪
 Dialogue: 0,0:05:12.01,0:05:14.01,Default,,0,0,0,,Simon?
 Dialogue: 0,0:05:14.01,0:05:15.01,Default,,0,0,0,,Yeah?
 Dialogue: 0,0:05:15.01,0:05:16.02,Default,,0,0,0,,I...
-Dialogue: 0,0:05:16.02,0:05:18.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:05:18.02,0:05:20.01,Default,,0,0,0,,[ Sighs ]
 Dialogue: 0,0:05:20.01,0:05:21.02,Default,,0,0,0,,Nothing.
 Dialogue: 0,0:05:21.02,0:05:23.01,Default,,0,0,0,,Good thinking.
 Dialogue: 0,0:05:23.01,0:05:25.01,Default,,0,0,0,,Hmm.
-Dialogue: 0,0:05:25.01,0:05:30.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:05:33.00,0:05:34.01,Default,,0,0,0,,[ Hazel screams ]
 Dialogue: 0,0:05:34.01,0:05:36.00,Default,,0,0,0,,Hazel, what are you doing?
-Dialogue: 0,0:05:36.00,0:05:38.00,Default,,0,0,0,,[ Screams continue ]
 Dialogue: 0,0:05:38.00,0:05:40.00,Default,,0,0,0,,I'm mad!
 Dialogue: 0,0:05:40.00,0:05:42.00,Default,,0,0,0,,You need sleep.
 Dialogue: 0,0:05:42.00,0:05:43.02,Default,,0,0,0,,No!\NHe grabbed your arm!
 Dialogue: 0,0:05:43.02,0:05:46.01,Default,,0,0,0,,He's being mean to you,\Nlike Tuba!
-Dialogue: 0,0:05:46.01,0:05:47.01,Default,,0,0,0,,[ Gasps ]
 Dialogue: 0,0:05:47.01,0:05:50.02,Default,,0,0,0,,Hazel, the shell!
 Dialogue: 0,0:05:50.02,0:05:53.00,Default,,0,0,0,,Good!\NI'll use it to fight him!
-Dialogue: 0,0:05:53.00,0:05:54.01,Default,,0,0,0,,Hazel, Shhhh!
+Dialogue: 0,0:05:53.00,0:05:54.01,Default,,0,0,0,,Hazel, shhh!
 Dialogue: 0,0:05:54.01,0:05:55.01,Default,,0,0,0,,I don't care.
 Dialogue: 0,0:05:55.01,0:05:57.01,Default,,0,0,0,,I can protect us\Nwith it.
-Dialogue: 0,0:05:57.01,0:05:59.00,Default,,0,0,0,,Hazel come here.
+Dialogue: 0,0:05:57.01,0:05:59.00,Default,,0,0,0,,Hazel, come here.
 Dialogue: 0,0:05:59.00,0:06:01.00,Default,,0,0,0,,I'll be Tuba now.
 Dialogue: 0,0:06:01.00,0:06:03.00,Default,,0,0,0,,Okay. It's okay.
 Dialogue: 0,0:06:03.00,0:06:04.01,Default,,0,0,0,,Stay close to me.
 Dialogue: 0,0:06:04.01,0:06:06.01,Default,,0,0,0,,I'm Tuba.
-Dialogue: 0,0:06:06.01,0:06:09.00,Default,,0,0,0,,[ Hazel sobs ]
-Dialogue: 0,0:06:09.00,0:06:12.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:12.02,0:06:15.00,Default,,0,0,0,,[ Clanking ]
-Dialogue: 0,0:06:15.01,0:06:18.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:20.00,0:06:22.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:22.00,0:06:23.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:06:23.00,0:06:24.02,Default,,0,0,0,,[ Electricity crackles ]
-Dialogue: 0,0:06:25.00,0:06:31.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:31.01,0:06:33.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:06:33.00,0:06:34.00,Default,,0,0,0,,[ Electricity crackles ]
-Dialogue: 0,0:06:34.01,0:06:39.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:06:39.00,0:06:41.00,Default,,0,0,0,,[ Grunts ]
-Dialogue: 0,0:06:41.00,0:06:43.00,Default,,0,0,0,,[ Electricity crackles ]
-Dialogue: 0,0:06:46.00,0:06:48.00,Default,,0,0,0,,[ Fire crackling ]
-Dialogue: 0,0:06:50.00,0:06:51.02,Default,,0,0,0,,[ Bell jingles ]
 Dialogue: 0,0:06:52.01,0:06:54.00,Default,,0,0,0,,Hey!
 Dialogue: 0,0:06:54.00,0:06:56.00,Default,,0,0,0,,Simon, I presume.
 Dialogue: 0,0:06:56.00,0:06:59.00,Default,,0,0,0,,You're gonna help me.
@@ -206,26 +164,20 @@ Dialogue: 0,0:07:05.00,0:07:06.01,Default,,0,0,0,,what's wrong with Grace.
 Dialogue: 0,0:07:06.01,0:07:08.01,Default,,0,0,0,,Oh, piffle.\NI can do that.
 Dialogue: 0,0:07:08.01,0:07:10.02,Default,,0,0,0,,One, she's very full\Nof herself.
 Dialogue: 0,0:07:10.02,0:07:13.01,Default,,0,0,0,,Two, she has no respect\Nfor personal property.
-Dialogue: 0,0:07:13.01,0:07:15.00,Default,,0,0,0,,Three --\NThis isn't a joke!
+Dialogue: 0,0:07:13.01,0:07:15.00,Default,,0,0,0,,Three—\NThis isn't a joke!
 Dialogue: 0,0:07:15.01,0:07:18.00,Default,,0,0,0,,You left me,\Nso give me something for Grace!
 Dialogue: 0,0:07:18.00,0:07:20.00,Default,,0,0,0,,I didn't leave you, Simon.
 Dialogue: 0,0:07:20.00,0:07:21.01,Default,,0,0,0,,I ran.
 Dialogue: 0,0:07:21.01,0:07:22.02,Default,,0,0,0,,There's a difference.
 Dialogue: 0,0:07:23.00,0:07:24.00,Default,,0,0,0,,No, there isn't!
-Dialogue: 0,0:07:24.00,0:07:25.01,Default,,0,0,0,,That Ghom almost got me.
+Dialogue: 0,0:07:24.00,0:07:25.01,Default,,0,0,0,,That gohm almost got me.
 Dialogue: 0,0:07:25.02,0:07:28.00,Default,,0,0,0,,I didn't realize\Nyou weren't by my side
 Dialogue: 0,0:07:28.00,0:07:29.01,Default,,0,0,0,,until the next car.
-Dialogue: 0,0:07:29.01,0:07:31.00,Default,,0,0,0,,[ Voice breaking ]\NBut you never came back.
+Dialogue: 0,0:07:29.01,0:07:31.00,Default,,0,0,0,,But you never came back.
 Dialogue: 0,0:07:31.01,0:07:33.00,Default,,0,0,0,,I...
 Dialogue: 0,0:07:33.00,0:07:34.01,Default,,0,0,0,,No.
-Dialogue: 0,0:07:34.01,0:07:37.01,Default,,0,0,0,,♪♪
 Dialogue: 0,0:07:37.02,0:07:40.00,Default,,0,0,0,,I am who I am, Simon.
 Dialogue: 0,0:07:40.00,0:07:42.01,Default,,0,0,0,,I can't give you more\Nthan that.
-Dialogue: 0,0:07:42.01,0:07:45.00,Default,,0,0,0,,[ Fire crackling ]
-Dialogue: 0,0:07:45.00,0:07:48.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:48.01,0:07:50.00,Default,,0,0,0,,[ Sighs ]
-Dialogue: 0,0:07:53.00,0:07:55.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:07:56.00,0:07:57.00,Default,,0,0,0,,[ Inhales deeply ]
 Dialogue: 0,0:07:57.00,0:07:59.00,Default,,0,0,0,,Could you give me\Na few more details?
 Dialogue: 0,0:07:59.01,0:08:03.00,Default,,0,0,0,,Something more helpful than,\N"I need a thing?"
 Dialogue: 0,0:08:03.01,0:08:05.01,Default,,0,0,0,,Grace's number\Nis broken.
@@ -237,16 +189,15 @@ Dialogue: 0,0:08:15.01,0:08:17.01,Default,,0,0,0,,She has the highest number\Nwe
 Dialogue: 0,0:08:17.01,0:08:18.01,Default,,0,0,0,,It's almost up\Nto her neck!
 Dialogue: 0,0:08:18.02,0:08:20.00,Default,,0,0,0,,But Grace doesn't even want\Nto talk to her!
 Dialogue: 0,0:08:20.01,0:08:22.01,Default,,0,0,0,,She made us run!
-Dialogue: 0,0:08:22.01,0:08:25.00,Default,,0,0,0,,The woman --\NHow old is she?
+Dialogue: 0,0:08:22.01,0:08:25.00,Default,,0,0,0,,The woman—\NHow old is she?
 Dialogue: 0,0:08:25.00,0:08:28.00,Default,,0,0,0,,How should I know?\NShe's just...old.
 Dialogue: 0,0:08:28.00,0:08:29.01,Default,,0,0,0,,And British.
-Dialogue: 0,0:08:29.01,0:08:31.01,Default,,0,0,0,,[ Hisses ] Amelia.
+Dialogue: 0,0:08:29.01,0:08:31.01,Default,,0,0,0,,Amelia.
 Dialogue: 0,0:08:31.01,0:08:33.00,Default,,0,0,0,,Her name is Amelia.
 Dialogue: 0,0:08:33.00,0:08:35.00,Default,,0,0,0,,We've had some\Nunpleasant dealings.
 Dialogue: 0,0:08:35.00,0:08:37.02,Default,,0,0,0,,She tried to kill me\Na few times, actually.
 Dialogue: 0,0:08:38.00,0:08:41.00,Default,,0,0,0,,Though I suppose that\Nwould only endear her to you.
 Dialogue: 0,0:08:41.01,0:08:44.01,Default,,0,0,0,,She's dangerous.\NI'd stay clear of her.
-Dialogue: 0,0:08:44.01,0:08:46.00,Default,,0,0,0,,♪♪
 Dialogue: 0,0:08:46.01,0:08:47.01,Default,,0,0,0,,So...
 Dialogue: 0,0:08:47.01,0:08:49.00,Default,,0,0,0,,Grace was right to run?
 Dialogue: 0,0:08:49.00,0:08:52.00,Default,,0,0,0,,You Apex work so hard\Nto get your numbers up.
@@ -265,27 +216,21 @@ Dialogue: 0,0:09:13.00,0:09:15.01,Default,,0,0,0,,and they're supposed\Nto go do
 Dialogue: 0,0:09:15.01,0:09:17.01,Default,,0,0,0,,You say Grace's number\Nis broken,
 Dialogue: 0,0:09:17.01,0:09:18.01,Default,,0,0,0,,but the truth is,
 Dialogue: 0,0:09:18.01,0:09:20.01,Default,,0,0,0,,you just don't like\Nhow it's working.
-Dialogue: 0,0:09:20.01,0:09:21.02,Default,,0,0,0,,Th-- That's not it!
+Dialogue: 0,0:09:20.01,0:09:21.02,Default,,0,0,0,,Th— That's not it!
 Dialogue: 0,0:09:22.00,0:09:23.01,Default,,0,0,0,,I don't believe you!\NYou're lying!
 Dialogue: 0,0:09:23.01,0:09:25.00,Default,,0,0,0,,I never lie.
 Dialogue: 0,0:09:25.00,0:09:26.01,Default,,0,0,0,,You lie all the time.
 Dialogue: 0,0:09:26.02,0:09:29.01,Default,,0,0,0,,Well, I never lie\Nwhen I'm telling the truth.
-Dialogue: 0,0:09:29.01,0:09:33.02,Default,,0,0,0,,♪♪
 Dialogue: 0,0:09:33.02,0:09:35.02,Default,,0,0,0,,She's not acting\Nlike she should!
-Dialogue: 0,0:09:35.02,0:09:38.00,Default,,0,0,0,,And how exactly {\i1}should{\i}\Nshe be acting?
+Dialogue: 0,0:09:35.02,0:09:38.00,Default,,0,0,0,,And how exactly {\i1}should{\i0}\Nshe be acting?
 Dialogue: 0,0:09:38.00,0:09:40.01,Default,,0,0,0,,She's not one of your\Nminiatures, Simon.
 Dialogue: 0,0:09:40.01,0:09:42.01,Default,,0,0,0,,She's shutting me out!
-Dialogue: 0,0:09:42.01,0:09:48.01,Default,,0,0,0,,♪♪
 Dialogue: 0,0:09:48.01,0:09:50.00,Default,,0,0,0,,Please, Samantha.
 Dialogue: 0,0:09:50.00,0:09:52.01,Default,,0,0,0,,I have to know why.
-Dialogue: 0,0:09:53.01,0:09:54.02,Default,,0,0,0,,[ Inhales deeply, sighs ]
 Dialogue: 0,0:09:55.00,0:09:56.00,Default,,0,0,0,,Very well.
 Dialogue: 0,0:09:56.01,0:09:58.01,Default,,0,0,0,,The only way to find out\Nwhat she isn't telling you
 Dialogue: 0,0:09:58.01,0:10:01.01,Default,,0,0,0,,is to see what\Nshe isn't telling you.
 Dialogue: 0,0:10:01.02,0:10:02.02,Default,,0,0,0,,What?
-Dialogue: 0,0:10:02.02,0:10:09.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:09.01,0:10:16.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:16.00,0:10:22.01,Default,,0,0,0,,♪♪
 Dialogue: 0,0:10:22.01,0:10:24.02,Default,,0,0,0,,You'll have to extract tape\Nof her memories
 Dialogue: 0,0:10:25.00,0:10:26.00,Default,,0,0,0,,and go inside.
 Dialogue: 0,0:10:26.01,0:10:28.01,Default,,0,0,0,,Since it isn't yours,\Nit's safe.
@@ -293,14 +238,11 @@ Dialogue: 0,0:10:28.01,0:10:30.01,Default,,0,0,0,,Going into your own tape,\Nhow
 Dialogue: 0,0:10:30.01,0:10:33.00,Default,,0,0,0,,can be unpredictable\Nand dangerous.
 Dialogue: 0,0:10:33.01,0:10:35.00,Default,,0,0,0,,I knew you'd have something.
 Dialogue: 0,0:10:35.00,0:10:38.01,Default,,0,0,0,,You always do.
-Dialogue: 0,0:10:38.01,0:10:40.01,Default,,0,0,0,,But, Simon!\NWhat?
+Dialogue: 0,0:10:38.01,0:10:39.91,Default,,0,0,0,,But, Simon!
+Dialogue: 0,0:10:39.91,0:10:40.01,Default,,0,0,0,,What?
 Dialogue: 0,0:10:40.01,0:10:44.00,Default,,0,0,0,,We shouldn't always know\Nwhat's in a person's mind,
 Dialogue: 0,0:10:44.00,0:10:47.00,Default,,0,0,0,,especially the minds\Nof those we love.
 Dialogue: 0,0:10:47.00,0:10:49.00,Default,,0,0,0,,I'm not a child anymore.
 Dialogue: 0,0:10:49.00,0:10:51.02,Default,,0,0,0,,I know what I'm doing.
-Dialogue: 0,0:10:51.02,0:10:56.01,Default,,0,0,0,,♪♪
-Dialogue: 0,0:10:56.01,0:10:58.00,Default,,0,0,0,,Oh, Simon...\N[ Door opens, wind gusts ]
+Dialogue: 0,0:10:56.01,0:10:58.00,Default,,0,0,0,,Oh, Simon...
 Dialogue: 0,0:10:58.01,0:11:00.02,Default,,0,0,0,,...you have no idea.
-Dialogue: 0,0:11:01.00,0:11:05.00,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:06.02,0:11:12.02,Default,,0,0,0,,♪♪
-Dialogue: 0,0:11:12.02,0:11:19.00,Default,,0,0,0,,♪♪
