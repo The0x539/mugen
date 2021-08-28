@@ -45,10 +45,10 @@ Dialogue: 0,0:01:33.00,0:01:36.01,Default,Amelia,0,0,0,,Ugh.\NYou want eggs?
 Dialogue: 0,0:01:36.01,0:01:37.01,Default,Amelia,0,0,0,,I'm making eggs.
 Dialogue: 0,0:01:37.01,0:01:38.01,Default,Hazel,0,0,0,,Yes please!
 Dialogue: 0,0:01:38.02,0:01:40.01,Default,Grace,0,0,0,,Hazel!
-Dialogue: 0,0:01:43.01,0:01:46.01,Default,Amelia,0,0,0,,Believe me,\NI don't enjoy asking for help.
+Dialogue: 0,0:01:43.01,0:01:46.01,Default,Amelia,0,0,0,,Believe me,\NI don't enjoy asking for your help.
 Dialogue: 0,0:01:47.02,0:01:50.00,Default,Amelia,0,0,0,,But I need to understand\Nthis anomaly.
 Dialogue: 0,0:01:50.00,0:01:52.00,Default,Amelia,0,0,0,,I appreciate your cooperation,\NGrace.
-Dialogue: 0,0:01:55.00,0:01:57.01,Default,Grace,0,0,0,,Wait. Your...\Nyour number just went down!
+Dialogue: 0,0:01:55.00,0:01:57.01,Default,Grace,0,0,0,,Wait. Y-Your number just went down!
 Dialogue: 0,0:01:57.01,0:01:58.02,Default,Amelia,0,0,0,,Did it?
 Dialogue: 0,0:01:59.00,0:02:00.00,Default,Amelia,0,0,0,,When a number's this high,\Na stray digit here
 Dialogue: 0,0:02:00.01,0:02:03.01,Default,Amelia,0,0,0,,or there doesn't really make\Nmuch of a dent.
@@ -152,7 +152,7 @@ Dialogue: 0,0:06:12.01,0:06:15.00,Default,Amelia,0,0,0,,Again and again and agai
 Dialogue: 0,0:06:15.01,0:06:17.02,Default,Amelia,0,0,0,,Created things that\Nnever should have been.
 Dialogue: 0,0:06:17.02,0:06:19.01,Default,Simon,0,0,0,,Repeating pod propaganda...
 Dialogue: 0,0:06:19.01,0:06:20.01,Default,Grace,0,0,0,,Shh!
-Dialogue: 0,0:06:20.01,0:06:22.01,Default,Amelia,0,0,0,,{\i1}I{\i0}made the cars I'm ejecting.
+Dialogue: 0,0:06:20.01,0:06:22.01,Default,Amelia,0,0,0,,{\i1}I{\i0} made the cars I'm ejecting.
 Dialogue: 0,0:06:22.02,0:06:26.02,Default,Amelia,0,0,0,,But One didn't fancy that\Nso any car he didn't make,
 Dialogue: 0,0:06:27.00,0:06:28.00,Default,Amelia,0,0,0,,I must quarantine.
 Dialogue: 0,0:06:28.01,0:06:33.00,Default,Grace,0,0,0,,So are you a prisoner of...\NOne-One, er... One?
