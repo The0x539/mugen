@@ -124,17 +124,9 @@ Dialogue: 0,0:05:02.01,0:05:03.02,Default,Grace,0,0,0,,I trust you.
 Dialogue: 0,0:05:03.02,0:05:05.00,Default,Grace,0,0,0,,But right now?
 Dialogue: 0,0:05:05.00,0:05:08.00,Default,Grace,0,0,0,,I need {\i1}you{\i0} to trust {\i1}me{\i0}.
 Dialogue: 0,0:05:08.00,0:05:09.02,Default,Grace,0,0,0,,Can ya do that, ponytail?
-Comment: 0,0:05:17.02,0:05:21.01,Default,Cubey,0,0,0,,Hey!
-Comment: 0,0:05:17.02,0:05:21.01,Default,Cubey,0,0,0,,Ho!
-Comment: 0,0:05:17.02,0:05:21.01,Default,Cubey,0,0,0,,Whoa!
-Comment: 0,0:05:22.01,0:05:24.01,Default,Cubey,0,0,0,,Ho!
-Comment: 0,0:05:22.01,0:05:24.01,Default,Cubey,0,0,0,,Whoa!
-Comment: 0,0:05:22.01,0:05:24.01,Default,Cubey,0,0,0,,Hey!
 Dialogue: 0,0:05:24.01,0:05:26.01,Default,Amelia,0,0,0,,Brilliant.
 Dialogue: 0,0:05:26.02,0:05:29.00,Default,Amelia,0,0,0,,It's reset.
 Dialogue: 0,0:05:29.00,0:05:32.02,Default,Amelia,0,0,0,,We'll have to wait.
-Comment: 0,0:05:38.86,0:05:38.90,Default,Cubey,0,0,0,,Ho!
-Comment: 0,0:05:38.86,0:05:38.90,Default,Cubey,0,0,0,,Hey!
 Dialogue: 0,0:05:36.02,0:05:38.01,Default,Hazel,0,0,0,,So what do you think?
 Dialogue: 0,0:05:38.01,0:05:39.02,Default,Amelia,0,0,0,,I think they're sticks.
 Dialogue: 0,0:05:39.02,0:05:43.00,Default,Hazel,0,0,0,,They're robots.
@@ -207,12 +199,6 @@ Dialogue: 0,0:09:01.00,0:09:03.01,Default,Amelia,0,0,0,,If the pulse I created p
 Dialogue: 0,0:09:03.02,0:09:05.00,Default,Amelia,0,0,0,,it will be ejected.
 Dialogue: 0,0:09:05.01,0:09:07.00,Default,Amelia,0,0,0,,I'll take it from here.
 Dialogue: 0,0:09:07.00,0:09:10.00,Default,Amelia,0,0,0,,The girl needs to be quarantined\Nbefore the pulse returns.
-Comment: 0,0:09:10.00,0:09:11.01,Default,Cubey,0,0,0,,Whoa!
-Comment: 0,0:09:10.00,0:09:11.01,Default,Cubey,0,0,0,,Ho!
-Comment: 0,0:09:10.00,0:09:11.01,Default,Cubey,0,0,0,,Hey!
-Comment: 0,0:09:11.02,0:09:13.00,Default,Cubey,0,0,0,,Whoa!
-Comment: 0,0:09:11.02,0:09:13.00,Default,Cubey,0,0,0,,Hey!
-Comment: 0,0:09:11.02,0:09:13.00,Default,Cubey,0,0,0,,Ho!
 Dialogue: 0,0:09:13.00,0:09:16.00,Default,Amelia,0,0,0,,Once the canyon fills,\Nyou'll be able to exit.
 Dialogue: 0,0:09:16.00,0:09:17.00,Default,Simon,0,0,0,,Let's go— now.
 Dialogue: 0,0:09:17.01,0:09:18.01,Default,Simon,0,0,0,,Leave the null\Nwith the old woman,
@@ -222,9 +208,6 @@ Dialogue: 0,0:09:23.01,0:09:27.00,Default,Hazel,0,0,0,,You aren't leaving me,\Na
 Dialogue: 0,0:09:30.02,0:09:33.00,Default,Grace,0,0,0,,I'll leave\Nif I want to, null!
 Dialogue: 0,0:09:33.00,0:09:34.00,Default,Hazel,0,0,0,,Huh?
 Dialogue: 0,0:09:34.01,0:09:35.01,Default,Simon,0,0,0,,Heh.
-Comment: 0,0:09:39.35,0:09:39.39,Default,Grace,0,0,0,,Whoa!
-Comment: 0,0:09:39.35,0:09:39.39,Default,Grace,0,0,0,,Whoa!
-Comment: 0,0:09:39.35,0:09:39.39,Default,Grace,0,0,0,,Hey!
 Dialogue: 0,0:09:41.00,0:09:44.02,Default,Grace,0,0,0,,We should camp out\Nfor the night, though.
 Dialogue: 0,0:09:45.00,0:09:46.01,Default,Grace,0,0,0,,Wait until the pit fills.
 Dialogue: 0,0:09:46.01,0:09:48.00,Default,Simon,0,0,0,,What is going on?
@@ -243,3 +226,33 @@ Dialogue: 0,0:10:53.01,0:10:55.00,Default,Grace,0,0,0,Tape,He won't!
 Dialogue: 0,0:10:55.00,0:10:58.01,Default,Grace,0,0,0,Tape,We just won't tell Simon, okay?
 Dialogue: 0,0:10:59.01,0:11:01.01,Default,Grace,0,0,0,Tape,...just won't tell Simon, okay?
 Dialogue: 0,0:11:01.01,0:11:04.00,Default,Grace,0,0,0,Tape,...won't tell Simon, okay?
+Dialogue: 0,0:05:17.80,0:05:17.88,Default,Cubey,0,0,0,,{\pos(1202,424)}Hey!
+Dialogue: 0,0:05:17.88,0:05:17.96,Default,Cubey,0,0,0,,{\pos(1162,502)}Hey!
+Dialogue: 0,0:05:17.96,0:05:18.05,Default,Cubey,0,0,0,,{\pos(1130,576)}Hey!
+Dialogue: 0,0:05:18.05,0:05:18.13,Default,Cubey,0,0,0,,{\pos(1100,640)}Hey!
+Dialogue: 0,0:05:18.13,0:05:18.21,Default,Cubey,0,0,0,,{\pos(1064,706)}Hey!
+Dialogue: 0,0:05:18.21,0:05:18.30,Default,Cubey,0,0,0,,{\pos(1034,780)}Hey!
+Dialogue: 0,0:05:18.30,0:05:18.38,Default,Cubey,0,0,0,,{\pos(1008,859)}Hey!
+Dialogue: 0,0:05:18.38,0:05:18.46,Default,Cubey,0,0,0,,{\pos(988,935)}Hey!
+Dialogue: 0,0:05:18.46,0:05:18.55,Default,Cubey,0,0,0,,{\pos(968,995)}Hey!
+Dialogue: 0,0:05:18.55,0:05:18.63,Default,Cubey,0,0,0,,{\pos(954,1063)}Hey!
+Dialogue: 0,0:05:18.63,0:05:18.71,Default,Cubey,0,0,0,,{\pos(938,1135)}Hey!
+Dialogue: 0,0:05:18.71,0:05:18.80,Default,Cubey,0,0,0,,{\pos(570,442)}Ho!
+Dialogue: 0,0:05:18.80,0:05:18.88,Default,Cubey,0,0,0,,{\pos(580,494)}Ho!
+Dialogue: 0,0:05:18.88,0:05:18.97,Default,Cubey,0,0,0,,{\pos(584,556)}Ho!
+Dialogue: 0,0:05:18.97,0:05:19.05,Default,Cubey,0,0,0,,{\pos(582,632)}Ho!
+Dialogue: 0,0:05:19.05,0:05:19.13,Default,Cubey,0,0,0,,{\pos(604,708)}Ho!
+Dialogue: 0,0:05:19.13,0:05:19.22,Default,Cubey,0,0,0,,{\pos(624,790)}Ho!
+Dialogue: 0,0:05:19.22,0:05:19.30,Default,Cubey,0,0,0,,{\pos(630,858)}Ho!
+Dialogue: 0,0:05:19.30,0:05:19.38,Default,Cubey,0,0,0,,{\pos(676,938)}Ho!
+Dialogue: 0,0:05:19.38,0:05:19.47,Default,Cubey,0,0,0,,{\pos(702,1024)}Ho!
+Dialogue: 0,0:05:19.47,0:05:19.55,Default,Cubey,0,0,0,,{\pos(716,1090)}Ho!
+Dialogue: 0,0:05:19.55,0:05:19.63,Default,Cubey,0,0,0,,{\pos(720,1138)}Ho!
+Dialogue: 0,0:05:19.63,0:05:19.72,Default,Cubey,0,0,0,,{\fs-3\pos(1670,502)}Whoa!
+Dialogue: 0,0:05:19.72,0:05:19.80,Default,Cubey,0,0,0,,{\fs-3\pos(1622,592)}Whoa!
+Dialogue: 0,0:05:19.80,0:05:19.88,Default,Cubey,0,0,0,,{\fs-3\pos(1566,680)}Whoa!
+Dialogue: 0,0:05:19.88,0:05:19.97,Default,Cubey,0,0,0,,{\fs-3\pos(1516,770)}Whoa!
+Dialogue: 0,0:05:19.97,0:05:20.05,Default,Cubey,0,0,0,,{\fs-3\pos(1472,854)}Whoa!
+Dialogue: 0,0:05:20.05,0:05:20.13,Default,Cubey,0,0,0,,{\fs-3\pos(1422,942)}Whoa!
+Dialogue: 0,0:05:20.13,0:05:20.22,Default,Cubey,0,0,0,,{\fs-3\pos(1376,1030)}Whoa!
+Dialogue: 0,0:05:20.22,0:05:20.30,Default,Cubey,0,0,0,,{\fs-3\pos(1332,1118)}Whoa!
