@@ -54,12 +54,13 @@ Dialogue: 0,0:01:19.93,0:01:22.15,Default,Hazel,0,0,0,,You hated Tuba.
 Dialogue: 0,0:01:23.02,0:01:23.94,Default,Grace,0,0,0,,No.
 Dialogue: 0,0:01:23.94,0:01:26.61,Default,Grace,0,0,0,,I... didn't {\i1}hate{\i0} Tuba.
 Dialogue: 0,0:01:26.61,0:01:28.53,Default,Grace,0,0,0,,But Simon did.
-Dialogue: 0,0:01:29.94,0:01:31.03,Default,Hazel,0,0,0,,Simon's gonna kill me too!
+Dialogue: 0,0:01:29.94,0:01:32.20,Default,Hazel,0,0,0,,Simon's gonna kill me too!
 Dialogue: 0,0:01:32.20,0:01:34.62,Default,Hazel,0,0,0,,Grace, I'm afraid of the wheels!
 Dialogue: 0,0:01:34.62,0:01:35.28,Default,Grace,0,0,0,,No!
 Dialogue: 0,0:01:35.62,0:01:36.53,Default,Grace,0,0,0,,No!
 Dialogue: 0,0:01:36.53,0:01:37.66,Default,Grace,0,0,0,,He won't!
-Dialogue: 0,0:01:38.12,0:01:42.00,Default,Grace,0,0,0,,We just... won't tell Simon, okay?
+Dialogue: 0,0:01:38.12,0:01:39.62,Default,Grace,0,0,0,,We just...
+Dialogue: 0,0:01:39.62,0:01:42.00,Default,Grace,0,0,0,,won't tell Simon, okay?
 Dialogue: 0,0:01:42.00,0:01:43.54,Default,Grace,0,0,0,,He doesn't need to know.
 Dialogue: 0,0:01:43.54,0:01:46.25,Default,Grace,0,0,0,,So we can't let him \Nsee the shell, okay?
 Dialogue: 0,0:01:46.25,0:01:50.34,Default,Grace,0,0,0,,You have to stay calm \Nand take big breaths, in...
@@ -139,7 +140,7 @@ Dialogue: 0,0:05:57.13,0:05:59.46,Default,Grace,0,0,0,,Can't you take even one s
 Dialogue: 0,0:05:59.46,0:06:02.13,Default,Grace,0,0,0,,to remember how {\i1}you{\i0} felt\Nwhen The Cat left {\i1}you{\i0}?
 Dialogue: 0,0:06:02.55,0:06:03.72,Default,Simon,0,0,0,,Fine.
 Dialogue: 0,0:06:03.72,0:06:07.18,Default,Simon,0,0,0,,Have the pretend funeral\Nfor the pretend person.
-Dialogue: 0,0:06:07.18,0:06:09.14,Default,Simon,0,0,0,,But I'm waiting by the exit.
+Dialogue: 0,0:06:07.18,0:06:09.14,Default,Simon,0,0,0,,But I'm waitin' by the exit.
 Dialogue: 0,0:06:14.44,0:06:15.69,Default,Grace,0,0,0,,Hazel?
 Dialogue: 0,0:06:16.48,0:06:17.94,Default,Grace,0,0,0,,Hazel!
 Dialogue: 0,0:06:17.94,0:06:19.32,Default,Grace,0,0,0,,Hazel?!
