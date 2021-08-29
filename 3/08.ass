@@ -23,7 +23,7 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:24.00,0:00:25.96,Default,Hazel,0,0,0,,You drooled on me in your sleep.
-Dialogue: 0,0:00:26.97,0:00:28.51,Default,Grace,0,0,0,,And how long have you been up?
+Dialogue: 0,0:00:26.97,0:00:28.51,Default,Grace,0,0,0,,And how long have {\i1}you{\i0} been up?
 Dialogue: 0,0:00:28.51,0:00:30.26,Default,Hazel,0,0,0,,Forever.
 Dialogue: 0,0:00:30.68,0:00:32.72,Default,Hazel,0,0,0,,I had bad dreams.
 Dialogue: 0,0:00:43.52,0:00:43.98,Default,Grace,0,0,0,,Hey!
@@ -113,7 +113,7 @@ Dialogue: 0,0:04:34.42,0:04:35.71,Default,Grace,0,0,0,,I...
 Dialogue: 0,0:04:35.71,0:04:37.76,Default,Grace,0,0,0,,I don't think she's the enemy, either.
 Dialogue: 0,0:04:37.76,0:04:39.84,Default,Hazel,0,0,0,,Yeah. She knows about turtles!
 Dialogue: 0,0:04:42.72,0:04:43.93,Default,Grace,0,0,0,,Simon, that voice.
-Dialogue: 0,0:04:43.93,0:04:46.47,Default,Grace,0,0,0,,I haven't heard it since I was a kid...
+Dialogue: 0,0:04:43.93,0:04:46.47,Default,Grace,0,0,0,,I haven't heard it since I was a kid.
 Comment: 0,0:04:46.47,0:04:47.85,Default,Grace,0,0,0,,That's what he...{\alphaFF}s
 Comment: 0,0:04:47.85,0:04:48.68,Default,Grace,0,0,0,,That's what she...
 Dialogue: 0,0:04:46.47,0:04:47.85,Default,Grace,0,0,0,,That's what he...
@@ -158,10 +158,10 @@ Dialogue: 0,0:06:35.92,0:06:37.17,Default,Amelia,0,0,0,,Prisoner?
 Dialogue: 0,0:06:37.17,0:06:39.09,Default,Amelia,0,0,0,,Of that little peanut?
 Dialogue: 0,0:06:39.09,0:06:40.00,Default,Amelia,0,0,0,,No.
 Dialogue: 0,0:06:40.80,0:06:42.92,Default,Amelia,0,0,0,,No, I'm making amends.
-Dialogue: 0,0:06:43.59,0:06:45.97,Default,Amelia,0,0,0,,Maybe one day I'll even\Nget off this train...
+Dialogue: 0,0:06:43.59,0:06:45.97,Default,Amelia,0,0,0,,Maybe one day, \NI'll even get off this train...
 Dialogue: 0,0:06:45.97,0:06:49.22,Default,Simon,0,0,0,,Why would anyone in their right mind \Nwant to get {\i1}off{\i0} the train?!
 Dialogue: 0,0:06:49.22,0:06:51.47,Default,Amelia,0,0,0,,You know why you're here, don't you?
-Dialogue: 0,0:06:52.48,0:06:54.56,Default,Grace,0,0,0,,To get the highest number.
+Dialogue: 0,0:06:52.48,0:06:54.56,Default,Grace,0,0,0,,To... get the highest number.
 Dialogue: 0,0:06:58.19,0:07:01.82,Default,Amelia,0,0,0,,The whole point of the train \Nis to work through your problems.
 Dialogue: 0,0:07:01.82,0:07:04.90,Default,Amelia,0,0,0,,The worse you do,\Nthe higher your number goes.
 Dialogue: 0,0:07:04.90,0:07:07.49,Default,Amelia,0,0,0,,Until you get it down to zero,
@@ -194,7 +194,7 @@ Dialogue: 0,0:08:24.11,0:08:25.40,Default,Grace,0,0,0,,I...
 Dialogue: 0,0:08:25.40,0:08:27.40,Default,Grace,0,0,0,,I can't believe it!
 Dialogue: 0,0:08:27.90,0:08:30.03,Default,Amelia,0,0,0,,Of course! The turtles!
 Dialogue: 0,0:08:30.03,0:08:32.20,Default,Amelia,0,0,0,,It was just a stupid handkerchief...
-Dialogue: 0,0:08:34.74,0:08:37.08,Default,Amelia,0,0,0,,I got closer than I ever imagined...
+Dialogue: 0,0:08:34.74,0:08:37.08,Default,Amelia,0,0,0,,I got closer than I ever imagined.
 Dialogue: 0,0:08:37.08,0:08:37.75,Default,Amelia,0,0,0,,And this,
 Dialogue: 0,0:08:38.12,0:08:39.25,Default,Amelia,0,0,0,,this was my number!
 Dialogue: 0,0:08:39.54,0:08:41.58,Default,Simon,0,0,0,,What are you talking about?
@@ -211,8 +211,8 @@ Dialogue: 0,0:09:03.90,0:09:05.19,Default,Amelia,0,0,0,,it will be ejected.
 Dialogue: 0,0:09:05.19,0:09:07.36,Default,Amelia,0,0,0,,I'll take it from here.
 Dialogue: 0,0:09:07.36,0:09:10.70,Default,Amelia,0,0,0,,The girl needs to be quarantined\Nbefore the pulse returns.
 Dialogue: 0,0:09:13.28,0:09:16.12,Default,Amelia,0,0,0,,Once the canyon fills,\Nyou'll be able to exit.
-Dialogue: 0,0:09:16.12,0:09:17.33,Default,Simon,0,0,0,,Let's go. Now.
-Dialogue: 0,0:09:17.33,0:09:18.95,Default,Simon,0,0,0,,Leave the null\Nwith the old woman,
+Dialogue: 0,0:09:16.12,0:09:17.58,Default,Simon,0,0,0,,Let's go. Now.
+Dialogue: 0,0:09:17.58,0:09:18.95,Default,Simon,0,0,0,,Leave the null\Nwith the old woman,
 Dialogue: 0,0:09:18.95,0:09:20.83,Default,Simon,0,0,0,,go around the outside, get home.
 Dialogue: 0,0:09:20.83,0:09:21.87,Default,Simon,0,0,0,,Problem solved!
 Dialogue: 0,0:09:23.67,0:09:26.05,Default,Hazel,0,0,0,,You aren't leaving me...
