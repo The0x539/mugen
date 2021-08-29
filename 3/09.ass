@@ -29,50 +29,50 @@ Dialogue: 0,0:00:15.50,0:00:15.58,Default,Cubey,0,0,0,,{\an8\frz-1\pos(895,381)}
 Dialogue: 0,0:00:15.58,0:00:15.66,Default,Cubey,0,0,0,,{\an8\frz-1\fscy70\fscx115\pos(890,416)}Whoa!
 Dialogue: 0,0:00:15.66,0:00:15.75,Default,Cubey,0,0,0,,{\an8\frz59.82\pos(722,262)}Whoa!
 Dialogue: 0,0:00:15.75,0:00:15.83,Default,Cubey,0,0,0,,{\an8\frz84.67\pos(264,328)}Whoa!
-Dialogue: 0,0:00:32.85,0:00:35.27,Default,Grace,0,0,0,,I've been doing\Na lot of thinking.
-Dialogue: 0,0:00:35.27,0:00:37.39,Default,Grace,0,0,0,,It was surprising,\Nto say the least,
-Dialogue: 0,0:00:37.39,0:00:40.48,Default,Grace,0,0,0,,to discover that\Nour friend Hazel is...
-Dialogue: 0,0:00:40.48,0:00:42.02,Default,Grace,0,0,0,,a denizen.
+Dialogue: 0,0:00:32.85,0:00:35.27,Default,Grace,0,0,30,,I've been doing a lot of thinking.
+Dialogue: 0,0:00:35.27,0:00:37.39,Default,Grace,0,0,30,,It was surprising, to say the least,
+Dialogue: 0,0:00:37.39,0:00:40.48,Default,Grace,0,0,30,,to discover that our friend Hazel is...
+Dialogue: 0,0:00:40.48,0:00:42.02,Default,Grace,0,0,30,,a denizen.
 Dialogue: 0,0:00:42.02,0:00:44.19,Default,Amelia,0,0,0,,Just to remind you,\Nyou do have a time limit.
 Dialogue: 0,0:00:44.19,0:00:46.28,Default,Grace,0,0,0,,I need to get this out, okay?
 Dialogue: 0,0:00:47.24,0:00:48.78,Default,Grace,0,0,0,,From what I understand,
 Dialogue: 0,0:00:48.78,0:00:52.20,Default,Grace,0,0,0,,Hazel will be a danger\Nto any car she enters.
 Dialogue: 0,0:00:52.20,0:00:53.66,Default,Grace,0,0,0,,As the leader of the Apex,
 Dialogue: 0,0:00:53.66,0:00:56.49,Default,Grace,0,0,0,,I have a group counting on me\Nto keep them safe.
-Dialogue: 0,0:00:57.79,0:01:00.67,Default,Grace,0,0,0,,And Hazel is part\Nof that group, now.
+Dialogue: 0,0:00:57.79,0:01:00.67,Default,Grace,0,0,0,,And Hazel is part of that group now.
 Dialogue: 0,0:01:00.67,0:01:03.13,Default,Grace,0,0,0,,We don't leave Apex behind.
 Dialogue: 0,0:01:04.13,0:01:05.42,Default,Grace,0,0,0,,Hazel,
 Dialogue: 0,0:01:05.42,0:01:06.55,Default,Grace,0,0,0,,you're sticking with us.
-Dialogue: 0,0:01:06.84,0:01:08.97,Default,Hazel,0,0,0,,I don't want\Nto go with you.
+Dialogue: 0,0:01:06.84,0:01:08.97,Default,Hazel,0,0,0,,I don't want to go with you.
 Dialogue: 0,0:01:08.97,0:01:10.30,Default,Grace,0,0,0,,Huh?
-Dialogue: 0,0:01:10.30,0:01:12.39,Default,Grace,0,0,0,,It's okay, we can work around\Nthe denizen thing.{bah, this goes a whole word past the keyframe}
+Dialogue: 0,0:01:10.30,0:01:12.39,Default,Grace,0,0,0,,It's okay, we can work on\Nthe denizen thing.{bah, this goes a whole word past the keyframe}
 Dialogue: 0,0:01:12.39,0:01:14.89,Default,Hazel,0,0,0,,I'm not going with you!
-Dialogue: 0,0:01:14.89,0:01:18.02,Default,Hazel,0,0,0,,You said the Apex\Nis supposed to be brave,
-Dialogue: 0,0:01:18.64,0:01:21.31,Default,Hazel,0,0,0,,but if that's true,
+Dialogue: 0,0:01:14.89,0:01:18.02,Default,Hazel,0,0,0,,You said the Apex\Nis supposed to be brave.
+Dialogue: 0,0:01:18.64,0:01:21.31,Default,Hazel,0,0,0,,But, if that's true...
 Dialogue: 0,0:01:21.31,0:01:23.19,Default,Hazel,0,0,0,,why are you all so...
 Dialogue: 0,0:01:23.65,0:01:25.15,Default,Hazel,0,0,0,,scared of me?
 Dialogue: 0,0:01:28.78,0:01:29.86,Default,Grace,0,0,0,,Hazel, I—
 Dialogue: 0,0:01:29.86,0:01:31.07,Default,Hazel,0,0,0,,Amelia?
 Dialogue: 0,0:01:31.70,0:01:33.91,Default,Hazel,0,0,0,,You know stuff about me I don't.
-Dialogue: 0,0:01:33.91,0:01:36.20,Default,Hazel,0,0,0,,I want to go with you.
+Dialogue: 0,0:01:33.91,0:01:36.20,Default,Hazel,0,0,0,,I want to go with {\i1}you{\i0}.
 Dialogue: 0,0:01:36.20,0:01:37.74,Default,Hazel,0,0,0,,Maybe I can learn.
-Dialogue: 0,0:01:37.74,0:01:40.79,Default,Amelia,0,0,0,,Ugh. Well, you're certainly\Ncoming with me,
+Dialogue: 0,0:01:37.74,0:01:40.79,Default,Amelia,0,0,0,,Ugh. Well, you're \Ncertainly coming {\i1}with{\i0} me,
 Dialogue: 0,0:01:40.79,0:01:42.54,Default,Amelia,0,0,0,,but I'm not on a road trip.
-Dialogue: 0,0:01:42.54,0:01:44.58,Default,Amelia,0,0,0,,What I'm doing here is my job.
-Dialogue: 0,0:01:44.58,0:01:47.34,Default,Amelia,0,0,0,,I'm an inventor, an engineer,\Na snappy dresser,
+Dialogue: 0,0:01:42.54,0:01:44.58,Default,Amelia,0,0,0,,What I'm doing here is my {\i1}job{\i0}.
+Dialogue: 0,0:01:44.58,0:01:47.34,Default,Amelia,0,0,0,,I'm an inventor, \Nan engineer, a snappy dresser,
 Dialogue: 0,0:01:47.34,0:01:49.51,Default,Amelia,0,0,0,,but I am not your caretaker.{yeah that's what they all say}
 Dialogue: 0,0:01:49.51,0:01:51.72,Default,Hazel,0,0,0,,Grace and Simon weren't, either.
-Dialogue: 0,0:01:53.93,0:01:56.60,Default,Hazel,0,0,0,,I promise to\Ntake care of myself.
+Dialogue: 0,0:01:53.93,0:01:56.60,Default,Hazel,0,0,0,,I promise to take care of myself.
 Dialogue: 0,0:01:59.52,0:02:01.64,Default,Amelia,0,0,0,,Well, I suppose\Nyou're worth studying.
 Dialogue: 0,0:02:06.36,0:02:07.52,Default,Amelia,0,0,0,,Stand back.
-Dialogue: 0,0:02:07.52,0:02:09.61,Default,Amelia,0,0,0,,The pulse will be hitting\Nany moment.
+Dialogue: 0,0:02:07.52,0:02:09.61,Default,Amelia,0,0,0,,The pulse will be hitting any moment.
 Dialogue: 0,0:02:09.61,0:02:13.03,Default,Grace,0,0,0,,Hazel, it's not too late\Nto change your mind.
 Dialogue: 0,0:02:21.45,0:02:23.12,Default,Hazel,0,0,0,,Good luck, Grace.
-Dialogue: 0,0:03:08.63,0:03:11.67,Default,Simon,0,0,0,,Finally,\Nthings are back to normal.
+Dialogue: 0,0:03:08.63,0:03:11.67,Default,Simon,0,0,0,,Finally. Things are back to normal.
 Dialogue: 0,0:03:14.97,0:03:17.84,Default,Simon,0,0,0,,Me and you—\Nlike it's supposed to be.
 Dialogue: 0,0:03:17.84,0:03:20.22,Default,Simon,0,0,0,,No more Hazel holding us back.
 Dialogue: 0,0:03:20.22,0:03:22.60,Default,Grace,0,0,0,,Knock it off, Simon.\NI'm not in the mood.
-Dialogue: 0,0:03:22.60,0:03:25.85,Default,Simon,0,0,0,,Really?\N'Cause I'm feeling really good!
+Dialogue: 0,0:03:22.60,0:03:25.85,Default,Simon,0,0,0,,Really? 'Cause I'm feelin' {\i1}really{\i0} good!
 Dialogue: 0,0:03:25.85,0:03:28.60,Default,Simon,0,0,0,,For the first time in a long time, \Nthings are right in the world.
 Dialogue: 0,0:03:28.94,0:03:30.77,Default,Grace,0,0,0,,You don't know\Nwhat you're talking about!
 Dialogue: 0,0:03:30.77,0:03:31.94,Default,Grace,0,0,0,,Hazel was our friend,
@@ -83,42 +83,42 @@ Dialogue: 0,0:03:38.99,0:03:39.82,Default,Grace,0,0,0,,What?
 Dialogue: 0,0:03:40.37,0:03:41.87,Default,Grace,0,0,0,,I'm...
 Dialogue: 0,0:03:41.87,0:03:42.83,Default,Grace,0,0,0,,home?
 Dialogue: 0,0:03:49.54,0:03:50.46,Default,Grace,0,0,0,,Huh?
-Dialogue: 0,0:04:10.52,0:04:11.86,Default,Grace,0,0,0,,What— What?
+Dialogue: 0,0:04:10.52,0:04:11.86,Default,Grace,0,0,0,,Wha— What?
 Dialogue: 0,0:04:31.79,0:04:34.80,Default,Grace,0,0,0,Tape,You know, Shayna,\Nyou were right.
 Dialogue: 0,0:04:34.80,0:04:38.47,Default,Grace,0,0,0,Tape,Chloe shouldn't smile\Nuntil her parents can afford to get her braces.
 Dialogue: 0,0:04:48.56,0:04:49.85,Default,Grace,0,0,0,,What is happening?
-Dialogue: 0,0:04:49.85,0:04:51.81,Default,Mrs. Monroe,0,0,0,Tape,Oh no, Grace.
-Dialogue: 0,0:04:51.81,0:04:53.31,Default,Mrs. Monroe,0,0,0,Tape,Look at you.
+Dialogue: 0,0:04:49.85,0:04:51.81,Default,Mrs. Monroe,0,0,0,Tape,Oh, no. Grace!
+Dialogue: 0,0:04:51.81,0:04:53.31,Default,Mrs. Monroe,0,0,0,Tape,Look at you!
 Dialogue: 0,0:04:53.61,0:04:55.23,Default,Grace,0,0,0,Tape,I wanted to try\Na different look.
-Dialogue: 0,0:04:55.23,0:04:57.99,Default,Mrs. Monroe,0,0,0,Tape,We're hosting\NAmbassador Morris tonight.
-Dialogue: 0,0:04:59.57,0:05:00.40,Default,Mrs. Monroe,0,0,0,Tape,Julie?
+Dialogue: 0,0:04:55.23,0:04:57.99,Default,Mrs. Monroe,0,0,0,Tape,We're hosting Ambassador Morris tonight!
+Dialogue: 0,0:04:59.57,0:05:00.40,Default,Mrs. Monroe,0,0,0,Tape,Julie.
 Dialogue: 0,0:05:02.41,0:05:03.24,Default,Mrs. Monroe,0,0,0,Tape,Molly.
 Dialogue: 0,0:05:04.83,0:05:05.66,Default,Mrs. Monroe,0,0,0,Tape,Jacob.
 Dialogue: 0,0:05:07.25,0:05:08.16,Default,Mrs. Monroe,0,0,0,Tape,Susan.
 Dialogue: 0,0:05:09.66,0:05:12.25,Default,Mrs. Monroe,0,0,0,Tape,I don't have time for this.
-Dialogue: 0,0:05:12.25,0:05:14.13,Default,Mrs. Monroe,0,0,0,Tape,Take her to a movie,\Nor something.
+Dialogue: 0,0:05:12.25,0:05:14.13,Default,Mrs. Monroe,0,0,0,Tape,Take her to a movie or something.
 Dialogue: 0,0:05:15.25,0:05:16.75,Default,Babysitters,0,0,0,Tape,Of course, Mrs. Monroe.
 Dialogue: 0,0:05:16.75,0:05:18.51,Default,Babysitters,0,0,0,Tape,She'll have a fun day.
 Dialogue: 0,0:05:37.44,0:05:38.78,Default,Security Guard,0,0,0,Tape,I'm sorry to tell you
 Dialogue: 0,0:05:38.78,0:05:42.61,Default,Security Guard,0,0,0,Tape,that your daughter was caught \Nwith a stolen bracelet from Blassie's.
-Dialogue: 0,0:05:42.61,0:05:45.95,Default,Security Guard,0,0,0,Tape,It seems she convinced her\Nlittle friends to do the same.
-Dialogue: 0,0:05:45.95,0:05:48.79,Default,Mr. Monroe,0,0,0,Tape,I'm sorry, too— because\Nyou're obviously mistaken.
+Dialogue: 0,0:05:42.61,0:05:45.95,Default,Security Guard,0,0,0,Tape,It seems she convinced \Nher little friends to do the same.
+Dialogue: 0,0:05:45.95,0:05:48.79,Default,Mr. Monroe,0,0,0,Tape,Well, I'm sorry, too, \Nbecause you're obviously mistaken.
 Dialogue: 0,0:05:48.79,0:05:50.79,Default,Grace,0,0,0,Tape,Dad, I'm sorry.
 Dialogue: 0,0:05:50.79,0:05:53.29,Default,Mr. Monroe,0,0,0,Tape,Just stay quiet,\Nand we'll fix this.
-Dialogue: 0,0:05:53.29,0:05:57.09,Default,Mr. Monroe,0,0,0,Tape,It's absurd to think that\Nour Grace would need to steal.
-Dialogue: 0,0:05:57.09,0:05:58.63,Default,Mr. Monroe,0,0,0,Tape,She's well provided for.
+Dialogue: 0,0:05:53.29,0:05:57.09,Default,Mr. Monroe,0,0,0,Tape,It's absurd to think \Nthat our Grace would {\i1}need{\i0} to steal.
+Dialogue: 0,0:05:57.09,0:05:58.63,Default,Mr. Monroe,0,0,0,Tape,She's well provided for!
 Dialogue: 0,0:05:58.63,0:06:00.13,Default,Mr. Monroe,0,0,0,Tape,We raise her with morals.
 Comment: 0,0:06:00.13,0:06:01.01,Default,Mr. Monroe,0,0,0,Tape,{\t(500,0,2,\alphaFF)}We give her guidance,
 Comment: 0,0:06:01.01,0:06:02.01,Default,Mr. Monroe,0,0,0,Tape,[ Indistinct talking ]
 Dialogue: 0,0:06:03.01,0:06:04.34,Default,Grace,0,0,0,,I just...
 Dialogue: 0,0:06:04.34,0:06:06.05,Default,Grace,0,0,0,,wanted to be noticed.
 Dialogue: 0,0:06:38.17,0:06:41.09,Default,Simon,0,0,0,,The train knew you were wasted\Nin the real world.
-Dialogue: 0,0:06:41.38,0:06:44.09,Default,Simon,0,0,0,,It gave you a chance to go\Nsomewhere you'd be respected.
+Dialogue: 0,0:06:41.38,0:06:44.09,Default,Simon,0,0,0,,It gave you a chance \Nto go somewhere you'd be respected.
 Dialogue: 0,0:06:44.09,0:06:46.22,Default,Grace,0,0,0,,Simon, are you doing this?
 Dialogue: 0,0:07:22.71,0:07:24.72,Default,Amelia,0,0,0,Tape,Take what we need\Nfrom the car.
 Dialogue: 0,0:07:35.10,0:07:38.52,Default,Simon,0,0,0,,I never thought I'd get to see\Nthe Conductor with my own eyes.
 Dialogue: 0,0:07:38.52,0:07:40.02,Default,Simon,0,0,0,,He's perfect.
-Dialogue: 0,0:07:40.02,0:07:42.27,Default,Simon,0,0,0,,Everything finally\Nmakes sense again.
+Dialogue: 0,0:07:40.02,0:07:42.27,Default,Simon,0,0,0,,Everything finally makes sense again.
 Dialogue: 0,0:07:42.27,0:07:44.44,Default,Grace,0,0,0,,That's... not right.
 Dialogue: 0,0:07:48.61,0:07:49.91,Default,Simon,0,0,0,,No, no, no.
 Dialogue: 0,0:07:49.91,0:07:51.41,Default,Grace,0,0,0,,I saw it before you came in here.
@@ -126,47 +126,47 @@ Dialogue: 0,0:07:51.41,0:07:52.33,Default,Grace,0,0,0,,This is fake.
 Dialogue: 0,0:07:52.33,0:07:55.66,Default,Grace,0,0,0,,So, my memories are real \Nuntil you don't like them, then they're fake?
 Dialogue: 0,0:07:55.66,0:07:57.96,Default,Simon,0,0,0,,You're just using\NAmelia's lies to trick me.
 Dialogue: 0,0:07:57.96,0:08:01.04,Default,Simon,0,0,0,,She was lying,\Njust like The Cat lied to me.
-Dialogue: 0,0:08:01.04,0:08:03.05,Default,Simon,0,0,0,,And you lied to me.
+Dialogue: 0,0:08:01.04,0:08:03.05,Default,Simon,0,0,0,,And {\i1}you{\i0} lied to me.
 Dialogue: 0,0:08:03.05,0:08:04.88,Default,Simon,0,0,0,,Everyone lies to me!
 Dialogue: 0,0:08:17.89,0:08:19.81,Default,Simon,0,0,0,Tape,Samantha!\NI can't fit!
-Dialogue: 0,0:08:19.81,0:08:22.40,Default,Simon,0,0,0,Tape,Samantha, I'm still out here, help!
+Dialogue: 0,0:08:19.81,0:08:22.40,Default,Simon,0,0,0,Tape,Samantha, I'm still out here! Help!
 Dialogue: 0,0:08:36.41,0:08:39.04,Default,Simon,0,0,0,Tape,You... saved me.
 Dialogue: 0,0:08:39.04,0:08:40.25,Default,Grace,0,0,0,Tape,Oh...
 Dialogue: 0,0:08:40.25,0:08:41.29,Default,Grace,0,0,0,Tape,Yeah.
 Dialogue: 0,0:08:41.29,0:08:42.29,Default,Grace,0,0,0,Tape,I did.
 Dialogue: 0,0:08:44.46,0:08:46.80,Default,Simon,0,0,0,Tape,Samantha left me.
-Dialogue: 0,0:08:50.63,0:08:53.55,Default,Grace,0,0,0,Tape,Hey, it's scary here.
+Dialogue: 0,0:08:50.63,0:08:53.55,Default,Grace,0,0,0,Tape,Hey. It's scary here.
 Dialogue: 0,0:08:53.55,0:08:55.18,Default,Grace,0,0,0,Tape,But you're fine now.
 Dialogue: 0,0:09:00.73,0:09:02.65,Default,Simon,0,0,0,Tape,How'd you get it so high?
 Dialogue: 0,0:09:02.65,0:09:03.90,Default,Grace,0,0,0,Tape,Oh!
-Dialogue: 0,0:09:03.90,0:09:06.78,Default,Grace,0,0,0,Tape,I'm, like, really good\Nat the train.
+Dialogue: 0,0:09:03.90,0:09:06.78,Default,Grace,0,0,0,Tape,I'm, like, really good at the train.
 Dialogue: 0,0:09:14.24,0:09:14.83,Default,Simon,0,0,0,Tape,I said it!
-Dialogue: 0,0:09:14.83,0:09:15.66,Default,Grace,0,0,0,Tape,No, you didn't.
-Dialogue: 0,0:09:16.33,0:09:18.66,Default,Simon,0,0,0,Tape,...and the Conductor\Nwas huge!
+Dialogue: 0,0:09:14.83,0:09:15.66,Default,Grace,0,0,0,Tape,No{,} you didn't.
+Dialogue: 0,0:09:16.33,0:09:18.66,Default,Simon,0,0,0,Tape,...and the Conductor was {\i1}huge{\i0}!
 Dialogue: 0,0:09:18.66,0:09:19.79,Default,Simon,0,0,0,Tape,Grace saw him!
 Dialogue: 0,0:09:19.79,0:09:21.50,Default,Simon,0,0,0,Tape,He blocked out the sun!
 Dialogue: 0,0:09:21.79,0:09:25.00,Default,Simon,0,0,0,Tape,But he gave us a chance\Nto save people like you.
-Dialogue: 0,0:09:25.00,0:09:27.34,Default,Grace,0,0,0,Tape,You don't have to\Nbe scared anymore.
+Dialogue: 0,0:09:25.00,0:09:27.34,Default,Grace,0,0,0,Tape,You don't have to be scared anymore.
 Dialogue: 0,0:09:27.34,0:09:29.51,Default,Grace,0,0,0,Tape,The Apex stick together.
 Dialogue: 0,0:09:31.18,0:09:32.59,Default,Simon,0,0,0,,"Stick together."
 Dialogue: 0,0:09:32.59,0:09:35.35,Default,Simon,0,0,0,,It's nice to know I wasn't\Nthe only one you lied to.
 Dialogue: 0,0:09:35.81,0:09:37.35,Default,Grace,0,0,0,,I wasn't lying!
-Dialogue: 0,0:09:37.77,0:09:41.10,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
+Dialogue: 0,0:09:37.77,0:09:41.10,Default,Grace,0,0,0,Tape,{\i1}We just... won't tell Simon, okay?
 Dialogue: 0,0:09:41.39,0:09:42.98,Default,Grace,0,0,0,Tape,{\i1}He doesn't need to know.
-Dialogue: 0,0:09:42.98,0:09:45.52,Default,Grace,0,0,0,Tape,{\i1}So we can't let him see\Nthe shell, okay?
-Dialogue: 0,0:09:45.52,0:09:48.57,Default,Grace,0,0,0,,Simon, it's more\Ncomplicated than—
+Dialogue: 0,0:09:42.98,0:09:45.52,Default,Grace,0,0,0,Tape,{\i1}So we can't let him \Nsee the shell, okay?
+Dialogue: 0,0:09:45.52,0:09:48.57,Default,Grace,0,0,0,,Simon, it's more complicated than th—
 Comment: 0,0:09:50.03,0:09:53.03,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
-Dialogue: 0,0:09:53.03,0:09:55.12,Default,Grace,0,0,0,,I was trying to figure out...
+Dialogue: 0,0:09:53.03,0:09:55.12,Default,Grace,0,0,0,,I was trying to figure out i—
 Comment: 0,0:09:56.74,0:10:00.16,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
-Dialogue: 0,0:09:59.20,0:10:01.16,Default,Grace,0,0,0,,If you let me explain...
+Dialogue: 0,0:09:59.20,0:10:01.16,Default,Grace,0,0,0,,If you let me explain—
 Comment: 0,0:10:01.04,0:10:04.54,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
-Dialogue: 0,0:10:02.71,0:10:04.58,Default,Grace,0,0,0,,You would have killed her!
+Dialogue: 0,0:10:02.71,0:10:04.58,Default,Grace,0,0,0,,You would've killed her!
 Comment: 0,0:10:04.54,0:10:07.80,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
 Dialogue: 0,0:10:06.04,0:10:07.80,Default,Grace,0,0,0,,Look, I'm sorry!
 Dialogue: 0,0:10:08.09,0:10:09.76,Default,Grace,0,0,0,,Is that what you want to hear?
 Dialogue: 0,0:10:09.76,0:10:11.22,Default,Grace,0,0,0,,Will that word fix it?
-Dialogue: 0,0:10:11.22,0:10:14.76,Default,Grace,0,0,0,,Do we get to dig through\Nyour most painful memories next?
-Dialogue: 0,0:10:15.51,0:10:17.72,Default,Simon,0,0,0,,I didn't want it\Nto be like this.
+Dialogue: 0,0:10:11.22,0:10:14.76,Default,Grace,0,0,0,,Do we get to dig through\N{\i1}your{\i0} most painful memories next?
+Dialogue: 0,0:10:15.51,0:10:17.72,Default,Simon,0,0,0,,I didn't want it to be like this.
 Dialogue: 0,0:10:18.14,0:10:19.72,Default,Simon,0,0,0,,I liked what we had.
 Dialogue: 0,0:10:19.72,0:10:21.64,Default,Simon,0,0,0,,But you made me do it.
 Dialogue: 0,0:10:22.48,0:10:24.69,Default,Simon,0,0,0,,You betrayed the Apex.
