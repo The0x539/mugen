@@ -155,20 +155,20 @@ Dialogue: 0,0:09:37.77,0:09:41.10,Default,Grace,0,0,0,Tape,{\i1}We just... won't
 Dialogue: 0,0:09:41.39,0:09:42.98,Default,Grace,0,0,0,Tape,{\i1}He doesn't need to know.
 Dialogue: 0,0:09:42.98,0:09:45.52,Default,Grace,0,0,0,Tape,{\i1}So we can't let him \Nsee the shell, okay?
 Dialogue: 0,0:09:45.52,0:09:48.57,Default,Grace,0,0,0,,Simon, it's more complicated than th—
-Comment: 0,0:09:50.03,0:09:53.03,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
+Comment: 0,0:09:50.03,0:09:53.03,Default,Grace,0,0,0,Tape,{\i1}We just... won't tell Simon, okay?
 Dialogue: 0,0:09:53.03,0:09:55.12,Default,Grace,0,0,0,,I was trying to figure out i—
-Comment: 0,0:09:56.74,0:10:00.16,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
+Comment: 0,0:09:56.74,0:10:00.16,Default,Grace,0,0,0,Tape,{\i1}We just... won't tell Simon, okay?
 Dialogue: 0,0:09:59.20,0:10:01.16,Default,Grace,0,0,0,,If you let me explain—
-Comment: 0,0:10:01.04,0:10:04.54,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
+Comment: 0,0:10:01.04,0:10:04.54,Default,Grace,0,0,0,Tape,{\i1}We just... won't tell Simon, okay?
 Dialogue: 0,0:10:02.71,0:10:04.58,Default,Grace,0,0,0,,You would've killed her!
-Comment: 0,0:10:04.54,0:10:07.80,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
+Comment: 0,0:10:04.54,0:10:07.80,Default,Grace,0,0,0,Tape,{\i1}We just... won't tell Simon, okay?
 Dialogue: 0,0:10:06.04,0:10:07.80,Default,Grace,0,0,0,,Look, I'm sorry!
 Dialogue: 0,0:10:08.09,0:10:09.76,Default,Grace,0,0,0,,Is that what you want to hear?
 Dialogue: 0,0:10:09.76,0:10:11.22,Default,Grace,0,0,0,,Will that word fix it?
 Dialogue: 0,0:10:11.22,0:10:14.76,Default,Grace,0,0,0,,Do we get to dig through\N{\i1}your{\i0} most painful memories next?
 Dialogue: 0,0:10:15.51,0:10:17.72,Default,Simon,0,0,0,,I didn't want it to be like this.
-Dialogue: 0,0:10:18.14,0:10:19.72,Default,Simon,0,0,0,,I liked what we had.
-Dialogue: 0,0:10:19.72,0:10:21.64,Default,Simon,0,0,0,,But you made me do it.
+Dialogue: 0,0:10:18.14,0:10:19.72,Default,Simon,0,0,0,,I liked what we had,
+Dialogue: 0,0:10:19.72,0:10:21.64,Default,Simon,0,0,0,,but you {\i1}made{\i0} me do it.
 Dialogue: 0,0:10:22.48,0:10:24.69,Default,Simon,0,0,0,,You betrayed the Apex.
-Dialogue: 0,0:10:25.31,0:10:27.06,Default,Simon,0,0,0,,And you betrayed me.
-Comment: 0,0:10:28.82,0:11:05.64,Default,Grace,0,0,0,Tape,{\i1}We just won't tell Simon, okay?
+Dialogue: 0,0:10:25.31,0:10:27.06,Default,Simon,0,0,0,,And you betrayed {}me{}.
+Comment: 0,0:10:28.82,0:11:05.64,Default,Grace,0,0,0,Tape,{\i1}We just... won't tell Simon, okay?
