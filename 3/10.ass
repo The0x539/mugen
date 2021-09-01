@@ -22,155 +22,163 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:22.02,0:00:24.01,Default,Hazel,0,0,0,Tape,{\i1}I'm not going with you!
-Dialogue: 0,0:00:30.00,0:00:33.01,Default,Hazel,0,0,0,Tape,I don't want\Nto go with you.
-Dialogue: 0,0:00:33.01,0:00:35.01,Default,Grace,0,0,0,Tape,Huh? It's okay.
-Dialogue: 0,0:00:35.01,0:00:38.01,Default,Grace,0,0,0,Tape,We can work around\Nthe denizen thing...
-Dialogue: 0,0:00:38.01,0:00:40.35,Default,Hazel,0,0,0,Tape,What part of...
+Dialogue: 0,0:00:22.79,0:00:24.88,Default,Hazel,0,0,0,Tape,{\i1}I'm not going with you!
+Dialogue: 0,0:00:32.10,0:00:34.43,Default,Hazel,0,0,0,Tape,I don't want\Nto go with you.
+Dialogue: 0,0:00:34.43,0:00:35.52,Default,Grace,0,0,0,Tape,Huh?
+Dialogue: 0,0:00:35.52,0:00:37.85,Default,Grace,0,0,0,Tape,It's okay. We can work around\Nthe denizen thing...
+Dialogue: 0,0:00:39.23,0:00:40.35,Default,Hazel,0,0,0,Tape,What part of...
 Dialogue: 0,0:00:40.35,0:00:41.77,Default,Hazel,0,0,0,Tape,"I'm not going with you"...
-Dialogue: 0,0:00:41.77,0:00:43.00,Default,Hazel,0,0,0,Tape,...don't you understand?!
-Dialogue: 0,0:00:43.01,0:00:46.00,Default,Hazel,0,0,0,Tape,I'm not going with you!
-Dialogue: 0,0:00:46.00,0:00:48.49,Default,Hazel,0,0,0,Tape,You tried to control me...
-Dialogue: 0,0:00:48.49,0:00:49.00,Default,Hazel,0,0,0,Tape,Just like you...
-Dialogue: 0,0:00:49.00,0:00:50.02,Default,Hazel,0,0,0,Tape,...control The Apex!
-Dialogue: 0,0:00:50.02,0:00:52.00,Default,Grace,0,0,0,,But I never meant to hurt you.
-Dialogue: 0,0:00:52.01,0:00:54.01,Default,Hazel,0,0,0,Tape,You killed Tuba!
-Dialogue: 0,0:00:54.01,0:00:56.00,Default,Hazel,0,0,0,Tape,You killed Tuba!
-Dialogue: 0,0:00:56.00,0:00:59.00,Default,Grace,0,0,0,,No, it was Simon...
-Dialogue: 0,0:00:59.00,0:01:03.01,Default,Hazel,0,0,0,Tape,He didn't come up with the idea\Nto wheel denizens on his own.
-Dialogue: 0,0:01:03.01,0:01:05.01,Default,Grace,0,0,0,,It's your fault she's gone.
-Dialogue: 0,0:01:05.01,0:01:07.00,Default,Grace,0,0,0,,You think you're strong,
-Dialogue: 0,0:01:07.00,0:01:08.01,Default,Grace,0,0,0,,but you're scared.
-Dialogue: 0,0:01:08.02,0:01:10.02,Default,Grace,0,0,0,,A coward leading cowards!
-Dialogue: 0,0:01:10.02,0:01:13.51,Default,Grace,0,0,0,,Hazel, please,
-Dialogue: 0,0:01:13.51,0:01:13.55,Default,Grace,0,0,0,,I didn't know.
-Dialogue: 0,0:01:13.55,0:01:14.00,Default,Hazel,0,0,0,Tape,And worst of all?
-Dialogue: 0,0:01:14.00,0:01:16.01,Default,Hazel,0,0,0,Tape,When you had the chance\Nto make it right...
-Dialogue: 0,0:01:22.02,0:01:25.01,Default,Grace,0,0,0,Tape,I... I\Ncan't believe it!
-Dialogue: 0,0:01:25.01,0:01:27.00,Default,Hazel,0,0,0,Tape,...you protected yourself.
-Dialogue: 0,0:01:27.01,0:01:30.02,Default,Hazel,0,0,0,Tape,You tried to control me and\NSimon instead of being honest.
-Dialogue: 0,0:01:34.00,0:01:35.01,Default,Grace,0,0,0,Tape,You're wrong, Grace.
-Dialogue: 0,0:01:35.01,0:01:37.00,Default,Grace,0,0,0,Tape,Wrong about numbers.
-Dialogue: 0,0:01:37.00,0:01:38.02,Default,Grace,0,0,0,Tape,The Conductor.\NDenizens.
-Dialogue: 0,0:01:38.02,0:01:40.00,Default,Grace,0,0,0,Tape,Everything.
-Dialogue: 0,0:01:40.00,0:01:42.00,Default,Grace,0,0,0,Tape,And you know it.
-Dialogue: 0,0:01:42.01,0:01:44.02,Default,Grace,0,0,0,,It's true.
-Dialogue: 0,0:01:44.02,0:01:46.01,Default,Grace,0,0,0,,I-I'm afraid.
-Dialogue: 0,0:01:46.02,0:01:50.01,Default,Grace,0,0,0,,Afraid of being wrong,\Nof disappointing others,
-Dialogue: 0,0:01:50.02,0:01:53.01,Default,Grace,0,0,0,,of not being enough.
-Dialogue: 0,0:01:53.02,0:01:58.00,Default,Grace,0,0,0,,I did everything to avoid\Nbeing alone...
-Dialogue: 0,0:01:58.00,0:02:01.00,Default,Grace,0,0,0,,and it's exactly how I ended up.
-Dialogue: 0,0:02:03.01,0:02:05.02,Default,Grace,0,0,0,,I'm so sorry, Hazel.
-Dialogue: 0,0:02:05.02,0:02:07.01,Default,Grace,0,0,0,,You deserved better.
-Dialogue: 0,0:02:10.02,0:02:12.01,Default,Grace,0,0,0,Tape,Good luck, Grace.
-Dialogue: 0,0:02:30.01,0:02:32.01,Default,Grace,0,0,0,,Huh?
-Comment: 0,0:02:34.01,0:02:35.01,Default,Grace,0,0,0,,Aah!
-Dialogue: 0,0:02:40.00,0:02:41.00,Default,Grace,0,0,0,,Huh?
-Comment: 0,0:02:52.00,0:02:54.01,Default,Grace,0,0,0,,Ugh.
-Comment: 0,0:02:54.01,0:02:55.01,Default,Grace,0,0,0,,Ah!
-Dialogue: 0,0:03:06.01,0:03:07.02,Default,Grace,0,0,0,,Oh!
-Dialogue: 0,0:03:18.02,0:03:20.00,Default,Grace,0,0,0,,You okay?
-Dialogue: 0,0:03:50.00,0:03:51.00,Default,Grace,0,0,0,,What?
-Dialogue: 0,0:04:08.00,0:04:10.00,Default,Lucy,0,0,0,,That's as far as you go, Void.
-Dialogue: 0,0:04:10.00,0:04:12.00,Default,Grace,0,0,0,,Lucy!\NWhat's going on?
-Dialogue: 0,0:04:12.00,0:04:15.01,Default,Grace,0,0,0,,And...\Nwhat's a Void?
-Dialogue: 0,0:04:15.01,0:04:20.00,Default,Lucy,0,0,0,,You. And we all know\Nhow the Apex deals with Voids.
-Dialogue: 0,0:04:20.00,0:04:21.01,Default,Grace,0,0,0,,Well, I don't.
-Dialogue: 0,0:04:21.01,0:04:23.53,Default,Lucy,0,0,0,,Simon told us everything.
-Dialogue: 0,0:04:23.53,0:04:24.00,Default,Grace,0,0,0,,Lucy, I—
-Dialogue: 0,0:04:24.00,0:04:26.01,Default,Apex,0,0,0,,Simon! Simon!
-Dialogue: 0,0:04:26.01,0:04:29.00,Default,Apex,0,0,0,,The Void infiltrated the car!
-Comment: 0,0:04:29.01,0:04:31.00,Default,Both,0,0,0,,Huh?
-Dialogue: 0,0:04:35.01,0:04:36.02,Default,Grace,0,0,0,,W-Wait, wait, stop!
-Dialogue: 0,0:04:36.02,0:04:38.00,Default,Grace,0,0,0,,It's just me!
-Dialogue: 0,0:04:43.00,0:04:44.00,Default,Grace,0,0,0,,What?
-Dialogue: 0,0:04:44.00,0:04:48.00,Default,Simon,0,0,0,,Look who came crawling back.
-Dialogue: 0,0:04:48.00,0:04:53.00,Default,Simon,0,0,0,,The Void that betrayed us all!
-Dialogue: 0,0:04:53.00,0:04:55.53,Default,Grace,0,0,0,,I didn't betray anybody!
-Dialogue: 0,0:04:55.53,0:04:56.01,Default,Simon,0,0,0,,Oh?
-Dialogue: 0,0:04:56.02,0:04:58.01,Default,Simon,0,0,0,,Then where's your mark?
-Dialogue: 0,0:05:00.01,0:05:03.00,Default,Grace,0,0,0,,Look, we've been\Ndoing things wrong.
-Dialogue: 0,0:05:03.00,0:05:05.01,Default,Grace,0,0,0,,It's my responsibility\Nas the leader to—
-Dialogue: 0,0:05:05.01,0:05:06.01,Default,Simon,0,0,0,,Highest number!
-Dialogue: 0,0:05:06.02,0:05:09.00,Default,Simon,0,0,0,,{\i1}I'm{\i0} the leader now!
-Dialogue: 0,0:05:09.00,0:05:11.00,Default,Grace,0,0,0,,But Simon left me for dead!
-Dialogue: 0,0:05:11.01,0:05:12.38,Default,Grace,0,0,0,,Trapped in—
-Dialogue: 0,0:05:12.38,0:05:15.01,Default,Simon,0,0,0,,Your number speaks\Nlouder than words, Void!
-Dialogue: 0,0:05:15.01,0:05:20.00,Default,Grace,0,0,0,,Okay, what is a Void?!
-Dialogue: 0,0:05:20.00,0:05:22.01,Default,Simon,0,0,0,,What is a Void, Apex?
-Dialogue: 0,0:05:22.01,0:05:25.00,Default,Apex,0,0,0,,A leader who is\Nno longer fit to lead!
-Dialogue: 0,0:05:25.01,0:05:27.01,Default,Apex,0,0,0,,A danger to us all!
-Dialogue: 0,0:05:27.01,0:05:30.00,Default,Simon,0,0,0,,And how do we deal with voids?
-Dialogue: 0,0:05:33.00,0:05:34.01,Default,Simon,0,0,0,,We wheel them!
-Dialogue: 0,0:05:34.01,0:05:36.00,Default,Simon,0,0,0,,Wheel them!\NDo it!
-Dialogue: 0,0:05:36.00,0:05:38.00,Default,Simon,0,0,0,,Wheel the void!
-Dialogue: 0,0:05:38.00,0:05:39.00,Default,Apex,0,0,0,,Wheel the void!
-Dialogue: 0,0:05:39.00,0:05:40.01,Default,Apex,0,0,0,,Wheel the void!
-Dialogue: 0,0:05:39.00,0:05:40.01,Default,Grace,0,0,0,,Stop!
-Dialogue: 0,0:05:40.02,0:05:43.00,Default,Apex,0,0,0,,Wheel the void! Wheel the void!
-Dialogue: 0,0:05:42.66,0:05:43.00,Default,Grace,0,0,0,,Let go!
-Dialogue: 0,0:05:47.00,0:05:52.00,Default,Grace,0,0,0,,Get off! Stop! Okay,\Nplease don't do this!
-Dialogue: 0,0:05:52.00,0:05:54.01,Default,Simon,0,0,0,,Throw her off the train!
-Dialogue: 0,0:05:54.01,0:05:57.02,Default,Grace,0,0,0,,Wait, wait! Did Simon even tell\Nyou we met the Conductor?
-Dialogue: 0,0:05:59.01,0:06:00.80,Default,Simon,0,0,0,,Lies!
-Dialogue: 0,0:06:00.80,0:06:02.00,Default,Grace,0,0,0,,No, it's true!
-Dialogue: 0,0:06:02.00,0:06:03.01,Default,Grace,0,0,0,,She isn't the real Conductor!
-Dialogue: 0,0:06:03.01,0:06:05.02,Default,Grace,0,0,0,,She's just a woman named Amelia!
-Dialogue: 0,0:06:05.02,0:06:07.02,Default,Grace,0,0,0,,She didn't make the train,\Nand...
-Dialogue: 0,0:06:07.02,0:06:09.02,Default,Grace,0,0,0,,she doesn't care\Nabout any of us!
-Dialogue: 0,0:06:09.02,0:06:10.02,Default,Apex,0,0,0,,What?
-Dialogue: 0,0:06:09.02,0:06:10.02,Default,Apex,0,0,0,,Huh?
-Dialogue: 0,0:06:11.00,0:06:12.00,Default,Simon,0,0,0,,Don't listen!
-Dialogue: 0,0:06:12.00,0:06:15.00,Default,Simon,0,0,0,,The Void is trying\Nto infect you with its lies!
-Comment: 0,0:06:15.00,0:06:16.01,Default,Grace,0,0,0,,Aah!
-Dialogue: 0,0:06:18.00,0:06:20.01,Default,Grace,0,0,0,,Simon, I know you're hurt.
-Dialogue: 0,0:06:20.01,0:06:22.02,Default,Grace,0,0,0,,But I had to keep Hazel safe.
-Dialogue: 0,0:06:23.00,0:06:26.02,Default,Grace,0,0,0,,I've made a lot of mistakes,\Nbut that wasn't one of them.
-Dialogue: 0,0:06:27.00,0:06:28.01,Default,Grace,0,0,0,,We've been doing it wrong.
-Dialogue: 0,0:06:28.01,0:06:30.00,Default,Grace,0,0,0,,We can still change!
-Dialogue: 0,0:06:30.00,0:06:32.01,Default,Simon,0,0,0,,Why would I ever want to change
-Dialogue: 0,0:06:32.02,0:06:34.01,Default,Simon,0,0,0,,if I'm always right?
-Comment: 0,0:06:34.01,0:06:36.00,Default,Grace,0,0,0,,Aah!
-Dialogue: 0,0:06:42.00,0:06:43.97,Default,Apex,0,0,0,,Let's get out of here!
-Dialogue: 0,0:06:43.97,0:06:44.01,Default,Apex,0,0,0,,This is not good!
-Comment: 0,0:07:00.02,0:07:02.00,Default,Grace,0,0,0,,Aah!
-Dialogue: 0,0:07:04.01,0:07:06.01,Default,Simon,0,0,0,,You're an infection!
-Dialogue: 0,0:07:06.01,0:07:08.00,Default,Simon,0,0,0,,A rot!
-Dialogue: 0,0:07:08.00,0:07:09.01,Default,Simon,0,0,0,,A poison!
-Dialogue: 0,0:07:09.01,0:07:12.01,Default,Simon,0,0,0,,I won't let you\Ntake what's ours!
-Dialogue: 0,0:07:12.01,0:07:15.01,Default,Grace,0,0,0,,Simon, you're in a lot of pain.\NI understand that.
-Dialogue: 0,0:07:15.01,0:07:19.00,Default,Simon,0,0,0,,Another hollow apology, Grace?
-Dialogue: 0,0:07:19.00,0:07:23.00,Default,Grace,0,0,0,,No. I'm not responsible\Nfor your problems.
-Dialogue: 0,0:07:23.00,0:07:24.02,Default,Grace,0,0,0,,I don't owe you anything!
-Dialogue: 0,0:07:25.00,0:07:27.01,Default,Simon,0,0,0,,You owe me {\i1}everything{\i0}!
-Comment: 0,0:07:56.02,0:07:57.02,Default,Grace,0,0,0,,Aah!
-Comment: 0,0:08:20.01,0:08:22.00,Default,Simon,0,0,0,,Aah!
-Dialogue: 0,0:08:33.01,0:08:35.00,Default,Simon,0,0,0,,Why did you...?
-Dialogue: 0,0:08:36.01,0:08:38.01,Default,Grace,0,0,0,,I...\NI don't know.
-Comment: 0,0:08:42.00,0:08:44.00,Default,Grace,0,0,0,,Aah!
-Dialogue: 0,0:08:44.01,0:08:46.02,Default,Apex,0,0,0,,What?!
-Dialogue: 0,0:08:44.01,0:08:46.02,Default,Apex,0,0,0,,But she saved you!
-Dialogue: 0,0:08:44.01,0:08:46.02,Default,Lucy,0,0,0,,Simon!
-Dialogue: 0,0:08:46.02,0:08:48.00,Default,Apex,0,0,0,,She saved you!
-Dialogue: 0,0:09:06.00,0:09:08.00,Default,Lucy,0,0,0,,Grace!
-Dialogue: 0,0:09:08.00,0:09:10.00,Default,Apex,0,0,0,,She's okay!
-Dialogue: 0,0:09:08.00,0:09:10.00,Default,Apex,0,0,0,,Yay!
-Dialogue: 0,0:09:13.00,0:09:15.00,Default,Simon,0,0,0,,Huh?
-Dialogue: 0,0:09:15.00,0:09:16.00,Default,Simon,0,0,0,,Huh?
-Dialogue: 0,0:09:55.00,0:09:56.49,Default,Apex,0,0,0,,Simon.
-Dialogue: 0,0:09:56.49,0:09:57.00,Default,Apex,0,0,0,,He's gone.
-Dialogue: 0,0:09:57.00,0:09:58.01,Default,Apex,0,0,0,,Huh?
-Dialogue: 0,0:10:01.01,0:10:05.00,Default,Grace,0,0,0,,This is the last thing\NI ever wanted.
-Dialogue: 0,0:10:05.00,0:10:10.00,Default,Grace,0,0,0,,But we know the truth,\Nand I can't ignore it.
-Dialogue: 0,0:10:10.00,0:10:14.00,Default,Grace,0,0,0,,We're all on this train\Nfor different reasons.
-Dialogue: 0,0:10:14.00,0:10:20.00,Default,Grace,0,0,0,,But it's unfair for me to tell\Nyou how to understand yourself.
-Dialogue: 0,0:10:20.00,0:10:24.02,Default,Grace,0,0,0,,I mean, I don't even\Nfully understand me.
-Dialogue: 0,0:10:24.02,0:10:28.01,Default,Grace,0,0,0,,But together, we can make\Nsome changes.
-Dialogue: 0,0:10:31.01,0:10:33.01,Default,Grace,0,0,0,,First change being...
-Dialogue: 0,0:10:33.01,0:10:37.01,Default,Grace,0,0,0,,we can't be the Apex anymore.
-Dialogue: 0,0:10:37.01,0:10:39.02,Default,Lucy,0,0,0,,Then what are we gonna be?
-Dialogue: 0,0:10:44.01,0:10:46.01,Default,Grace,0,0,0,,Guess we'll have\Nto figure it out.
-Dialogue: 0,0:10:46.01,0:10:47.67,Default,Grace,0,0,0,,Figure it out?
-Dialogue: 0,0:10:47.67,0:10:48.00,Default,Apex,0,0,0,,What's going to happen?
-Dialogue: 0,0:10:48.00,0:10:49.67,Default,Apex,0,0,0,,What does that mean?
-Dialogue: 0,0:10:49.67,0:10:49.01,Default,Apex,0,0,0,,What?
+Dialogue: 0,0:00:41.77,0:00:43.69,Default,Hazel,0,0,0,Tape,...don't you understand?!
+Dialogue: 0,0:00:43.69,0:00:45.78,Default,Hazel,0,0,0,Tape,I'm not going with you!
+Dialogue: 0,0:00:46.69,0:00:48.44,Default,Hazel,0,0,0,Tape,You tried to control me...
+Dialogue: 0,0:00:48.44,0:00:49.45,Default,Hazel,0,0,0,Tape,Just like you...
+Dialogue: 0,0:00:49.45,0:00:51.03,Default,Hazel,0,0,0,Tape,...control The Apex!
+Dialogue: 0,0:00:51.03,0:00:52.70,Default,Grace,0,0,0,,But I never meant to hurt you.
+Dialogue: 0,0:00:52.70,0:00:54.41,Default,Hazel,0,0,0,Tape,You killed Tuba!
+Dialogue: 0,0:00:54.74,0:00:56.45,Default,Hazel,0,0,0,Tape,You killed Tuba!
+Dialogue: 0,0:00:56.45,0:00:58.62,Default,Grace,0,0,0,,No, it was Simon...
+Dialogue: 0,0:00:59.96,0:01:03.88,Default,Hazel,0,0,0,Tape,He didn't come up with the idea\Nto wheel denizens on his own.
+Dialogue: 0,0:01:03.88,0:01:06.05,Default,Grace,0,0,0,,It's your fault she's gone.
+Dialogue: 0,0:01:06.05,0:01:07.42,Default,Grace,0,0,0,,You think you're strong,
+Dialogue: 0,0:01:07.42,0:01:09.13,Default,Grace,0,0,0,,but you're scared.
+Dialogue: 0,0:01:09.13,0:01:11.22,Default,Grace,0,0,0,,A coward leading cowards!
+Dialogue: 0,0:01:11.22,0:01:12.55,Default,Grace,0,0,0,,Hazel, please,
+Dialogue: 0,0:01:12.55,0:01:13.51,Default,Grace,0,0,0,,I didn't know.
+Dialogue: 0,0:01:13.51,0:01:14.76,Default,Hazel,0,0,0,Tape,And worst of all?
+Dialogue: 0,0:01:14.76,0:01:16.81,Default,Hazel,0,0,0,Tape,When you had the chance\Nto make it right...
+Dialogue: 0,0:01:22.94,0:01:25.82,Default,Grace,0,0,0,Tape,I... I\Ncan't believe it!
+Dialogue: 0,0:01:25.82,0:01:27.73,Default,Hazel,0,0,0,Tape,...you protected yourself.
+Dialogue: 0,0:01:27.73,0:01:31.07,Default,Hazel,0,0,0,Tape,You tried to control me and\NSimon instead of being honest.
+Dialogue: 0,0:01:34.24,0:01:35.91,Default,Grace,0,0,0,Tape,You're wrong, Grace.
+Dialogue: 0,0:01:35.91,0:01:37.29,Default,Grace,0,0,0,Tape,Wrong about numbers.
+Dialogue: 0,0:01:37.29,0:01:38.41,Default,Grace,0,0,0,Tape,The Conductor.
+Dialogue: 0,0:01:38.41,0:01:39.08,Default,Grace,0,0,0,Tape,Denizens.
+Dialogue: 0,0:01:39.08,0:01:40.62,Default,Grace,0,0,0,Tape,Everything.
+Dialogue: 0,0:01:40.62,0:01:42.17,Default,Grace,0,0,0,Tape,And you know it.
+Dialogue: 0,0:01:42.62,0:01:44.00,Default,Grace,0,0,0,,It's true.
+Dialogue: 0,0:01:45.17,0:01:47.05,Default,Grace,0,0,0,,I-I'm afraid.
+Dialogue: 0,0:01:47.42,0:01:49.34,Default,Grace,0,0,0,,Afraid of being wrong,
+Dialogue: 0,0:01:49.34,0:01:52.88,Default,Grace,0,0,0,,of disappointing others, \Nof not being enough.
+Dialogue: 0,0:01:54.26,0:01:57.68,Default,Grace,0,0,0,,I did everything to avoid\Nbeing alone...
+Dialogue: 0,0:01:58.47,0:02:00.81,Default,Grace,0,0,0,,and it's exactly how I ended up.
+Dialogue: 0,0:02:03.56,0:02:05.61,Default,Grace,0,0,0,,I'm so sorry, Hazel.
+Dialogue: 0,0:02:06.23,0:02:07.57,Default,Grace,0,0,0,,You deserved better.
+Dialogue: 0,0:02:11.15,0:02:12.82,Default,Grace,0,0,0,Tape,Good luck, Grace.
+Dialogue: 0,0:02:30.84,0:02:31.71,Default,Grace,0,0,0,,Huh?
+Comment: 0,0:02:34.59,0:02:36.14,Default,Grace,0,0,0,,Aah!
+Dialogue: 0,0:02:40.31,0:02:41.14,Default,Grace,0,0,0,,Huh?
+Comment: 0,0:02:52.69,0:02:53.99,Default,Grace,0,0,0,,Ugh.
+Comment: 0,0:02:54.90,0:02:56.24,Default,Grace,0,0,0,,Ah!
+Dialogue: 0,0:03:07.08,0:03:07.83,Default,Grace,0,0,0,,Oh!
+Dialogue: 0,0:03:19.35,0:03:20.43,Default,Grace,0,0,0,,You okay?
+Dialogue: 0,0:03:50.29,0:03:51.21,Default,Grace,0,0,0,,What?
+Dialogue: 0,0:04:08.23,0:04:10.23,Default,Lucy,0,0,0,,That's as far as you go, Void.
+Dialogue: 0,0:04:10.52,0:04:12.57,Default,Grace,0,0,0,,Lucy!\NWhat's going on?
+Dialogue: 0,0:04:12.57,0:04:14.23,Default,Grace,0,0,0,,And...\Nwhat's a Void?
+Dialogue: 0,0:04:15.86,0:04:16.90,Default,Lucy,0,0,0,,You.
+Dialogue: 0,0:04:16.90,0:04:20.20,Default,Lucy,0,0,0,,And we all know\Nhow the Apex deals with Voids.
+Dialogue: 0,0:04:20.20,0:04:21.78,Default,Grace,0,0,0,,Well, I don't.
+Dialogue: 0,0:04:21.78,0:04:23.53,Default,Lucy,0,0,0,,Simon told us everything.
+Dialogue: 0,0:04:23.53,0:04:24.41,Default,Grace,0,0,0,,Lucy, I—
+Dialogue: 0,0:04:24.41,0:04:26.95,Default,Apex,0,0,0,,Simon! Simon!
+Dialogue: 0,0:04:26.95,0:04:28.71,Default,Apex,0,0,0,,The Void infiltrated the car!
+Comment: 0,0:04:30.42,0:04:31.25,Default,Both,0,0,0,,Huh?
+Dialogue: 0,0:04:35.84,0:04:37.01,Default,Grace,0,0,0,,W-Wait, wait, stop!
+Dialogue: 0,0:04:37.01,0:04:38.34,Default,Grace,0,0,0,,It's just me!
+Dialogue: 0,0:04:43.47,0:04:44.39,Default,Grace,0,0,0,,What?
+Dialogue: 0,0:04:44.39,0:04:47.89,Default,Simon,0,0,0,,Look who came crawling back.
+Dialogue: 0,0:04:48.31,0:04:51.56,Default,Simon,0,0,0,,The Void that betrayed us all!
+Dialogue: 0,0:04:53.19,0:04:55.53,Default,Grace,0,0,0,,I didn't betray anybody!
+Dialogue: 0,0:04:55.53,0:04:56.90,Default,Simon,0,0,0,,Oh?
+Dialogue: 0,0:04:56.90,0:04:58.90,Default,Simon,0,0,0,,Then where's your mark?
+Dialogue: 0,0:05:00.66,0:05:03.32,Default,Grace,0,0,0,,Look, we've been\Ndoing things wrong.
+Dialogue: 0,0:05:03.32,0:05:05.37,Default,Grace,0,0,0,,It's my responsibility\Nas the leader to—
+Dialogue: 0,0:05:05.37,0:05:06.95,Default,Simon,0,0,0,,Highest number!
+Dialogue: 0,0:05:06.95,0:05:08.96,Default,Simon,0,0,0,,{\i1}I'm{\i0} the leader now!
+Dialogue: 0,0:05:09.25,0:05:11.71,Default,Grace,0,0,0,,But Simon left me for dead!
+Dialogue: 0,0:05:11.71,0:05:12.38,Default,Grace,0,0,0,,Trapped in—
+Dialogue: 0,0:05:12.38,0:05:15.88,Default,Simon,0,0,0,,Your number speaks\Nlouder than words, Void!
+Dialogue: 0,0:05:16.30,0:05:18.97,Default,Grace,0,0,0,,Okay, what is a Void?!
+Dialogue: 0,0:05:20.26,0:05:22.64,Default,Simon,0,0,0,,What is a Void, Apex?
+Dialogue: 0,0:05:22.97,0:05:25.56,Default,Apex,0,0,0,,A leader who is\Nno longer fit to lead!
+Dialogue: 0,0:05:25.56,0:05:27.72,Default,Apex,0,0,0,,A danger to us all!
+Dialogue: 0,0:05:27.72,0:05:30.48,Default,Simon,0,0,0,,And how do we deal with voids?
+Dialogue: 0,0:05:33.40,0:05:35.57,Default,Simon,0,0,0,,We wheel them! Wheel them!
+Dialogue: 0,0:05:35.57,0:05:36.57,Default,Simon,0,0,0,,Do it!
+Dialogue: 0,0:05:36.57,0:05:38.32,Default,Simon,0,0,0,,Wheel the void!
+Comment: 0,0:05:38.32,0:05:38.99,Default,Apex,0,0,0,,Wheel the void!
+Comment: 0,0:05:38.99,0:05:40.03,Default,Apex,0,0,0,,Wheel the void!
+Dialogue: 0,0:05:39.82,0:05:40.86,Default,Grace,0,0,0,,Stop!
+Comment: 0,0:05:40.03,0:05:42.99,Default,Apex,0,0,0,,Wheel the void! Wheel the void!
+Dialogue: 0,0:05:42.57,0:05:43.41,Default,Grace,0,0,0,,Let go!
+Dialogue: 0,0:05:47.74,0:05:48.66,Default,Grace,0,0,0,,Get off!
+Dialogue: 0,0:05:48.66,0:05:51.29,Default,Grace,0,0,0,,Stop! Okay,\Nplease don't do this!
+Dialogue: 0,0:05:53.21,0:05:55.13,Default,Simon,0,0,0,,Throw her off the train!
+Dialogue: 0,0:05:55.13,0:05:55.84,Default,Grace,0,0,0,,Wait, wait!
+Dialogue: 0,0:05:55.84,0:05:58.09,Default,Grace,0,0,0,,Did Simon even tell\Nyou we met the Conductor?
+Comment: 0,0:05:58.09,0:05:59.55,Default,Apex,0,0,0,,How can we believe her?
+Comment: 0,0:05:59.55,0:05:59.92,Default,Apex,0,0,0,,She betrayed someone who...
+Comment: 0,0:05:58.09,0:05:59.92,Default,Apex,0,0,0,,Simon never told us that...
+Dialogue: 0,0:05:59.92,0:06:00.84,Default,Simon,0,0,0,,Lies!
+Dialogue: 0,0:06:00.84,0:06:02.55,Default,Grace,0,0,0,,No, it's true!
+Dialogue: 0,0:06:02.55,0:06:06.30,Default,Grace,0,0,0,,She isn't the real Conductor, \Nshe's just a woman named Amelia!
+Dialogue: 0,0:06:06.30,0:06:08.01,Default,Grace,0,0,0,,She didn't make the train,\Nand...
+Dialogue: 0,0:06:08.31,0:06:10.73,Default,Grace,0,0,0,,she doesn't care\Nabout any of us!
+Comment: 0,0:06:10.73,0:06:11.18,Default,Apex,0,0,0,,What?
+Comment: 0,0:06:10.73,0:06:11.18,Default,Apex,0,0,0,,Huh?
+Dialogue: 0,0:06:11.18,0:06:12.31,Default,Simon,0,0,0,,Don't listen!
+Dialogue: 0,0:06:12.31,0:06:15.35,Default,Simon,0,0,0,,The Void is trying\Nto infect you with its lies!
+Comment: 0,0:06:15.61,0:06:16.52,Default,Grace,0,0,0,,Aah!
+Dialogue: 0,0:06:18.44,0:06:20.32,Default,Grace,0,0,0,,Simon, I know you're hurt.
+Dialogue: 0,0:06:20.78,0:06:23.03,Default,Grace,0,0,0,,But I had to keep Hazel safe.
+Dialogue: 0,0:06:23.36,0:06:27.16,Default,Grace,0,0,0,,I've made a lot of mistakes,\Nbut that wasn't one of them.
+Dialogue: 0,0:06:27.16,0:06:30.41,Default,Grace,0,0,0,,We've been doing it wrong. We can still change!
+Dialogue: 0,0:06:30.41,0:06:32.79,Default,Simon,0,0,0,,Why would I ever want to change
+Dialogue: 0,0:06:32.79,0:06:34.54,Default,Simon,0,0,0,,if I'm always right?
+Comment: 0,0:06:34.75,0:06:35.75,Default,Grace,0,0,0,,Aah!
+Dialogue: 0,0:06:42.38,0:06:43.67,Default,Apex,0,0,0,,Let's get out of here!
+Dialogue: 0,0:06:43.67,0:06:45.22,Default,Apex,0,0,0,,This is not good!
+Comment: 0,0:07:01.03,0:07:02.36,Default,Grace,0,0,0,,Aah!
+Dialogue: 0,0:07:04.82,0:07:07.03,Default,Simon,0,0,0,,You're an infection!
+Dialogue: 0,0:07:07.03,0:07:08.32,Default,Simon,0,0,0,,A rot!
+Dialogue: 0,0:07:08.32,0:07:09.87,Default,Simon,0,0,0,,A poison!
+Dialogue: 0,0:07:09.87,0:07:12.70,Default,Simon,0,0,0,,I won't let you\Ntake what's ours!
+Dialogue: 0,0:07:12.70,0:07:15.96,Default,Grace,0,0,0,,Simon, you're in a lot of pain.\NI understand that.
+Dialogue: 0,0:07:15.96,0:07:19.04,Default,Simon,0,0,0,,Another hollow apology, Grace?
+Dialogue: 0,0:07:20.00,0:07:20.96,Default,Grace,0,0,0,,No.
+Dialogue: 0,0:07:20.96,0:07:23.51,Default,Grace,0,0,0,,I'm not responsible\Nfor your problems.
+Dialogue: 0,0:07:23.51,0:07:25.09,Default,Grace,0,0,0,,I don't owe you anything!
+Dialogue: 0,0:07:25.09,0:07:27.72,Default,Simon,0,0,0,,You owe me {\i1}everything{\i0}!
+Comment: 0,0:07:56.96,0:07:57.37,Default,Grace,0,0,0,,Aah!
+Comment: 0,0:08:20.94,0:08:21.90,Default,Simon,0,0,0,,Aah!
+Dialogue: 0,0:08:33.74,0:08:34.91,Default,Simon,0,0,0,,Why did you...?
+Dialogue: 0,0:08:36.58,0:08:37.87,Default,Grace,0,0,0,,I...
+Dialogue: 0,0:08:37.87,0:08:38.91,Default,Grace,0,0,0,,I don't know.
+Comment: 0,0:08:42.71,0:08:43.50,Default,Grace,0,0,0,,Aah!
+Comment: 0,0:08:44.75,0:08:47.05,Default,Apex,0,0,0,,What?!
+Comment: 0,0:08:44.75,0:08:47.05,Default,Apex,0,0,0,,But she saved you!
+Comment: 0,0:08:44.75,0:08:47.05,Default,Lucy,0,0,0,,Simon!
+Comment: 0,0:08:47.05,0:08:48.01,Default,Apex,0,0,0,,She saved you!
+Dialogue: 0,0:09:06.61,0:09:07.57,Default,Lucy,0,0,0,,Grace!
+Comment: 0,0:09:07.99,0:09:09.99,Default,Apex,0,0,0,,She's okay!
+Comment: 0,0:09:07.99,0:09:09.99,Default,Apex,0,0,0,,Yay!
+Dialogue: 0,0:09:13.28,0:09:14.03,Default,Simon,0,0,0,,Huh?
+Dialogue: 0,0:09:14.99,0:09:15.37,Default,Simon,0,0,0,,Huh?
+Dialogue: 0,0:09:55.57,0:09:56.37,Default,Apex,0,0,0,,Simon.
+Dialogue: 0,0:09:56.37,0:09:57.37,Default,Apex,0,0,0,,He's gone.
+Dialogue: 0,0:09:57.37,0:09:58.12,Default,Apex,0,0,0,,Huh?
+Dialogue: 0,0:10:02.16,0:10:05.33,Default,Grace,0,0,0,,This is the last thing\NI ever wanted.
+Dialogue: 0,0:10:05.96,0:10:07.75,Default,Grace,0,0,0,,But we know the truth,
+Dialogue: 0,0:10:07.75,0:10:09.76,Default,Grace,0,0,0,,and I can't ignore it.
+Dialogue: 0,0:10:11.09,0:10:14.64,Default,Grace,0,0,0,,We're all on this train\Nfor different reasons.
+Dialogue: 0,0:10:15.01,0:10:20.47,Default,Grace,0,0,0,,But it's unfair for me to tell\Nyou how to understand yourself.
+Dialogue: 0,0:10:20.47,0:10:23.98,Default,Grace,0,0,0,,I mean, I don't even\Nfully understand me.
+Dialogue: 0,0:10:25.23,0:10:28.73,Default,Grace,0,0,0,,But together, we can make\Nsome changes.
+Dialogue: 0,0:10:32.24,0:10:33.99,Default,Grace,0,0,0,,First change being...
+Dialogue: 0,0:10:33.99,0:10:36.70,Default,Grace,0,0,0,,we can't be the Apex anymore.
+Dialogue: 0,0:10:38.12,0:10:39.91,Default,Lucy,0,0,0,,Then what are we gonna be?
+Dialogue: 0,0:10:45.08,0:10:46.79,Default,Grace,0,0,0,,Guess we'll have\Nto figure it out.
+Dialogue: 0,0:10:46.79,0:10:47.54,Default,Apex,0,0,0,,Figure it out?
+Dialogue: 0,0:10:47.54,0:10:48.54,Default,Apex,0,0,0,,What's going to happen?
+Dialogue: 0,0:10:48.54,0:10:49.42,Default,Apex,0,0,0,,What does that mean?
+Dialogue: 0,0:10:49.42,0:10:50.05,Default,Apex,0,0,0,,What?
