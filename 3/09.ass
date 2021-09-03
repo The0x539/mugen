@@ -148,7 +148,7 @@ Dialogue: 0,0:09:19.79,0:09:21.50,Default,Simon,0,0,0,Tape,He blocked out the su
 Dialogue: 0,0:09:21.79,0:09:25.00,Default,Simon,0,0,0,Tape,But he gave us a chance\Nto save people like you.
 Dialogue: 0,0:09:25.00,0:09:27.34,Default,Grace,0,0,0,Tape,You don’t have to be scared anymore.
 Dialogue: 0,0:09:27.34,0:09:29.51,Default,Grace,0,0,0,Tape,The Apex stick together.
-Dialogue: 0,0:09:31.18,0:09:32.59,Default,Simon,0,0,0,,“Stick together.”
+Dialogue: 0,0:09:31.18,0:09:32.59,Default,Simon,0,0,0,,“Stick together{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:09:32.59,0:09:35.35,Default,Simon,0,0,0,,It’s nice to know I wasn’t\Nthe only one you lied to.
 Dialogue: 0,0:09:35.81,0:09:37.35,Default,Grace,0,0,0,,I wasn’t lying!
 Dialogue: 0,0:09:37.77,0:09:41.10,Default,Grace,0,0,0,Tape,{\i1}We just... won’t tell Simon, okay?

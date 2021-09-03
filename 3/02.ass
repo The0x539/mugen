@@ -51,8 +51,8 @@ Dialogue: 0,0:01:37.79,0:01:41.25,Default,Grace,0,0,0,,But Simon presence\Nremai
 Dialogue: 0,0:01:43.08,0:01:44.88,Default,Grace,0,0,0,,Dude, we {\i1}are{\i0} the Apex,
 Dialogue: 0,0:01:44.88,0:01:48.05,Default,Grace,0,0,0,,but also, we’re Grace and Simon, remember?
 Dialogue: 0,0:01:48.05,0:01:49.01,Default,Simon,0,0,0,,Yeah.
-Dialogue: 0,0:01:49.01,0:01:49.96,Default,Grace,0,0,0,,“Yeah.”
-Dialogue: 0,0:01:49.96,0:01:51.05,Default,Grace,0,0,0,,“Yeah,” what?
+Dialogue: 0,0:01:49.01,0:01:49.96,Default,Grace,0,0,0,,“Yeah{\fsp-16.5}.{\fsp}”
+Dialogue: 0,0:01:49.96,0:01:51.05,Default,Grace,0,0,0,,“Yeah{\fsp-16.5},{\fsp}” what?
 Dialogue: 0,0:01:51.80,0:01:53.97,Default,Grace,0,0,0,,I’ve seen you lead an army of kids,
 Dialogue: 0,0:01:53.97,0:01:56.64,Default,Grace,0,0,0,,but I’ve also seen you play sock ball.
 Dialogue: 0,0:01:56.64,0:01:59.60,Default,Grace,0,0,0,,You can play super serious \Ngeneral guy when we get back.

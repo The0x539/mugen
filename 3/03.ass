@@ -177,7 +177,7 @@ Dialogue: 0,0:06:51.97,0:06:53.27,Default,Grace,0,0,0,,I didn’t go to classes.
 Dialogue: 0,0:06:53.27,0:06:55.02,Default,Grace,0,0,0,,I had private instruction.
 Dialogue: 0,0:06:55.02,0:06:56.60,Default,Hazel,0,0,0,,No other kids?
 Dialogue: 0,0:06:57.52,0:06:58.61,Default,Grace,0,0,0,,Yeah.
-Dialogue: 0,0:06:58.61,0:07:01.94,Default,Grace,0,0,0,,My mom and dad were all about \N“learning from the best,”
+Dialogue: 0,0:06:58.61,0:07:01.94,Default,Grace,0,0,0,,My mom and dad were all about \N“learning from the best{\fsp-16.5},{\fsp}”
 Dialogue: 0,0:07:01.94,0:07:04.20,Default,Grace,0,0,0,,which always just meant\NI was alone.
 Dialogue: 0,0:07:05.24,0:07:08.03,Default,Grace,0,0,0,,One year, my instructor put me\Nin her group class recital,
 Dialogue: 0,0:07:08.03,0:07:13.04,Default,Grace,0,0,0,,but my parents couldn’t come, \Nand the other girls in the class didn’t know me, so...
