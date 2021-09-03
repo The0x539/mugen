@@ -23,23 +23,23 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:24.63,0:00:25.55,Default,Grace,0,0,0,,You okay?
-Dialogue: 0,0:00:25.55,0:00:27.92,Default,Simon,0,0,0,,This isn't going to be\Na normal procedure.
-Dialogue: 0,0:00:27.92,0:00:28.55,Default,Grace,0,0,0,,You're right.
-Dialogue: 0,0:00:28.55,0:00:30.22,Default,Simon,0,0,0,,We're supposed to have backup.
-Dialogue: 0,0:00:30.22,0:00:32.89,Default,Simon,0,0,0,,We're supposed to have \Ntwo working harpoon packs.
-Dialogue: 0,0:00:32.89,0:00:35.39,Default,Simon,0,0,0,,I don't think we've even been\Nthis far out on the train before.
+Dialogue: 0,0:00:25.55,0:00:27.92,Default,Simon,0,0,0,,This isn’t going to be\Na normal procedure.
+Dialogue: 0,0:00:27.92,0:00:28.55,Default,Grace,0,0,0,,You’re right.
+Dialogue: 0,0:00:28.55,0:00:30.22,Default,Simon,0,0,0,,We’re supposed to have backup.
+Dialogue: 0,0:00:30.22,0:00:32.89,Default,Simon,0,0,0,,We’re supposed to have \Ntwo working harpoon packs.
+Dialogue: 0,0:00:32.89,0:00:35.39,Default,Simon,0,0,0,,I don’t think we’ve even been\Nthis far out on the train before.
 Dialogue: 0,0:00:35.39,0:00:38.64,Default,Grace,0,0,0,,So, what {\i1}do{\i0} we have,\Nbesides pessimism?
 Dialogue: 0,0:00:38.64,0:00:40.85,Default,Simon,0,0,0,,Good idea.\NWe might have to ration.
-Dialogue: 0,0:00:42.40,0:00:43.73,Default,Simon,0,0,0,,Let's see.
+Dialogue: 0,0:00:42.40,0:00:43.73,Default,Simon,0,0,0,,Let’s see.
 Dialogue: 0,0:00:43.73,0:00:46.69,Default,Simon,0,0,0,,We have some snack bars, rope...
 Dialogue: 0,0:00:47.28,0:00:48.65,Default,Simon,0,0,0,,Three toothbrushes?
 Dialogue: 0,0:00:48.65,0:00:50.95,Default,Grace,0,0,0,,One for the teeth,\Ntwo for the sneaks.
-Dialogue: 0,0:00:50.95,0:00:52.24,Default,Simon,0,0,0,,I don't even get {\i1}one{\i0}?
+Dialogue: 0,0:00:50.95,0:00:52.24,Default,Simon,0,0,0,,I don’t even get {\i1}one{\i0}?
 Dialogue: 0,0:00:52.24,0:00:53.87,Default,Grace,0,0,0,,All I know is I packed three.
 Dialogue: 0,0:00:54.62,0:00:55.99,Default,Simon,0,0,0,,Baggie of Gorp,
 Dialogue: 0,0:00:55.99,0:01:00.37,Default,Simon,0,0,0,,Arctic Cowboy brand deodorant\Nfor summer sports perspiration.
-Dialogue: 0,0:01:00.37,0:01:04.04,Default,Grace,0,0,0,,That's good, because I don't need \Nyour ripeness giving away our position.
-Dialogue: 0,0:01:07.76,0:01:11.01,Default,Grace,0,0,0,,Aww! You think I'm joking!
+Dialogue: 0,0:01:00.37,0:01:04.04,Default,Grace,0,0,0,,That’s good, because I don’t need \Nyour ripeness giving away our position.
+Dialogue: 0,0:01:07.76,0:01:11.01,Default,Grace,0,0,0,,Aww! You think I’m joking!
 Dialogue: 0,0:01:14.26,0:01:16.56,Default,Simon,0,0,0,,Okay. First impressions.
 Dialogue: 0,0:01:16.56,0:01:18.35,Default,Simon,0,0,0,,Looks to be a moderately sized car,
 Dialogue: 0,0:01:18.64,0:01:19.98,Default,Simon,0,0,0,,jungle-themed...
@@ -49,12 +49,12 @@ Dialogue: 0,0:01:28.90,0:01:29.65,Default,Simon,0,0,0,,Hmm?
 Dialogue: 0,0:01:35.49,0:01:36.99,Default,Simon,0,0,0,,Threats seem minimal.
 Dialogue: 0,0:01:37.79,0:01:41.25,Default,Grace,0,0,0,,But Simon presence\Nremains aloof and dorky.
 Dialogue: 0,0:01:43.08,0:01:44.88,Default,Grace,0,0,0,,Dude, we {\i1}are{\i0} the Apex,
-Dialogue: 0,0:01:44.88,0:01:48.05,Default,Grace,0,0,0,,but also, we're Grace and Simon, remember?
+Dialogue: 0,0:01:44.88,0:01:48.05,Default,Grace,0,0,0,,but also, we’re Grace and Simon, remember?
 Dialogue: 0,0:01:48.05,0:01:49.01,Default,Simon,0,0,0,,Yeah.
-Dialogue: 0,0:01:49.01,0:01:49.96,Default,Grace,0,0,0,,"Yeah."
-Dialogue: 0,0:01:49.96,0:01:51.05,Default,Grace,0,0,0,,"Yeah," what?
-Dialogue: 0,0:01:51.80,0:01:53.97,Default,Grace,0,0,0,,I've seen you lead an army of kids,
-Dialogue: 0,0:01:53.97,0:01:56.64,Default,Grace,0,0,0,,but I've also seen you play sock ball.
+Dialogue: 0,0:01:49.01,0:01:49.96,Default,Grace,0,0,0,,“Yeah.”
+Dialogue: 0,0:01:49.96,0:01:51.05,Default,Grace,0,0,0,,“Yeah,” what?
+Dialogue: 0,0:01:51.80,0:01:53.97,Default,Grace,0,0,0,,I’ve seen you lead an army of kids,
+Dialogue: 0,0:01:53.97,0:01:56.64,Default,Grace,0,0,0,,but I’ve also seen you play sock ball.
 Dialogue: 0,0:01:56.64,0:01:59.60,Default,Grace,0,0,0,,You can play super serious \Ngeneral guy when we get back.
 Dialogue: 0,0:01:59.60,0:02:00.73,Default,Grace,0,0,0,,Until then,
 Dialogue: 0,0:02:00.73,0:02:00.77,Default,Grace,225,225,0,,loosen up!
@@ -116,19 +116,19 @@ Dialogue: 0,0:02:15.28,0:02:15.99,Default,Simon,0,0,0,,Whoa!
 Dialogue: 0,0:02:20.24,0:02:20.95,Default,Grace,0,0,0,,Okay.
 Comment: 0,0:02:23.04,0:02:23.75,Default,Simon,0,0,0,,Hmm-hmm.
 Comment: 0,0:02:28.21,0:02:29.21,Default,Grace,0,0,0,,Hmm-hmm.
-Dialogue: 0,0:02:40.68,0:02:43.52,Default,Grace,0,0,0,,See? Isn't this a nice\Nchange of pace?
+Dialogue: 0,0:02:40.68,0:02:43.52,Default,Grace,0,0,0,,See? Isn’t this a nice\Nchange of pace?
 Dialogue: 0,0:02:43.52,0:02:44.89,Default,Simon,0,0,0,,Yeah, it is.
 Dialogue: 0,0:02:57.66,0:02:58.49,Default,Both,0,0,0,,Huh?{I have no idea what this vocalization actually is}
 Comment: 0,0:03:00.20,0:03:00.74,Default,Grace,0,0,0,,Whoa!
 Comment: 0,0:03:00.20,0:03:00.74,Default,Simon,0,0,0,,Ohh!
 Dialogue: 0,0:03:02.33,0:03:03.16,Default,Grace,0,0,0,,Ahhh!
 Dialogue: 0,0:03:08.29,0:03:09.79,Default,Grace,0,0,0,,Looks like we got null problems.
-Dialogue: 0,0:03:12.34,0:03:14.17,Default,Simon,0,0,0,,Can't look for threats down here.
+Dialogue: 0,0:03:12.34,0:03:14.17,Default,Simon,0,0,0,,Can’t look for threats down here.
 Dialogue: 0,0:03:32.36,0:03:33.94,Default,Grace,0,0,0,,See anything?
 Dialogue: 0,0:03:33.94,0:03:36.61,Default,Simon,0,0,0,,Yeah! The tops of other trees!
 Dialogue: 0,0:03:42.95,0:03:44.91,Default,Simon,0,0,0,,I think I found something!
 Dialogue: 0,0:03:53.17,0:03:55.51,Default,Simon,0,0,0,,Clear a way! Now, now, now!
-Dialogue: 0,0:04:04.81,0:04:07.39,Default,Grace,0,0,0,,Whatever it is,\Nwe can't ignore it.
+Dialogue: 0,0:04:04.81,0:04:07.39,Default,Grace,0,0,0,,Whatever it is,\Nwe can’t ignore it.
 Dialogue: 0,0:04:07.39,0:04:08.77,Default,Simon,0,0,0,,I know you told me to loosen up,
 Dialogue: 0,0:04:08.77,0:04:12.15,Default,Simon,0,0,0,,but we {\i1}do{\i0} have Apex procedures\Nfor something like this.
 Dialogue: 0,0:04:12.15,0:04:13.94,Default,Grace,0,0,0,,Okay. What do you got?
@@ -136,18 +136,18 @@ Dialogue: 0,0:04:14.65,0:04:17.61,Default,Simon,0,0,0,,When encountering a null\
 Dialogue: 0,0:04:17.61,0:04:19.66,Default,Simon,0,0,0,,nor avoided in its entirety,
 Dialogue: 0,0:04:19.66,0:04:22.37,Default,Simon,0,0,0,,the null in question\Nmust be incapacitated.
 Dialogue: 0,0:04:22.37,0:04:25.58,Default,Grace,0,0,0,,Hmm. Now, who could have \Nwritten that one?
-Dialogue: 0,0:04:26.83,0:04:29.08,Default,Simon,0,0,0,,You know I don't like\Nto take credit for things.
-Dialogue: 0,0:04:31.50,0:04:32.75,Default,Grace,0,0,0,,Let's trap it.
+Dialogue: 0,0:04:26.83,0:04:29.08,Default,Simon,0,0,0,,You know I don’t like\Nto take credit for things.
+Dialogue: 0,0:04:31.50,0:04:32.75,Default,Grace,0,0,0,,Let’s trap it.
 Dialogue: 0,0:04:46.64,0:04:47.85,Default,Simon,0,0,0,,Did we have marshmallows?
-Dialogue: 0,0:04:47.85,0:04:49.31,Default,Grace,0,0,0,,I'm sorry, what?
+Dialogue: 0,0:04:47.85,0:04:49.31,Default,Grace,0,0,0,,I’m sorry, what?
 Dialogue: 0,0:04:49.31,0:04:52.06,Default,Grace,0,0,0,,{\i1}This{\i0} is where you want to redeem\Nyour loss at chubby bunny?
 Dialogue: 0,0:04:52.06,0:04:52.77,Default,Grace,0,0,0,,Right here?
 Dialogue: 0,0:04:52.77,0:04:54.86,Default,Simon,0,0,0,,I maintain that I am still\Nthe champion.
 Dialogue: 0,0:04:54.86,0:04:57.19,Default,Simon,0,0,0,,They did not fly out\Nuntil {\i1}after{\i0} I said it.
 Dialogue: 0,0:04:57.19,0:04:58.40,Default,Simon,0,0,0,,Still counts.
 Dialogue: 0,0:04:59.78,0:05:00.53,Default,Both,0,0,0,,Huh?
-Dialogue: 0,0:05:09.37,0:05:10.46,Default,Simon,0,0,0,,I-It's fine.
-Dialogue: 0,0:05:10.46,0:05:12.42,Default,Simon,0,0,0,,The— The trap let us know it's here.
+Dialogue: 0,0:05:09.37,0:05:10.46,Default,Simon,0,0,0,,I-It’s fine.
+Dialogue: 0,0:05:10.46,0:05:12.42,Default,Simon,0,0,0,,The— The trap let us know it’s here.
 Dialogue: 0,0:05:12.42,0:05:15.17,Default,Simon,0,0,0,,Now we can team up\Nand take it down together.
 Dialogue: 0,0:05:16.38,0:05:17.13,Default,Grace,0,0,0,,Huh?
 Dialogue: 0,0:05:17.80,0:05:18.97,Default,Grace,0,0,0,,Simon?
@@ -161,44 +161,44 @@ Dialogue: 0,0:06:06.80,0:06:12.14,Default,Hazel,0,0,0,,the trespassers are given
 Dialogue: 0,0:06:12.14,0:06:14.48,Default,Grace,0,0,0,,Ahhhhhhhhhh!
 Comment: 0,0:06:16.73,0:06:21.44,Default,,0,0,0,,Please! Please!
 Comment: 0,0:06:16.73,0:06:21.44,Default,,0,0,0,,Oh, stop it!
-Dialogue: 0,0:06:23.99,0:06:25.82,Default,Hazel,0,0,0,,"Oh, no! Please!"
-Dialogue: 0,0:06:25.82,0:06:27.74,Default,Hazel,0,0,0,,"Ha ha ha ha! Oh, no!"
-Dialogue: 0,0:06:30.95,0:06:32.08,Default,Hazel,0,0,0,,That's you two!
-Dialogue: 0,0:06:32.08,0:06:33.96,Default,Hazel,0,0,0,,That's what you two sound like!
-Dialogue: 0,0:06:33.96,0:06:37.59,Default,Grace,0,0,0,,I thought you said there weren't \Nany passengers for at least 47 cars.
-Dialogue: 0,0:06:37.59,0:06:39.92,Default,Simon,0,0,0,,I don't know. That's what\Nthe number tracker said.
+Dialogue: 0,0:06:23.99,0:06:25.82,Default,Hazel,0,0,0,,“Oh, no! Please!”
+Dialogue: 0,0:06:25.82,0:06:27.74,Default,Hazel,0,0,0,,“Ha ha ha ha! Oh, no!”
+Dialogue: 0,0:06:30.95,0:06:32.08,Default,Hazel,0,0,0,,That’s you two!
+Dialogue: 0,0:06:32.08,0:06:33.96,Default,Hazel,0,0,0,,That’s what you two sound like!
+Dialogue: 0,0:06:33.96,0:06:37.59,Default,Grace,0,0,0,,I thought you said there weren’t \Nany passengers for at least 47 cars.
+Dialogue: 0,0:06:37.59,0:06:39.92,Default,Simon,0,0,0,,I don’t know. That’s what\Nthe number tracker said.
 Dialogue: 0,0:06:44.55,0:06:47.39,Default,Grace,0,0,0,,Uh, hi... over there.
-Dialogue: 0,0:06:47.39,0:06:49.22,Default,Simon,0,0,0,,We're with the Apex.
-Dialogue: 0,0:06:52.64,0:06:54.14,Default,Simon,0,0,0,,You might've heard of us.
+Dialogue: 0,0:06:47.39,0:06:49.22,Default,Simon,0,0,0,,We’re with the Apex.
+Dialogue: 0,0:06:52.64,0:06:54.14,Default,Simon,0,0,0,,You might’ve heard of us.
 Dialogue: 0,0:06:54.14,0:06:55.73,Default,Simon,0,0,0,,Seen this wave symbol?
-Dialogue: 0,0:06:55.73,0:06:59.69,Default,Simon,0,0,0,,We want to make sure you're getting \Neverything you're entitled to from the train.
+Dialogue: 0,0:06:55.73,0:06:59.69,Default,Simon,0,0,0,,We want to make sure you’re getting \Neverything you’re entitled to from the train.
 Dialogue: 0,0:07:00.07,0:07:01.44,Default,Hazel,0,0,0,,Hmm.
 Dialogue: 0,0:07:01.94,0:07:04.78,Default,Simon,0,0,0,,As a passenger,\Nthe True Conductor gives us—
 Comment: 0,0:07:04.78,0:07:07.16,Default,Hazel,0,0,0,,Pbbbbbbt!
-Dialogue: 0,0:07:12.04,0:07:13.33,Default,Simon,0,0,0,,You aren't getting this.
+Dialogue: 0,0:07:12.04,0:07:13.33,Default,Simon,0,0,0,,You aren’t getting this.
 Dialogue: 0,0:07:13.33,0:07:13.87,Default,Simon,0,0,0,,You see—
 Dialogue: 0,0:07:20.63,0:07:21.63,Default,Hazel,0,0,0,,No!
 Comment: 0,0:07:21.63,0:07:22.63,Default,Hazel,0,0,0,,Hmph!
-Dialogue: 0,0:07:22.63,0:07:24.47,Default,Hazel,0,0,0,,You told me we don't hit!
+Dialogue: 0,0:07:22.63,0:07:24.47,Default,Hazel,0,0,0,,You told me we don’t hit!
 Dialogue: 0,0:07:33.81,0:07:34.89,Default,Grace,0,0,0,,Sorry.
 Dialogue: 0,0:07:34.89,0:07:36.48,Default,Grace,0,0,0,,He can get a little excited.
-Dialogue: 0,0:07:38.06,0:07:39.23,Default,Grace,0,0,0,,My name's Grace.
+Dialogue: 0,0:07:38.06,0:07:39.23,Default,Grace,0,0,0,,My name’s Grace.
 Dialogue: 0,0:07:39.23,0:07:40.73,Default,Grace,0,0,0,,Simon is my friend.
-Dialogue: 0,0:07:40.73,0:07:42.27,Default,Grace,0,0,0,,What's your friend's name?
+Dialogue: 0,0:07:40.73,0:07:42.27,Default,Grace,0,0,0,,What’s your friend’s name?
 Dialogue: 0,0:07:42.27,0:07:43.65,Default,Hazel,0,0,0,,This is Tuba.
-Dialogue: 0,0:07:44.07,0:07:45.74,Default,Hazel,0,0,0,,She's kinda shy.
+Dialogue: 0,0:07:44.07,0:07:45.74,Default,Hazel,0,0,0,,She’s kinda shy.
 Dialogue: 0,0:07:45.74,0:07:48.07,Default,Grace,0,0,0,,Mm. I can get shy, too.
 Dialogue: 0,0:07:48.07,0:07:49.07,Default,Grace,0,0,0,,Hi, Tuba!
 Dialogue: 0,0:07:49.99,0:07:51.33,Default,Tuba,0,0,0,,Hello.
-Dialogue: 0,0:07:51.33,0:07:52.49,Default,Grace,0,0,0,,And what's your name?
+Dialogue: 0,0:07:51.33,0:07:52.49,Default,Grace,0,0,0,,And what’s your name?
 Dialogue: 0,0:07:52.49,0:07:53.24,Default,Hazel,0,0,0,,Hazel.
-Dialogue: 0,0:07:53.24,0:07:56.33,Default,Grace,0,0,0,,That's a very pretty name, Hazel.
-Dialogue: 0,0:07:56.33,0:07:58.92,Default,Grace,0,0,0,,I'm looking for passengers to help.
-Dialogue: 0,0:07:58.92,0:08:00.42,Default,Grace,0,0,0,,That's what I do.
+Dialogue: 0,0:07:53.24,0:07:56.33,Default,Grace,0,0,0,,That’s a very pretty name, Hazel.
+Dialogue: 0,0:07:56.33,0:07:58.92,Default,Grace,0,0,0,,I’m looking for passengers to help.
+Dialogue: 0,0:07:58.92,0:08:00.42,Default,Grace,0,0,0,,That’s what I do.
 Dialogue: 0,0:08:00.42,0:08:03.09,Default,Grace,0,0,0,,Do you mind if I talk to Hazel alone?
 Dialogue: 0,0:08:03.09,0:08:04.67,Default,Grace,0,0,0,,Just for a little bit.
 Dialogue: 0,0:08:04.67,0:08:06.92,Default,Tuba,0,0,0,,I should stay.
-Dialogue: 0,0:08:06.92,0:08:09.22,Default,Hazel,0,0,0,,Tuba, I'll be okay.
+Dialogue: 0,0:08:06.92,0:08:09.22,Default,Hazel,0,0,0,,Tuba, I’ll be okay.
 Dialogue: 0,0:08:09.22,0:08:10.64,Default,Hazel,0,0,0,,I promise.
 Dialogue: 0,0:08:11.43,0:08:14.18,Default,Tuba,0,0,0,,I will be over here...
 Dialogue: 0,0:08:18.81,0:08:21.27,Default,Tuba,0,0,0,,...eating a pineapple.
@@ -209,13 +209,13 @@ Dialogue: 0,0:08:30.20,0:08:31.24,Default,Grace,0,0,0,,Do you have a number?
 Dialogue: 0,0:08:31.24,0:08:32.12,Default,Hazel,0,0,0,,I do!
 Dialogue: 0,0:08:33.58,0:08:35.45,Default,Hazel,0,0,0,,But yours glows!
 Dialogue: 0,0:08:35.45,0:08:37.29,Default,Grace,0,0,0,,Simon, take a look at this.
-Dialogue: 0,0:08:37.29,0:08:39.54,Default,Simon,0,0,0,,That's probably why\Nshe didn't scan.
+Dialogue: 0,0:08:37.29,0:08:39.54,Default,Simon,0,0,0,,That’s probably why\Nshe didn’t scan.
 Dialogue: 0,0:08:39.54,0:08:42.08,Default,Simon,0,0,0,,The fake Conductor was trying\Nto hide her from us,
 Dialogue: 0,0:08:42.08,0:08:43.67,Default,Simon,0,0,0,,turning off her number.
 Dialogue: 0,0:08:43.67,0:08:45.71,Default,Simon,0,0,0,,We need to get her\Nto the Apex right away.
-Dialogue: 0,0:08:45.71,0:08:47.92,Default,Hazel,0,0,0,,What's a con— conductor?
-Dialogue: 0,0:08:47.92,0:08:50.55,Default,Simon,0,0,0,,Well, that's what I was {\i1}trying{\i0}\Nto tell you about before.
-Dialogue: 0,0:08:50.55,0:08:52.30,Default,Grace,0,0,0,,Let's focus on numbers.
+Dialogue: 0,0:08:45.71,0:08:47.92,Default,Hazel,0,0,0,,What’s a con— conductor?
+Dialogue: 0,0:08:47.92,0:08:50.55,Default,Simon,0,0,0,,Well, that’s what I was {\i1}trying{\i0}\Nto tell you about before.
+Dialogue: 0,0:08:50.55,0:08:52.30,Default,Grace,0,0,0,,Let’s focus on numbers.
 Dialogue: 0,0:08:52.30,0:08:55.85,Default,Grace,0,0,0,,We all have them—\Nme, you, and Simon.
 Dialogue: 0,0:08:55.85,0:08:58.02,Default,Grace,0,0,0,,But yours should be glowing.
 Dialogue: 0,0:08:58.02,0:08:59.98,Default,Grace,0,0,0,,Like mine, see?
@@ -232,22 +232,22 @@ Dialogue: 0,0:09:23.00,0:09:23.88,Default,Hazel,0,0,0,,Wait.
 Dialogue: 0,0:09:23.88,0:09:25.42,Default,Hazel,0,0,0,,Am I a kid?
 Dialogue: 0,0:09:26.25,0:09:27.34,Default,Tuba,0,0,0,,Mm-hmm.
 Dialogue: 0,0:09:27.34,0:09:28.46,Default,Hazel,0,0,0,,Yes!
-Dialogue: 0,0:09:28.46,0:09:30.22,Default,Hazel,0,0,0,,I'll tell Tuba to pack up.
-Dialogue: 0,0:09:30.22,0:09:31.51,Default,Simon,0,0,0,,Tuba can't come with.
+Dialogue: 0,0:09:28.46,0:09:30.22,Default,Hazel,0,0,0,,I’ll tell Tuba to pack up.
+Dialogue: 0,0:09:30.22,0:09:31.51,Default,Simon,0,0,0,,Tuba can’t come with.
 Dialogue: 0,0:09:32.26,0:09:33.01,Default,Hazel,0,0,0,,What?
-Dialogue: 0,0:09:33.01,0:09:33.64,Default,Simon,0,0,0,,You can't—
-Dialogue: 0,0:09:33.64,0:09:38.85,Default,Grace,0,0,0,,What he's trying to say is\Nthat numbers are for passengers.
-Dialogue: 0,0:09:38.85,0:09:41.77,Default,Grace,0,0,0,,This kind of stuff\Ndoesn't affect her.
+Dialogue: 0,0:09:33.01,0:09:33.64,Default,Simon,0,0,0,,You can’t—
+Dialogue: 0,0:09:33.64,0:09:38.85,Default,Grace,0,0,0,,What he’s trying to say is\Nthat numbers are for passengers.
+Dialogue: 0,0:09:38.85,0:09:41.77,Default,Grace,0,0,0,,This kind of stuff\Ndoesn’t affect her.
 Dialogue: 0,0:09:41.77,0:09:44.36,Default,Grace,0,0,0,,Tuba probably wants to stay\Nin this jungle car.
-Dialogue: 0,0:09:44.36,0:09:45.69,Default,Hazel,0,0,0,,Don't be daft!
-Dialogue: 0,0:09:45.69,0:09:47.69,Default,Hazel,0,0,0,,I'm not leaving Tuba.
-Dialogue: 0,0:09:48.94,0:09:51.36,Default,Simon,0,0,0,,We can't bring that null\Nwith us back to the Apex.
+Dialogue: 0,0:09:44.36,0:09:45.69,Default,Hazel,0,0,0,,Don’t be daft!
+Dialogue: 0,0:09:45.69,0:09:47.69,Default,Hazel,0,0,0,,I’m not leaving Tuba.
+Dialogue: 0,0:09:48.94,0:09:51.36,Default,Simon,0,0,0,,We can’t bring that null\Nwith us back to the Apex.
 Dialogue: 0,0:09:51.36,0:09:52.20,Default,Grace,0,0,0,,Oh, okay.
 Dialogue: 0,0:09:52.20,0:09:55.45,Default,Grace,0,0,0,,Do you think we can just grab Hazel\Nand run past that thing?
 Dialogue: 0,0:09:58.20,0:09:59.62,Default,Grace,0,0,0,,Okay, Simon, listen.
-Dialogue: 0,0:09:59.62,0:10:01.58,Default,Grace,0,0,0,,We'll take them both for now.
+Dialogue: 0,0:09:59.62,0:10:01.58,Default,Grace,0,0,0,,We’ll take them both for now.
 Dialogue: 0,0:10:01.58,0:10:02.87,Default,Grace,0,0,0,,Once we wean Hazel off it,
-Dialogue: 0,0:10:02.87,0:10:04.96,Default,Grace,0,0,0,,we'll ditch the null\Nbefore we get back home.
+Dialogue: 0,0:10:02.87,0:10:04.96,Default,Grace,0,0,0,,we’ll ditch the null\Nbefore we get back home.
 Dialogue: 0,0:10:05.88,0:10:06.71,Default,Simon,0,0,0,,Hm.
 Dialogue: 0,0:10:07.50,0:10:08.88,Default,Grace,0,0,0,,Hazel!
 Dialogue: 0,0:10:08.88,0:10:10.84,Default,Grace,0,0,0,,I had to give Simon a talking-to.
@@ -256,15 +256,15 @@ Dialogue: 0,0:10:13.43,0:10:16.35,Default,Grace,0,0,0,,Of course we want both of
 Dialogue: 0,0:10:16.35,0:10:17.68,Default,Hazel,0,0,0,,But you were the one that said—
 Dialogue: 0,0:10:17.68,0:10:19.93,Default,Grace,0,0,0,,That was Simon,\Nand he was confused.
 Dialogue: 0,0:10:19.93,0:10:21.39,Default,Grace,0,0,0,,But now I fixed it.
-Dialogue: 0,0:10:21.39,0:10:23.52,Default,Grace,0,0,0,,We're all going to the Apex together!
-Dialogue: 0,0:10:23.52,0:10:25.10,Default,Grace,0,0,0,,Isn't that exciting?
+Dialogue: 0,0:10:21.39,0:10:23.52,Default,Grace,0,0,0,,We’re all going to the Apex together!
+Dialogue: 0,0:10:23.52,0:10:25.10,Default,Grace,0,0,0,,Isn’t that exciting?
 Dialogue: 0,0:10:26.31,0:10:28.23,Default,Hazel,0,0,0,,Tuba! Tuba!
-Dialogue: 0,0:10:28.98,0:10:30.73,Default,Hazel,0,0,0,,We're going with Grace and that guy!
-Dialogue: 0,0:10:30.73,0:10:32.61,Default,Hazel,0,0,0,,I'm gonna see more kids!
+Dialogue: 0,0:10:28.98,0:10:30.73,Default,Hazel,0,0,0,,We’re going with Grace and that guy!
+Dialogue: 0,0:10:30.73,0:10:32.61,Default,Hazel,0,0,0,,I’m gonna see more kids!
 Dialogue: 0,0:10:32.61,0:10:33.82,Default,Hazel,0,0,0,,Pack up your stuff!
 Dialogue: 0,0:10:33.82,0:10:36.62,Default,Tuba,0,0,0,,Are you sure this \Nis what you want?
 Dialogue: 0,0:10:36.62,0:10:38.83,Default,Tuba,0,0,0,,We were setting up\Na home here.
-Dialogue: 0,0:10:38.83,0:10:42.41,Default,Hazel,0,0,0,,It's the moment\NI've dreamed of my whole life.
+Dialogue: 0,0:10:38.83,0:10:42.41,Default,Hazel,0,0,0,,It’s the moment\NI’ve dreamed of my whole life.
 Dialogue: 0,0:10:45.62,0:10:46.58,Default,Tuba,0,0,0,,Okay.
 Dialogue: 0,0:10:55.01,0:10:56.55,Default,Hazel,0,0,0,,We gotta bring the couch!
 Dialogue: 0,0:10:56.55,0:10:58.47,Default,Tuba,0,0,0,,That is a rock.

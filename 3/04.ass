@@ -34,14 +34,14 @@ Dialogue: 0,0:00:48.36,0:00:49.74,Default,Hazel,0,0,0,,No, you watch out!
 Dialogue: 0,0:00:52.95,0:00:54.28,Default,Grace,0,0,0,,Get him, Hazel!
 Dialogue: 0,0:00:55.91,0:00:57.33,Default,Simon,0,0,0,,Take this! Ha-ha!
 Dialogue: 0,0:00:58.50,0:01:00.50,Default,Hazel,0,0,0,,Ahh! We need backup!
-Dialogue: 0,0:01:00.50,0:01:02.17,Default,Hazel,0,0,0,,He's gonna out... snow—
-Dialogue: 0,0:01:02.17,0:01:03.25,Default,Hazel,0,0,0,,He's gonna hit us!
-Dialogue: 0,0:01:04.17,0:01:05.59,Default,Grace,0,0,0,,Ugh, it's not holding.
+Dialogue: 0,0:01:00.50,0:01:02.17,Default,Hazel,0,0,0,,He’s gonna out... snow—
+Dialogue: 0,0:01:02.17,0:01:03.25,Default,Hazel,0,0,0,,He’s gonna hit us!
+Dialogue: 0,0:01:04.17,0:01:05.59,Default,Grace,0,0,0,,Ugh, it’s not holding.
 Dialogue: 0,0:01:05.59,0:01:08.59,Default,Hazel,0,0,0,,You gotta warm the snow\Nwith your hands first.
 Dialogue: 0,0:01:08.59,0:01:10.47,Default,Hazel,0,0,0,,Your real hands.
 Dialogue: 0,0:01:10.47,0:01:11.84,Default,Grace,0,0,0,,Of course.
 Dialogue: 0,0:01:11.84,0:01:12.93,Default,Grace,0,0,0,,What would I do\Nwithout you?
-Dialogue: 0,0:01:12.93,0:01:15.97,Default,Hazel,0,0,0,,You would die,\Nuntil you're dead.
+Dialogue: 0,0:01:12.93,0:01:15.97,Default,Hazel,0,0,0,,You would die,\Nuntil you’re dead.
 Dialogue: 0,0:01:22.52,0:01:23.56,Default,Grace,0,0,0,,Watch this!
 Dialogue: 0,0:01:28.61,0:01:29.69,Default,Grace,0,0,0,,Huh?
 Dialogue: 0,0:01:33.78,0:01:34.62,Default,Grace,0,0,0,,Ahh!
@@ -55,48 +55,48 @@ Dialogue: 0,0:01:53.51,0:01:53.68,Default,Simon,0,0,0,,Ar—
 Dialogue: 0,0:01:57.47,0:02:00.43,Default,Simon,0,0,0,,Armistice means\Nno more snowballs.
 Dialogue: 0,0:02:00.43,0:02:01.35,Default,Tuba,0,0,0,,I know.
 Comment: 0,0:02:03.77,0:02:04.69,Default,Simon,0,0,0,,Ahh.
-Dialogue: 0,0:02:07.90,0:02:09.57,Default,Simon,0,0,0,,Snow's probably gonna get worse.
-Dialogue: 0,0:02:09.57,0:02:10.78,Default,Simon,0,0,0,,What's the plan?
+Dialogue: 0,0:02:07.90,0:02:09.57,Default,Simon,0,0,0,,Snow’s probably gonna get worse.
+Dialogue: 0,0:02:09.57,0:02:10.78,Default,Simon,0,0,0,,What’s the plan?
 Dialogue: 0,0:02:12.03,0:02:12.95,Default,Simon,0,0,0,,What?
 Dialogue: 0,0:02:14.36,0:02:15.74,Default,Tuba,0,0,0,,Cabin.
 Dialogue: 0,0:02:16.28,0:02:17.20,Default,Simon,0,0,0,,Grace?
 Dialogue: 0,0:02:17.83,0:02:18.53,Default,Simon,0,0,0,,Grace?
 Dialogue: 0,0:02:18.53,0:02:19.24,Default,Grace,0,0,0,,Huh?
 Dialogue: 0,0:02:19.62,0:02:22.37,Default,Grace,0,0,0,,Oh, yeah, uh...
-Dialogue: 0,0:02:22.37,0:02:23.83,Default,Grace,0,0,0,,Let's head to the cabin.
-Dialogue: 0,0:02:41.52,0:02:44.64,Default,The Cat,0,0,0,,The first vacation \NI've taken in 150 years,
+Dialogue: 0,0:02:22.37,0:02:23.83,Default,Grace,0,0,0,,Let’s head to the cabin.
+Dialogue: 0,0:02:41.52,0:02:44.64,Default,The Cat,0,0,0,,The first vacation \NI’ve taken in 150 years,
 Dialogue: 0,0:02:44.64,0:02:46.44,Default,The Cat,0,0,0,,and I have to deal \Nwith tourists.
 Dialogue: 0,0:02:47.27,0:02:48.11,Default,Grace,0,0,0,,The Cat!
 Dialogue: 0,0:02:48.11,0:02:49.23,Default,The Cat,0,0,0,,Grace.
-Dialogue: 0,0:02:49.23,0:02:51.57,Default,The Cat,0,0,0,,Raiding my business\Nisn't enough for...
+Dialogue: 0,0:02:49.23,0:02:51.57,Default,The Cat,0,0,0,,Raiding my business\Nisn’t enough for...
 Dialogue: 0,0:02:53.78,0:02:55.03,Default,The Cat,0,0,0,,Simon?
 Dialogue: 0,0:02:57.12,0:03:00.33,Default,The Cat,0,0,0,,Well, I suppose you can stay for a bit.
 Dialogue: 0,0:03:01.79,0:03:02.87,Default,Simon,0,0,0,,We gotta go.
 Dialogue: 0,0:03:02.87,0:03:04.04,Default,Grace,0,0,0,,We just got here.
-Dialogue: 0,0:03:04.04,0:03:05.71,Default,Simon,0,0,0,,We're not staying here.
+Dialogue: 0,0:03:04.04,0:03:05.71,Default,Simon,0,0,0,,We’re not staying here.
 Dialogue: 0,0:03:12.67,0:03:14.05,Default,Hazel,0,0,0,,Snow day!
 Dialogue: 0,0:03:19.14,0:03:20.26,Default,Simon,0,0,0,,No.
-Dialogue: 0,0:03:20.26,0:03:21.22,Default,Simon,0,0,0,,We're leaving.
-Dialogue: 0,0:03:22.60,0:03:23.43,Default,Simon,0,0,0,,We're leaving!
-Dialogue: 0,0:03:23.43,0:03:27.27,Default,Grace,0,0,0,,Simon, the snow's too heavy. \NWe have to hunker down.
+Dialogue: 0,0:03:20.26,0:03:21.22,Default,Simon,0,0,0,,We’re leaving.
+Dialogue: 0,0:03:22.60,0:03:23.43,Default,Simon,0,0,0,,We’re leaving!
+Dialogue: 0,0:03:23.43,0:03:27.27,Default,Grace,0,0,0,,Simon, the snow’s too heavy. \NWe have to hunker down.
 Dialogue: 0,0:03:27.27,0:03:28.69,Default,Simon,0,0,0,,And stay here with her?
 Dialogue: 0,0:03:28.69,0:03:29.90,Default,Grace,0,0,0,,And figure things out.
 Dialogue: 0,0:03:29.90,0:03:30.48,Default,Simon,0,0,0,,Figure what—
-Dialogue: 0,0:03:30.48,0:03:32.61,Default,Grace,0,0,0,,I'm gonna go look for supplies.
+Dialogue: 0,0:03:30.48,0:03:32.61,Default,Grace,0,0,0,,I’m gonna go look for supplies.
 Dialogue: 0,0:03:36.78,0:03:37.74,Default,Frank,0,0,0,,Hm?
 Dialogue: 0,0:03:37.74,0:03:38.49,Default,Grace,0,0,0,,Huh?
 Comment: 0,0:03:51.92,0:03:53.09,Default,Hazel,0,0,0,,Whoo!
-Dialogue: 0,0:03:55.55,0:03:56.84,Default,Hazel,0,0,0,,It's laughing water!
-Dialogue: 0,0:03:56.84,0:03:58.55,Default,Randall,0,0,0,,It's a laughing girl!
+Dialogue: 0,0:03:55.55,0:03:56.84,Default,Hazel,0,0,0,,It’s laughing water!
+Dialogue: 0,0:03:56.84,0:03:58.55,Default,Randall,0,0,0,,It’s a laughing girl!
 Dialogue: 0,0:03:58.55,0:03:59.47,Default,Hazel,0,0,0,,I am!
 Dialogue: 0,0:03:59.47,0:04:00.60,Default,The Cat,0,0,0,,Randall.
 Dialogue: 0,0:04:00.60,0:04:04.22,Default,The Cat,0,0,0,,You were brought here\Nfor ambiance, not conversation.
 Dialogue: 0,0:04:04.22,0:04:06.10,Default,Randall,0,0,0,,Oh, right.\NNot a peep.
-Dialogue: 0,0:04:07.19,0:04:10.44,Default,The Cat,0,0,0,,You don't look like\Nthe normal Apex riff-raff.
-Dialogue: 0,0:04:10.44,0:04:11.69,Default,Hazel,0,0,0,,I'm Hazel.
+Dialogue: 0,0:04:07.19,0:04:10.44,Default,The Cat,0,0,0,,You don’t look like\Nthe normal Apex riff-raff.
+Dialogue: 0,0:04:10.44,0:04:11.69,Default,Hazel,0,0,0,,I’m Hazel.
 Dialogue: 0,0:04:11.69,0:04:12.69,Default,Hazel,0,0,0,,This is Tuba.
 Dialogue: 0,0:04:12.69,0:04:13.61,Default,Tuba,0,0,0,,Mm.
-Dialogue: 0,0:04:15.99,0:04:17.53,Default,Hazel,0,0,0,,She's a tough customer.
+Dialogue: 0,0:04:15.99,0:04:17.53,Default,Hazel,0,0,0,,She’s a tough customer.
 Dialogue: 0,0:04:17.53,0:04:18.70,Default,The Cat,0,0,0,,Clearly.
 Dialogue: 0,0:04:19.61,0:04:20.87,Default,The Cat,0,0,0,,Oh my!
 Dialogue: 0,0:04:20.87,0:04:22.45,Default,The Cat,0,0,0,,What happened\Nto your number?
@@ -105,12 +105,12 @@ Dialogue: 0,0:04:25.50,0:04:26.95,Default,Hazel,0,0,0,,We hate him!
 Dialogue: 0,0:04:26.95,0:04:28.21,Default,The Cat,0,0,0,,Ah, bon?
 Dialogue: 0,0:04:28.21,0:04:29.29,Default,The Cat,0,0,0,,One-One?
 Dialogue: 0,0:04:29.29,0:04:30.21,Default,Hazel,0,0,0,,Mm-hmm.
-Dialogue: 0,0:04:30.21,0:04:32.25,Default,The Cat,0,0,0,,Let's take a closer look.
-Dialogue: 0,0:04:32.88,0:04:34.55,Default,Simon,0,0,0,,If you talk to her again, I'll—
-Dialogue: 0,0:04:34.55,0:04:35.63,Default,The Cat,0,0,0,,You'll what?
-Dialogue: 0,0:04:36.51,0:04:38.63,Default,The Cat,0,0,0,,You couldn't stop me\Nwith your whole army.
+Dialogue: 0,0:04:30.21,0:04:32.25,Default,The Cat,0,0,0,,Let’s take a closer look.
+Dialogue: 0,0:04:32.88,0:04:34.55,Default,Simon,0,0,0,,If you talk to her again, I’ll—
+Dialogue: 0,0:04:34.55,0:04:35.63,Default,The Cat,0,0,0,,You’ll what?
+Dialogue: 0,0:04:36.51,0:04:38.63,Default,The Cat,0,0,0,,You couldn’t stop me\Nwith your whole army.
 Dialogue: 0,0:04:38.63,0:04:40.43,Default,The Cat,0,0,0,,What are you gonna do\Nwith the B-squad?
-Dialogue: 0,0:04:40.43,0:04:41.55,Default,Frank,0,0,0,,Hey, I'm makin' pancakes.
+Dialogue: 0,0:04:40.43,0:04:41.55,Default,Frank,0,0,0,,Hey, I’m makin’ pancakes.
 Dialogue: 0,0:04:41.55,0:04:42.85,Default,Frank,0,0,0,,You kids got any allergies?
 Dialogue: 0,0:04:42.85,0:04:44.01,Default,The Cat,0,0,0,,Not now, Frank.
 Dialogue: 0,0:04:44.01,0:04:45.10,Default,Frank,0,0,0,,Okay.
@@ -120,16 +120,16 @@ Dialogue: 0,0:04:48.98,0:04:50.73,Default,Simon,0,0,0,,Stay away.
 Dialogue: 0,0:04:50.73,0:04:52.31,Default,The Cat,0,0,0,,Okay, Simon.
 Dialogue: 0,0:05:07.95,0:05:09.33,Default,Simon,0,0,0,,Did you find something to...
 Dialogue: 0,0:05:10.16,0:05:11.50,Default,Simon,0,0,0,,Supplies?
-Dialogue: 0,0:05:11.50,0:05:15.04,Default,Simon,0,0,0,,Like, "we're staying here\Nand not leaving" supplies?
+Dialogue: 0,0:05:11.50,0:05:15.04,Default,Simon,0,0,0,,Like, “we’re staying here\Nand not leaving” supplies?
 Dialogue: 0,0:05:15.04,0:05:16.59,Default,Grace,0,0,0,,Where else are we gonna go?
 Dialogue: 0,0:05:17.17,0:05:20.26,Default,Hazel,0,0,0,,This tea has a bug\Nwith a cowboy hat on it!
-Dialogue: 0,0:05:20.26,0:05:22.68,Default,Hazel,0,0,0,,That's how you know\Nit's the good stuff.
-Dialogue: 0,0:05:22.68,0:05:24.05,Default,Hazel,0,0,0,,C'mon, Tuba.
-Dialogue: 0,0:05:24.05,0:05:25.35,Default,Hazel,0,0,0,,I'll be mother.
+Dialogue: 0,0:05:20.26,0:05:22.68,Default,Hazel,0,0,0,,That’s how you know\Nit’s the good stuff.
+Dialogue: 0,0:05:22.68,0:05:24.05,Default,Hazel,0,0,0,,C’mon, Tuba.
+Dialogue: 0,0:05:24.05,0:05:25.35,Default,Hazel,0,0,0,,I’ll be mother.
 Dialogue: 0,0:05:28.18,0:05:30.60,Default,Simon,0,0,0,,I thought we were trying to find\Na way to get out of here.
-Dialogue: 0,0:05:30.60,0:05:32.44,Default,Grace,0,0,0,,It's a {\i1}blizzard{\i0} out there!
+Dialogue: 0,0:05:30.60,0:05:32.44,Default,Grace,0,0,0,,It’s a {\i1}blizzard{\i0} out there!
 Dialogue: 0,0:05:32.44,0:05:33.48,Default,Simon,0,0,0,,So what am I supposed to—
-Dialogue: 0,0:05:33.48,0:05:34.86,Default,Grace,0,0,0,,I don't know, Simon!
+Dialogue: 0,0:05:33.48,0:05:34.86,Default,Grace,0,0,0,,I don’t know, Simon!
 Dialogue: 0,0:05:34.86,0:05:38.11,Default,Grace,0,0,0,,Do I need to make\Nevery decision for you?
 Dialogue: 0,0:05:38.11,0:05:39.78,Default,Grace,0,0,0,,Go...
 Dialogue: 0,0:05:39.78,0:05:41.11,Default,Grace,0,0,0,,look for something.
@@ -143,53 +143,53 @@ Dialogue: 0,0:06:37.79,0:06:38.54,Default,The Cat,0,0,0,,The best way...
 Dialogue: 0,0:06:38.54,0:06:40.25,Default,Simon,0,0,0,,I told you to stay away!
 Dialogue: 0,0:06:40.25,0:06:42.13,Default,The Cat,0,0,0,,I was trying to be helpful.
 Dialogue: 0,0:06:42.13,0:06:43.97,Default,Simon,0,0,0,,I know what you think is helpful!
-Dialogue: 0,0:06:43.97,0:06:45.64,Default,Hazel,0,0,0,,Why can't I talk to her?
+Dialogue: 0,0:06:43.97,0:06:45.64,Default,Hazel,0,0,0,,Why can’t I talk to her?
 Dialogue: 0,0:06:48.26,0:06:50.47,Default,Simon,0,0,0,,Because she abandoned me!
 Dialogue: 0,0:06:54.77,0:06:58.19,Default,Simon,0,0,0,,Before I met Grace,\Nthere was The Cat.
 Dialogue: 0,0:06:59.11,0:07:01.03,Default,Simon,0,0,0,,She was there\Nin my first train car,
 Dialogue: 0,0:07:01.03,0:07:04.45,Default,Simon,0,0,0,,before I even knew\Nthere {\i1}were{\i0} train cars.
 Dialogue: 0,0:07:05.86,0:07:07.57,Default,Simon,0,0,0,,She was my Tuba.
-Dialogue: 0,0:07:09.37,0:07:12.12,Default,Simon,0,0,0,,And after a few months\Nof "helping" me,
+Dialogue: 0,0:07:09.37,0:07:12.12,Default,Simon,0,0,0,,And after a few months\Nof “helping” me,
 Dialogue: 0,0:07:12.12,0:07:14.12,Default,Simon,0,0,0,,she left me alone to die.
 Dialogue: 0,0:07:14.12,0:07:15.12,Default,The Cat,0,0,0,,Simon...
 Dialogue: 0,0:07:15.12,0:07:16.29,Default,Simon,0,0,0,,Am I wrong?
 Dialogue: 0,0:07:16.29,0:07:17.88,Default,Simon,0,0,0,,Did you leave me or not?
-Dialogue: 0,0:07:18.21,0:07:19.54,Default,The Cat,0,0,0,,You're not...
+Dialogue: 0,0:07:18.21,0:07:19.54,Default,The Cat,0,0,0,,You’re not...
 Dialogue: 0,0:07:19.54,0:07:20.46,Default,The Cat,0,0,0,,wrong...
 Dialogue: 0,0:07:20.46,0:07:22.30,Default,Simon,0,0,0,,I was ten years old!
 Dialogue: 0,0:07:22.30,0:07:23.76,Default,Simon,0,0,0,,I was a child!
 Dialogue: 0,0:07:23.76,0:07:26.34,Default,Simon,0,0,0,,And you left me to a gohm.
-Dialogue: 0,0:07:26.34,0:07:29.14,Default,Simon,0,0,0,,If Grace didn't show up,\NI wouldn't be here.
-Dialogue: 0,0:07:29.51,0:07:30.89,Default,Simon,0,0,0,,But what's with {\i1}you{\i0}?
-Dialogue: 0,0:07:31.39,0:07:35.81,Default,Simon,0,0,0,,Every minute I'm in this cabin with The Cat \Nis like another weight pressing down on my chest.
-Dialogue: 0,0:07:37.35,0:07:39.15,Default,Simon,0,0,0,,And you don't even seem to care.
+Dialogue: 0,0:07:26.34,0:07:29.14,Default,Simon,0,0,0,,If Grace didn’t show up,\NI wouldn’t be here.
+Dialogue: 0,0:07:29.51,0:07:30.89,Default,Simon,0,0,0,,But what’s with {\i1}you{\i0}?
+Dialogue: 0,0:07:31.39,0:07:35.81,Default,Simon,0,0,0,,Every minute I’m in this cabin with The Cat \Nis like another weight pressing down on my chest.
+Dialogue: 0,0:07:37.35,0:07:39.15,Default,Simon,0,0,0,,And you don’t even seem to care.
 Dialogue: 0,0:07:52.87,0:07:53.58,Default,Grace,0,0,0,,Wh—
-Dialogue: 0,0:07:58.54,0:08:00.00,Default,Simon,0,0,0,,She's collecting again.
-Dialogue: 0,0:08:04.21,0:08:05.67,Default,Grace,0,0,0,,I'm sorry.
+Dialogue: 0,0:07:58.54,0:08:00.00,Default,Simon,0,0,0,,She’s collecting again.
+Dialogue: 0,0:08:04.21,0:08:05.67,Default,Grace,0,0,0,,I’m sorry.
 Dialogue: 0,0:08:05.67,0:08:07.72,Default,Grace,0,0,0,,This must be horrible for you.
-Dialogue: 0,0:08:07.72,0:08:09.51,Default,Grace,0,0,0,,I should've seen it, but...
-Dialogue: 0,0:08:11.39,0:08:13.22,Default,Grace,0,0,0,,I've been dealing with...
+Dialogue: 0,0:08:07.72,0:08:09.51,Default,Grace,0,0,0,,I should’ve seen it, but...
+Dialogue: 0,0:08:11.39,0:08:13.22,Default,Grace,0,0,0,,I’ve been dealing with...
 Dialogue: 0,0:08:13.76,0:08:14.89,Default,Grace,0,0,0,,something.
-Dialogue: 0,0:08:16.85,0:08:18.35,Default,Grace,0,0,0,,It's been going down.
-Dialogue: 0,0:08:19.06,0:08:21.90,Default,Grace,0,0,0,,I don't know when it started,\Nbut I can't stop it.
-Dialogue: 0,0:08:22.40,0:08:24.61,Default,Grace,0,0,0,,I didn't want the Apex,
+Dialogue: 0,0:08:16.85,0:08:18.35,Default,Grace,0,0,0,,It’s been going down.
+Dialogue: 0,0:08:19.06,0:08:21.90,Default,Grace,0,0,0,,I don’t know when it started,\Nbut I can’t stop it.
+Dialogue: 0,0:08:22.40,0:08:24.61,Default,Grace,0,0,0,,I didn’t want the Apex,
 Dialogue: 0,0:08:25.57,0:08:27.24,Default,Grace,0,0,0,,or you...
 Dialogue: 0,0:08:27.24,0:08:28.90,Default,Grace,0,0,0,,to see me like this.
 Dialogue: 0,0:08:29.61,0:08:31.24,Default,Grace,0,0,0,,To think less of me.
-Dialogue: 0,0:08:32.41,0:08:33.95,Default,Simon,0,0,0,,I'm always with you.
-Dialogue: 0,0:08:34.45,0:08:35.45,Default,Simon,0,0,0,,We're a team.
+Dialogue: 0,0:08:32.41,0:08:33.95,Default,Simon,0,0,0,,I’m always with you.
+Dialogue: 0,0:08:34.45,0:08:35.45,Default,Simon,0,0,0,,We’re a team.
 Dialogue: 0,0:08:40.50,0:08:41.13,Default,Grace,0,0,0,,Huh?
-Dialogue: 0,0:08:48.22,0:08:49.80,Default,Randall,0,0,0,,I'm all-naturally flavored.
+Dialogue: 0,0:08:48.22,0:08:49.80,Default,Randall,0,0,0,,I’m all-naturally flavored.
 Dialogue: 0,0:08:49.80,0:08:52.01,Default,Hazel,0,0,0,,I got it from the tap.
 Dialogue: 0,0:08:52.01,0:08:52.80,Default,Hazel,0,0,0,,I swear.
 Dialogue: 0,0:08:54.89,0:08:56.56,Default,Grace,0,0,0,,Is all the water here Randall?
 Dialogue: 0,0:08:56.97,0:08:59.06,Default,The Cat,0,0,0,,While the view here {\i1}is{\i0} magnificent,
-Dialogue: 0,0:08:59.06,0:09:01.65,Default,The Cat,0,0,0,,it's been bone dry\Nfor centuries.
+Dialogue: 0,0:08:59.06,0:09:01.65,Default,The Cat,0,0,0,,it’s been bone dry\Nfor centuries.
 Dialogue: 0,0:09:03.81,0:09:05.02,Default,Simon,0,0,0,,The snow.
 Dialogue: 0,0:09:05.02,0:09:05.94,Default,Grace,0,0,0,,Hm.
-Dialogue: 0,0:09:23.42,0:09:24.92,Default,Randall,0,0,0,,D'aw, you got me.
+Dialogue: 0,0:09:23.42,0:09:24.92,Default,Randall,0,0,0,,D’aw, you got me.
 Dialogue: 0,0:09:24.92,0:09:28.42,Default,The Cat,0,0,0,,It took a lot of effort\Nto import that much Randall.
-Dialogue: 0,0:09:28.42,0:09:31.55,Default,The Cat,0,0,0,,You don't find paradise: you make it.
+Dialogue: 0,0:09:28.42,0:09:31.55,Default,The Cat,0,0,0,,You don’t find paradise: you make it.
 Dialogue: 0,0:09:32.43,0:09:34.22,Default,Grace,0,0,0,,We need to get out of here.
 Dialogue: 0,0:09:34.22,0:09:35.43,Default,Grace,0,0,0,,Can you stop the blizzard?
 Dialogue: 0,0:09:35.43,0:09:36.60,Default,Randall,0,0,0,,Blizzard?
@@ -200,21 +200,21 @@ Dialogue: 0,0:09:42.94,0:09:44.15,Default,Grace,0,0,0,,armistice?
 Dialogue: 0,0:09:44.15,0:09:46.32,Default,Grace,0,0,0,,Yeah. So you gotta stop it, okay?
 Dialogue: 0,0:09:46.32,0:09:47.69,Default,Randall,0,0,0,,Oh, sounds good to me.
 Dialogue: 0,0:09:47.69,0:09:49.78,Default,Randall,0,0,0,,But Randall is about a mile in the air.
-Dialogue: 0,0:09:49.78,0:09:52.61,Default,Randall,0,0,0,,Oh, and I'd have to talk to Randall. And Randall.
-Dialogue: 0,0:09:49.40,0:09:50.53,Default,Simon,0,0,0,,{\3c003F00}I've got an idea.
+Dialogue: 0,0:09:49.78,0:09:52.61,Default,Randall,0,0,0,,Oh, and I’d have to talk to Randall. And Randall.
+Dialogue: 0,0:09:49.40,0:09:50.53,Default,Simon,0,0,0,,{\3c003F00}I’ve got an idea.
 Dialogue: 0,0:09:52.61,0:09:55.03,Default,Randall,0,0,0,,{\q2}And of course Randall would need to give approval for all of this.
-Dialogue: 0,0:09:53.61,0:09:55.03,Default,Hazel,0,0,0,,{\3c003F00}You don't boil friends!
+Dialogue: 0,0:09:53.61,0:09:55.03,Default,Hazel,0,0,0,,{\3c003F00}You don’t boil friends!
 Dialogue: 0,0:09:55.32,0:09:57.12,Default,Randall,0,0,0,,Actually, I kind of like it.
-Dialogue: 0,0:10:00.75,0:10:02.25,Default,Tuba,0,0,0,,I don't judge.
+Dialogue: 0,0:10:00.75,0:10:02.25,Default,Tuba,0,0,0,,I don’t judge.
 Dialogue: 0,0:10:14.14,0:10:15.14,Default,Randall,0,0,0,,Bring it in, guys!
-Dialogue: 0,0:10:15.14,0:10:16.76,Default,Randall,0,0,0,,Snowball fight's over.
+Dialogue: 0,0:10:15.14,0:10:16.76,Default,Randall,0,0,0,,Snowball fight’s over.
 Dialogue: 0,0:10:16.76,0:10:17.51,Default,Randall,0,0,0,,Did we win?
 Dialogue: 0,0:10:17.51,0:10:18.35,Default,Randall,0,0,0,,Armistice.
 Dialogue: 0,0:10:18.35,0:10:19.64,Default,Randall,0,0,0,,Now we get to the fun part—
 Dialogue: 0,0:10:19.64,0:10:21.23,Default,Randall,0,0,0,,negotiation of terms.
-Dialogue: 0,0:10:21.23,0:10:23.89,Default,Randall,0,0,0,,Oh, it's best when both sides \Ncan feel like the winner, isn't it?
+Dialogue: 0,0:10:21.23,0:10:23.89,Default,Randall,0,0,0,,Oh, it’s best when both sides \Ncan feel like the winner, isn’t it?
 Dialogue: 0,0:10:23.89,0:10:25.27,Default,Randall,0,0,0,,Inspired thought, Randall.
-Dialogue: 0,0:10:25.27,0:10:26.98,Default,Randall,0,0,0,,I'll be giving that one a lot of reflection.
+Dialogue: 0,0:10:25.27,0:10:26.98,Default,Randall,0,0,0,,I’ll be giving that one a lot of reflection.
 Comment: 0,0:10:45.46,0:10:46.79,Default,Grace,0,0,0,,Mm.
 Dialogue: 0,0:10:47.54,0:10:48.21,Default,Grace,0,0,0,,Boop.
 Dialogue: 0,0:10:55.26,0:10:58.10,Default,The Cat,0,0,0,,Au revoir, Simon.

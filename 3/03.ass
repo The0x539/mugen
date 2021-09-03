@@ -27,9 +27,9 @@ Dialogue: 0,0:00:23.21,0:00:24.67,Default,Grace,0,0,30,,Rookie move, buddy.
 Dialogue: 0,0:00:24.67,0:00:25.51,Default,Simon,0,0,30,,Whatever.
 Dialogue: 0,0:00:25.51,0:00:27.92,Default,Simon,0,0,30,,Battle scars give a man character.
 Dialogue: 0,0:00:31.34,0:00:33.39,Default,Simon,0,0,30,,So when are we taking out that null?
-Dialogue: 0,0:00:33.39,0:00:37.27,Default,Grace,0,0,30,,Well, it's big and would put up a serious fight.
+Dialogue: 0,0:00:33.39,0:00:37.27,Default,Grace,0,0,30,,Well, it’s big and would put up a serious fight.
 Dialogue: 0,0:00:37.27,0:00:39.94,Default,Grace,0,0,30,,And we could lose Hazel if we attack it.
-Dialogue: 0,0:00:39.94,0:00:41.60,Default,Grace,0,0,30,,She's too attached.
+Dialogue: 0,0:00:39.94,0:00:41.60,Default,Grace,0,0,30,,She’s too attached.
 Dialogue: 0,0:00:41.60,0:00:43.73,Default,Grace,0,0,30,,I mean, when {\i1}you{\i0} first got on the train
 Dialogue: 0,0:00:43.73,0:00:44.94,Default,Grace,0,0,30,,and that null of yours...
 Comment: 0,0:00:44.94,0:00:46.03,Default,Simon,0,0,0,,Uh...
@@ -37,17 +37,17 @@ Comment: 0,0:00:46.03,0:00:47.19,Default,Simon,0,0,0,,[ Sighs sadly ]
 Dialogue: 0,0:00:49.28,0:00:51.16,Default,Grace,0,0,0,,Anyway...
 Dialogue: 0,0:00:51.16,0:00:53.83,Default,Grace,0,0,0,,Brute force can get so boring.
 Dialogue: 0,0:00:53.83,0:00:55.08,Default,Grace,0,0,0,,Am I right?
-Dialogue: 0,0:00:55.08,0:00:56.12,Default,Grace,0,0,0,,We've got time.
+Dialogue: 0,0:00:55.08,0:00:56.12,Default,Grace,0,0,0,,We’ve got time.
 Dialogue: 0,0:00:56.66,0:00:57.33,Default,Simon,0,0,0,,Hm.
 Dialogue: 0,0:00:58.00,0:00:59.54,Default,Hazel,0,0,0,,We made a new friend.
 Dialogue: 0,0:01:01.29,0:01:02.63,Default,Hazel,0,0,0,,This is Louis.
-Dialogue: 0,0:01:02.63,0:01:05.38,Default,Hazel,0,0,0,,He's a good sort,\Nbut barking mad.
+Dialogue: 0,0:01:02.63,0:01:05.38,Default,Hazel,0,0,0,,He’s a good sort,\Nbut barking mad.
 Dialogue: 0,0:01:06.59,0:01:08.84,Default,Grace,0,0,0,,What a coincidence!
 Dialogue: 0,0:01:08.84,0:01:11.51,Default,Grace,0,0,0,,We have a friend named Louis in the Apex!
-Dialogue: 0,0:01:11.51,0:01:15.39,Default,Hazel,0,0,0,,The Apex is the country\Nwhere you're from?
-Dialogue: 0,0:01:15.39,0:01:17.39,Default,Simon,0,0,0,,The Apex isn't a {\i1}place{\i0},
-Dialogue: 0,0:01:17.39,0:01:20.44,Default,Simon,0,0,0,,it's a special secret force of kids.
-Dialogue: 0,0:01:20.44,0:01:21.52,Default,Grace,0,0,0,,Yeah, that's right!
+Dialogue: 0,0:01:11.51,0:01:15.39,Default,Hazel,0,0,0,,The Apex is the country\Nwhere you’re from?
+Dialogue: 0,0:01:15.39,0:01:17.39,Default,Simon,0,0,0,,The Apex isn’t a {\i1}place{\i0},
+Dialogue: 0,0:01:17.39,0:01:20.44,Default,Simon,0,0,0,,it’s a special secret force of kids.
+Dialogue: 0,0:01:20.44,0:01:21.52,Default,Grace,0,0,0,,Yeah, that’s right!
 Dialogue: 0,0:01:21.52,0:01:24.61,Default,Grace,0,0,0,,In the Apex, we fight\Nfor our rights as passengers
 Dialogue: 0,0:01:24.61,0:01:27.48,Default,Grace,0,0,0,,because an evil robot\Nnamed One-One
 Dialogue: 0,0:01:27.48,0:01:29.07,Default,Grace,0,0,0,,has taken over the train.
@@ -67,8 +67,8 @@ Dialogue: 0,0:02:02.48,0:02:04.77,Default,Tuba,0,0,0,,Where do the children go?
 Dialogue: 0,0:02:05.86,0:02:07.15,Default,Simon,0,0,0,,No one knows.
 Dialogue: 0,0:02:07.15,0:02:09.23,Default,Grace,0,0,0,,But I have the highest number,
 Dialogue: 0,0:02:09.23,0:02:11.19,Default,Grace,0,0,0,,just like the True Conductor did,
-Dialogue: 0,0:02:11.53,0:02:13.53,Default,Grace,0,0,0,,so I'm the leader of the Apex.
-Dialogue: 0,0:02:13.53,0:02:16.66,Default,Grace,0,0,0,,I make sure everyone's number stays high.
+Dialogue: 0,0:02:11.53,0:02:13.53,Default,Grace,0,0,0,,so I’m the leader of the Apex.
+Dialogue: 0,0:02:13.53,0:02:16.66,Default,Grace,0,0,0,,I make sure everyone’s number stays high.
 Dialogue: 0,0:02:17.45,0:02:18.33,Default,Hazel,0,0,0,,Can I be in it?
 Dialogue: 0,0:02:18.33,0:02:19.83,Default,Tuba,0,0,0,,Mmm...
 Dialogue: 0,0:02:19.83,0:02:21.20,Default,Grace,0,0,0,,Hmm...
@@ -77,78 +77,78 @@ Dialogue: 0,0:02:27.92,0:02:29.50,Default,Grace,0,0,0,,Hmm.
 Dialogue: 0,0:02:29.50,0:02:31.17,Default,Hazel,0,0,0,,Hmmmmm?
 Dialogue: 0,0:02:32.13,0:02:33.72,Default,Grace,0,0,0,,Yeah, maybe someday.
 Dialogue: 0,0:02:34.72,0:02:36.30,Default,Hazel,0,0,0,,Someday...
-Dialogue: 0,0:02:36.84,0:02:40.10,Default,Hazel,0,0,0,,{\i1}Don't be a worry baby
+Dialogue: 0,0:02:36.84,0:02:40.10,Default,Hazel,0,0,0,,{\i1}Don’t be a worry baby
 Dialogue: 0,0:02:40.10,0:02:42.18,Default,Hazel,0,0,0,,{\i1}No need to hurry, baby
-Dialogue: 0,0:02:42.18,0:02:44.89,Default,Hazel,0,0,0,,{\i1}When you're with me
+Dialogue: 0,0:02:42.18,0:02:44.89,Default,Hazel,0,0,0,,{\i1}When you’re with me
 Dialogue: 0,0:02:44.89,0:02:47.23,Default,Hazel,0,0,0,,{\i1}Just take it easy-peasy
 Dialogue: 0,0:02:47.23,0:02:49.52,Default,Hazel,0,0,0,,{\i1}My little lemon-squeezy
-Dialogue: 0,0:02:49.52,0:02:52.19,Default,Hazel,0,0,0,,{\i1}'Cause you're with me
+Dialogue: 0,0:02:49.52,0:02:52.19,Default,Hazel,0,0,0,,{\i1}’Cause you’re with me
 Comment: 0,0:02:52.53,0:02:52.78,Default,Hazel,0,0,0,,Hah!
-Dialogue: 0,0:02:53.44,0:02:54.28,Default,Grace,0,0,0,,That's cute.
+Dialogue: 0,0:02:53.44,0:02:54.28,Default,Grace,0,0,0,,That’s cute.
 Dialogue: 0,0:02:54.28,0:02:56.70,Default,Hazel,0,0,0,,Tuba used to sing it to her kids.
-Dialogue: 0,0:02:56.70,0:02:58.83,Default,Hazel,0,0,0,,But I added the "easy-peasy" part!
+Dialogue: 0,0:02:56.70,0:02:58.83,Default,Hazel,0,0,0,,But I added the “easy-peasy” part!
 Dialogue: 0,0:02:58.83,0:03:00.45,Default,Simon,0,0,0,,Kids, huh?
-Dialogue: 0,0:03:00.45,0:03:04.04,Default,Simon,0,0,0,,So, you're probably gonna need \Nto head back to 'em at some point?
+Dialogue: 0,0:03:00.45,0:03:04.04,Default,Simon,0,0,0,,So, you’re probably gonna need \Nto head back to ’em at some point?
 Dialogue: 0,0:03:04.71,0:03:06.08,Default,Tuba,0,0,0,,No.
 Dialogue: 0,0:03:06.71,0:03:09.96,Default,Tuba,0,0,0,,I... am on my own now.
 Dialogue: 0,0:03:09.96,0:03:11.17,Default,Hazel,0,0,0,,Nuh-uh!
-Dialogue: 0,0:03:11.17,0:03:13.01,Default,Hazel,0,0,0,,You're with us!
+Dialogue: 0,0:03:11.17,0:03:13.01,Default,Hazel,0,0,0,,You’re with us!
 Dialogue: 0,0:03:14.17,0:03:15.72,Default,Tuba,0,0,0,,Of course.
 Dialogue: 0,0:03:23.35,0:03:24.43,Default,Chandelier,0,0,0,,Stop!
 Dialogue: 0,0:03:28.56,0:03:29.77,Default,Chandelier,0,0,0,,Stop right there!
-Dialogue: 0,0:03:29.77,0:03:31.27,Default,Chandelier,0,0,0,,What {\i1}do{\i0} you think you're doing?
+Dialogue: 0,0:03:29.77,0:03:31.27,Default,Chandelier,0,0,0,,What {\i1}do{\i0} you think you’re doing?
 Dialogue: 0,0:03:31.27,0:03:32.86,Default,Grace,0,0,0,,Simon, get to higher ground.
-Dialogue: 0,0:03:32.86,0:03:33.65,Default,Grace,0,0,0,,I'll find its—
-Dialogue: 0,0:03:33.65,0:03:35.11,Default,Chandelier,0,0,0,,You aren't even dressed!
-Dialogue: 0,0:03:35.11,0:03:36.99,Default,Chandelier,0,0,0,,I can't present you in such a state!
+Dialogue: 0,0:03:32.86,0:03:33.65,Default,Grace,0,0,0,,I’ll find its—
+Dialogue: 0,0:03:33.65,0:03:35.11,Default,Chandelier,0,0,0,,You aren’t even dressed!
+Dialogue: 0,0:03:35.11,0:03:36.99,Default,Chandelier,0,0,0,,I can’t present you in such a state!
 Dialogue: 0,0:03:36.99,0:03:38.11,Default,Chandelier,0,0,0,,Where are your escorts?
-Dialogue: 0,0:03:38.11,0:03:39.74,Default,Grace,0,0,0,,We don't need escorts!
-Dialogue: 0,0:03:39.74,0:03:40.78,Default,Grace,0,0,0,,Where's the exit?
-Dialogue: 0,0:03:41.41,0:03:45.12,Default,Chandelier,0,0,0,,The exit only makes itself seen\Nto those who've entered society.
+Dialogue: 0,0:03:38.11,0:03:39.74,Default,Grace,0,0,0,,We don’t need escorts!
+Dialogue: 0,0:03:39.74,0:03:40.78,Default,Grace,0,0,0,,Where’s the exit?
+Dialogue: 0,0:03:41.41,0:03:45.12,Default,Chandelier,0,0,0,,The exit only makes itself seen\Nto those who’ve entered society.
 Dialogue: 0,0:03:45.12,0:03:46.54,Default,Chandelier,0,0,0,,You must have a début.
 Dialogue: 0,0:03:46.54,0:03:48.71,Default,Chandelier,0,0,0,,Procedures must be followed.
-Dialogue: 0,0:03:48.71,0:03:52.21,Default,Chandelier,0,0,0,,Ugh. I'll take you to \Nthe Cotillion Room to learn the waltz.
+Dialogue: 0,0:03:48.71,0:03:52.21,Default,Chandelier,0,0,0,,Ugh. I’ll take you to \Nthe Cotillion Room to learn the waltz.
 Dialogue: 0,0:03:57.72,0:03:59.43,Default,Chandelier,0,0,0,,Follow me, if you will?
 Dialogue: 0,0:04:06.43,0:04:07.60,Default,Simon,0,0,0,,What now?
-Dialogue: 0,0:04:11.52,0:04:13.44,Default,Grace,0,0,0,,We'll play along, for Hazel's sake.
+Dialogue: 0,0:04:11.52,0:04:13.44,Default,Grace,0,0,0,,We’ll play along, for Hazel’s sake.
 Dialogue: 0,0:04:16.74,0:04:19.82,Default,Chandelier,0,0,0,,Former débutants,\Nall paired off now.
 Dialogue: 0,0:04:19.82,0:04:22.16,Default,Grace,0,0,0,,Great. Look at that.\NGood for them.
 Dialogue: 0,0:04:22.16,0:04:23.58,Default,Chandelier,0,0,0,,Well, here we are!
-Dialogue: 0,0:04:23.58,0:04:24.99,Default,Chandelier,0,0,0,,I'll be back to collect you all later,
+Dialogue: 0,0:04:23.58,0:04:24.99,Default,Chandelier,0,0,0,,I’ll be back to collect you all later,
 Dialogue: 0,0:04:24.99,0:04:27.16,Default,Chandelier,0,0,0,,so follow the feet,\Nlearn the steps, no mistakes,
-Dialogue: 0,0:04:27.16,0:04:28.96,Default,Chandelier,0,0,0,,or you'll be trapped here forever.
+Dialogue: 0,0:04:27.16,0:04:28.96,Default,Chandelier,0,0,0,,or you’ll be trapped here forever.
 Comment: 0,0:04:28.96,0:04:29.50,Default,Chandelier,0,0,0,,Okay. Cheerio!
 Dialogue: 0,0:04:28.96,0:04:30.25,Default,Chandelier,0,0,0,,Okay. Cheerio!
-Dialogue: 0,0:04:31.50,0:04:34.34,Default,Grace,0,0,0,,Hey! You can't leave us in here!
+Dialogue: 0,0:04:31.50,0:04:34.34,Default,Grace,0,0,0,,Hey! You can’t leave us in here!
 Dialogue: 0,0:04:34.34,0:04:37.17,Default,Simon,0,0,0,,This is what happens\Nwhen we play by train rules.
 Dialogue: 0,0:04:43.26,0:04:44.93,Default,Grace,0,0,0,,Ceiling panels might budge.
-Dialogue: 0,0:04:44.93,0:04:46.18,Default,Grace,0,0,0,,I'll take lead, you go and—
-Dialogue: 0,0:04:46.18,0:04:47.60,Default,Hazel,0,0,0,,Let's learn the dance!
+Dialogue: 0,0:04:44.93,0:04:46.18,Default,Grace,0,0,0,,I’ll take lead, you go and—
+Dialogue: 0,0:04:46.18,0:04:47.60,Default,Hazel,0,0,0,,Let’s learn the dance!
 Dialogue: 0,0:04:49.02,0:04:51.77,Default,Grace,0,0,0,,Hazel! You are so sweet,
-Dialogue: 0,0:04:51.77,0:04:54.11,Default,Grace,0,0,0,,but here's the thing\Nabout life on the train.
+Dialogue: 0,0:04:51.77,0:04:54.11,Default,Grace,0,0,0,,but here’s the thing\Nabout life on the train.
 Dialogue: 0,0:04:54.11,0:04:58.69,Default,Tuba,0,0,0,,It is smart to try\Nwhat we know can work.
 Dialogue: 0,0:04:59.20,0:05:00.49,Default,Grace,0,0,0,,Mm.
 Dialogue: 0,0:05:00.49,0:05:02.74,Default,Grace,0,0,0,,Thank you for the input, but—
-Dialogue: 0,0:05:02.74,0:05:06.41,Default,Simon,0,0,0,,If we don't dance,\Nwe can't get back to the Apex!
+Dialogue: 0,0:05:02.74,0:05:06.41,Default,Simon,0,0,0,,If we don’t dance,\Nwe can’t get back to the Apex!
 Dialogue: 0,0:05:06.41,0:05:09.87,Default,Hazel,0,0,0,,And we have to, \Nso I can be in it!
 Dialogue: 0,0:05:10.87,0:05:13.63,Default,Hazel,0,0,0,,I can be special and brave.
 Dialogue: 0,0:05:13.63,0:05:15.46,Default,Hazel,0,0,0,,I promise.
 Dialogue: 0,0:05:17.71,0:05:18.63,Default,Hazel,0,0,0,,Huh?
 Dialogue: 0,0:05:19.59,0:05:20.59,Default,Grace,0,0,0,,Okay.
-Dialogue: 0,0:05:22.30,0:05:24.01,Default,Grace,0,0,0,,We'll cover our bases.
+Dialogue: 0,0:05:22.30,0:05:24.01,Default,Grace,0,0,0,,We’ll cover our bases.
 Dialogue: 0,0:05:24.01,0:05:26.81,Default,Grace,0,0,0,,You go through the vents\Nand look for another way out.
-Dialogue: 0,0:05:26.81,0:05:27.85,Default,Grace,0,0,0,,I'll learn the dance.
-Dialogue: 0,0:05:27.85,0:05:29.35,Default,Simon,0,0,0,,I don't like this, Grace.
+Dialogue: 0,0:05:26.81,0:05:27.85,Default,Grace,0,0,0,,I’ll learn the dance.
+Dialogue: 0,0:05:27.85,0:05:29.35,Default,Simon,0,0,0,,I don’t like this, Grace.
 Dialogue: 0,0:05:29.35,0:05:31.35,Default,Simon,0,0,0,,These nulls are a bigger threat \Nthan they seemed.
 Dialogue: 0,0:05:31.64,0:05:33.02,Default,Grace,0,0,0,,They always are.
 Comment: 0,0:05:45.74,0:05:46.62,Default,Hazel,0,0,0,,[ Somali noises ]
 Dialogue: 0,0:05:49.08,0:05:49.91,Default,Grace,0,0,0,,So.
-Dialogue: 0,0:05:50.50,0:05:51.87,Default,Grace,0,0,0,,Let's learn this dance.
+Dialogue: 0,0:05:50.50,0:05:51.87,Default,Grace,0,0,0,,Let’s learn this dance.
 Dialogue: 0,0:05:51.87,0:05:52.83,Default,Hazel,0,0,0,,{We}You follow the feet!
 Dialogue: 0,0:05:52.83,0:05:54.88,Default,Hazel,0,0,0,,This is a ballroom dance!
 Dialogue: 0,0:05:54.88,0:05:56.42,Default,Hazel,0,0,0,,Some of the steps are backwards.
 Dialogue: 0,0:05:56.79,0:05:58.00,Default,Hazel,0,0,0,,We have to be partners.
-Dialogue: 0,0:05:59.67,0:06:00.67,Default,Grace,0,0,0,,You're right.
+Dialogue: 0,0:05:59.67,0:06:00.67,Default,Grace,0,0,0,,You’re right.
 Dialogue: 0,0:06:00.67,0:06:02.30,Default,Grace,0,0,0,,How do you know\Nabout this stuff?
 Dialogue: 0,0:06:02.30,0:06:03.30,Default,Hazel,0,0,0,,I took classes.
 Dialogue: 0,0:06:03.30,0:06:06.14,Default,Grace,0,0,0,,Do you have one of those\Nintense dance moms or something?
@@ -158,14 +158,14 @@ Dialogue: 0,0:06:08.31,0:06:10.27,Default,Grace,0,0,0,,Puts you in contests\Nto 
 Dialogue: 0,0:06:10.27,0:06:12.31,Default,Grace,0,0,0,,makes you wear\Nsuper tight ponytails,
 Dialogue: 0,0:06:12.31,0:06:13.73,Default,Grace,0,0,0,,gives you too much sugar?
 Dialogue: 0,0:06:14.23,0:06:15.65,Default,Hazel,0,0,0,,I...
-Dialogue: 0,0:06:15.65,0:06:16.52,Default,Hazel,0,0,0,,don't know.
-Dialogue: 0,0:06:17.02,0:06:18.90,Default,Grace,0,0,0,,You... don't know?
+Dialogue: 0,0:06:15.65,0:06:16.52,Default,Hazel,0,0,0,,don’t know.
+Dialogue: 0,0:06:17.02,0:06:18.90,Default,Grace,0,0,0,,You... don’t know?
 Dialogue: 0,0:06:18.90,0:06:20.03,Default,Grace,0,0,0,,What about your dad?
 Dialogue: 0,0:06:21.24,0:06:23.07,Default,Hazel,0,0,0,,He was...
-Dialogue: 0,0:06:23.86,0:06:26.07,Default,Hazel,0,0,0,,Ugh! I don't know!
+Dialogue: 0,0:06:23.86,0:06:26.07,Default,Hazel,0,0,0,,Ugh! I don’t know!
 Dialogue: 0,0:06:30.54,0:06:32.04,Default,Grace,0,0,0,,What {\i1}does{\i0} she know?
 Comment: 0,0:06:32.04,0:06:33.37,Default,Tuba,0,0,0,,Mnh.
-Dialogue: 0,0:06:33.83,0:06:35.79,Default,Grace,0,0,0,,Okay. That's okay.
+Dialogue: 0,0:06:33.83,0:06:35.79,Default,Grace,0,0,0,,Okay. That’s okay.
 Dialogue: 0,0:06:35.79,0:06:37.46,Default,Grace,0,0,0,,Hey, I had dance lessons too.
 Dialogue: 0,0:06:37.88,0:06:38.54,Default,Hazel,0,0,0,,Yeah?
 Dialogue: 0,0:06:38.79,0:06:40.63,Default,Grace,0,0,0,,Yeah! All kinds.
@@ -173,38 +173,38 @@ Dialogue: 0,0:06:40.63,0:06:44.30,Default,Grace,0,0,0,,Tap, hip-hop, ballet.
 Dialogue: 0,0:06:44.59,0:06:47.60,Default,Hazel,0,0,0,,Couples do ballroom\Nas a fun bonding activity.
 Dialogue: 0,0:06:47.60,0:06:50.35,Default,Grace,0,0,0,,Uh... Yeah, I guess so.
 Dialogue: 0,0:06:50.35,0:06:51.97,Default,Grace,0,0,0,,I never did ballroom, though.
-Dialogue: 0,0:06:51.97,0:06:53.27,Default,Grace,0,0,0,,I didn't go to classes.
+Dialogue: 0,0:06:51.97,0:06:53.27,Default,Grace,0,0,0,,I didn’t go to classes.
 Dialogue: 0,0:06:53.27,0:06:55.02,Default,Grace,0,0,0,,I had private instruction.
 Dialogue: 0,0:06:55.02,0:06:56.60,Default,Hazel,0,0,0,,No other kids?
 Dialogue: 0,0:06:57.52,0:06:58.61,Default,Grace,0,0,0,,Yeah.
-Dialogue: 0,0:06:58.61,0:07:01.94,Default,Grace,0,0,0,,My mom and dad were all about \N"learning from the best,"
+Dialogue: 0,0:06:58.61,0:07:01.94,Default,Grace,0,0,0,,My mom and dad were all about \N“learning from the best,”
 Dialogue: 0,0:07:01.94,0:07:04.20,Default,Grace,0,0,0,,which always just meant\NI was alone.
 Dialogue: 0,0:07:05.24,0:07:08.03,Default,Grace,0,0,0,,One year, my instructor put me\Nin her group class recital,
-Dialogue: 0,0:07:08.03,0:07:13.04,Default,Grace,0,0,0,,but my parents couldn't come, \Nand the other girls in the class didn't know me, so...
-Dialogue: 0,0:07:13.04,0:07:15.83,Default,Grace,0,0,0,,they didn't invite me \Nto get ice cream afterwards.
+Dialogue: 0,0:07:08.03,0:07:13.04,Default,Grace,0,0,0,,but my parents couldn’t come, \Nand the other girls in the class didn’t know me, so...
+Dialogue: 0,0:07:13.04,0:07:15.83,Default,Grace,0,0,0,,they didn’t invite me \Nto get ice cream afterwards.
 Dialogue: 0,0:07:18.50,0:07:22.25,Default,Grace,0,0,0,,But, really, they were just jealous, \Nbecause I was way better than them,
 Dialogue: 0,0:07:22.25,0:07:25.42,Default,Grace,0,0,0,,which got {\i1}so boring{\i0},
 Dialogue: 0,0:07:25.42,0:07:26.09,Default,Grace,0,0,0,,so I quit.
-Dialogue: 0,0:07:27.55,0:07:28.59,Default,Hazel,0,0,0,,It's okay.
-Dialogue: 0,0:07:28.59,0:07:30.93,Default,Hazel,0,0,0,,I don't know any other kids, either.
+Dialogue: 0,0:07:27.55,0:07:28.59,Default,Hazel,0,0,0,,It’s okay.
+Dialogue: 0,0:07:28.59,0:07:30.93,Default,Hazel,0,0,0,,I don’t know any other kids, either.
 Dialogue: 0,0:07:31.35,0:07:32.14,Default,Grace,0,0,0,,Hmm.
 Dialogue: 0,0:07:33.02,0:07:33.97,Default,Simon,0,0,0,,Whoa!
 Comment: 0,0:07:33.97,0:07:34.60,Default,Simon,0,0,0,,Ugh!
 Dialogue: 0,0:07:34.60,0:07:35.81,Default,Grace,0,0,0,,Simon!
 Dialogue: 0,0:07:37.81,0:07:39.90,Default,Simon,0,0,0,,I looked for a way\Nout of the building.
-Dialogue: 0,0:07:39.90,0:07:41.94,Default,Simon,0,0,0,,Grace, there's literally\Nnothing out there.
-Dialogue: 0,0:07:41.94,0:07:43.82,Default,Simon,0,0,0,,It's just a black void.
+Dialogue: 0,0:07:39.90,0:07:41.94,Default,Simon,0,0,0,,Grace, there’s literally\Nnothing out there.
+Dialogue: 0,0:07:41.94,0:07:43.82,Default,Simon,0,0,0,,It’s just a black void.
 Dialogue: 0,0:07:45.15,0:07:47.11,Default,Grace,0,0,0,,Okay. Lemme think.
 Dialogue: 0,0:07:51.95,0:07:54.16,Default,Grace,0,0,0,,Well, the dance is our\Nobvious option right now.
 Dialogue: 0,0:07:54.16,0:07:54.70,Default,Simon,0,0,0,,But—
-Dialogue: 0,0:07:54.70,0:07:57.00,Default,Grace,0,0,0,,And if it {\i1}doesn't{\i0}\Nget us to the exit,
-Dialogue: 0,0:07:57.00,0:07:59.83,Default,Grace,0,0,0,,then we'll make them regret\Nthey ever met us.
+Dialogue: 0,0:07:54.70,0:07:57.00,Default,Grace,0,0,0,,And if it {\i1}doesn’t{\i0}\Nget us to the exit,
+Dialogue: 0,0:07:57.00,0:07:59.83,Default,Grace,0,0,0,,then we’ll make them regret\Nthey ever met us.
 Dialogue: 0,0:08:01.50,0:08:03.25,Default,Grace,0,0,0,,So be my partner already!
-Dialogue: 0,0:08:19.48,0:08:22.06,Default,Simon,0,0,0,,Y'know, we're not half bad at this.
+Dialogue: 0,0:08:19.48,0:08:22.06,Default,Simon,0,0,0,,Y’know, we’re not half bad at this.
 Dialogue: 0,0:08:22.06,0:08:23.65,Default,Simon,0,0,0,,Must be all the drills we run together.
-Dialogue: 0,0:08:23.65,0:08:25.78,Default,Grace,0,0,0,,Sure. What's a little box step
-Dialogue: 0,0:08:25.78,0:08:27.99,Default,Grace,0,0,0,,when you've taken the head off \Na six-foot vulture together?
-Dialogue: 0,0:08:41.92,0:08:43.42,Default,Chandelier,0,0,0,,It's time, my lovelies!
+Dialogue: 0,0:08:23.65,0:08:25.78,Default,Grace,0,0,0,,Sure. What’s a little box step
+Dialogue: 0,0:08:25.78,0:08:27.99,Default,Grace,0,0,0,,when you’ve taken the head off \Na six-foot vulture together?
+Dialogue: 0,0:08:41.92,0:08:43.42,Default,Chandelier,0,0,0,,It’s time, my lovelies!
 Dialogue: 0,0:08:51.64,0:08:54.51,Default,Chandelier,0,0,0,,I present to you as their entrée into society:
 Dialogue: 0,0:08:54.51,0:08:56.39,Default,Chandelier,0,0,0,,T{t}he Mighty Tuba,
 Dialogue: 0,0:08:56.39,0:08:58.02,Default,Chandelier,0,0,0,,Hazel, last name unknown,
@@ -215,17 +215,17 @@ Comment: 0,0:09:30.88,0:09:31.84,Default,Grace,0,0,0,,Hee-hee!
 Dialogue: 0,0:09:32.47,0:09:35.18,Default,Woman A,0,0,0,,Oh, what a handsome young man!
 Dialogue: 0,0:09:35.18,0:09:37.47,Default,Woman B,0,0,0,,I must introduce my nephew to her.
 Dialogue: 0,0:09:37.81,0:09:39.52,Default,Man A,0,0,0,,Is that a gorilla?
-Dialogue: 0,0:09:39.52,0:09:41.98,Default,Man B,0,0,0,,I don't know, but she's stunning.
+Dialogue: 0,0:09:39.52,0:09:41.98,Default,Man B,0,0,0,,I don’t know, but she’s stunning.
 Dialogue: 0,0:09:41.98,0:09:43.69,Default,Woman C,0,0,0,,I think that one is a little young.
 Dialogue: 0,0:09:43.69,0:09:45.48,Default,Woman D,0,0,0,,Shh! Please!
 Dialogue: 0,0:09:52.49,0:09:53.49,Default,Simon,0,0,0,,Finally!
 Dialogue: 0,0:09:56.95,0:09:58.16,Default,Hazel,0,0,0,,Woo-hoo! We did it!
 Dialogue: 0,0:09:58.16,0:10:00.00,Default,Grace,0,0,0,,{\i1}You{\i0} did it, Hazel!
 Dialogue: 0,0:10:00.00,0:10:02.41,Default,Grace,0,0,0,,We would {}never{} have learned\Nthe dance without you.
-Dialogue: 0,0:10:04.63,0:10:07.13,Default,Grace,0,0,0,,Y'know, Simon...
-Dialogue: 0,0:10:07.13,0:10:08.80,Default,Grace,0,0,0,,I think she's ready.
+Dialogue: 0,0:10:04.63,0:10:07.13,Default,Grace,0,0,0,,Y’know, Simon...
+Dialogue: 0,0:10:07.13,0:10:08.80,Default,Grace,0,0,0,,I think she’s ready.
 Dialogue: 0,0:10:11.22,0:10:12.72,Default,Grace,0,0,0,,Congratulations.
-Dialogue: 0,0:10:12.72,0:10:13.88,Default,Grace,0,0,0,,You're Apex now.
+Dialogue: 0,0:10:12.72,0:10:13.88,Default,Grace,0,0,0,,You’re Apex now.
 Dialogue: 0,0:10:15.01,0:10:16.47,Default,Hazel,0,0,0,,I was brave?
 Dialogue: 0,0:10:16.47,0:10:17.64,Default,Grace,0,0,0,,Mm-hmm.
 Dialogue: 0,0:10:20.85,0:10:21.81,Default,Hazel,0,0,0,,Now Tuba!
@@ -233,12 +233,12 @@ Dialogue: 0,0:10:21.81,0:10:24.44,Default,Simon,0,0,0,,Oh, man.\NWe totally woul
 Dialogue: 0,0:10:24.44,0:10:27.15,Default,Simon,0,0,0,,but the red waves\Nare for kids only.
 Dialogue: 0,0:10:27.15,0:10:29.07,Default,Simon,0,0,0,,Are you a kid, Tuba?
 Dialogue: 0,0:10:30.11,0:10:31.49,Default,Tuba,0,0,0,,No.
-Dialogue: 0,0:10:31.49,0:10:33.57,Default,Tuba,0,0,0,,I'm not a kid.
-Dialogue: 0,0:10:33.57,0:10:36.03,Default,Grace,0,0,0,,See? She's not a kid, so we can't.
+Dialogue: 0,0:10:31.49,0:10:33.57,Default,Tuba,0,0,0,,I’m not a kid.
+Dialogue: 0,0:10:33.57,0:10:36.03,Default,Grace,0,0,0,,See? She’s not a kid, so we can’t.
 Dialogue: 0,0:10:40.37,0:10:43.29,Default,Hazel,0,0,0,,Being Apex is so fun!
-Dialogue: 0,0:10:44.58,0:10:48.21,Default,Simon,0,0,0,,Hey, why don't you teach me\Nthat cute song you were singing earlier?
+Dialogue: 0,0:10:44.58,0:10:48.21,Default,Simon,0,0,0,,Hey, why don’t you teach me\Nthat cute song you were singing earlier?
 Dialogue: 0,0:10:48.21,0:10:50.46,Default,Hazel,0,0,0,,Okay! The first part is:
-Dialogue: 0,0:10:50.46,0:10:52.59,Default,Hazel,0,0,0,,{\i1}Don't be a worry baby
+Dialogue: 0,0:10:50.46,0:10:52.59,Default,Hazel,0,0,0,,{\i1}Don’t be a worry baby
 Dialogue: 0,0:10:52.59,0:10:53.80,Default,Simon,0,0,0,,Mm-hmm...
 Dialogue: 0,0:10:53.80,0:10:55.93,Default,Hazel,0,0,0,,{\i1}No need to hurry, baby
-Dialogue: 0,0:10:55.93,0:10:58.14,Default,Hazel,0,0,0,,{\i1}When you're with me
+Dialogue: 0,0:10:55.93,0:10:58.14,Default,Hazel,0,0,0,,{\i1}When you’re with me
