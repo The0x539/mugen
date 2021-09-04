@@ -81,7 +81,7 @@ Dialogue: 0,0:02:27.21,0:02:28.50,Default,Glad-One,0,0,0,,Let’s take a peek.
 Comment: 0,0:02:31.05,0:02:32.22,Default,MT,0,0,0,,Ahhh!
 Dialogue: 0,0:02:34.68,0:02:38.22,Default,Glad-One,0,0,0,,Ooh, a tape has never\Nstarted on the train before.
 Dialogue: 0,0:02:38.22,0:02:40.56,Default,Glad-One,0,0,0,Tape,Remember, you can’t spell “escape”
-Dialogue: 0,0:02:40.56,0:02:42.64,Default,Glad-One,0,0,0,Tape,without “companionship”.
+Dialogue: 0,0:02:40.56,0:02:42.64,Default,Glad-One,0,0,0,Tape,without “companionship{\fsp-16.5}.{\fsp}”
 Dialogue: 0,0:02:42.64,0:02:45.02,Default,Glad-One,0,0,0,Tape,Uh, companion... shape?
 Dialogue: 0,0:02:45.02,0:02:45.98,Default,Glad-One,0,0,0,Tape,Companionscape.
 Dialogue: 0,0:02:45.98,0:02:53.44,Default,Sad-One,0,0,0,Tape,{\an7\q2\move(1920,60,-3600,60)}By watching this recording, you’ve agreed to release the train of any liabilities regarding loss of personal property or bodily injuries, including maiming, death, or transformation.
