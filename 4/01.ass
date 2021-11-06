@@ -22,18 +22,19 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:06.11,0:00:08.86,Default,One,0,0,0,,This is how it always begins.
-Dialogue: 0,0:00:09.78,0:00:10.74,Default,Mr. Akagi,0,0,0,,That one's yours?
-Dialogue: 0,0:00:10.74,0:00:12.58,Default,Mr. Park,0,0,0,,Yes.
-Dialogue: 0,0:00:12.58,0:00:14.12,Default,Mr. Akagi,0,0,0,,Lucky!
-Dialogue: 0,0:00:14.12,0:00:17.25,Default,Mr. Akagi,0,0,0,,I can't get off the ferry \Nwithout tripping over another one.
-Dialogue: 0,0:00:18.37,0:00:21.00,Default,Mr. Park,0,0,0,,Well, I should get back to Yui.
-Dialogue: 0,0:00:21.00,0:00:24.00,Default,Mr. Park,0,0,0,,Looks like we got a couple more\NPL kids on our hands, huh?
-Dialogue: 0,0:00:25.09,0:00:27.47,Default,Mr. Park,0,0,0,,We're over in Cranberry,\Nwhere are you guys?
-Dialogue: 0,0:00:29.30,0:00:31.14,Default,Akagi Brother A,0,0,0,,Augh!
-Dialogue: 0,0:00:31.14,0:00:32.60,Default,Min-Gi,0,0,0,,And one for you.
-Dialogue: 0,0:00:32.60,0:00:34.43,Default,Mrs. Park,0,0,0,,Aw, thank you, Min-Gi.
-Dialogue: 0,0:00:36.52,0:00:39.81,Default,Mrs. Park,0,0,0,,Are you sure you don't want\Nyour viola instead of that\Ntoy?
+Dialogue: 0,0:00:06.11,0:00:08.86,Default,One,0,0,0,,{\1aFE\3aFF\shad0.01\4a3F\blur10\bord8}This is how it always begins.
+Dialogue: 1,0:00:06.11,0:00:08.86,Default,One,0,0,0,,This is how it always begins.
+Dialogue: 0,0:00:09.78,0:00:10.74,Default,Mr. Akagi,0,0,30,,That one's yours?
+Dialogue: 0,0:00:10.74,0:00:12.58,Default,Mr. Park,0,0,30,,Yes. Our first.
+Dialogue: 0,0:00:12.58,0:00:14.12,Default,Mr. Akagi,0,0,30,,Lucky!
+Dialogue: 0,0:00:14.12,0:00:17.25,Default,Mr. Akagi,0,0,30,,I can't get off the ferry \Nwithout tripping over another one.
+Dialogue: 0,0:00:18.37,0:00:21.00,Default,Mr. Park,0,0,30,,Well, I should get back to Yui.
+Dialogue: 0,0:00:21.00,0:00:24.00,Default,Mr. Park,0,0,30,,Looks like we got a couple more\NP.L.{Powell Lake} kids on our hands, huh?
+Dialogue: 0,0:00:25.09,0:00:27.47,Default,Mr. Park,0,0,30,,We're over in, uh, Cranberry, where're you guys?
+Comment: 0,0:00:29.30,0:00:31.14,Default,Akagi Brother A,0,0,0,,Augh!
+Dialogue: 0,0:00:31.14,0:00:32.60,Default,Min-Gi,0,0,30,,And one for you.
+Dialogue: 0,0:00:32.60,0:00:34.43,Default,Mrs. Park,0,0,30,,Aw, thank you, Min-Gi.
+Dialogue: 0,0:00:36.52,0:00:39.81,Default,Mrs. Park,0,0,0,,Are you sure you don't want \Nyour viola instead of that toy?
 Dialogue: 0,0:00:39.81,0:00:41.40,Default,Mr. Park,0,0,0,,It's a proper instrument.
 Dialogue: 0,0:00:43.94,0:00:45.19,Default,Ryan,0,0,0,,Min-Gi!
 Dialogue: 0,0:00:46.40,0:00:47.74,Default,Ryan,0,0,0,,Did everybody get one?
@@ -45,68 +46,69 @@ Dialogue: 0,0:00:57.62,0:00:58.66,Default,Ryan,0,0,0,,Ready?
 Dialogue: 0,0:00:59.96,0:01:00.96,Default,Ryan,0,0,0,,Heh-heh!
 Dialogue: 0,0:01:04.25,0:01:05.55,Default,Ryan,0,0,0,,Heh-heh!
 Dialogue: 0,0:01:05.55,0:01:06.13,Default,Ryan,0,0,0,,Ah!
-Dialogue: 0,0:01:10.30,0:01:12.34,Default,Ryan,0,0,0,,5-6-11-12!
-Dialogue: 0,0:01:12.34,0:01:14.76,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
-Dialogue: 0,0:01:14.76,0:01:17.52,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
-Dialogue: 0,0:01:17.52,0:01:19.93,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
-Dialogue: 0,0:01:19.93,0:01:22.10,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
-Dialogue: 0,0:01:22.10,0:01:24.86,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
-Dialogue: 0,0:01:24.86,0:01:25.44,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
-Dialogue: 0,0:01:25.44,0:01:27.32,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my dog\Nin a toque!
-Dialogue: 0,0:01:27.32,0:01:29.94,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my cat\Nin a toque!
-Dialogue: 0,0:01:29.94,0:01:32.57,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my dog\Nin a toque!
-Dialogue: 0,0:01:32.57,0:01:35.03,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my cat\Nin a toque!
-Dialogue: 0,0:01:35.03,0:01:37.54,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my dog\Nin a toque
-Dialogue: 0,0:01:41.54,0:01:43.75,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my cat\Nin a toque!
-Dialogue: 0,0:01:25.44,0:01:27.86,Default,Akagi Sister,0,0,0,,Hey, get off me!\NGo away!
-Dialogue: 0,0:01:46.84,0:01:48.42,Default,Ryan,0,0,0,,And after we're famous\Nin Canada,
-Dialogue: 0,0:01:48.42,0:01:50.72,Default,Ryan,0,0,0,,which'll probably\Nonly take a few months, probably,
-Dialogue: 0,0:01:50.72,0:01:52.93,Default,Ryan,0,0,0,,we'll take my dad's\Nvan across the border...
-Dialogue: 0,0:01:52.93,0:01:54.76,Default,Min-Gi,0,0,0,,Your dad'll never\Nlet you drive it!
+Dialogue: 0,0:01:10.30,0:01:12.34,Default,Ryan,0,0,0,,Five, six, eleven, twelve!
+Dialogue: 0,0:01:12.34,0:01:14.76,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my cat in a toque!
+Dialogue: 0,0:01:14.76,0:01:17.52,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my dog in a toque!
+Dialogue: 0,0:01:17.52,0:01:19.93,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my cat in a toque!
+Dialogue: 0,0:01:19.93,0:01:22.10,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my dog in a toque!
+Dialogue: 0,0:01:22.10,0:01:24.86,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my cat in a toque!
+Dialogue: 0,0:01:24.86,0:01:25.44,Default,Ryan,0,0,0,,{\i1}I'm gonna dress my dog in a toque!
+Dialogue: 0,0:01:25.44,0:01:27.32,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my dog in a toque!
+Dialogue: 0,0:01:27.32,0:01:29.94,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my cat in a toque!
+Dialogue: 0,0:01:29.94,0:01:32.57,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my dog in a toque!
+Dialogue: 0,0:01:32.57,0:01:35.03,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my cat in a toque!
+Dialogue: 0,0:01:35.03,0:01:37.54,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my dog in a toque...
+Dialogue: 0,0:01:41.54,0:01:43.75,Default,Ryan,0,0,0,,{\i1\an8}I'm gonna dress my cat in a toque!
+Dialogue: 0,0:01:25.44,0:01:27.86,Default,Akagi Sister,0,0,0,,Hey, get off of me!\NGo away!
+Dialogue: 0,0:01:46.84,0:01:48.42,Default,Ryan,0,0,0,,And after we're famous in Canada,
+Dialogue: 0,0:01:48.42,0:01:50.72,Default,Ryan,0,0,0,,which'll probably only take \Na few months, probably,
+Dialogue: 0,0:01:50.72,0:01:52.93,Default,Ryan,0,0,0,,we'll take my dad's van \Nacross the border,
+Dialogue: 0,0:01:52.93,0:01:54.76,Default,Min-Gi,0,0,0,,Your dad'll never let you drive it!
 Dialogue: 0,0:01:54.76,0:01:55.55,Default,Ryan,0,0,0,,He will.
 Dialogue: 0,0:01:55.55,0:01:58.51,Default,Ryan,0,0,0,,And then we'll become\Nrockstars and play...
 Dialogue: 0,0:02:01.10,0:02:03.60,Default,Ryan;Min-Gi,0,0,0,,New York City!
-Dialogue: 0,0:02:04.90,0:02:06.19,Default,Min-Gi,0,0,0,,Our lives are gonna be great.
-Dialogue: 0,0:02:06.19,0:02:07.40,Default,Ryan,0,0,0,,Oh, yeah.
+Dialogue: 0,0:02:04.90,0:02:06.19,Default,Min-Gi,0,0,0,,Our lives are gonna be great!
+Dialogue: 0,0:02:06.19,0:02:07.40,Default,Ryan,0,0,0,,{\i1}Oh{\i0} yeah.
 Dialogue: 0,0:02:07.40,0:02:08.44,Default,Ryan,0,0,0,,That is...
 Dialogue: 0,0:02:08.44,0:02:11.61,Default,Ryan,0,0,0,,if the world isn't destroyed by The Worm first!
 Dialogue: 0,0:02:17.33,0:02:18.62,Default,Ryan,0,0,0,,Oh, I almost forgot!
-Dialogue: 0,0:02:18.62,0:02:20.37,Default,Ryan,0,0,0,,You ready for battle?
-Dialogue: 0,0:02:20.37,0:02:22.12,Default,Min-Gi,0,0,0,,What? Maybe? Why?
-Dialogue: 0,0:02:24.58,0:02:27.63,Default,Min-Gi,0,0,0,,Uh... says you have to\Nbe in grade 12.
+Dialogue: 0,0:02:18.62,0:02:20.37,Default,Ryan,0,0,0,,You ready for Battle?
+Dialogue: 0,0:02:20.37,0:02:22.12,Default,Min-Gi,0,0,0,,Wh-What? Maybe? Why?
+Dialogue: 0,0:02:24.58,0:02:27.63,Default,Min-Gi,0,0,0,,Uh... says you have to \Nbe in grade 12.
 Dialogue: 0,0:02:27.63,0:02:29.25,Default,Ryan,0,0,0,,Whaaat?
 Dialogue: 0,0:02:29.25,0:02:30.13,Default,Ryan,0,0,0,,We could just lie.
 Dialogue: 0,0:02:30.13,0:02:31.05,Default,Min-Gi,0,0,0,,No!
-Dialogue: 0,0:02:31.05,0:02:32.47,Default,Ryan,0,0,0,,Okay.
-Dialogue: 0,0:02:32.47,0:02:34.88,Default,Min-Gi,0,0,0,,They're not ready for Nevsky\Nand the Prospekts anyway.
-Dialogue: 0,0:02:34.88,0:02:37.89,Default,Ryan,0,0,0,,Wait, I thought we were\Ngonna call ourselves Chicken Choice Judy?
-Dialogue: 0,0:02:37.89,0:02:40.06,Default,Min-Gi,0,0,0,,It's just not\Na proper band name.
+Dialogue: 0,0:02:31.05,0:02:32.47,Default,Ryan,0,0,0,,Okay, {\fs-3\bord3}so yeah...
+Dialogue: 0,0:02:32.47,0:02:34.88,Default,Min-Gi,0,0,0,,They're not ready for \NNevsky and the Prospekts anyway.
+Dialogue: 0,0:02:34.88,0:02:37.89,Default,Ryan,0,0,0,,Wait, I thought we were gonna \Ncall ourselves Chicken Choice Judy.
+Dialogue: 0,0:02:37.89,0:02:40.06,Default,Min-Gi,0,0,0,,It's just not a proper band name.
 Dialogue: 0,0:02:41.77,0:02:44.48,Default,Mrs. Park,0,0,0,,Min-Gi!\NYour viola teacher is here.
 Dialogue: 0,0:02:44.48,0:02:46.06,Default,Mrs. Park,0,0,0,,Ryan, it's time to leave.
 Dialogue: 0,0:02:46.06,0:02:47.56,Default,Mrs. Park,0,0,0,,I packed you some oranges.
 Dialogue: 0,0:02:47.56,0:02:49.61,Default,Ryan,0,0,0,,Oh, I don't need any oranges.\NThank you.
 Dialogue: 0,0:02:49.61,0:02:52.61,Default,Mrs. Park,0,0,0,,Aigoooo, you should eat oranges.\NThey are very healthy for you!
-Dialogue: 0,0:02:52.99,0:02:55.66,Default,Mrs. Park,0,0,0,,Here, fresh oranges.\NThey're very good for you.
+Dialogue: 0,0:02:52.99,0:02:55.66,Default,Mrs. Park,0,0,0,,Here, fresh oranges.\NThey're very good for you!
 Dialogue: 0,0:02:55.66,0:02:57.20,Default,Ryan,0,0,0,,Uhhhh...
 Dialogue: 0,0:03:05.62,0:03:07.71,Default,Ryan,0,0,0,,Where've you been, man?\NWe're almost on!
-Dialogue: 0,0:03:07.71,0:03:10.96,Default,Min-Gi,0,0,0,,Sorry.\NI was, I...
+Dialogue: 0,0:03:07.71,0:03:09.88,Default,Min-Gi,0,0,0,,Sorry. I was...
+Dialogue: 0,0:03:09.88,0:03:10.96,Default,Min-Gi,0,0,0,,I...
 Dialogue: 0,0:03:10.96,0:03:12.51,Default,Min-Gi,0,0,0,,have something for you.
-Dialogue: 0,0:03:16.43,0:03:17.43,Default,Ryan,0,0,0,,Ha!
-Dialogue: 0,0:03:22.35,0:03:23.47,Default,Ryan,0,0,0,,Amazing!
+Comment: 0,0:03:16.43,0:03:17.43,Default,Ryan,0,0,0,,Ha!
+Dialogue: 0,0:03:22.35,0:03:23.47,Default,Ryan,0,0,0,,Amazing.
 Dialogue: 0,0:03:25.18,0:03:29.52,Default,Announcer,0,0,0,,Another round of applause\Nfor Puppy Academy!
 Dialogue: 0,0:03:30.11,0:03:30.82,Default,Ryan,0,0,0,,Oh, dude!
 Dialogue: 0,0:03:30.82,0:03:32.07,Default,Ryan,0,0,0,,My dad said\Nwe could have the van,
-Dialogue: 0,0:03:32.07,0:03:34.78,Default,Ryan,0,0,0,,so after we graduate\Nwe're going on the road!
-Dialogue: 0,0:03:34.78,0:03:35.78,Default,Min-Gi,0,0,0,,Wait, when?!
+Dialogue: 0,0:03:32.07,0:03:34.78,Default,Ryan,0,0,0,,so after we graduate,\Nwe're goin' on the road!
+Dialogue: 0,0:03:34.78,0:03:35.78,Default,Min-Gi,0,0,0,,Wait, when?
 Dialogue: 0,0:03:35.78,0:03:36.57,Default,Ryan,0,0,0,,Next week!
-Dialogue: 0,0:03:36.57,0:03:37.86,Default,Ryan,0,0,0,,You still have a week to pack.
+Dialogue: 0,0:03:36.57,0:03:37.86,Default,Ryan,0,0,0,,We still have a week to pack!
 Dialogue: 0,0:03:37.86,0:03:39.53,Default,Min-Gi,0,0,0,,To pack my whole life?!
 Dialogue: 0,0:03:39.53,0:03:40.62,Default,Min-Gi,0,0,0,,Why didn't you tell me?
 Dialogue: 0,0:03:40.62,0:03:42.03,Default,Ryan,0,0,0,,I'm telling you right now.
 Dialogue: 0,0:03:42.03,0:03:43.66,Default,Ryan,0,0,0,,This was always the plan!
 Dialogue: 0,0:03:44.87,0:03:46.33,Default,Min-Gi,0,0,0,,B-B-But...
 Dialogue: 0,0:03:46.33,0:03:48.88,Default,Announcer,0,0,0,,Coming up next, it's...
-Dialogue: 0,0:03:48.88,0:03:51.38,Default,Announcer,0,0,0,,uh...\Na band without a name...
+Dialogue: 0,0:03:48.88,0:03:51.38,Default,Announcer,0,0,0,,a... band without a name?
 Dialogue: 0,0:03:51.38,0:03:53.21,Default,Ryan,0,0,0,,Chicken Choice Judy!
 Dialogue: 0,0:03:53.21,0:03:54.88,Default,Announcer,0,0,0,,Uh, okay.
 Dialogue: 0,0:03:54.88,0:03:57.13,Default,Announcer,0,0,0,,Chicken Choice Judy!
@@ -115,7 +117,7 @@ Dialogue: 0,0:03:59.72,0:04:00.47,Default,Ryan,0,0,0,,Min?
 Dialogue: 0,0:04:04.56,0:04:05.77,Default,Announcer,0,0,0,,Hey, you're up!
 Dialogue: 0,0:04:05.77,0:04:06.98,Default,Announcer,0,0,0,,Where's your buddy?
 Dialogue: 0,0:04:06.98,0:04:08.48,Default,Ryan,0,0,0,,I...
-Dialogue: 0,0:04:08.48,0:04:09.65,Default,Ryan,0,0,0,,don't know...
+Dialogue: 0,0:04:08.48,0:04:09.65,Default,Ryan,0,0,0,,don't know.
 Dialogue: 0,0:04:25.79,0:04:28.33,Default,Ryan,0,0,0,,{\i1}Some people say
 Dialogue: 0,0:04:28.33,0:04:30.92,Default,Ryan,0,0,0,,{\i1}A smile is just\Nan upside-down frown
 Dialogue: 0,0:04:30.92,0:04:34.00,Default,Ryan,0,0,0,,{\i1}But me,\NI know the truth
