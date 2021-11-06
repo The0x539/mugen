@@ -71,7 +71,7 @@ Dialogue: 0,0:01:51.80,0:01:52.88,Default,Marcel,0,0,0,,{\alphaFF}us!{\r}everyth
 Dialogue: 0,0:01:52.88,0:01:54.89,Default,Marcel,0,0,0,,So, this is great, huh?
 Dialogue: 0,0:01:54.89,0:01:56.80,Default,Jesse,0,0,0,,Yeah, it’s... pretty good.
 Dialogue: 0,0:01:56.80,0:01:59.35,Default,MT,0,0,0,,So, are you just gonna\Nkeep him now, or what?
-Dialogue: 0,0:01:59.68,0:02:01.77,Default,MT,0,0,0,,Because I kinda just want to \Nhang out with his deer.
+Dialogue: 0,0:01:59.68,0:02:01.77,Default,MT,0,0,0,,Because I kinda just want to \Nhang out with this deer.
 Dialogue: 0,0:02:01.77,0:02:03.44,Default,Marcel,0,0,0,,Oh. I’m sorry!
 Dialogue: 0,0:02:03.44,0:02:04.40,Default,Marcel,0,0,0,,Here you go!
 Dialogue: 0,0:02:06.36,0:02:08.15,Default,MT,0,0,0,,All right.\NLet’s see this thing.
@@ -126,7 +126,7 @@ Dialogue: 0,0:04:14.65,0:04:17.74,Default,Jesse,0,0,0,,so she stood there and ma
 Dialogue: 0,0:04:17.74,0:04:20.74,Default,MT,0,0,0,,That sounds more like a problem\Nthe lunch lady needs fixed.
 Dialogue: 0,0:04:21.37,0:04:23.33,Default,Jesse,0,0,0,,Do you think Mrs. Graham is on the train?
 Dialogue: 0,0:04:23.33,0:04:24.83,Default,MT,0,0,0,,Yeah. Probably.
-Dialogue: 0,0:04:24.83,0:04:29.04,Default,MT,0,0,0,,But Mrs. Graham isn’t here right now \Ntrying to hang out with my deer.
+Dialogue: 0,0:04:24.83,0:04:29.04,Default,MT,0,0,0,,But Mrs. Graham isn’t here right now \Ntrying to hang out with {\i1}my{\i0} deer.
 Dialogue: 0,0:04:30.42,0:04:31.88,Default,MT,0,0,0,,Hey, hey, hey, hey, hey, hey, hey.
 Dialogue: 0,0:04:31.88,0:04:33.80,Default,MT,0,0,0,,Phone time is not gonna fix you.
 Dialogue: 0,0:04:33.80,0:04:35.46,Default,MT,0,0,0,,This is number time.
@@ -195,7 +195,7 @@ Dialogue: 0,0:07:10.20,0:07:11.41,Default,Jesse,0,0,0,,Too many people qualified
 Dialogue: 0,0:07:11.41,0:07:13.12,Default,Jesse,0,0,0,,so they needed someone to stay behind.
 Dialogue: 0,0:07:13.12,0:07:15.25,Default,Jesse,0,0,0,,I really, really wanted to go,
 Dialogue: 0,0:07:15.25,0:07:16.29,Default,Jesse,0,0,0,,but I didn’t.
-Dialogue: 0,0:07:16.29,0:07:18.96,Default,MT,0,0,0,,But don’t you care about\Ndoing what you want to do?
+Dialogue: 0,0:07:16.29,0:07:18.96,Default,MT,0,0,0,,But don’t you care about\Ndoing what {\i1}you{\i0} want to do?
 Dialogue: 0,0:07:18.96,0:07:21.80,Default,Jesse,0,0,0,,Yeah. I guess?
 Dialogue: 0,0:07:21.80,0:07:23.17,Default,Jesse,0,0,0,,I don’t know.
 Dialogue: 0,0:07:23.80,0:07:26.34,Default,Jesse,0,0,0,,I’d love to swim\Nfreestyle sometime.

@@ -161,7 +161,7 @@ Dialogue: 0,0:05:36.77,0:05:38.32,Phone,Bully,0,0,0,,{\frz0.25\pos(1005,970)}Oh,
 Dialogue: 0,0:05:39.49,0:05:41.20,Phone,Nate,0,0,0,,{\frz0.25\pos(1005,970)}It-It really hurts.
 Comment: 0,0:05:41.99,0:05:43.45,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}“It weally hurts”
 Dialogue: 0,0:05:41.99,0:05:43.45,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)\1aFF}“It weally hurts”
-Dialogue: 1,0:05:41.99,0:05:43.45,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)\3aFF}“It weally hurts{\fsp-16}.{\fsp}”
+Dialogue: 1,0:05:41.99,0:05:43.45,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)\bord0}“It weally hurts{\fsp-16}.{\fsp}”
 Dialogue: 0,0:05:44.24,0:05:45.37,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}You failed!
 Comment: 0,0:05:44.57,0:05:45.37,Phone,Nate,0,0,0,,{\frz0.25\pos(1005,970)}Ah!
 Dialogue: 0,0:05:45.78,0:05:47.16,Phone,Troy,0,0,0,,{\frz0.25\pos(1005,970)}Jesse, tell him he failed!
@@ -213,7 +213,7 @@ Dialogue: 0,0:07:36.02,0:07:39.40,Default,MT,0,0,0,,Why should I trust somebody\
 Dialogue: 0,0:07:39.40,0:07:40.77,Default,Jesse,0,0,0,,What?
 Dialogue: 0,0:07:40.77,0:07:42.57,Default,Jesse,0,0,0,,No, I-I didn’t...
 Dialogue: 0,0:07:42.57,0:07:44.32,Default,Jesse,0,0,0,,It’s more complicated than that.
-Dialogue: 0,0:07:44.32,0:07:45.86,Default,Jesse,0,0,0,,My friends, i-it was their idea.
+Dialogue: 0,0:07:44.32,0:07:45.86,Default,Jesse,0,0,0,,My friends, it w-was their idea.
 Dialogue: 0,0:07:45.86,0:07:48.11,Default,Jesse,0,0,0,,I just... thought it would be funny, I...
 Dialogue: 0,0:07:48.74,0:07:49.66,Default,Jesse,0,0,0,,But...
 Dialogue: 0,0:07:50.41,0:07:51.99,Default,Jesse,0,0,0,,I didn’t mean to hurt Nate.
@@ -227,7 +227,7 @@ Dialogue: 0,0:08:07.51,0:08:08.43,Default,Jesse,0,0,0,,Maybe.
 Dialogue: 0,0:08:10.34,0:08:11.85,Default,MT,0,0,0,,Ugh!
 Dialogue: 0,0:08:13.60,0:08:16.02,Default,MT,0,0,0,,I probably should’ve told you\Nwhat was going on earlier.
 Dialogue: 0,0:08:19.06,0:08:21.40,Default,MT,0,0,0,,It’s true, what those flecs said.
-Dialogue: 0,0:08:21.40,0:08:24.28,Default,MT,0,0,0,,Technically, I am a “criminal{\fsp-16.5},{\fsp}”
+Dialogue: 0,0:08:21.40,0:08:24.28,Default,MT,0,0,0,,Technically, I {\i1}am{\i0} a “criminal{\fsp-16.5},{\fsp}”
 Dialogue: 0,0:08:24.28,0:08:25.94,Default,MT,0,0,0,,but I didn’t do anything wrong.
 Dialogue: 0,0:08:25.94,0:08:29.41,Default,Jesse,0,0,0,,So you {\i1}are{\i0} a reflection?
 Dialogue: 0,0:08:29.41,0:08:31.03,Default,Jesse,0,0,0,,Who are you a reflection of?
@@ -338,4 +338,4 @@ Dialogue: 0,0:10:48.00,0:10:48.71,Default,Jesse,-15,465,0,,Huh.
 Dialogue: 0,0:10:49.42,0:10:50.55,Default,MT,0,0,0,,Jesse, your hand.
 Dialogue: 0,0:10:53.22,0:10:55.47,Default,Jesse,0,0,0,,Wow, down to 14!
 Dialogue: 0,0:10:55.47,0:10:56.39,Default,Jesse,0,0,0,,Thank you.
-Comment: 0,0:10:57.55,0:11:00.60,Default,MT,0,0,0,,Nah, huh, uh...
+Dialogue: 0,0:10:57.55,0:11:00.60,Default,MT,0,0,0,,Nah, huh, uh...

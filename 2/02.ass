@@ -222,7 +222,7 @@ Dialogue: 0,0:06:58.81,0:07:00.27,Default,MT,0,0,0,,If I’d gotten down here so
 Dialogue: 0,0:07:00.27,0:07:01.48,Default,MT,0,0,0,,the branches wouldn’t be this bad.
 Dialogue: 0,0:07:01.48,0:07:02.40,Default,Jesse,0,0,0,,You don’t know that!
 Dialogue: 0,0:07:02.40,0:07:03.24,Default,MT,0,0,0,,Yeah?
-Dialogue: 0,0:07:03.24,0:07:05.86,Default,MT,0,0,0,,Well, you don’t know {\i1}anything{\i0}\Nand can’t help {\i1}anyone{\i0}.
+Dialogue: 0,0:07:03.24,0:07:05.86,Default,MT,0,0,0,,Well, you don’t know anything\Nand can’t help anyone.
 Dialogue: 0,0:07:05.86,0:07:07.24,Default,MT,0,0,0,,You can’t even help yourself.
 Dialogue: 0,0:07:07.62,0:07:10.08,Default,MT,0,0,0,,That’s why passengers get on\Nthis train in the first place.
 Dialogue: 0,0:07:10.08,0:07:10.99,Default,Jesse,0,0,0,,Hey, don’t pu—
@@ -239,7 +239,7 @@ Dialogue: 0,0:07:28.26,0:07:29.01,Default,Jesse,0,0,0,,Help!
 Dialogue: 0,0:07:35.02,0:07:37.77,Default,Jesse,0,0,0,,Man, I’m gonna be made out of wood?
 Dialogue: 0,0:07:37.77,0:07:39.52,Default,Jesse,0,0,0,,Everybody at school\Nwill call me Pinocchio.
 Dialogue: 0,0:07:39.81,0:07:41.90,Default,MT,0,0,0,,They won’t call you that.
-Dialogue: 0,0:07:41.90,0:07:45.07,Default,MT,0,0,0,,Okay, they’ll probably call you that.
+Dialogue: 0,0:07:41.90,0:07:45.07,Default,MT,0,0,0,,Okay, they’ll... {}probably{} call you that.
 Dialogue: 0,0:07:45.07,0:07:46.45,Default,MT,0,0,0,,If you ever {\i1}get{\i0} back to school.
 Dialogue: 0,0:07:46.45,0:07:48.57,Default,Jesse,0,0,0,,Why’d you have to say that?
 Dialogue: 0,0:07:52.37,0:07:53.49,Default,MT,0,0,0,,Sorry.
@@ -283,7 +283,7 @@ Dialogue: 0,0:09:04.90,0:09:06.44,Default,Jesse,0,0,0,,Shall I sing a song?
 Dialogue: 0,0:09:06.44,0:09:08.19,Default,MT,0,0,0,,I’d absolutely love it.
 Dialogue: 0,0:09:08.82,0:09:11.16,Default,Jesse,0,0,0,,{\i1}When I look at you
 Dialogue: 0,0:09:11.16,0:09:12.82,Default,Jesse,0,0,0,,Your metal skin is very shiny,
-Dialogue: 0,0:09:12.82,0:09:16.87,Default,Jesse,0,0,0,,like a car that was just washed by, \Nuh, like, a sunbeam, and...
+Dialogue: 0,0:09:12.82,0:09:16.87,Default,Jesse,0,0,0,,like a car that was just washed \Nby, uh... like, a sunbeam, and...
 Dialogue: 0,0:09:16.87,0:09:19.83,Default,Jesse,0,0,0,,just, like, super... shiny.
 Dialogue: 0,0:09:25.17,0:09:28.26,Default,MT,0,0,0,,Hey, deer!\NWhere are you?
 Dialogue: 0,0:09:29.55,0:09:32.01,Default,Jesse,0,0,0,,Alan Dracula!
@@ -311,7 +311,7 @@ Dialogue: 0,0:10:33.40,0:10:33.86,Default,Jesse,0,0,0,,Really?
 Dialogue: 0,0:10:33.86,0:10:36.41,Default,MT,0,0,0,,But only because then you’ll get off the train
 Dialogue: 0,0:10:36.41,0:10:37.62,Default,MT,0,0,0,,and I’ll get to stay with,
 Dialogue: 0,0:10:37.62,0:10:40.08,Default,MT,0,0,0,,for lack of a better name,
-Dialogue: 0,0:10:40.08,0:10:40.95,Default,MT,0,0,0,,Alan Dracula.
+Dialogue: 0,0:10:40.08,0:10:40.95,Default,MT,0,0,0,,{\fs-1}Alan Dracula.
 Dialogue: 0,0:10:40.95,0:10:42.83,Default,Jesse,0,0,0,,Yes!
 Dialogue: 0,0:10:42.83,0:10:43.87,Default,Jesse,0,0,0,,Sorry.
 Dialogue: 0,0:10:43.87,0:10:46.13,Default,MT,0,0,0,,Okay, so let’s do this.
