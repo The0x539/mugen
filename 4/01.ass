@@ -124,13 +124,13 @@ Dialogue: 0,0:04:08.48,0:04:09.65,Default,Ryan,0,0,0,,don't know.
 Dialogue: 0,0:04:25.79,0:04:28.33,Right,Ryan,0,0,0,,{\i1}Some people say
 Dialogue: 0,0:04:28.33,0:04:30.92,Right,Ryan,0,0,0,,{\i1}A smile is just \Nan upside-down frown
 Dialogue: 0,0:04:30.92,0:04:34.00,Right,Ryan,0,0,0,,{\i1}But me, I know the truth
-Dialogue: 0,0:04:36.38,0:04:38.84,Left,Customer,0,0,0,,I asked for eggs over hard!
-Dialogue: 0,0:04:38.84,0:04:41.14,Left,Customer,0,0,0,,These are medium at best.
+Dialogue: 0,0:04:36.38,0:04:38.84,Left,Horace,0,0,0,,I asked for eggs over hard!
+Dialogue: 0,0:04:38.84,0:04:41.14,Left,Horace,0,0,0,,These are medium at best.
 Dialogue: 0,0:04:41.14,0:04:42.43,Left,Min-Gi,0,0,0,,Sorry.
 Dialogue: 0,0:04:42.43,0:04:43.72,Left,Min-Gi,0,0,0,,I'll get you a new plate.
-Dialogue: 0,0:05:00.45,0:05:02.74,Right,Ryan,0,0,0,,{\i1}We're going straight to the top
+Dialogue: 0,0:05:00.45,0:05:02.74,Right,Ryan,0,0,0,,{\i1}We're goin' straight to the top
 Dialogue: 0,0:05:05.45,0:05:07.91,Right,Ryan,0,0,0,,{\i1}Yeah, we're gonna \Nlive on the sun
-Dialogue: 0,0:05:14.46,0:05:17.38,Right,Ryan,0,0,0,,{\i1}Whoo, we're going \Nstraight to the top
+Dialogue: 0,0:05:14.46,0:05:17.38,Right,Ryan,0,0,0,,{\i1}Woo, we're goin' \Nstraight to the top
 Dialogue: 0,0:05:17.38,0:05:19.47,Right,Ryan,0,0,0,,{\i1}And we're gonna have fun
 Dialogue: 0,0:05:21.93,0:05:23.89,Left,Mr. Park,0,0,0,,Isn't it time \Nto put that away?
 Dialogue: 0,0:05:23.89,0:05:27.01,Left,Mrs. Park,0,0,0,,How are your university \Napplications going, honey?
@@ -151,65 +151,65 @@ Dialogue: 0,0:06:10.31,0:06:11.23,Right,Punk Girlfriend,0,0,0,,Ugh!
 Dialogue: 0,0:06:15.94,0:06:18.27,Right,Earthy Girlfriend,0,0,0,,Wow, thanks for the van.
 Dialogue: 0,0:06:18.73,0:06:20.53,Right,Earthy Girlfriend,0,0,0,,But I'm still \Nbreaking up with you.
 Dialogue: 0,0:06:35.58,0:06:37.54,Left,Horace,0,0,0,,Fella over there\Ndidn't finish his browns,
-Dialogue: 0,0:06:37.54,0:06:38.96,Left,Horace,0,0,0,,so I'm taking 'em.
-Dialogue: 0,0:06:38.96,0:06:40.21,Left,Horace,0,0,0,,Night, Min-gee.
+Dialogue: 0,0:06:37.54,0:06:38.96,Left,Horace,0,0,0,,so I'm takin' 'em.
+Dialogue: 0,0:06:38.96,0:06:40.21,Left,Horace,0,0,0,,Night, Min-Gee.
 Dialogue: 0,0:06:40.21,0:06:41.55,Left,Min-Gi,0,0,0,,It's Gi!
 Dialogue: 0,0:06:41.55,0:06:42.88,Left,Min-Gi,0,0,0,,Hard G.
 Dialogue: 0,0:06:54.27,0:06:55.19,Right,Min-Gi,0,0,0,,Ryan?
-Dialogue: 0,0:07:04.07,0:07:06.86,Default,Min-Gi,0,0,0,,Just, uh, give me a sec.
+Dialogue: 0,0:07:04.07,0:07:06.86,Default,Min-Gi,0,0,0,,Just, uh... gimme a sec?
 Dialogue: 0,0:07:06.86,0:07:07.99,Default,Min-Gi,0,0,0,,Gotta close out.
-Dialogue: 0,0:07:07.99,0:07:09.95,Default,Ryan,0,0,0,,No, yeah, take your time.
+Dialogue: 0,0:07:07.99,0:07:09.95,Default,Ryan,0,0,0,,Oh yeah, take your time.
 Dialogue: 0,0:07:12.33,0:07:14.25,Default,Ryan,0,0,0,,Wow, shift manager.
 Dialogue: 0,0:07:14.25,0:07:16.42,Default,Ryan,0,0,0,,Even got a framed photo\Nand everything.
 Dialogue: 0,0:07:17.75,0:07:19.00,Default,Ryan,0,0,0,,Oops.
-Dialogue: 0,0:07:19.59,0:07:21.46,Default,Min-Gi,0,0,0,,You think that's gnarly?
-Dialogue: 0,0:07:21.46,0:07:22.92,Default,Min-Gi,0,0,0,,Check these out.
+Dialogue: 0,0:07:19.59,0:07:21.46,Default,Min-Gi,0,0,0,,You think {\i1}that's{\i0} gnarly?
+Dialogue: 0,0:07:21.46,0:07:22.92,Default,Min-Gi,0,0,0,,Check {\i1}these{\i0} out.
 Dialogue: 0,0:07:22.92,0:07:24.92,Default,Min-Gi,0,0,0,,Keys to the Dumpty Kingdom.
 Dialogue: 0,0:07:28.34,0:07:30.68,Default,Ryan,0,0,0,,Yeah, I thought writing lyrics\Nwas gonna be hard,
-Dialogue: 0,0:07:30.68,0:07:32.85,Default,Ryan,0,0,0,,but it's super easy!
-Dialogue: 0,0:07:32.85,0:07:34.93,Default,Ryan,0,0,0,,You've just gotta make it rhyme.
+Dialogue: 0,0:07:30.68,0:07:32.85,Default,Ryan,0,0,0,,but it's {\i1}super{\i0} easy!
+Dialogue: 0,0:07:32.85,0:07:34.93,Default,Ryan,0,0,0,,Just gotta make it{a} rhyme.
 Dialogue: 0,0:07:34.93,0:07:36.73,Default,Ryan,0,0,0,,When your parents said\Nyou'd be here,
-Dialogue: 0,0:07:36.73,0:07:39.02,Default,Ryan,0,0,0,,I kinda thought\Nyou'd be eating...
-Dialogue: 0,0:07:39.02,0:07:40.36,Default,Ryan,0,0,0,,not working.
+Dialogue: 0,0:07:36.73,0:07:39.02,Default,Ryan,0,0,0,,I kinda thought you'd be eating.
+Dialogue: 0,0:07:39.02,0:07:40.36,Default,Ryan,0,0,0,,Not working.
 Dialogue: 0,0:07:44.03,0:07:47.32,Default,Min-Gi,0,0,0,,Well, I mean, I also eat here.
-Dialogue: 0,0:07:47.32,0:07:49.70,Default,Min-Gi,0,0,0,,so you were sorta right?
-Dialogue: 0,0:07:50.28,0:07:51.70,Default,Min-Gi,0,0,0,,So how are your...
+Dialogue: 0,0:07:47.32,0:07:49.70,Default,Min-Gi,0,0,0,,so you were {\i1}sorta{\i0} right?
+Dialogue: 0,0:07:50.28,0:07:51.70,Default,Min-Gi,0,0,0,,So, how are your...
 Dialogue: 0,0:07:52.28,0:07:54.16,Default,Ryan,0,0,0,,I've got a show in New York!
-Dialogue: 0,0:07:54.16,0:07:57.37,Default,Ryan,0,0,0,,Like, a real life,\Nactual show in a couple days,
-Dialogue: 0,0:07:57.37,0:08:00.88,Default,Ryan,0,0,0,,just like we talked about\Nin this booth back in middle school.
-Dialogue: 0,0:08:00.88,0:08:02.55,Default,Min-Gi,0,0,0,,It was that booth.
+Dialogue: 0,0:07:54.16,0:07:57.37,Default,Ryan,0,0,0,,Like, a real life, actual show in a couple days,
+Dialogue: 0,0:07:57.37,0:08:00.88,Default,Ryan,0,0,0,,just like we talked about\Nin {\i1}this booth{\i0} back in middle school.
+Dialogue: 0,0:08:00.88,0:08:02.55,Default,Min-Gi,0,0,0,,It was... {\i1}that{\i0} booth.
 Dialogue: 0,0:08:02.55,0:08:03.50,Default,Ryan,0,0,0,,Are you sure it was that one?
 Dialogue: 0,0:08:03.50,0:08:04.96,Default,Min-Gi,0,0,0,,Yep. That booth.
-Dialogue: 0,0:08:04.96,0:08:07.97,Default,Ryan,0,0,0,,Okay, well I'm going tonight, and...
-Dialogue: 0,0:08:07.97,0:08:09.89,Default,Ryan,0,0,0,,I think\Nyou should come with.
+Dialogue: 0,0:08:04.96,0:08:07.97,Default,Ryan,0,0,0,,Okay, well... I'm going tonight, and...
+Dialogue: 0,0:08:07.97,0:08:09.89,Default,Ryan,0,0,0,,I think {\i1}you{\i0} should come with.
 Dialogue: 0,0:08:13.14,0:08:15.52,Default,Ryan,0,0,0,,Chicken Choice Judy rides again!
 Dialogue: 0,0:08:15.52,0:08:16.64,Default,Ryan,0,0,0,,We can do it, together, and...
 Dialogue: 0,0:08:16.64,0:08:18.48,Default,Min-Gi,0,0,0,,Ryan, I can't.
-Dialogue: 0,0:08:18.48,0:08:20.81,Default,Ryan,0,0,0,,But music's\Nwhat we always wanted!
+Dialogue: 0,0:08:18.48,0:08:20.81,Default,Ryan,0,0,0,,But music's what we always wanted!
 Dialogue: 0,0:08:20.81,0:08:22.69,Default,Min-Gi,0,0,0,,It's what {\i1}you{\i} always wanted.
 Dialogue: 0,0:08:22.69,0:08:24.02,Default,Min-Gi,0,0,0,,I got into uni.
-Dialogue: 0,0:08:24.02,0:08:25.65,Default,Min-Gi,0,0,0,,I'm gonna major in finance
-Dialogue: 0,0:08:25.65,0:08:27.78,Default,Min-Gi,0,0,0,,with an emphasis on\Nrisk assessment.
-Dialogue: 0,0:08:28.28,0:08:30.74,Default,Ryan,0,0,0,,Oh. You excited?
+Dialogue: 0,0:08:24.02,0:08:25.65,Default,Min-Gi,0,0,0,,I'm gonna major in finance,
+Dialogue: 0,0:08:25.65,0:08:27.78,Default,Min-Gi,0,0,0,,with an emphasis on risk assessment.
+Dialogue: 0,0:08:28.28,0:08:30.74,Default,Ryan,0,0,0,,{\i1}Oh{\i0}. You excited?
 Dialogue: 0,0:08:30.74,0:08:32.91,Default,Min-Gi,0,0,0,,Ryan, I'm sorry.
 Dialogue: 0,0:08:32.91,0:08:34.87,Default,Min-Gi,0,0,0,,But I can't just leave on a whim.
-Dialogue: 0,0:08:38.25,0:08:39.67,Default,Min-Gi,0,0,0,,Come on, Ryan.
+Dialogue: 0,0:08:38.25,0:08:39.67,Default,Min-Gi,0,0,0,,C'mon, Ryan.
 Dialogue: 0,0:08:41.38,0:08:42.29,Default,Min-Gi,0,0,0,,Ryan?
 Dialogue: 0,0:08:46.01,0:08:47.34,Default,Min-Gi,0,0,0,,Ryan!
 Comment: 0,0:08:51.59,0:08:52.64,Default,Ryan,0,0,0,,Whoo!
 Dialogue: 0,0:08:55.06,0:08:58.02,Default,Min-Gi,0,0,0,,This isn't funny!\NI have to lock up!
-Dialogue: 0,0:08:58.02,0:09:00.39,Default,Ryan,0,0,0,,If you won't follow your dreams,\Nthen I'll make 'ya!
-Dialogue: 0,0:09:00.39,0:09:03.94,Default,Horace,0,0,0,,Follow your dreams somewhere\Npeople aren't sleeping!
+Dialogue: 0,0:08:58.02,0:09:00.39,Default,Ryan,0,0,0,,If you won't follow your dreams, \Nthen I'll make ya!
+Dialogue: 0,0:09:00.39,0:09:03.94,Default,Horace,0,0,0,,Follow your dreams \Nsomewhere people aren't sleeping!
 Dialogue: 0,0:09:11.24,0:09:12.78,Default,Min-Gi,0,0,0,,Ryan, no!
 Dialogue: 0,0:09:15.37,0:09:16.41,Default,Min-Gi,0,0,0,,Ryan!
 Dialogue: 0,0:09:18.54,0:09:20.96,Default,Min-Gi,0,0,0,,Uh, 'scuse me, sorry.
-Dialogue: 0,0:09:20.96,0:09:22.92,Default,Min-Gi,0,0,0,,Uh, I just gotta\Nget over to him.
+Dialogue: 0,0:09:20.96,0:09:22.92,Default,Min-Gi,0,0,0,,Uh, I just—I just gotta get over to him.
 Dialogue: 0,0:09:22.92,0:09:23.83,Default,Min-Gi,0,0,0,,He has my keys.
-Dialogue: 0,0:09:51.61,0:09:52.32,Default,Min-Gi,0,0,0,,Mnh-mnh.
+Dialogue: 0,0:09:51.61,0:09:52.32,Default,Min-Gi,0,0,0,,Mm-mm.
 Dialogue: 0,0:09:58.24,0:09:59.12,Default,Min-Gi,0,0,0,,Ryan!
 Dialogue: 0,0:10:21.43,0:10:22.56,Default,Amelia,0,0,0,,Two in one?
-Dialogue: 0,0:10:22.56,0:10:25.56,Default,Amelia,0,0,0,,What is this, some sort\Nof destiny rubbish?
-Dialogue: 0,0:10:25.56,0:10:28.32,Default,One,0,0,0,,No, it is mathematics, Amelia.
+Dialogue: 0,0:10:22.56,0:10:25.56,Default,Amelia,0,0,0,,What is this, some sort of destiny rubbish?
+Dialogue: 0,0:10:25.56,0:10:28.32,Default,One,0,0,0,,No. It is mathematics, Amelia.
 Dialogue: 0,0:10:28.32,0:10:31.53,Default,One,0,0,0,,My algorithms are designed\Nto account for a statistical probability
 Dialogue: 0,0:10:31.53,0:10:33.86,Default,One,0,0,0,,that anything can happen\Non the train.
 Dialogue: 0,0:10:34.49,0:10:35.66,Default,Amelia,0,0,0,,Anything?
