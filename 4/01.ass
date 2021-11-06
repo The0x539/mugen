@@ -23,8 +23,10 @@ Style: Default,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:05.02,0:00:08.01,Default,,0,0,0,,This is how it always begins.
-Dialogue: 0,0:00:09.01,0:00:11.01,Default,,0,0,0,,That one's yours?\NYes.
-Dialogue: 0,0:00:11.01,0:00:13.02,Default,,0,0,0,,Our first.\NLucky!
+Dialogue: 0,0:00:09.01,0:00:10.74,Default,,0,0,0,,That one's yours?
+Dialogue: 0,0:00:10.74,0:00:11.01,Default,,0,0,0,,Yes.
+Dialogue: 0,0:00:11.01,0:00:12.58,Default,,0,0,0,,Our first.
+Dialogue: 0,0:00:12.58,0:00:13.02,Default,,0,0,0,,Lucky!
 Dialogue: 0,0:00:14.00,0:00:15.01,Default,,0,0,0,,I can't get off the ferry\Nwithout tripping
 Dialogue: 0,0:00:15.01,0:00:18.00,Default,,0,0,0,,over another one.
 Dialogue: 0,0:00:18.00,0:00:20.02,Default,,0,0,0,,Well, I should get back to Yui.
@@ -38,25 +40,27 @@ Dialogue: 0,0:00:39.01,0:00:41.01,Default,,0,0,0,,It's a proper instrument.
 Dialogue: 0,0:00:43.02,0:00:46.00,Default,,0,0,0,,Min-Gi!
 Dialogue: 0,0:00:46.00,0:00:47.01,Default,,0,0,0,,Did everybody get one?
 Dialogue: 0,0:00:47.01,0:00:49.00,Default,,0,0,0,,Mm-hmm!
-Dialogue: 0,0:00:52.01,0:00:53.01,Default,,0,0,0,,- Aah!\N- Stop touching me! Ugh.
+Dialogue: 0,0:00:52.99,0:00:52.99,Default,,0,0,0,,Aah!
+Dialogue: 0,0:00:52.99,0:00:53.66,Default,,0,0,0,,Stop touching me!
+Dialogue: 0,0:00:53.66,0:00:53.03,Default,,0,0,0,,Ugh.
 Dialogue: 0,0:00:53.02,0:00:57.00,Default,,0,0,0,,Can we get this\Nover with already?
 Dialogue: 0,0:00:57.00,0:00:59.01,Default,,0,0,0,,Ready?
 Dialogue: 0,0:00:59.01,0:01:01.01,Default,,0,0,0,,Heh-heh!
 Dialogue: 0,0:01:03.02,0:01:05.00,Default,,0,0,0,,Heh-heh!
 Dialogue: 0,0:01:05.00,0:01:07.00,Default,,0,0,0,,Ah!
 Dialogue: 0,0:01:10.00,0:01:11.02,Default,,0,0,0,,5-6-11-12!
-Dialogue: 0,0:01:12.00,0:01:14.01,Default,,0,0,0,,♪ I'm gonna dress my cat\Nin a toque! ♪
-Dialogue: 0,0:01:14.01,0:01:17.00,Default,,0,0,0,,♪ I'm gonna dress my dog\Nin a toque! ♪
-Dialogue: 0,0:01:17.00,0:01:19.01,Default,,0,0,0,,♪ I'm gonna dress my cat\Nin a toque! ♪
-Dialogue: 0,0:01:19.01,0:01:22.00,Default,,0,0,0,,♪ I'm gonna dress my dog\Nin a toque! ♪
-Dialogue: 0,0:01:22.00,0:01:24.00,Default,,0,0,0,,♪ I'm gonna dress my cat\Nin a toque! ♪
-Dialogue: 0,0:01:24.00,0:01:25.01,Default,,0,0,0,,♪ I'm gonna dress my dog\Nin a toque! ♪
+Dialogue: 0,0:01:12.00,0:01:14.01,Default,,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
+Dialogue: 0,0:01:14.01,0:01:17.00,Default,,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
+Dialogue: 0,0:01:17.00,0:01:19.01,Default,,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
+Dialogue: 0,0:01:19.01,0:01:22.00,Default,,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
+Dialogue: 0,0:01:22.00,0:01:24.00,Default,,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
+Dialogue: 0,0:01:24.00,0:01:25.01,Default,,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
 Dialogue: 0,0:01:25.01,0:01:27.00,Default,,0,0,0,,Hey, get off me!\NGo away!
-Dialogue: 0,0:01:27.00,0:01:29.01,Default,,0,0,0,,♪ I'm gonna dress my cat\Nin a toque! ♪
-Dialogue: 0,0:01:29.01,0:01:32.00,Default,,0,0,0,,♪ I'm gonna dress my dog\Nin a toque! ♪
-Dialogue: 0,0:01:32.00,0:01:34.01,Default,,0,0,0,,♪ I'm gonna dress my cat\Nin a toque! ♪
-Dialogue: 0,0:01:34.01,0:01:37.01,Default,,0,0,0,,♪ I'm gonna dress my dog\Nin a toque ♪
-Dialogue: 0,0:01:41.00,0:01:43.01,Default,,0,0,0,,♪ I'm gonna dress my cat\Nin a toque! ♪
+Dialogue: 0,0:01:27.00,0:01:29.01,Default,,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
+Dialogue: 0,0:01:29.01,0:01:32.00,Default,,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque!
+Dialogue: 0,0:01:32.00,0:01:34.01,Default,,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
+Dialogue: 0,0:01:34.01,0:01:37.01,Default,,0,0,0,,{\i1}I'm gonna dress my dog\Nin a toque
+Dialogue: 0,0:01:41.00,0:01:43.01,Default,,0,0,0,,{\i1}I'm gonna dress my cat\Nin a toque!
 Dialogue: 0,0:01:46.01,0:01:47.02,Default,,0,0,0,,And after we're famous\Nin Canada,
 Dialogue: 0,0:01:47.02,0:01:49.01,Default,,0,0,0,,which'll probably\Nonly take a few months,
 Dialogue: 0,0:01:49.01,0:01:52.01,Default,,0,0,0,,probably, we'll take my dad's\Nvan across the border...
@@ -64,7 +68,8 @@ Dialogue: 0,0:01:52.01,0:01:54.01,Default,,0,0,0,,Your dad'll never\Nlet you dri
 Dialogue: 0,0:01:54.01,0:01:55.02,Default,,0,0,0,,He will.
 Dialogue: 0,0:01:55.02,0:01:58.01,Default,,0,0,0,,And then we'll become\Nrockstars and play...
 Dialogue: 0,0:02:01.00,0:02:04.01,Default,,0,0,0,,New York City!
-Dialogue: 0,0:02:04.01,0:02:07.00,Default,,0,0,0,,Our lives are gonna be great.\NOh, yeah.
+Dialogue: 0,0:02:04.01,0:02:06.19,Default,,0,0,0,,Our lives are gonna be great.
+Dialogue: 0,0:02:06.19,0:02:07.00,Default,,0,0,0,,Oh, yeah.
 Dialogue: 0,0:02:07.00,0:02:10.00,Default,,0,0,0,,That is...\Nif the world isn't destroyed
 Dialogue: 0,0:02:10.00,0:02:11.01,Default,,0,0,0,,by The Worm first!
 Dialogue: 0,0:02:16.02,0:02:18.01,Default,,0,0,0,,Oh, I almost forgot!
@@ -73,7 +78,8 @@ Dialogue: 0,0:02:20.00,0:02:21.01,Default,,0,0,0,,What? Maybe?
 Dialogue: 0,0:02:21.01,0:02:24.01,Default,,0,0,0,,Why?
 Dialogue: 0,0:02:24.01,0:02:27.01,Default,,0,0,0,,Uh... says you have to\Nbe in grade 12.
 Dialogue: 0,0:02:27.01,0:02:30.00,Default,,0,0,0,,Whaaat?\NWe could just lie.
-Dialogue: 0,0:02:30.00,0:02:32.00,Default,,0,0,0,,No!\NOkay.
+Dialogue: 0,0:02:30.00,0:02:31.05,Default,,0,0,0,,No!
+Dialogue: 0,0:02:31.05,0:02:32.00,Default,,0,0,0,,Okay.
 Dialogue: 0,0:02:32.00,0:02:34.01,Default,,0,0,0,,They're not ready for Nevsky\Nand the Prospekts anyway.
 Dialogue: 0,0:02:34.01,0:02:36.01,Default,,0,0,0,,Wait, I thought we were\Ngonna call ourselves
 Dialogue: 0,0:02:36.01,0:02:37.02,Default,,0,0,0,,Chicken Choice Judy?
@@ -82,7 +88,7 @@ Dialogue: 0,0:02:41.01,0:02:44.00,Default,,0,0,0,,Min-Gi!\NYour viola teacher is
 Dialogue: 0,0:02:44.00,0:02:45.02,Default,,0,0,0,,Ryan, it's time to leave.
 Dialogue: 0,0:02:45.02,0:02:47.00,Default,,0,0,0,,I packed you some oranges.
 Dialogue: 0,0:02:47.01,0:02:49.00,Default,,0,0,0,,Oh, I don't need any oranges.\NThank you.
-Dialogue: 0,0:02:49.00,0:02:52.01,Default,,0,0,0,,Aigoooo, you should eat\Noranges.\NThey are very healthy for you!
+Dialogue: 0,0:02:49.00,0:02:52.01,Default,,0,0,0,,Aigoooo, you should eat oranges.\NThey are very healthy for you!
 Dialogue: 0,0:02:52.02,0:02:55.01,Default,,0,0,0,,Here, fresh oranges.\NThey're very good for you.
 Dialogue: 0,0:02:55.01,0:02:59.01,Default,,0,0,0,,Uhhhh...
 Dialogue: 0,0:03:05.00,0:03:07.01,Default,,0,0,0,,Where've you been, man?\NWe're almost on!
@@ -93,7 +99,8 @@ Dialogue: 0,0:03:22.00,0:03:24.02,Default,,0,0,0,,Amazing!
 Dialogue: 0,0:03:24.02,0:03:29.02,Default,,0,0,0,,Another round of applause\Nfor Puppy Academy!
 Dialogue: 0,0:03:29.02,0:03:31.01,Default,,0,0,0,,Oh, dude! My dad said\Nwe could have the van,
 Dialogue: 0,0:03:31.02,0:03:34.01,Default,,0,0,0,,so after we graduate\Nwe're going on the road!
-Dialogue: 0,0:03:34.01,0:03:36.00,Default,,0,0,0,,Wait, when?!\NNext week!
+Dialogue: 0,0:03:34.01,0:03:35.74,Default,,0,0,0,,Wait, when?!
+Dialogue: 0,0:03:35.74,0:03:36.00,Default,,0,0,0,,Next week!
 Dialogue: 0,0:03:36.00,0:03:37.01,Default,,0,0,0,,You still have a week to pack.
 Dialogue: 0,0:03:37.01,0:03:40.00,Default,,0,0,0,,To pack my whole life?!\NWhy didn't you tell me?
 Dialogue: 0,0:03:40.01,0:03:41.01,Default,,0,0,0,,I'm telling you right now.
@@ -110,26 +117,26 @@ Dialogue: 0,0:04:04.00,0:04:05.01,Default,,0,0,0,,Hey, you're up!
 Dialogue: 0,0:04:05.01,0:04:06.01,Default,,0,0,0,,Where's your buddy?
 Dialogue: 0,0:04:06.02,0:04:08.00,Default,,0,0,0,,I...
 Dialogue: 0,0:04:08.01,0:04:10.00,Default,,0,0,0,,don't know...
-Dialogue: 0,0:04:25.01,0:04:27.01,Default,,0,0,0,,♪ Some people say ♪
-Dialogue: 0,0:04:27.02,0:04:30.01,Default,,0,0,0,,♪ A smile is just\Nan upside-down frown ♪
-Dialogue: 0,0:04:30.01,0:04:33.01,Default,,0,0,0,,♪ But me,\NI know the truth ♪
+Dialogue: 0,0:04:25.01,0:04:27.01,Default,,0,0,0,,{\i1}Some people say
+Dialogue: 0,0:04:27.02,0:04:30.01,Default,,0,0,0,,{\i1}A smile is just\Nan upside-down frown
+Dialogue: 0,0:04:30.01,0:04:33.01,Default,,0,0,0,,{\i1}But me,\NI know the truth
 Dialogue: 0,0:04:36.00,0:04:38.01,Default,,0,0,0,,I asked for eggs over hard!
 Dialogue: 0,0:04:38.01,0:04:40.01,Default,,0,0,0,,These are medium at best.
 Dialogue: 0,0:04:40.01,0:04:43.01,Default,,0,0,0,,Sorry, I'll get you a new plate.
-Dialogue: 0,0:04:59.00,0:05:02.00,Default,,0,0,0,,♪ We're going\Nstraight to the top ♪
-Dialogue: 0,0:05:05.00,0:05:07.00,Default,,0,0,0,,♪ Yeah, we're gonna live\Non the sun ♪
-Dialogue: 0,0:05:14.00,0:05:17.00,Default,,0,0,0,,♪ Whoo, we're going\Nstraight to the top ♪
-Dialogue: 0,0:05:17.00,0:05:19.00,Default,,0,0,0,,♪ And we're gonna\Nhave fun ♪
+Dialogue: 0,0:04:59.00,0:05:02.00,Default,,0,0,0,,{\i1}We're going\Nstraight to the top
+Dialogue: 0,0:05:05.00,0:05:07.00,Default,,0,0,0,,{\i1}Yeah, we're gonna live\Non the sun
+Dialogue: 0,0:05:14.00,0:05:17.00,Default,,0,0,0,,{\i1}Whoo, we're going\Nstraight to the top
+Dialogue: 0,0:05:17.00,0:05:19.00,Default,,0,0,0,,{\i1}And we're gonna\Nhave fun
 Dialogue: 0,0:05:21.01,0:05:23.01,Default,,0,0,0,,Isn't it time to put that away?
 Dialogue: 0,0:05:23.01,0:05:26.01,Default,,0,0,0,,How are your university\Napplications going, honey?
 Dialogue: 0,0:05:28.00,0:05:31.00,Default,,0,0,0,,Hey guys, I'm Ryan,\Nbut for the next 15 minutes,
 Dialogue: 0,0:05:31.00,0:05:34.01,Default,,0,0,0,,you'll be hearing\Nthe sick licks of Gage.
-Dialogue: 0,0:05:34.01,0:05:36.01,Default,,0,0,0,,♪ What's got four wheels\Nand a groovy sputter? ♪
-Dialogue: 0,0:05:36.01,0:05:39.00,Default,,0,0,0,,♪ My dad's van,\Nmy dad's van ♪
-Dialogue: 0,0:05:39.00,0:05:42.00,Default,,0,0,0,,♪ What's got peeling paint\Nand a photo of my mother? ♪
-Dialogue: 0,0:05:42.00,0:05:45.00,Default,,0,0,0,,♪ My dad's van,\Nmy dad's van ♪
-Dialogue: 0,0:05:45.00,0:05:47.01,Default,,0,0,0,,♪ Windows rolled down,\Nsteering wheel's hot ♪
-Dialogue: 0,0:05:47.01,0:05:51.01,Default,,0,0,0,,♪ My dad's van\Nis everything you're not ♪
+Dialogue: 0,0:05:34.01,0:05:36.01,Default,,0,0,0,,{\i1}What's got four wheels\Nand a groovy sputter?
+Dialogue: 0,0:05:36.01,0:05:39.00,Default,,0,0,0,,{\i1}My dad's van,\Nmy dad's van
+Dialogue: 0,0:05:39.00,0:05:42.00,Default,,0,0,0,,{\i1}What's got peeling paint\Nand a photo of my mother?
+Dialogue: 0,0:05:42.00,0:05:45.00,Default,,0,0,0,,{\i1}My dad's van,\Nmy dad's van
+Dialogue: 0,0:05:45.00,0:05:47.01,Default,,0,0,0,,{\i1}Windows rolled down,\Nsteering wheel's hot
+Dialogue: 0,0:05:47.01,0:05:51.01,Default,,0,0,0,,{\i1}My dad's van\Nis everything you're not
 Dialogue: 0,0:05:58.01,0:05:59.02,Default,,0,0,0,,I'm sorry.
 Dialogue: 0,0:06:02.00,0:06:06.00,Default,,0,0,0,,Congratulations, Min-Gi.
 Dialogue: 0,0:06:06.00,0:06:08.01,Default,,0,0,0,,Good job!
@@ -165,7 +172,8 @@ Dialogue: 0,0:07:53.01,0:07:56.02,Default,,0,0,0,,Like, a real life,\Nactual sho
 Dialogue: 0,0:07:57.00,0:07:59.01,Default,,0,0,0,,just like we talked about\Nin this booth
 Dialogue: 0,0:07:59.01,0:08:00.01,Default,,0,0,0,,back in middle school.
 Dialogue: 0,0:08:00.01,0:08:02.00,Default,,0,0,0,,It was that booth.
-Dialogue: 0,0:08:02.00,0:08:04.01,Default,,0,0,0,,Are you sure it was that one?\NYep. That booth.
+Dialogue: 0,0:08:02.00,0:08:03.59,Default,,0,0,0,,Are you sure it was that one?
+Dialogue: 0,0:08:03.59,0:08:04.01,Default,,0,0,0,,Yep. That booth.
 Dialogue: 0,0:08:04.02,0:08:06.01,Default,,0,0,0,,Okay, well I'm going tonight,
 Dialogue: 0,0:08:06.02,0:08:09.01,Default,,0,0,0,,and I think\Nyou should come with.
 Dialogue: 0,0:08:12.02,0:08:15.00,Default,,0,0,0,,Chicken Choice Judy rides again!
