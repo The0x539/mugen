@@ -156,7 +156,8 @@ Dialogue: 0,0:06:38.96,0:06:40.21,Left,Horace,0,0,0,,Night, Min-Gee.
 Dialogue: 0,0:06:40.21,0:06:41.55,Left,Min-Gi,0,0,0,,It's Gi!
 Dialogue: 0,0:06:41.55,0:06:42.88,Left,Min-Gi,0,0,0,,Hard G.
 Dialogue: 0,0:06:54.27,0:06:55.19,Right,Min-Gi,0,0,0,,Ryan?
-Dialogue: 0,0:07:04.07,0:07:06.86,Default,Min-Gi,0,0,0,,Just, uh... gimme a sec?
+Dialogue: 0,0:07:04.07,0:07:05.82,Default,Min-Gi,0,0,0,,Just, uh...
+Dialogue: 0,0:07:05.82,0:07:06.86,Default,Min-Gi,0,0,0,,gimme a sec?
 Dialogue: 0,0:07:06.86,0:07:07.99,Default,Min-Gi,0,0,0,,Gotta close out.
 Dialogue: 0,0:07:07.99,0:07:09.95,Default,Ryan,0,0,0,,Oh yeah, take your time.
 Dialogue: 0,0:07:12.33,0:07:14.25,Default,Ryan,0,0,0,,Wow, shift manager.
@@ -171,7 +172,7 @@ Dialogue: 0,0:07:32.85,0:07:34.93,Default,Ryan,0,0,0,,Just gotta make it{a} rhym
 Dialogue: 0,0:07:34.93,0:07:36.73,Default,Ryan,0,0,0,,When your parents said\Nyou'd be here,
 Dialogue: 0,0:07:36.73,0:07:39.02,Default,Ryan,0,0,0,,I kinda thought you'd be eating.
 Dialogue: 0,0:07:39.02,0:07:40.36,Default,Ryan,0,0,0,,Not working.
-Dialogue: 0,0:07:44.03,0:07:47.32,Default,Min-Gi,0,0,0,,Well, I mean, I also eat here.
+Dialogue: 0,0:07:44.03,0:07:47.32,Default,Min-Gi,0,0,0,,Well, I mean, I {\i1}also{\i0} eat here.
 Dialogue: 0,0:07:47.32,0:07:49.70,Default,Min-Gi,0,0,0,,so you were {\i1}sorta{\i0} right?
 Dialogue: 0,0:07:50.28,0:07:51.70,Default,Min-Gi,0,0,0,,So, how are your...
 Dialogue: 0,0:07:52.28,0:07:54.16,Default,Ryan,0,0,0,,I've got a show in New York!
