@@ -217,7 +217,10 @@ Dialogue: 0,0:08:45.96,0:08:46.46,Default,Kez,0,0,0,,What?
 Dialogue: 0,0:08:46.46,0:08:47.92,Default,Min-Gi,0,0,0,,We're still on a train?!
 Dialogue: 0,0:08:47.92,0:08:50.38,Default,Kez,0,0,0,,Uh, yeah. Remember?\NI explained that.
 Dialogue: 0,0:08:50.38,0:08:52.85,Default,Ryan,0,0,0,,No! You just said\Nwe're "in a pocket"!
-Dialogue: 0,0:08:52.85,0:08:55.35,Default,Ryan,0,0,0,,That was it! \NIn. A. Pocket.
+Dialogue: 0,0:08:52.85,0:08:53.64,Default,Ryan,0,0,0,,That was it!
+Dialogue: 0,0:08:53.64,0:08:54.22,Default,Ryan,0,0,0,,In. {\alphaFF}A. Pocket.
+Dialogue: 0,0:08:54.22,0:08:54.76,Default,Ryan,0,0,0,,In. A. {\alphaFF}Pocket.
+Dialogue: 0,0:08:54.76,0:08:55.35,Default,Ryan,0,0,0,,In. A. Pocket.
 Dialogue: 0,0:08:55.89,0:08:56.77,Default,Kez,0,0,0,,Oh.
 Dialogue: 0,0:08:56.77,0:08:58.64,Default,Kez,0,0,0,,Well, you're in a pocket,
 Dialogue: 0,0:08:58.64,0:09:01.35,Default,Kez,0,0,0,,and you got here by, like,\Ngetting on the train.

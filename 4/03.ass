@@ -136,7 +136,9 @@ Dialogue: 0,0:06:04.18,0:06:05.39,Default,Beetle Bailiff,0,0,0,,Hush up!
 Dialogue: 0,0:06:05.39,0:06:07.43,Default,Beetle Bailiff,0,0,0,,I said hush up, the lotta ya.
 Dialogue: 0,0:06:07.81,0:06:13.27,Default,Beetle Bailiff,0,0,0,,Show some goshdang respect\Nfor the honorable and migratory Judge Morpho.
 Dialogue: 0,0:06:13.27,0:06:15.44,Default,Min-Gi,0,0,0,,It's a judge.\NThey gotta be fair.
-Dialogue: 0,0:06:34.25,0:06:36.46,Default,Ryan,0,0,0,,What—What the... \NWh-What the—Wh-What is that?
+Dialogue: 0,0:06:34.25,0:06:35.04,Default,Ryan,0,0,0,,What—What the...
+Dialogue: 0,0:06:35.04,0:06:35.63,Default,Ryan,0,0,0,,Wh-What the—
+Dialogue: 0,0:06:35.63,0:06:36.46,Default,Ryan,0,0,0,,Wh-What is that?
 Dialogue: 0,0:06:41.92,0:06:45.84,Default,Ryan,0,0,0,,Eww. Is the hat part of her skin?
 Dialogue: 0,0:06:45.84,0:06:47.26,Default,Ryan,0,0,0,,How does that work?
 Comment: 0,0:06:47.26,0:06:48.01,Default,Min-Gi,0,0,0,,Ugh.
