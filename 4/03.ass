@@ -36,9 +36,9 @@ Dialogue: 0,0:00:55.24,0:00:56.70,Default,Caterpillar Sheriff,0,0,0,,My multi-le
 Dialogue: 0,0:00:57.08,0:00:58.00,Default,Ryan,0,0,0,,Come on!
 Dialogue: 0,0:00:58.87,0:01:00.83,Default,Caterpillar Sheriff,0,0,0,,Gah, it burns!
 Dialogue: 0,0:01:01.75,0:01:03.00,Default,Min-Gi,0,0,0,,A warning would've been nice!
-Dialogue: 0,0:01:03.00,0:01:05.38,Default,Kez,0,0,0,,Huh? I totally gave you one.
+Dialogue: 0,0:01:03.00,0:01:05.21,Default,Kez,0,0,0,,Huh? I totally gave you one.
 Comment: 0,0:01:09.01,0:01:12.01,Default,Bug Driver,0,0,0,,Hyah! Hyah! Get!
-Dialogue: 0,0:01:17.93,0:01:18.93,Default,Bug Duelist,0,0,0,,Draw!
+Dialogue: 0,0:01:17.97,0:01:18.93,Default,Bug Duelist,0,0,0,,Draw!
 Dialogue: 0,0:01:22.52,0:01:26.19,Default,Grasshopper,0,0,0,,{\an8}Hey! Any y'all seen two varmints and an outlaw?
 Dialogue: 0,0:01:26.19,0:01:27.36,Default,Mantis,0,0,0,,{\an8}Where'd they go?
 Dialogue: 0,0:01:27.36,0:01:28.44,Default,Ryan,0,0,0,,Saloon!
@@ -60,7 +60,8 @@ Dialogue: 0,0:02:05.65,0:02:07.11,Default,Min-Gi,0,0,0,,Uh... uh...
 Dialogue: 0,0:02:08.44,0:02:10.99,Default,Ryan,0,0,0,,For someone so beautiful,
 Dialogue: 0,0:02:10.99,0:02:14.41,Default,Ryan,0,0,0,,I'm sure we can arrange... {\i1}something{\i0}.
 Dialogue: 0,0:02:14.95,0:02:15.74,Default,Samantha,0,0,0,,Hmm?
-Dialogue: 0,0:02:15.74,0:02:20.08,Default,Samantha,0,0,0,,I respect the moxie,\Nbut I've already got {\i1}plenty{\i0}.
+Dialogue: 0,0:02:15.74,0:02:17.87,Default,Samantha,0,0,0,,I respect the moxie,
+Dialogue: 0,0:02:17.87,0:02:20.08,Default,Samantha,0,0,0,,but I've already got {\i1}plenty{\i0}.
 Dialogue: 0,0:02:20.08,0:02:22.75,Default,Min-Gi,0,0,0,,Ugh! Why can't anything\Njust be easy?
 Dialogue: 0,0:02:24.83,0:02:26.79,Default,Samantha,0,0,0,,When did your numbers sync?
 Dialogue: 0,0:02:26.79,0:02:29.30,Default,Ryan,0,0,0,,Sync? They've been this way\Nsince we got on.
@@ -89,7 +90,7 @@ Dialogue: 0,0:03:37.91,0:03:39.32,Default,Min-Gi,0,0,0,,Why did you flirt with t
 Dialogue: 0,0:03:39.32,0:03:41.58,Default,Kez,0,0,0,,I dunno, man.\NShe {\i1}was{\i0} kinda hot.
 Dialogue: 0,0:03:41.58,0:03:43.45,Default,Ryan,0,0,0,,I got us a hiding place, didn't I?
 Dialogue: 0,0:03:43.45,0:03:45.71,Default,Min-Gi,0,0,0,,With someone who immediately sold us out!
-Dialogue: 0,0:03:45.71,0:03:47.42,Default,Ryan,0,0,0,,I didn't hear {\i1}you coming{\i0} up with a plan.
+Dialogue: 0,0:03:45.71,0:03:47.42,Default,Ryan,0,0,0,,I didn't hear {\i1}you{\i0} coming up with a plan.
 Dialogue: 0,0:03:47.42,0:03:50.25,Default,Kez,0,0,0,,Yeah, so I'm kinda done with all this.
 Dialogue: 0,0:03:50.25,0:03:52.38,Default,Kez,0,0,0,,Get ready for, like, the drop.
 Dialogue: 0,0:04:02.76,0:04:04.60,Default,Min-Gi,0,0,0,,Kez, you could've\Nwoken up the guard!
@@ -110,7 +111,7 @@ Dialogue: 0,0:04:33.09,0:04:36.26,Default,Kez,0,0,0,,I mean, you two can, like,\
 Dialogue: 0,0:04:36.26,0:04:37.67,Default,Kez,0,0,0,,I'll... have your back!
 Comment: 0,0:04:37.67,0:04:38.42,Default,Kez,0,0,0,,Oof.
 Dialogue: 0,0:04:40.72,0:04:41.84,Default,Kez,0,0,0,,Rude.
-Dialogue: 0,0:04:46.14,0:04:48.98,Default,Min-Gi,0,0,0,,There is absolutely no way\Nshe's coming back for us.
+Dialogue: 0,0:04:46.14,0:04:48.98,Default,Min-Gi,0,0,0,,There is absolutely no way\Nshe's coming back for us!
 Dialogue: 0,0:04:48.98,0:04:50.06,Default,Min-Gi,0,0,0,,What do we do now?
 Dialogue: 0,0:04:53.44,0:04:54.90,Default,Ryan,0,0,0,,Keys might be a start.
 Dialogue: 0,0:05:03.28,0:05:04.49,Default,Ryan,0,0,0,,So...
@@ -119,7 +120,7 @@ Dialogue: 0,0:05:06.24,0:05:08.04,Default,Min-Gi,0,0,0,,In an Old West bug jail?
 Dialogue: 0,0:05:08.04,0:05:09.50,Default,Min-Gi,0,0,0,,I'm gonna say no.
 Dialogue: 0,0:05:09.50,0:05:11.46,Default,Ryan,0,0,0,,But they'll wonder\Nwhere we went to.
 Dialogue: 0,0:05:13.04,0:05:14.42,Default,Ryan,0,0,0,,At least...
-Dialogue: 0,0:05:14.42,0:05:15.96,Default,Ryan,0,0,0,,{\i1}yours{\i0} probably will.
+Dialogue: 0,0:05:14.42,0:05:15.96,Default,Ryan,0,0,0,,Yours probably will.
 Dialogue: 0,0:05:16.80,0:05:17.96,Default,Min-Gi,0,0,0,,Yeah.
 Dialogue: 0,0:05:25.01,0:05:26.85,Default,Ryan,0,0,0,,Yes! Ha ha!
 Comment: 0,0:05:29.52,0:05:30.60,Default,Ryan,0,0,0,,Hmph!
@@ -147,7 +148,7 @@ Dialogue: 0,0:06:53.81,0:06:56.35,Default,Judge Morpho,0,0,0,,That means shut\Ny
 Dialogue: 0,0:06:57.31,0:06:58.77,Default,Judge Morpho,0,0,0,,That's better.
 Dialogue: 0,0:06:58.77,0:07:02.40,Default,Judge Morpho,0,0,0,,Now, sounds like I got a fair \Nand impartial trial to preside over.
 Dialogue: 0,0:07:02.40,0:07:04.86,Default,Beetle Bailiff,0,0,0,,As you always do, Your Honor.
-Dialogue: 0,0:07:04.86,0:07:08.53,Default,Beetle Bailiff,0,0,0,,These two ruffians here\Nare part of Cactus Kez's new gang.
+Dialogue: 0,0:07:04.86,0:07:08.53,Default,Beetle Bailiff,0,0,0,,These two ruffians here\Nare part o' Cactus Kez's new gang.
 Dialogue: 0,0:07:08.53,0:07:09.95,Default,Judge Morpho,0,0,0,,Any witnesses to that?
 Comment: 0,0:07:09.95,0:07:11.74,Default,Beetle Bailiff,0,0,0,,Yes, Your Honor:
 Comment: 0,0:07:11.74,0:07:12.66,Default,Beetle Bailiff,0,0,0,,you.
