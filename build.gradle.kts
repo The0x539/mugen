@@ -68,6 +68,8 @@ subs {
 		attach("fonts", "fonts/${episode}") {
 			includeExtensions("ttf", "otf")
 		}
+		
+		mimeTypes["otf"] = "application/x-truetype-font"
 
 		onFaux(ErrorMode.FAIL)
 
